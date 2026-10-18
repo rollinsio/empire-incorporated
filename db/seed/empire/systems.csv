@@ -1,0 +1,18 @@
+system_code,name,lead_department_id,summary,sensitivity
+HR,Hypermatter Reactor,D06,The hypermatter reactor is the station's main power plant. It supplies every zone substation through the power distribution system and is backed by the solar collector array.,CONFIDENTIAL
+TX,Thermal Control & Heat Rejection,D06,"Thermal control carries surplus reactor and habitat heat to the radiator fin arrays on the station surface through heat exchanger stacks, pumped coolant loops and passive heat pipes.",INTERNAL
+PD,Power Distribution,D06,"Power distribution carries reactor and solar output to the zone substations over superconducting bus conduits, with backup generator banks and storage battery strings for life-critical loads.",INTERNAL
+SA,Solar Collector Array,D06,The solar collector array supplements the reactor with photovoltaic panels on tracking drives around the station's sunward hemisphere.,INTERNAL
+PR,Propulsion & Station-Keeping,D07,"Propulsion keeps the station in its assigned orbit and attitude. Station-keeping thrusters and sublight ion engines are commanded by the navigation computer, with attitude control gyroscopes for fine pointing.",CONFIDENTIAL
+HB,Docking & Hangar Bays,D09,"The docking and hangar bays receive, service and launch passenger shuttles, cargo haulers and visiting ships behind magnetic atmosphere containment fields.",INTERNAL
+SY,Shipyard Slipways,D08,"The shipyard builds and refits freighters, liners and survey ships on pressurized slipways and dry docks, served by gantry cranes, a coating shop and outfitting quays.",CONFIDENTIAL
+LS,Life Support & Atmospherics,D10,"Life support keeps the atmosphere, water, gravity and temperature within crew limits in every inhabited zone.",INTERNAL
+HA,Habitation Blocks,D10,"The habitation blocks house the resident crew and their families: quarters, mess halls, the medical centre, schools and recreation decks.",INTERNAL
+WM,Waste Management & Recycling,D10,"Waste management collects, compacts, treats and recycles station waste through compactor units, treatment plants and a materials recycling line.",INTERNAL
+AG,Hydroponics & Food Production,D04,"Hydroponics and food production grow fresh produce for the resident crew on stacked grow tiers under controlled lighting, and prepare meals in the central kitchens.",INTERNAL
+CN,Computer Core & Data Network,D11,The computer core and data network connect every station system. Maintenance terminals and data ports give technicians and service droids access to the network.,INTERNAL
+CM,Communications Relay,D11,"Communications covers HoloNet transceivers, comm array dishes and the switches that route passenger, cargo and station traffic.",INTERNAL
+SF,Superstructure & Frame,D05,"The superstructure is the station's load-bearing frame: structural ribs, hull plating sections, the equatorial service ring and the antenna masts.",INTERNAL
+TR,Internal Transit,D05,Internal transit moves people and goods around the station: turbolift cars in vertical shafts and a tram that runs around every latitude band.,INTERNAL
+RL,Research Laboratories,D03,"The research laboratories host materials science, biology and astronomy groups: wet and dry labs, cleanroom suites, a zero-gravity laboratory and the station observatory.",INTERNAL
+OC,Operations Centre,D02,"The operations centre is where station operations, traffic control and facility management are run, with a conference suite and a shared operations display wall.",INTERNAL

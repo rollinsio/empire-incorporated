@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00096@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260601T150000Z
+DTEND:20260601T160000Z
+SUMMARY:Computing & Communications team meeting
+LOCATION:Coruscant Headquarters\, room H41-04
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-06-01.
+ORGANIZER;CN="Tavi Orrun":mailto:tavi.orrun@empire-inc.example
+ATTENDEE;CN="Callum Ulmer";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:callum.ulmer@empire-inc.example
+ATTENDEE;CN="Tilda Wolcott";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:tilda.wolcott@empire-inc.example
+ATTENDEE;CN="Kael Hartwell";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:kael.hartwell@empire-inc.example
+ATTENDEE;CN="Fallon Alcorne";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:fallon.alcorne@empire-inc.example
+ATTENDEE;CN="Dace Quarrel";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:dace.quarrel@empire-inc.example
+ATTENDEE;CN="Tamsin Sable";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:tamsin.sable@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

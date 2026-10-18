@@ -1,0 +1,662 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#it-help",
+    "month": "2026-07",
+    "language": "en",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 62
+  },
+  "members": [
+    {
+      "user_id": "EMP-00093",
+      "name": "Xan Lorne",
+      "title": "Senior Data Analyst"
+    },
+    {
+      "user_id": "EMP-00123",
+      "name": "Venn Barrowe",
+      "title": "Research Assistant"
+    },
+    {
+      "user_id": "EMP-00144",
+      "name": "Merrin Delane",
+      "title": "Laboratory Technician"
+    },
+    {
+      "user_id": "EMP-00167",
+      "name": "Dalric Harrick",
+      "title": "Grow Technician"
+    },
+    {
+      "user_id": "EMP-00172",
+      "name": "Cato Dallan",
+      "title": "Kitchen Technician"
+    },
+    {
+      "user_id": "EMP-00192",
+      "name": "Tilda Delane",
+      "title": "Engineering Manager, Internal Transit"
+    },
+    {
+      "user_id": "EMP-00218",
+      "name": "Ulla Hawthorne",
+      "title": "Principal Structural Engineer"
+    },
+    {
+      "user_id": "EMP-00274",
+      "name": "Nadia Yarrow",
+      "title": "Welding Technician"
+    },
+    {
+      "user_id": "EMP-00285",
+      "name": "Vira Lowell",
+      "title": "Principal Structural Engineer"
+    },
+    {
+      "user_id": "EMP-00298",
+      "name": "Ulric Kirwan",
+      "title": "Engineering Manager, Reactor Core"
+    },
+    {
+      "user_id": "EMP-00347",
+      "name": "Emrys Tarrant",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00392",
+      "name": "Nils Oakes",
+      "title": "Senior Propulsion Engineer"
+    },
+    {
+      "user_id": "EMP-00397",
+      "name": "Tilda Falkner",
+      "title": "Principal Propulsion Engineer"
+    },
+    {
+      "user_id": "EMP-00399",
+      "name": "Finnick Sable",
+      "title": "Navigation Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00416",
+      "name": "Brisk Teague",
+      "title": "Propulsion Engineer"
+    },
+    {
+      "user_id": "EMP-00440",
+      "name": "Halden Wade",
+      "title": "Outfitting Manager"
+    },
+    {
+      "user_id": "EMP-00466",
+      "name": "Vela Warrick",
+      "title": "Senior Outfitting Planner"
+    },
+    {
+      "user_id": "EMP-00573",
+      "name": "Ferris Belcourt",
+      "title": "Senior Flight Controller"
+    },
+    {
+      "user_id": "EMP-00637",
+      "name": "Pax Graylin",
+      "title": "Network Engineer"
+    },
+    {
+      "user_id": "EMP-00640",
+      "name": "Ciran Ardent",
+      "title": "Network Engineer"
+    },
+    {
+      "user_id": "EMP-00644",
+      "name": "Anneka Torvald",
+      "title": "Records Clerk"
+    },
+    {
+      "user_id": "EMP-00648",
+      "name": "Vance Garron",
+      "title": "Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00656",
+      "name": "Quinn Venner",
+      "title": "Network Technician"
+    },
+    {
+      "user_id": "EMP-00665",
+      "name": "Noa Merrick",
+      "title": "Senior Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00675",
+      "name": "Kalla Errant",
+      "title": "Network Engineer"
+    },
+    {
+      "user_id": "EMP-00683",
+      "name": "Riven Fairholm",
+      "title": "Senior Network Engineer"
+    },
+    {
+      "user_id": "EMP-00691",
+      "name": "Arlo Mathers",
+      "title": "Senior Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00849",
+      "name": "Aven Tull",
+      "title": "Welder"
+    },
+    {
+      "user_id": "EMP-00929",
+      "name": "Bale Ancel",
+      "title": "Financial Analyst"
+    },
+    {
+      "user_id": "EMP-00935",
+      "name": "Arden Lorne",
+      "title": "Personnel Manager"
+    },
+    {
+      "user_id": "EMP-00947",
+      "name": "Cedric Tibbet",
+      "title": "Personnel Specialist"
+    }
+  ],
+  "messages": [
+    {
+      "id": "it-help-202607-0001",
+      "ts": "2026-07-01T09:47:41Z",
+      "user_id": "EMP-00347",
+      "user": "Emrys Tarrant",
+      "text": "How do I get a shared folder for my team?",
+      "replies": [
+        {
+          "id": "it-help-202607-0001-r1",
+          "ts": "2026-07-01T09:51:41Z",
+          "user_id": "EMP-00656",
+          "user": "Quinn Venner",
+          "text": "Raise a ticket with the service desk."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0002",
+      "ts": "2026-07-01T10:07:40Z",
+      "user_id": "EMP-00935",
+      "user": "Arden Lorne",
+      "text": "The holo-projector in meeting room LAB-B3 is not working.",
+      "replies": [
+        {
+          "id": "it-help-202607-0002-r1",
+          "ts": "2026-07-01T10:11:40Z",
+          "user_id": "EMP-00466",
+          "user": "Vela Warrick",
+          "text": "Ticket raised."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0003",
+      "ts": "2026-07-02T06:57:37Z",
+      "user_id": "EMP-00298",
+      "user": "Ulric Kirwan",
+      "text": "The holo-projector in meeting room H41-12 is not working.",
+      "replies": [
+        {
+          "id": "it-help-202607-0003-r1",
+          "ts": "2026-07-02T07:02:37Z",
+          "user_id": "EMP-00466",
+          "user": "Vela Warrick",
+          "text": "Ticket raised."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0004",
+      "ts": "2026-07-02T16:57:38Z",
+      "user_id": "EMP-00397",
+      "user": "Tilda Falkner",
+      "text": "Printer on floor 16 is jammed again.",
+      "replies": [
+        {
+          "id": "it-help-202607-0004-r1",
+          "ts": "2026-07-02T17:01:38Z",
+          "user_id": "EMP-00167",
+          "user": "Dalric Harrick",
+          "text": "On my way."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0005",
+      "ts": "2026-07-02T17:25:08Z",
+      "user_id": "EMP-00347",
+      "user": "Emrys Tarrant",
+      "text": "How do I get a shared folder for my team?",
+      "replies": []
+    },
+    {
+      "id": "it-help-202607-0006",
+      "ts": "2026-07-03T12:09:39Z",
+      "user_id": "EMP-00691",
+      "user": "Arlo Mathers",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0006-r1",
+          "ts": "2026-07-03T12:15:39Z",
+          "user_id": "EMP-00285",
+          "user": "Vira Lowell",
+          "text": "Known issue, the team is on it."
+        },
+        {
+          "id": "it-help-202607-0006-r2",
+          "ts": "2026-07-03T12:18:39Z",
+          "user_id": "EMP-00947",
+          "user": "Cedric Tibbet",
+          "text": "Fixed now."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0007",
+      "ts": "2026-07-04T09:23:53Z",
+      "user_id": "EMP-00683",
+      "user": "Riven Fairholm",
+      "text": "Printer on floor 47 is jammed again.",
+      "replies": [
+        {
+          "id": "it-help-202607-0007-r1",
+          "ts": "2026-07-04T09:30:53Z",
+          "user_id": "EMP-00691",
+          "user": "Arlo Mathers",
+          "text": "On my way."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0008",
+      "ts": "2026-07-06T09:40:24Z",
+      "user_id": "EMP-00640",
+      "user": "Ciran Ardent",
+      "text": "The holo-projector in meeting room LAB-B3 is not working.",
+      "replies": []
+    },
+    {
+      "id": "it-help-202607-0009",
+      "ts": "2026-07-06T17:51:06Z",
+      "user_id": "EMP-00656",
+      "user": "Quinn Venner",
+      "text": "How do I get a shared folder for my team?",
+      "replies": [
+        {
+          "id": "it-help-202607-0009-r1",
+          "ts": "2026-07-06T17:56:06Z",
+          "user_id": "EMP-00093",
+          "user": "Xan Lorne",
+          "text": "Raise a ticket with the service desk."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0010",
+      "ts": "2026-07-07T18:45:40Z",
+      "user_id": "EMP-00675",
+      "user": "Kalla Errant",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0010-r1",
+          "ts": "2026-07-07T18:50:40Z",
+          "user_id": "EMP-00648",
+          "user": "Vance Garron",
+          "text": "Fixed now."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0011",
+      "ts": "2026-07-10T07:00:04Z",
+      "user_id": "EMP-00849",
+      "user": "Aven Tull",
+      "text": "The holo-projector in meeting room H41-12 is not working.",
+      "replies": [
+        {
+          "id": "it-help-202607-0011-r1",
+          "ts": "2026-07-10T07:04:04Z",
+          "user_id": "EMP-00665",
+          "user": "Noa Merrick",
+          "text": "Ticket raised."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0012",
+      "ts": "2026-07-10T14:02:55Z",
+      "user_id": "EMP-00675",
+      "user": "Kalla Errant",
+      "text": "Printer on floor 14 is jammed again.",
+      "replies": []
+    },
+    {
+      "id": "it-help-202607-0013",
+      "ts": "2026-07-12T10:20:04Z",
+      "user_id": "EMP-00573",
+      "user": "Ferris Belcourt",
+      "text": "The holo-projector in meeting room H41-07 is not working.",
+      "replies": [
+        {
+          "id": "it-help-202607-0013-r1",
+          "ts": "2026-07-12T10:24:04Z",
+          "user_id": "EMP-00285",
+          "user": "Vira Lowell",
+          "text": "Ticket raised."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0014",
+      "ts": "2026-07-13T11:29:01Z",
+      "user_id": "EMP-00218",
+      "user": "Ulla Hawthorne",
+      "text": "How do I get a shared folder for my team?",
+      "replies": [
+        {
+          "id": "it-help-202607-0014-r1",
+          "ts": "2026-07-13T11:36:01Z",
+          "user_id": "EMP-00648",
+          "user": "Vance Garron",
+          "text": "Raise a ticket with the service desk."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0015",
+      "ts": "2026-07-15T07:53:00Z",
+      "user_id": "EMP-00665",
+      "user": "Noa Merrick",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0015-r1",
+          "ts": "2026-07-15T07:59:00Z",
+          "user_id": "EMP-00274",
+          "user": "Nadia Yarrow",
+          "text": "Known issue, the team is on it."
+        },
+        {
+          "id": "it-help-202607-0015-r2",
+          "ts": "2026-07-15T08:02:00Z",
+          "user_id": "EMP-00440",
+          "user": "Halden Wade",
+          "text": "Fixed now."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0016",
+      "ts": "2026-07-15T14:17:06Z",
+      "user_id": "EMP-00675",
+      "user": "Kalla Errant",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0016-r1",
+          "ts": "2026-07-15T14:22:06Z",
+          "user_id": "EMP-00644",
+          "user": "Anneka Torvald",
+          "text": "Known issue, the team is on it."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0017",
+      "ts": "2026-07-15T15:35:06Z",
+      "user_id": "EMP-00123",
+      "user": "Venn Barrowe",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0017-r1",
+          "ts": "2026-07-15T15:42:06Z",
+          "user_id": "EMP-00285",
+          "user": "Vira Lowell",
+          "text": "Known issue, the team is on it."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0018",
+      "ts": "2026-07-17T11:08:38Z",
+      "user_id": "EMP-00347",
+      "user": "Emrys Tarrant",
+      "text": "The holo-projector in meeting room ERI-1-04 is not working.",
+      "replies": []
+    },
+    {
+      "id": "it-help-202607-0019",
+      "ts": "2026-07-18T10:05:06Z",
+      "user_id": "EMP-00397",
+      "user": "Tilda Falkner",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0019-r1",
+          "ts": "2026-07-18T10:12:06Z",
+          "user_id": "EMP-00416",
+          "user": "Brisk Teague",
+          "text": "Fixed now."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0020",
+      "ts": "2026-07-19T08:30:38Z",
+      "user_id": "EMP-00849",
+      "user": "Aven Tull",
+      "text": "Printer on floor 26 is jammed again.",
+      "replies": [
+        {
+          "id": "it-help-202607-0020-r1",
+          "ts": "2026-07-19T08:35:38Z",
+          "user_id": "EMP-00416",
+          "user": "Brisk Teague",
+          "text": "On my way."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0021",
+      "ts": "2026-07-19T08:44:06Z",
+      "user_id": "EMP-00298",
+      "user": "Ulric Kirwan",
+      "text": "How do I get a shared folder for my team?",
+      "replies": [
+        {
+          "id": "it-help-202607-0021-r1",
+          "ts": "2026-07-19T08:50:06Z",
+          "user_id": "EMP-00347",
+          "user": "Emrys Tarrant",
+          "text": "Raise a ticket with the service desk."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0022",
+      "ts": "2026-07-22T09:38:57Z",
+      "user_id": "EMP-00440",
+      "user": "Halden Wade",
+      "text": "My datapad calendar won't sync.",
+      "replies": [
+        {
+          "id": "it-help-202607-0022-r1",
+          "ts": "2026-07-22T09:43:57Z",
+          "user_id": "EMP-00675",
+          "user": "Kalla Errant",
+          "text": "Please raise a ticket and we will reset the sync profile."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0023",
+      "ts": "2026-07-23T09:57:47Z",
+      "user_id": "EMP-00218",
+      "user": "Ulla Hawthorne",
+      "text": "How do I get a shared folder for my team?",
+      "replies": [
+        {
+          "id": "it-help-202607-0023-r1",
+          "ts": "2026-07-23T10:04:47Z",
+          "user_id": "EMP-00929",
+          "user": "Bale Ancel",
+          "text": "Raise a ticket with the service desk."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0024",
+      "ts": "2026-07-23T11:19:12Z",
+      "user_id": "EMP-00691",
+      "user": "Arlo Mathers",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0024-r1",
+          "ts": "2026-07-23T11:23:12Z",
+          "user_id": "EMP-00144",
+          "user": "Merrin Delane",
+          "text": "Known issue, the team is on it."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0025",
+      "ts": "2026-07-24T17:45:29Z",
+      "user_id": "EMP-00397",
+      "user": "Tilda Falkner",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0025-r1",
+          "ts": "2026-07-24T17:50:29Z",
+          "user_id": "EMP-00416",
+          "user": "Brisk Teague",
+          "text": "Known issue, the team is on it."
+        },
+        {
+          "id": "it-help-202607-0025-r2",
+          "ts": "2026-07-24T17:55:29Z",
+          "user_id": "EMP-00573",
+          "user": "Ferris Belcourt",
+          "text": "Fixed now."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0026",
+      "ts": "2026-07-26T09:23:44Z",
+      "user_id": "EMP-00274",
+      "user": "Nadia Yarrow",
+      "text": "Printer on floor 6 is jammed again.",
+      "replies": [
+        {
+          "id": "it-help-202607-0026-r1",
+          "ts": "2026-07-26T09:29:44Z",
+          "user_id": "EMP-00691",
+          "user": "Arlo Mathers",
+          "text": "On my way."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0027",
+      "ts": "2026-07-26T09:56:43Z",
+      "user_id": "EMP-00192",
+      "user": "Tilda Delane",
+      "text": "The holo-projector in meeting room H41-07 is not working.",
+      "replies": [
+        {
+          "id": "it-help-202607-0027-r1",
+          "ts": "2026-07-26T10:02:43Z",
+          "user_id": "EMP-00397",
+          "user": "Tilda Falkner",
+          "text": "Ticket raised."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0028",
+      "ts": "2026-07-26T15:54:06Z",
+      "user_id": "EMP-00093",
+      "user": "Xan Lorne",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0028-r1",
+          "ts": "2026-07-26T16:00:06Z",
+          "user_id": "EMP-00274",
+          "user": "Nadia Yarrow",
+          "text": "Fixed now."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0029",
+      "ts": "2026-07-27T16:56:52Z",
+      "user_id": "EMP-00637",
+      "user": "Pax Graylin",
+      "text": "Printer on floor 26 is jammed again.",
+      "replies": [
+        {
+          "id": "it-help-202607-0029-r1",
+          "ts": "2026-07-27T17:02:52Z",
+          "user_id": "EMP-00347",
+          "user": "Emrys Tarrant",
+          "text": "On my way."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0030",
+      "ts": "2026-07-28T17:29:16Z",
+      "user_id": "EMP-00218",
+      "user": "Ulla Hawthorne",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0030-r1",
+          "ts": "2026-07-28T17:35:16Z",
+          "user_id": "EMP-00392",
+          "user": "Nils Oakes",
+          "text": "Known issue, the team is on it."
+        }
+      ]
+    },
+    {
+      "id": "it-help-202607-0031",
+      "ts": "2026-07-31T19:10:01Z",
+      "user_id": "EMP-00640",
+      "user": "Ciran Ardent",
+      "text": "Is the mail system slow for anyone else?",
+      "replies": [
+        {
+          "id": "it-help-202607-0031-r1",
+          "ts": "2026-07-31T19:15:01Z",
+          "user_id": "EMP-00849",
+          "user": "Aven Tull",
+          "text": "Known issue, the team is on it."
+        },
+        {
+          "id": "it-help-202607-0031-r2",
+          "ts": "2026-07-31T19:18:01Z",
+          "user_id": "EMP-00637",
+          "user": "Pax Graylin",
+          "text": "Fixed now."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SY-030-01,"Dry dock seal assembly, main gate",3,ea,267163.20,801489.60,Kuat Drive Yards,SHV-SY-DWG-0205
+2,EI-SY-029-02,"Slipway rail segment, curved",240,ea,17124.97,4109992.80,Kuat Precision Instruments,SHV-SY-DWG-0205
+3,EI-SY-028-02,"Gantry crane hoist, 2000 t",2,ea,535215.96,1070431.92,Mustafar Refinery Cooperative,SHV-SY-DWG-0205
+4,EI-SY-031-02,"Hull coating, marine-grade, topcoat",1,l,69.09,69.09,Eriadu Steelworks,SHV-SY-DWG-0205
+5,EI-SY-028-01,"Gantry crane hoist, 800 t",2,ea,673108.92,1346217.84,Kalist Mining Combine,SHV-SY-DWG-0205
+6,EI-SY-029-01,"Slipway rail segment, straight",96,ea,18378.84,1764368.64,Corulag Precision Optics,SHV-SY-DWG-0205
+7,EI-SY-030-02,"Dry dock seal assembly, service hatch",2,ea,259604.69,519209.38,Corellian Bulk Fasteners,SHV-SY-DWG-0205
+8,EI-SY-031-01,"Hull coating, marine-grade, primer",48,l,41.31,1982.88,Mon Gazza Transport,SHV-SY-DWG-0205
+9,EI-SY-028-03,"Gantry crane hoist, 4000 t",2,ea,631899.00,1263798.00,Bespin Gas Consortium,SHV-SY-DWG-0205
+10,EI-SY-028-01,"Gantry crane hoist, 800 t",8,ea,673108.92,5384871.36,Telgorn Corporation,SHV-SY-DWG-0205

@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-TR-053-02,"Tram rail segment, 120 m",12,ea,5609.18,67310.16,Kuat Precision Instruments,SHV-TR-DWG-0204
+2,EI-TR-051-01,"Turbolift car assembly, 12-person",8,ea,362535.70,2900285.60,Carbanti United Electronics,SHV-TR-DWG-0204
+3,EI-TR-051-02,"Turbolift car assembly, 40-person",1,ea,387909.22,387909.22,Fondor Foundry Collective,SHV-TR-DWG-0204
+4,EI-TR-052-02,"Tram bogie, trailer",4,ea,47009.03,188036.12,Bespin Gas Consortium,SHV-TR-DWG-0204
+5,EI-TR-051-02,"Turbolift car assembly, 40-person",2,ea,387909.22,775818.44,Kalist Mining Combine,SHV-TR-DWG-0204
+6,EI-TR-051-01,"Turbolift car assembly, 12-person",2,ea,362535.70,725071.40,Mustafar Refinery Cooperative,SHV-TR-DWG-0204
+7,EI-TR-051-02,"Turbolift car assembly, 40-person",3,ea,387909.22,1163727.66,Ord Mantell Salvage & Supply,SHV-TR-DWG-0204
+8,EI-TR-051-01,"Turbolift car assembly, 12-person",8,ea,362535.70,2900285.60,Uulshos Manufacturing,SHV-TR-DWG-0204
+9,EI-TR-052-01,"Tram bogie, powered",48,ea,48500.96,2328046.08,Anaxes Turbolift Company,SHV-TR-DWG-0204
+10,EI-TR-053-01,"Tram rail segment, 40 m",96,ea,4659.42,447304.32,Telgorn Corporation,SHV-TR-DWG-0204

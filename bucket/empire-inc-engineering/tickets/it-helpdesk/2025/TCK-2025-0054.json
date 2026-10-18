@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0054",
+  "queue": "IT_HELPDESK",
+  "subject": "Software install request: drawing viewer",
+  "description": "Please install the drawing viewer on my workstation.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00271",
+    "name": "Tilda Ashby",
+    "email": "tilda.ashby@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00636",
+    "name": "Bale Zell",
+    "email": "bale.zell@empire-inc.example"
+  },
+  "created_at": "2025-06-08T13:40:00Z",
+  "resolved_at": "2025-06-09T22:40:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-06-08T15:58:00Z",
+      "author": "Bale Zell",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-06-09T22:40:00Z",
+      "author": "Bale Zell",
+      "text": "Installed and licensed."
+    }
+  ]
+}

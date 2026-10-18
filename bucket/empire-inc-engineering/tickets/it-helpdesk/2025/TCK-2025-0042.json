@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0042",
+  "queue": "IT_HELPDESK",
+  "subject": "Network slow at Operations centre anteroom",
+  "description": "The network has been very slow at Operations centre anteroom since this morning.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00026",
+    "name": "Odile Rothe",
+    "email": "odile.rothe@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00674",
+    "name": "Kesia Voren",
+    "email": "kesia.voren@empire-inc.example"
+  },
+  "created_at": "2025-05-06T11:36:00Z",
+  "resolved_at": "2025-05-10T17:36:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-05-06T15:17:00Z",
+      "author": "Kesia Voren",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-05-10T17:36:00Z",
+      "author": "Kesia Voren",
+      "text": "Faulty switch port replaced."
+    }
+  ]
+}

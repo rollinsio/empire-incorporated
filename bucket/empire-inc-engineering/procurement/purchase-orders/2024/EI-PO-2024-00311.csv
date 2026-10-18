@@ -1,0 +1,6 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2024-00311,2024-03-07,SUP-018,Brentaal Logistics Guild,1,EI-CN-035-02,"Sensor array module, radiation",20,ea,12072.37,241447.40,2024-06-25
+EI-PO-2024-00311,2024-03-07,SUP-018,Brentaal Logistics Guild,2,EI-CN-035-01,"Sensor array module, thermal",2,ea,5687.93,11375.86,2024-08-12
+EI-PO-2024-00311,2024-03-07,SUP-018,Brentaal Logistics Guild,3,EI-CN-035-02,"Sensor array module, radiation",12,ea,12451.14,149413.68,2024-05-30
+EI-PO-2024-00311,2024-03-07,SUP-018,Brentaal Logistics Guild,4,EI-CN-033-01,"Data backbone switch, 48-port",6,ea,16232.05,97392.30,2024-08-25
+EI-PO-2024-00311,,,,,,ORDER TOTAL,,,,499629.24,

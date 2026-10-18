@@ -1,0 +1,10 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",2,ea,97349.16,194698.32,Rendili StarDrive,SHV-HB-DWG-0203
+2,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",3,ea,97349.16,292047.48,Kuat Precision Instruments,SHV-HB-DWG-0203
+3,EI-HB-027-01,"Deck plating, anti-slip, standard",12,m²,182.70,2192.40,Naboo Hydroponic Supply,SHV-HB-DWG-0203
+4,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",4,ea,82457.85,329831.40,Kalist Mining Combine,SHV-HB-DWG-0203
+5,EI-HB-026-01,"Magnetic containment field generator, bay",4,ea,172229.69,688918.76,Sluis Van Orbital Works,SHV-HB-DWG-0203
+6,EI-HB-026-01,"Magnetic containment field generator, bay",2,ea,172229.69,344459.38,Anaxes Turbolift Company,SHV-HB-DWG-0203
+7,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",1,ea,97349.16,97349.16,Uulshos Manufacturing,SHV-HB-DWG-0203
+8,EI-HB-026-02,"Magnetic containment field generator, docking",4,ea,138260.35,553041.40,Rothana Heavy Cranes,SHV-HB-DWG-0203
+9,EI-HB-026-02,"Magnetic containment field generator, docking",1,ea,138260.35,138260.35,Chiewab Medical,SHV-HB-DWG-0203

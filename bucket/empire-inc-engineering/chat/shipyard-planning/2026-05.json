@@ -1,0 +1,550 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#shipyard-planning",
+    "month": "2026-05",
+    "language": "en",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 55
+  },
+  "members": [
+    {
+      "user_id": "EMP-00007",
+      "name": "Petra Valcourt",
+      "title": "Director, Shipyard Operations"
+    },
+    {
+      "user_id": "EMP-00440",
+      "name": "Halden Wade",
+      "title": "Outfitting Manager"
+    },
+    {
+      "user_id": "EMP-00443",
+      "name": "Quell Palin",
+      "title": "Slipway Manager"
+    },
+    {
+      "user_id": "EMP-00452",
+      "name": "Rain Adrel",
+      "title": "Outfitting Planner"
+    },
+    {
+      "user_id": "EMP-00453",
+      "name": "Carys Welles",
+      "title": "Shipwright"
+    },
+    {
+      "user_id": "EMP-00456",
+      "name": "Corra Jarrow",
+      "title": "Shipyard Engineer"
+    },
+    {
+      "user_id": "EMP-00466",
+      "name": "Vela Warrick",
+      "title": "Senior Outfitting Planner"
+    },
+    {
+      "user_id": "EMP-00472",
+      "name": "Rowan Dravis",
+      "title": "Shipyard Engineer"
+    },
+    {
+      "user_id": "EMP-00476",
+      "name": "Kirra Dravis",
+      "title": "Outfitting Planner"
+    },
+    {
+      "user_id": "EMP-00482",
+      "name": "Torin Vexley",
+      "title": "Senior Outfitting Planner"
+    },
+    {
+      "user_id": "EMP-00484",
+      "name": "Arden Whitlock",
+      "title": "Senior Outfitting Planner"
+    },
+    {
+      "user_id": "EMP-00489",
+      "name": "Senna Bracken",
+      "title": "Principal Shipyard Engineer"
+    },
+    {
+      "user_id": "EMP-00492",
+      "name": "Rhosa Holloway",
+      "title": "Principal Shipyard Engineer"
+    },
+    {
+      "user_id": "EMP-00505",
+      "name": "Barrin Penrose",
+      "title": "Principal Shipyard Engineer"
+    },
+    {
+      "user_id": "EMP-00507",
+      "name": "Jory Ravell",
+      "title": "Outfitting Planner"
+    },
+    {
+      "user_id": "EMP-00514",
+      "name": "Vela Easton",
+      "title": "Crane Operator"
+    },
+    {
+      "user_id": "EMP-00515",
+      "name": "Rosk Wren",
+      "title": "Shipwright"
+    },
+    {
+      "user_id": "EMP-00518",
+      "name": "Barrin Thorne",
+      "title": "Shipwright"
+    },
+    {
+      "user_id": "EMP-00524",
+      "name": "Rhett Holloway",
+      "title": "Senior Shipyard Engineer"
+    }
+  ],
+  "messages": [
+    {
+      "id": "shipyard-planning-202605-0001",
+      "ts": "2026-05-01T18:59:56Z",
+      "user_id": "EMP-00482",
+      "user": "Torin Vexley",
+      "text": "Gantry crane 8 load test passed at 1200 t.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0002",
+      "ts": "2026-05-02T08:53:07Z",
+      "user_id": "EMP-00482",
+      "user": "Torin Vexley",
+      "text": "Gantry crane 6 load test passed at 1200 t.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0003",
+      "ts": "2026-05-02T14:01:04Z",
+      "user_id": "EMP-00007",
+      "user": "Petra Valcourt",
+      "text": "Outfitting quay berth 14 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0004",
+      "ts": "2026-05-02T15:09:30Z",
+      "user_id": "EMP-00456",
+      "user": "Corra Jarrow",
+      "text": "Coating shop booth 3 cure cycle is running long today.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0004-r1",
+          "ts": "2026-05-02T15:16:30Z",
+          "user_id": "EMP-00007",
+          "user": "Petra Valcourt",
+          "text": "Thanks, we will shift the next job."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0005",
+      "ts": "2026-05-02T16:27:55Z",
+      "user_id": "EMP-00007",
+      "user": "Petra Valcourt",
+      "text": "Slipway 3 keel blocks are set for the first hull.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0005-r1",
+          "ts": "2026-05-02T16:34:55Z",
+          "user_id": "EMP-00443",
+          "user": "Quell Palin",
+          "text": "Nice work."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0006",
+      "ts": "2026-05-03T08:28:44Z",
+      "user_id": "EMP-00484",
+      "user": "Arden Whitlock",
+      "text": "Coating shop booth 3 cure cycle is running long today.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0007",
+      "ts": "2026-05-04T13:04:25Z",
+      "user_id": "EMP-00007",
+      "user": "Petra Valcourt",
+      "text": "Outfitting quay berth 4 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0008",
+      "ts": "2026-05-04T13:19:55Z",
+      "user_id": "EMP-00492",
+      "user": "Rhosa Holloway",
+      "text": "Gantry crane 6 load test passed at 1200 t.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0009",
+      "ts": "2026-05-07T06:16:40Z",
+      "user_id": "EMP-00518",
+      "user": "Barrin Thorne",
+      "text": "Slipway 1 keel blocks are set for the first hull.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0010",
+      "ts": "2026-05-07T18:37:23Z",
+      "user_id": "EMP-00443",
+      "user": "Quell Palin",
+      "text": "Outfitting quay berth 11 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0011",
+      "ts": "2026-05-08T14:24:05Z",
+      "user_id": "EMP-00466",
+      "user": "Vela Warrick",
+      "text": "Coating shop booth 1 cure cycle is running long today.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0011-r1",
+          "ts": "2026-05-08T14:28:05Z",
+          "user_id": "EMP-00452",
+          "user": "Rain Adrel",
+          "text": "Thanks, we will shift the next job."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0012",
+      "ts": "2026-05-08T14:46:12Z",
+      "user_id": "EMP-00505",
+      "user": "Barrin Penrose",
+      "text": "Coating shop booth 4 cure cycle is running long today.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0012-r1",
+          "ts": "2026-05-08T14:53:12Z",
+          "user_id": "EMP-00007",
+          "user": "Petra Valcourt",
+          "text": "Thanks, we will shift the next job."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0013",
+      "ts": "2026-05-09T10:26:44Z",
+      "user_id": "EMP-00472",
+      "user": "Rowan Dravis",
+      "text": "Gantry crane 1 load test passed at 3200 t.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0014",
+      "ts": "2026-05-10T14:59:08Z",
+      "user_id": "EMP-00507",
+      "user": "Jory Ravell",
+      "text": "Gantry crane 7 load test passed at 2000 t.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0015",
+      "ts": "2026-05-12T08:32:23Z",
+      "user_id": "EMP-00515",
+      "user": "Rosk Wren",
+      "text": "Slipway 6 keel blocks are set for the first hull.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0016",
+      "ts": "2026-05-12T13:05:07Z",
+      "user_id": "EMP-00484",
+      "user": "Arden Whitlock",
+      "text": "Outfitting quay berth 4 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0017",
+      "ts": "2026-05-12T14:10:01Z",
+      "user_id": "EMP-00489",
+      "user": "Senna Bracken",
+      "text": "Outfitting quay berth 13 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0018",
+      "ts": "2026-05-15T16:53:04Z",
+      "user_id": "EMP-00472",
+      "user": "Rowan Dravis",
+      "text": "Outfitting quay berth 3 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0019",
+      "ts": "2026-05-16T11:05:01Z",
+      "user_id": "EMP-00456",
+      "user": "Corra Jarrow",
+      "text": "Outfitting quay berth 3 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0020",
+      "ts": "2026-05-16T13:27:15Z",
+      "user_id": "EMP-00518",
+      "user": "Barrin Thorne",
+      "text": "Slipway 5 keel blocks are set for the first hull.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0020-r1",
+          "ts": "2026-05-16T13:31:15Z",
+          "user_id": "EMP-00466",
+          "user": "Vela Warrick",
+          "text": "Nice work."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0021",
+      "ts": "2026-05-17T06:45:54Z",
+      "user_id": "EMP-00489",
+      "user": "Senna Bracken",
+      "text": "Slipway 6 keel blocks are set for the first hull.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0021-r1",
+          "ts": "2026-05-17T06:51:54Z",
+          "user_id": "EMP-00476",
+          "user": "Kirra Dravis",
+          "text": "Nice work."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0022",
+      "ts": "2026-05-18T10:53:32Z",
+      "user_id": "EMP-00482",
+      "user": "Torin Vexley",
+      "text": "Outfitting quay berth 3 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0023",
+      "ts": "2026-05-22T14:54:03Z",
+      "user_id": "EMP-00492",
+      "user": "Rhosa Holloway",
+      "text": "Coating shop booth 12 cure cycle is running long today.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0024",
+      "ts": "2026-05-22T18:59:36Z",
+      "user_id": "EMP-00452",
+      "user": "Rain Adrel",
+      "text": "Gantry crane 4 load test passed at 800 t.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0025",
+      "ts": "2026-05-22T19:19:12Z",
+      "user_id": "EMP-00440",
+      "user": "Halden Wade",
+      "text": "Coating shop booth 9 cure cycle is running long today.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0026",
+      "ts": "2026-05-26T07:07:14Z",
+      "user_id": "EMP-00507",
+      "user": "Jory Ravell",
+      "text": "Gantry crane 3 load test passed at 3200 t.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0027",
+      "ts": "2026-05-26T09:11:31Z",
+      "user_id": "EMP-00514",
+      "user": "Vela Easton",
+      "text": "Coating shop booth 2 cure cycle is running long today.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0027-r1",
+          "ts": "2026-05-26T09:16:31Z",
+          "user_id": "EMP-00476",
+          "user": "Kirra Dravis",
+          "text": "Thanks, we will shift the next job."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0028",
+      "ts": "2026-05-26T09:19:31Z",
+      "user_id": "EMP-00518",
+      "user": "Barrin Thorne",
+      "text": "Coating shop booth 12 cure cycle is running long today.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0029",
+      "ts": "2026-05-26T14:46:05Z",
+      "user_id": "EMP-00482",
+      "user": "Torin Vexley",
+      "text": "Slipway 3 keel blocks are set for the first hull.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0030",
+      "ts": "2026-05-26T17:07:18Z",
+      "user_id": "EMP-00518",
+      "user": "Barrin Thorne",
+      "text": "Slipway 4 keel blocks are set for the first hull.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0030-r1",
+          "ts": "2026-05-26T17:12:18Z",
+          "user_id": "EMP-00489",
+          "user": "Senna Bracken",
+          "text": "Nice work."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0031",
+      "ts": "2026-05-26T17:12:57Z",
+      "user_id": "EMP-00505",
+      "user": "Barrin Penrose",
+      "text": "Gantry crane 4 load test passed at 1200 t.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0032",
+      "ts": "2026-05-29T07:30:21Z",
+      "user_id": "EMP-00443",
+      "user": "Quell Palin",
+      "text": "Slipway 1 keel blocks are set for the first hull.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0033",
+      "ts": "2026-05-29T07:39:14Z",
+      "user_id": "EMP-00476",
+      "user": "Kirra Dravis",
+      "text": "Coating shop booth 12 cure cycle is running long today.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0033-r1",
+          "ts": "2026-05-29T07:43:14Z",
+          "user_id": "EMP-00484",
+          "user": "Arden Whitlock",
+          "text": "Thanks, we will shift the next job."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0034",
+      "ts": "2026-05-29T13:29:31Z",
+      "user_id": "EMP-00505",
+      "user": "Barrin Penrose",
+      "text": "Slipway 3 keel blocks are set for the first hull.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0034-r1",
+          "ts": "2026-05-29T13:35:31Z",
+          "user_id": "EMP-00440",
+          "user": "Halden Wade",
+          "text": "Nice work."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0035",
+      "ts": "2026-05-30T11:16:24Z",
+      "user_id": "EMP-00489",
+      "user": "Senna Bracken",
+      "text": "Coating shop booth 7 cure cycle is running long today.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0036",
+      "ts": "2026-05-30T16:42:21Z",
+      "user_id": "EMP-00466",
+      "user": "Vela Warrick",
+      "text": "Slipway 1 keel blocks are set for the first hull.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0036-r1",
+          "ts": "2026-05-30T16:48:21Z",
+          "user_id": "EMP-00515",
+          "user": "Rosk Wren",
+          "text": "Nice work."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0037",
+      "ts": "2026-05-31T06:57:22Z",
+      "user_id": "EMP-00484",
+      "user": "Arden Whitlock",
+      "text": "Slipway 1 keel blocks are set for the first hull.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0037-r1",
+          "ts": "2026-05-31T07:02:22Z",
+          "user_id": "EMP-00524",
+          "user": "Rhett Holloway",
+          "text": "Nice work."
+        }
+      ]
+    },
+    {
+      "id": "shipyard-planning-202605-0038",
+      "ts": "2026-05-31T07:22:41Z",
+      "user_id": "EMP-00489",
+      "user": "Senna Bracken",
+      "text": "Outfitting quay berth 2 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0039",
+      "ts": "2026-05-31T11:30:36Z",
+      "user_id": "EMP-00456",
+      "user": "Corra Jarrow",
+      "text": "Outfitting quay berth 11 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0040",
+      "ts": "2026-05-31T11:33:53Z",
+      "user_id": "EMP-00515",
+      "user": "Rosk Wren",
+      "text": "Outfitting quay berth 3 has shore power connected.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0041",
+      "ts": "2026-05-31T12:16:57Z",
+      "user_id": "EMP-00476",
+      "user": "Kirra Dravis",
+      "text": "Coating shop booth 10 cure cycle is running long today.",
+      "replies": []
+    },
+    {
+      "id": "shipyard-planning-202605-0042",
+      "ts": "2026-05-31T18:59:20Z",
+      "user_id": "EMP-00507",
+      "user": "Jory Ravell",
+      "text": "Slipway 4 keel blocks are set for the first hull.",
+      "replies": [
+        {
+          "id": "shipyard-planning-202605-0042-r1",
+          "ts": "2026-05-31T19:03:20Z",
+          "user_id": "EMP-00492",
+          "user": "Rhosa Holloway",
+          "text": "Nice work."
+        }
+      ]
+    }
+  ]
+}

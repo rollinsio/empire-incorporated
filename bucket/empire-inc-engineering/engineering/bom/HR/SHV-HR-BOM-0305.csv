@@ -1,0 +1,7 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HR-016-02,"Containment field emitter, mk III",2,ea,750241.91,1500483.82,Alsakan Instruments,SHV-HR-DWG-0205
+2,EI-HR-016-01,"Containment field emitter, mk II",8,ea,676347.78,5410782.24,Mustafar Refinery Cooperative,SHV-HR-DWG-0205
+3,EI-HR-018-01,"Coolant, cryogenic, type K",12,m³,990.16,11881.92,Fondor Shipyards,SHV-HR-DWG-0205
+4,EI-HR-017-02,"Fuel injector cartridge, high-flow",1,ea,60434.83,60434.83,Cygnus Spaceworks,SHV-HR-DWG-0205
+5,EI-HR-018-01,"Coolant, cryogenic, type K",12,m³,990.16,11881.92,Uulshos Manufacturing,SHV-HR-DWG-0205
+6,EI-HR-015-01,"Hypermatter fuel, stabilized, batch grade I",2,kg,134636.84,269273.68,Kalist Mining Combine,SHV-HR-DWG-0205

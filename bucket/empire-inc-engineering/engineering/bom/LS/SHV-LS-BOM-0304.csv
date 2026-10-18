@@ -1,0 +1,10 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-LS-040-01,"Gravity plate, 1 m²",4,ea,11976.11,47904.44,Fondor Foundry Collective,SHV-LS-DWG-0204
+2,EI-LS-040-02,"Gravity plate, 4 m²",96,ea,12069.62,1158683.52,Eriadu Steelworks,SHV-LS-DWG-0204
+3,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",1,ea,280.79,280.79,Mustafar Refinery Cooperative,SHV-LS-DWG-0204
+4,EI-LS-039-02,"Water reclamation membrane, high-flux",2,ea,1777.16,3554.32,Fondor Shipyards,SHV-LS-DWG-0204
+5,EI-LS-039-02,"Water reclamation membrane, high-flux",8,ea,1777.16,14217.28,Brentaal Logistics Guild,SHV-LS-DWG-0204
+6,EI-LS-040-02,"Gravity plate, 4 m²",4,ea,12069.62,48278.48,Bespin Gas Consortium,SHV-LS-DWG-0204
+7,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",2,ea,280.79,561.58,Rendili StarDrive,SHV-LS-DWG-0204
+8,EI-LS-038-01,"Atmosphere scrubber cartridge, CO2",1,ea,329.04,329.04,Cygnus Spaceworks,SHV-LS-DWG-0204
+9,EI-LS-040-02,"Gravity plate, 4 m²",1,ea,12069.62,12069.62,Ord Mantell Salvage & Supply,SHV-LS-DWG-0204

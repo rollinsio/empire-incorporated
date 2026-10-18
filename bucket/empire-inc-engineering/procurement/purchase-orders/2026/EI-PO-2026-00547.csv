@@ -1,0 +1,5 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-00547,2026-05-19,SUP-008,Abregado Droid Works,1,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",4,ea,84859.17,339436.68,2026-08-10
+EI-PO-2026-00547,2026-05-19,SUP-008,Abregado Droid Works,2,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",4,ea,96586.41,386345.64,2026-08-25
+EI-PO-2026-00547,2026-05-19,SUP-008,Abregado Droid Works,3,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",4,ea,86481.78,345927.12,2026-08-06
+EI-PO-2026-00547,,,,,,ORDER TOTAL,,,,1071709.44,

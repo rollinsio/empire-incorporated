@@ -1,0 +1,11 @@
+employee_id,name,title,email,manager
+KDY-E-0002,Hollis Brack,Chief Financial Officer,hollis.brack@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0117,Daro Delane,Team Lead,daro.delane@kuat-drive-yards.example,Hollis Brack
+KDY-E-0118,Aldo Lorne,Financial Analyst,aldo.lorne@kuat-drive-yards.example,Hollis Brack
+KDY-E-0119,Dorne Teague,Cost Accountant,dorne.teague@kuat-drive-yards.example,Hollis Brack
+KDY-E-0120,Hollis Orlen,Financial Analyst,hollis.orlen@kuat-drive-yards.example,Hollis Brack
+KDY-E-0121,Rhosa Merrick,Cost Accountant,rhosa.merrick@kuat-drive-yards.example,Hollis Brack
+KDY-E-0122,Aven Kade,Financial Analyst,aven.kade@kuat-drive-yards.example,Hollis Brack
+KDY-E-0123,Dorne Venner,Cost Accountant,dorne.venner@kuat-drive-yards.example,Hollis Brack
+KDY-E-0124,Anneka Rhydon,Financial Analyst,anneka.rhydon@kuat-drive-yards.example,Hollis Brack
+KDY-E-0125,Maelis Dunleavy,Cost Accountant,maelis.dunleavy@kuat-drive-yards.example,Hollis Brack

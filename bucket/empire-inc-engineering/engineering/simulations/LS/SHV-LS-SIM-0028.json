@@ -1,0 +1,292 @@
+{
+  "simulation_id": "SHV-LS-SIM-0028",
+  "title": "Atmosphere balance (run 28)",
+  "system": "LS",
+  "classification": "INTERNAL",
+  "model_version": "4.0.14",
+  "run_date": "2025-02-15",
+  "engineer": "Xan Arkwell",
+  "engineer_id": "EMP-00606",
+  "inputs": {
+    "scenario": "peak demand",
+    "duration_steps": 45
+  },
+  "results": {
+    "summary": {
+      "peak_co2_ppm": 44.134,
+      "peak_step": 44
+    },
+    "series": [
+      {
+        "t": 0,
+        "crew_count": 53.081,
+        "oxygen_pct": 20.781,
+        "co2_ppm": 38.699
+      },
+      {
+        "t": 1,
+        "crew_count": 52.444,
+        "oxygen_pct": 20.537,
+        "co2_ppm": 37.411
+      },
+      {
+        "t": 2,
+        "crew_count": 54.525,
+        "oxygen_pct": 20.915,
+        "co2_ppm": 38.905
+      },
+      {
+        "t": 3,
+        "crew_count": 52.734,
+        "oxygen_pct": 20.621,
+        "co2_ppm": 37.972
+      },
+      {
+        "t": 4,
+        "crew_count": 56.141,
+        "oxygen_pct": 20.797,
+        "co2_ppm": 37.987
+      },
+      {
+        "t": 5,
+        "crew_count": 52.809,
+        "oxygen_pct": 20.79,
+        "co2_ppm": 38.427
+      },
+      {
+        "t": 6,
+        "crew_count": 52.216,
+        "oxygen_pct": 21.254,
+        "co2_ppm": 38.699
+      },
+      {
+        "t": 7,
+        "crew_count": 53.972,
+        "oxygen_pct": 21.096,
+        "co2_ppm": 38.793
+      },
+      {
+        "t": 8,
+        "crew_count": 55.411,
+        "oxygen_pct": 21.955,
+        "co2_ppm": 37.986
+      },
+      {
+        "t": 9,
+        "crew_count": 55.85,
+        "oxygen_pct": 21.094,
+        "co2_ppm": 38.977
+      },
+      {
+        "t": 10,
+        "crew_count": 55.668,
+        "oxygen_pct": 21.694,
+        "co2_ppm": 37.719
+      },
+      {
+        "t": 11,
+        "crew_count": 53.076,
+        "oxygen_pct": 21.476,
+        "co2_ppm": 38.128
+      },
+      {
+        "t": 12,
+        "crew_count": 55.879,
+        "oxygen_pct": 20.779,
+        "co2_ppm": 39.382
+      },
+      {
+        "t": 13,
+        "crew_count": 56.677,
+        "oxygen_pct": 21.416,
+        "co2_ppm": 37.822
+      },
+      {
+        "t": 14,
+        "crew_count": 56.076,
+        "oxygen_pct": 22.394,
+        "co2_ppm": 37.764
+      },
+      {
+        "t": 15,
+        "crew_count": 57.761,
+        "oxygen_pct": 20.729,
+        "co2_ppm": 38.039
+      },
+      {
+        "t": 16,
+        "crew_count": 54.58,
+        "oxygen_pct": 20.897,
+        "co2_ppm": 40.302
+      },
+      {
+        "t": 17,
+        "crew_count": 55.416,
+        "oxygen_pct": 21.989,
+        "co2_ppm": 39.675
+      },
+      {
+        "t": 18,
+        "crew_count": 56.642,
+        "oxygen_pct": 22.035,
+        "co2_ppm": 38.049
+      },
+      {
+        "t": 19,
+        "crew_count": 56.579,
+        "oxygen_pct": 21.923,
+        "co2_ppm": 40.357
+      },
+      {
+        "t": 20,
+        "crew_count": 56.465,
+        "oxygen_pct": 22.088,
+        "co2_ppm": 40.362
+      },
+      {
+        "t": 21,
+        "crew_count": 60.458,
+        "oxygen_pct": 21.394,
+        "co2_ppm": 40.065
+      },
+      {
+        "t": 22,
+        "crew_count": 59.463,
+        "oxygen_pct": 21.303,
+        "co2_ppm": 39.867
+      },
+      {
+        "t": 23,
+        "crew_count": 57.905,
+        "oxygen_pct": 22.164,
+        "co2_ppm": 39.707
+      },
+      {
+        "t": 24,
+        "crew_count": 58.742,
+        "oxygen_pct": 22.185,
+        "co2_ppm": 40.664
+      },
+      {
+        "t": 25,
+        "crew_count": 57.647,
+        "oxygen_pct": 21.958,
+        "co2_ppm": 41.238
+      },
+      {
+        "t": 26,
+        "crew_count": 56.776,
+        "oxygen_pct": 22.322,
+        "co2_ppm": 39.534
+      },
+      {
+        "t": 27,
+        "crew_count": 59.589,
+        "oxygen_pct": 22.668,
+        "co2_ppm": 40.356
+      },
+      {
+        "t": 28,
+        "crew_count": 57.111,
+        "oxygen_pct": 23.067,
+        "co2_ppm": 41.316
+      },
+      {
+        "t": 29,
+        "crew_count": 60.413,
+        "oxygen_pct": 22.742,
+        "co2_ppm": 39.977
+      },
+      {
+        "t": 30,
+        "crew_count": 59.636,
+        "oxygen_pct": 22.058,
+        "co2_ppm": 40.682
+      },
+      {
+        "t": 31,
+        "crew_count": 60.541,
+        "oxygen_pct": 22.421,
+        "co2_ppm": 41.897
+      },
+      {
+        "t": 32,
+        "crew_count": 58.851,
+        "oxygen_pct": 22.195,
+        "co2_ppm": 41.597
+      },
+      {
+        "t": 33,
+        "crew_count": 59.388,
+        "oxygen_pct": 23.0,
+        "co2_ppm": 41.165
+      },
+      {
+        "t": 34,
+        "crew_count": 59.584,
+        "oxygen_pct": 23.482,
+        "co2_ppm": 40.203
+      },
+      {
+        "t": 35,
+        "crew_count": 61.356,
+        "oxygen_pct": 23.559,
+        "co2_ppm": 41.803
+      },
+      {
+        "t": 36,
+        "crew_count": 57.867,
+        "oxygen_pct": 24.017,
+        "co2_ppm": 41.329
+      },
+      {
+        "t": 37,
+        "crew_count": 60.176,
+        "oxygen_pct": 22.998,
+        "co2_ppm": 41.328
+      },
+      {
+        "t": 38,
+        "crew_count": 59.409,
+        "oxygen_pct": 23.122,
+        "co2_ppm": 41.856
+      },
+      {
+        "t": 39,
+        "crew_count": 61.078,
+        "oxygen_pct": 23.005,
+        "co2_ppm": 41.772
+      },
+      {
+        "t": 40,
+        "crew_count": 60.747,
+        "oxygen_pct": 24.287,
+        "co2_ppm": 41.522
+      },
+      {
+        "t": 41,
+        "crew_count": 61.537,
+        "oxygen_pct": 23.432,
+        "co2_ppm": 43.386
+      },
+      {
+        "t": 42,
+        "crew_count": 63.615,
+        "oxygen_pct": 23.142,
+        "co2_ppm": 42.047
+      },
+      {
+        "t": 43,
+        "crew_count": 62.042,
+        "oxygen_pct": 22.709,
+        "co2_ppm": 43.361
+      },
+      {
+        "t": 44,
+        "crew_count": 60.71,
+        "oxygen_pct": 23.279,
+        "co2_ppm": 44.134
+      }
+    ]
+  }
+}

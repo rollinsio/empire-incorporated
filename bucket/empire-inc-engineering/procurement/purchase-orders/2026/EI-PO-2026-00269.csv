@@ -1,0 +1,7 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-00269,2026-04-10,SUP-020,Chiewab Medical,1,EI-CM-036-01,"HoloNet transceiver board, standard",1,ea,76952.45,76952.45,2026-08-19
+EI-PO-2026-00269,2026-04-10,SUP-020,Chiewab Medical,2,EI-CM-036-01,"HoloNet transceiver board, standard",4,ea,78328.39,313313.56,2026-08-10
+EI-PO-2026-00269,2026-04-10,SUP-020,Chiewab Medical,3,EI-CM-037-01,"Traffic routing switch card, standard",6,ea,35900.98,215405.88,2026-07-28
+EI-PO-2026-00269,2026-04-10,SUP-020,Chiewab Medical,4,EI-CM-036-01,"HoloNet transceiver board, standard",1,ea,76471.20,76471.20,2026-06-18
+EI-PO-2026-00269,2026-04-10,SUP-020,Chiewab Medical,5,EI-CM-037-01,"Traffic routing switch card, standard",12,ea,35919.40,431032.80,2026-05-17
+EI-PO-2026-00269,,,,,,ORDER TOTAL,,,,1113175.89,

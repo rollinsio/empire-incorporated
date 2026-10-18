@@ -1,0 +1,15 @@
+employee_id,name,title,email,manager
+KDY-E-0003,Severin Lathe,Head of Sales & Key Accounts,severin.lathe@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0004,Merel Danvik,"Key Account Manager, Empire Incorporated",merel.danvik@kuat-drive-yards.example,Severin Lathe
+KDY-E-0016,Cato Merrick,Team Lead,cato.merrick@kuat-drive-yards.example,Severin Lathe
+KDY-E-0017,Maddox Crestwell,Account Manager,maddox.crestwell@kuat-drive-yards.example,Severin Lathe
+KDY-E-0018,Ferris Vance,Bid Manager,ferris.vance@kuat-drive-yards.example,Severin Lathe
+KDY-E-0019,Cato Greaves,Sales Coordinator,cato.greaves@kuat-drive-yards.example,Severin Lathe
+KDY-E-0020,Garrow Mordant,Account Manager,garrow.mordant@kuat-drive-yards.example,Severin Lathe
+KDY-E-0021,Maddox Morrow,Bid Manager,maddox.morrow@kuat-drive-yards.example,Severin Lathe
+KDY-E-0022,Tamsin Holloway,Sales Coordinator,tamsin.holloway@kuat-drive-yards.example,Severin Lathe
+KDY-E-0023,Rain Falkner,Account Manager,rain.falkner@kuat-drive-yards.example,Severin Lathe
+KDY-E-0024,Lannic Lusk,Bid Manager,lannic.lusk@kuat-drive-yards.example,Severin Lathe
+KDY-E-0025,Hollis Ingram,Sales Coordinator,hollis.ingram@kuat-drive-yards.example,Severin Lathe
+KDY-E-0026,Pela Ellery,Account Manager,pela.ellery@kuat-drive-yards.example,Severin Lathe
+KDY-E-0027,Riven Rothe,Bid Manager,riven.rothe@kuat-drive-yards.example,Severin Lathe

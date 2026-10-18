@@ -1,0 +1,1073 @@
+employee_id,salary_credits,home_address,personal_comlink,emergency_contact,sensitivity
+EMP-00001,1158500,"291 Meridian Row, Mid Level 140, Coruscant",PCL-5022-2971,Anneka (parent),RESTRICTED
+EMP-00002,437600,"87 Gantry Street, Upper Level 31, Chandrila",PCL-6061-5287,Sabel (partner),RESTRICTED
+EMP-00003,461000,"200 Harbour Lane, Mid Level 212, Eriadu",PCL-4115-1752,Ingrid (friend),RESTRICTED
+EMP-00004,247900,"100 Spire Avenue, Harbour District, Corulag",PCL-6093-5192,Tarn (friend),RESTRICTED
+EMP-00005,245500,"334 Skyline Terrace, Upper Level 12, Naboo",PCL-3067-4205,Faren (sibling),RESTRICTED
+EMP-00006,246700,"295 Lantern Street, Upper Level 31, Brentaal",PCL-2014-6938,Leda (sibling),RESTRICTED
+EMP-00007,253700,"206 Gantry Street, Harbour District, Fondor",PCL-1201-4594,Rain (sibling),RESTRICTED
+EMP-00008,168000,"218 Foundry Road, Old Quarter, Corulag",PCL-5936-2349,Vance (spouse),RESTRICTED
+EMP-00009,300100,"42 Skyline Terrace, North Ring, Alsakan",PCL-1377-2130,Leda (adult child),RESTRICTED
+EMP-00010,204600,"263 Nebula Court, North Ring, Corulag",PCL-1792-1965,Cedric (parent),RESTRICTED
+EMP-00011,200400,"225 Meridian Row, Mid Level 212, Carida",PCL-5927-1605,Wyatt (parent),RESTRICTED
+EMP-00012,306000,"226 Gantry Street, Old Quarter, Chandrila",PCL-3504-9850,Gessa (friend),RESTRICTED
+EMP-00013,312600,"328 Beacon Walk, Mid Level 212, Kuat",PCL-3572-5691,Quell (partner),RESTRICTED
+EMP-00014,284000,"81 Tidewater Lane, Old Quarter, Brentaal",PCL-2031-9408,Joren (partner),RESTRICTED
+EMP-00015,219700,"346 Tidewater Lane, North Ring, Raxus",PCL-2900-1552,Delia (parent),RESTRICTED
+EMP-00016,245500,"325 Skyline Terrace, South Ring, Corellia",PCL-9961-1705,Arlo (adult child),RESTRICTED
+EMP-00017,287400,"27 Orbital Way, Mid Level 212, Lothal",PCL-8576-5339,Odile (spouse),RESTRICTED
+EMP-00018,291800,"133 Nebula Court, Mid Level 212, Alsakan",PCL-4811-2355,Elian (adult child),RESTRICTED
+EMP-00019,277900,"68 Harbour Lane, North Ring, Coruscant",PCL-1486-3484,Yara (spouse),RESTRICTED
+EMP-00020,284900,"314 Tidewater Lane, Mid Level 212, Lothal",PCL-3397-9614,Yara (parent),RESTRICTED
+EMP-00021,291200,"117 Lantern Street, Mid Level 212, Eriadu",PCL-1362-1819,Annegret (adult child),RESTRICTED
+EMP-00022,263900,"349 Harbour Lane, South Ring, Kuat",PCL-3526-1606,Larsa (parent),RESTRICTED
+EMP-00023,307200,"136 Nebula Court, Upper Level 12, Coruscant",PCL-9535-6289,Neve (sibling),RESTRICTED
+EMP-00024,314800,"161 Harbour Lane, South Ring, Chandrila",PCL-5573-4636,Rowan (friend),RESTRICTED
+EMP-00025,274100,"219 Foundry Road, Mid Level 212, Alderaan",PCL-8548-4177,Imra (adult child),RESTRICTED
+EMP-00026,133400,"213 Harbour Lane, Old Quarter, Alderaan",PCL-5132-7592,Saela (partner),RESTRICTED
+EMP-00027,105700,"127 Tidewater Lane, Upper Level 31, Kuat",PCL-6318-2801,Quell (spouse),RESTRICTED
+EMP-00028,92100,"71 Tidewater Lane, North Ring, Eriadu",PCL-7850-4004,Silke (adult child),RESTRICTED
+EMP-00029,37500,"81 Nebula Court, Mid Level 212, Alsakan",PCL-4069-1120,Anneka (friend),RESTRICTED
+EMP-00030,85800,"4 Comet Close, Harbour District, Lothal",PCL-8152-5328,Larsa (friend),RESTRICTED
+EMP-00031,44400,"448 Meridian Row, Mid Level 212, Coruscant",PCL-8890-4692,Rhosa (parent),RESTRICTED
+EMP-00032,46600,"123 Meridian Row, Upper Level 31, Coruscant",PCL-9030-2890,Elian (adult child),RESTRICTED
+EMP-00033,53300,"443 Tidewater Lane, Upper Level 31, Coruscant",PCL-5210-1141,Casimir (spouse),RESTRICTED
+EMP-00034,83600,"79 Meridian Row, Upper Level 12, Corulag",PCL-9321-4005,Rain (spouse),RESTRICTED
+EMP-00035,108000,"224 Comet Close, Mid Level 140, Brentaal",PCL-1187-7098,Vesna (spouse),RESTRICTED
+EMP-00036,199900,"453 Foundry Road, North Ring, Brentaal",PCL-9773-1708,Xan (spouse),RESTRICTED
+EMP-00037,129300,"108 Gantry Street, Upper Level 31, Tepasi",PCL-7733-9729,Pela (spouse),RESTRICTED
+EMP-00038,181100,"350 Senate Mile, South Ring, Sluis Van",PCL-7238-9012,Kirra (adult child),RESTRICTED
+EMP-00039,182500,"200 Meridian Row, Upper Level 31, Coruscant",PCL-8692-6341,Alira (adult child),RESTRICTED
+EMP-00040,139400,"310 Skyline Terrace, Upper Level 12, Corellia",PCL-6353-2810,Nadia (friend),RESTRICTED
+EMP-00041,139000,"359 Foundry Road, Upper Level 12, Coruscant",PCL-1644-9055,Bale (friend),RESTRICTED
+EMP-00042,40600,"227 Skyline Terrace, Mid Level 212, Carida",PCL-9334-4700,Anneka (sibling),RESTRICTED
+EMP-00043,83000,"390 Arcology Drive, North Ring, Sluis Van",PCL-6890-4180,Kesia (adult child),RESTRICTED
+EMP-00044,72700,"401 Foundry Road, Mid Level 212, Kuat",PCL-4033-4322,Rafe (adult child),RESTRICTED
+EMP-00045,37200,"158 Beacon Walk, North Ring, Coruscant",PCL-8586-8445,Joren (parent),RESTRICTED
+EMP-00046,76800,"102 Meridian Row, Harbour District, Chandrila",PCL-8815-4994,Sarik (sibling),RESTRICTED
+EMP-00047,44200,"321 Lantern Street, Upper Level 12, Fondor",PCL-4507-8300,Sarik (partner),RESTRICTED
+EMP-00048,58200,"155 Tidewater Lane, Mid Level 140, Lothal",PCL-6830-2556,Finnick (adult child),RESTRICTED
+EMP-00049,106900,"370 Arcology Drive, Upper Level 12, Corulag",PCL-2656-3959,Kier (sibling),RESTRICTED
+EMP-00050,115300,"324 Arcology Drive, Upper Level 12, Raxus",PCL-5642-4813,Zane (adult child),RESTRICTED
+EMP-00051,28700,"195 Tidewater Lane, South Ring, Eriadu",PCL-5064-4706,Ciran (friend),RESTRICTED
+EMP-00052,31500,"90 Skyline Terrace, Harbour District, Eriadu",PCL-2817-2995,Tova (parent),RESTRICTED
+EMP-00053,67800,"375 Meridian Row, Mid Level 212, Coruscant",PCL-1525-2738,Odile (parent),RESTRICTED
+EMP-00054,37500,"96 Orbital Way, Upper Level 31, Ord Mantell",PCL-9610-6898,Saela (adult child),RESTRICTED
+EMP-00055,101800,"49 Foundry Road, Old Quarter, Anaxes",PCL-2164-4800,Wilde (partner),RESTRICTED
+EMP-00056,71400,"302 Lantern Street, North Ring, Coruscant",PCL-4595-1617,Nadia (friend),RESTRICTED
+EMP-00057,58300,"270 Senate Mile, South Ring, Lothal",PCL-9759-6600,Larsa (parent),RESTRICTED
+EMP-00058,79200,"72 Lantern Street, Upper Level 31, Anaxes",PCL-5862-1692,Petra (spouse),RESTRICTED
+EMP-00059,66100,"342 Arcology Drive, North Ring, Chandrila",PCL-7846-2627,Seren (partner),RESTRICTED
+EMP-00060,59800,"405 Foundry Road, Upper Level 31, Tepasi",PCL-1423-9453,Tilda (friend),RESTRICTED
+EMP-00061,78300,"244 Tidewater Lane, Upper Level 31, Coruscant",PCL-1686-9364,Kalla (adult child),RESTRICTED
+EMP-00062,60900,"3 Gantry Street, Mid Level 212, Anaxes",PCL-8269-4995,Lysander (friend),RESTRICTED
+EMP-00063,60000,"173 Orbital Way, South Ring, Brentaal",PCL-4472-6892,Riven (spouse),RESTRICTED
+EMP-00064,59200,"184 Comet Close, Mid Level 212, Corellia",PCL-5506-8983,Soren (partner),RESTRICTED
+EMP-00065,56000,"226 Arcology Drive, Mid Level 212, Alderaan",PCL-9308-2722,Merrin (partner),RESTRICTED
+EMP-00066,31400,"169 Nebula Court, Old Quarter, Anaxes",PCL-7300-8083,Lysander (partner),RESTRICTED
+EMP-00067,30100,"70 Nebula Court, North Ring, Mon Gazza",PCL-7507-2624,Larsa (partner),RESTRICTED
+EMP-00068,54600,"128 Harbour Lane, North Ring, Alderaan",PCL-9089-8173,Garnet (spouse),RESTRICTED
+EMP-00069,61800,"79 Nebula Court, Upper Level 12, Lothal",PCL-1952-9813,Vance (spouse),RESTRICTED
+EMP-00070,32000,"394 Comet Close, Upper Level 31, Corellia",PCL-5411-4319,Venn (parent),RESTRICTED
+EMP-00071,36000,"334 Lantern Street, Upper Level 12, Alsakan",PCL-3541-4296,Cassia (sibling),RESTRICTED
+EMP-00072,80700,"83 Skyline Terrace, South Ring, Chandrila",PCL-2713-9417,Orrin (partner),RESTRICTED
+EMP-00073,54200,"437 Foundry Road, Mid Level 212, Kuat",PCL-2057-7420,Vance (friend),RESTRICTED
+EMP-00074,62800,"220 Orbital Way, Upper Level 12, Lothal",PCL-4491-4161,Aven (sibling),RESTRICTED
+EMP-00075,35300,"77 Meridian Row, Harbour District, Naboo",PCL-6202-4359,Nadia (friend),RESTRICTED
+EMP-00076,184500,"280 Senate Mile, North Ring, Brentaal",PCL-4932-8744,Merrin (friend),RESTRICTED
+EMP-00077,150500,"303 Lantern Street, Upper Level 31, Mon Gazza",PCL-6068-8475,Elian (adult child),RESTRICTED
+EMP-00078,145700,"68 Arcology Drive, Old Quarter, Brentaal",PCL-6513-6829,Fallon (partner),RESTRICTED
+EMP-00079,174200,"337 Nebula Court, Mid Level 140, Kuat",PCL-6399-8922,Maddox (partner),RESTRICTED
+EMP-00080,143300,"30 Nebula Court, Mid Level 212, Carida",PCL-8019-1807,Nalen (friend),RESTRICTED
+EMP-00081,132300,"281 Harbour Lane, North Ring, Kuat",PCL-5337-4087,Riven (sibling),RESTRICTED
+EMP-00082,140000,"396 Foundry Road, Old Quarter, Brentaal",PCL-6271-9070,Kesia (parent),RESTRICTED
+EMP-00083,176300,"180 Meridian Row, Mid Level 212, Coruscant",PCL-9161-7658,Lannic (friend),RESTRICTED
+EMP-00084,73100,"240 Arcology Drive, Upper Level 12, Lothal",PCL-3185-1430,Desik (parent),RESTRICTED
+EMP-00085,34900,"142 Lantern Street, Upper Level 12, Brentaal",PCL-5057-8023,Fenna (parent),RESTRICTED
+EMP-00086,39000,"60 Tidewater Lane, Mid Level 212, Alsakan",PCL-7658-1601,Noa (sibling),RESTRICTED
+EMP-00087,91900,"338 Gantry Street, Upper Level 12, Coruscant",PCL-3065-8554,Delia (parent),RESTRICTED
+EMP-00088,39400,"456 Gantry Street, Upper Level 31, Eriadu",PCL-7056-7879,Falko (parent),RESTRICTED
+EMP-00089,28600,"416 Meridian Row, Mid Level 140, Naboo",PCL-1363-5367,Tessa (partner),RESTRICTED
+EMP-00090,120400,"68 Senate Mile, Upper Level 12, Naboo",PCL-9445-3607,Nalen (partner),RESTRICTED
+EMP-00091,59100,"305 Tidewater Lane, South Ring, Carida",PCL-7963-4681,Casimir (parent),RESTRICTED
+EMP-00092,76700,"433 Arcology Drive, Old Quarter, Eriadu",PCL-8842-3518,Sarik (sibling),RESTRICTED
+EMP-00093,106500,"174 Lantern Street, Mid Level 212, Eriadu",PCL-3341-6282,Kestin (friend),RESTRICTED
+EMP-00094,111800,"130 Spire Avenue, Upper Level 12, Corulag",PCL-7558-5016,Zane (sibling),RESTRICTED
+EMP-00095,87200,"166 Harbour Lane, Upper Level 12, Carida",PCL-1583-2330,Rell (parent),RESTRICTED
+EMP-00096,73900,"291 Spire Avenue, South Ring, Corulag",PCL-2547-1991,Soren (partner),RESTRICTED
+EMP-00097,34500,"298 Gantry Street, Upper Level 12, Brentaal",PCL-6773-9382,Oren (spouse),RESTRICTED
+EMP-00098,29900,"332 Foundry Road, Mid Level 212, Kuat",PCL-9906-1307,Caddoc (sibling),RESTRICTED
+EMP-00099,60100,"217 Gantry Street, Mid Level 140, Anaxes",PCL-1006-6363,Ferris (partner),RESTRICTED
+EMP-00100,52700,"287 Comet Close, Upper Level 12, Coruscant",PCL-3003-6287,Joren (partner),RESTRICTED
+EMP-00101,32300,"49 Meridian Row, North Ring, Ord Mantell",PCL-6519-1783,Edric (parent),RESTRICTED
+EMP-00102,59800,"57 Tidewater Lane, Old Quarter, Bespin",PCL-8688-3396,Soren (sibling),RESTRICTED
+EMP-00103,32800,"315 Gantry Street, South Ring, Coruscant",PCL-8990-7651,Rosk (spouse),RESTRICTED
+EMP-00104,62700,"176 Arcology Drive, North Ring, Coruscant",PCL-4401-3246,Pela (parent),RESTRICTED
+EMP-00105,64100,"80 Tidewater Lane, North Ring, Anaxes",PCL-3221-6897,Gessa (partner),RESTRICTED
+EMP-00106,119100,"41 Senate Mile, Upper Level 12, Corellia",PCL-5127-1533,Amsel (partner),RESTRICTED
+EMP-00107,44000,"80 Orbital Way, Mid Level 140, Eriadu",PCL-2075-2544,Kier (partner),RESTRICTED
+EMP-00108,26700,"307 Lantern Street, Upper Level 31, Coruscant",PCL-7304-2997,Jarek (sibling),RESTRICTED
+EMP-00109,71600,"282 Orbital Way, Old Quarter, Coruscant",PCL-7201-8355,Remy (friend),RESTRICTED
+EMP-00110,108300,"80 Meridian Row, Upper Level 12, Naboo",PCL-7857-4454,Barrin (partner),RESTRICTED
+EMP-00111,31800,"58 Skyline Terrace, Mid Level 140, Scarif",PCL-2287-5932,Xan (sibling),RESTRICTED
+EMP-00112,40000,"463 Nebula Court, Harbour District, Fondor",PCL-1144-3683,Lannic (adult child),RESTRICTED
+EMP-00113,65400,"360 Beacon Walk, Upper Level 31, Naboo",PCL-3055-3923,Amsel (friend),RESTRICTED
+EMP-00114,55500,"393 Skyline Terrace, Mid Level 212, Corellia",PCL-8607-7066,Xan (sibling),RESTRICTED
+EMP-00115,75200,"480 Comet Close, Upper Level 31, Corulag",PCL-4945-8140,Cedric (parent),RESTRICTED
+EMP-00116,45600,"406 Gantry Street, Mid Level 140, Coruscant",PCL-8983-9951,Barrin (parent),RESTRICTED
+EMP-00117,77300,"384 Lantern Street, Mid Level 140, Naboo",PCL-6016-7951,Linnea (parent),RESTRICTED
+EMP-00118,95000,"425 Meridian Row, Harbour District, Corulag",PCL-8573-2395,Vela (adult child),RESTRICTED
+EMP-00119,121000,"227 Spire Avenue, North Ring, Eriadu",PCL-8823-6216,Wolfram (sibling),RESTRICTED
+EMP-00120,65100,"261 Comet Close, North Ring, Corulag",PCL-5291-9226,Callum (friend),RESTRICTED
+EMP-00121,66900,"417 Gantry Street, Mid Level 140, Coruscant",PCL-5350-7324,Jaska (friend),RESTRICTED
+EMP-00122,50600,"116 Spire Avenue, Mid Level 140, Chandrila",PCL-1582-8608,Casimir (partner),RESTRICTED
+EMP-00123,39200,"295 Harbour Lane, Mid Level 212, Brentaal",PCL-5054-5995,Jaska (sibling),RESTRICTED
+EMP-00124,41800,"309 Comet Close, South Ring, Kuat",PCL-2455-9440,Silas (friend),RESTRICTED
+EMP-00125,54000,"436 Beacon Walk, Upper Level 31, Eriadu",PCL-3800-4125,Wilde (parent),RESTRICTED
+EMP-00126,27900,"130 Comet Close, Harbour District, Brentaal",PCL-1352-6114,Kesia (sibling),RESTRICTED
+EMP-00127,66800,"416 Meridian Row, Mid Level 140, Lothal",PCL-2421-3538,Tilda (sibling),RESTRICTED
+EMP-00128,49300,"6 Foundry Road, North Ring, Bespin",PCL-8659-1983,Delia (sibling),RESTRICTED
+EMP-00129,28600,"3 Nebula Court, Mid Level 140, Coruscant",PCL-2497-6700,Nalen (sibling),RESTRICTED
+EMP-00130,71200,"192 Lantern Street, Upper Level 31, Corulag",PCL-6813-9086,Bale (adult child),RESTRICTED
+EMP-00131,62900,"273 Meridian Row, Mid Level 140, Kuat",PCL-8002-2710,Carys (adult child),RESTRICTED
+EMP-00132,103400,"258 Comet Close, Harbour District, Lothal",PCL-4312-2335,Zara (sibling),RESTRICTED
+EMP-00133,52400,"16 Gantry Street, Harbour District, Kuat",PCL-4031-2701,Ulric (spouse),RESTRICTED
+EMP-00134,108100,"190 Comet Close, Upper Level 12, Coruscant",PCL-4951-1372,Wilde (sibling),RESTRICTED
+EMP-00135,35400,"423 Beacon Walk, Mid Level 140, Kuat",PCL-8593-2749,Pax (friend),RESTRICTED
+EMP-00136,68600,"216 Gantry Street, Old Quarter, Corulag",PCL-7663-6642,Kalla (adult child),RESTRICTED
+EMP-00137,36500,"67 Skyline Terrace, Mid Level 140, Corellia",PCL-9737-4252,Vira (parent),RESTRICTED
+EMP-00138,26200,"192 Arcology Drive, Mid Level 212, Alderaan",PCL-7899-7162,Orla (sibling),RESTRICTED
+EMP-00139,32500,"255 Gantry Street, Upper Level 31, Alsakan",PCL-4860-9064,Fenna (friend),RESTRICTED
+EMP-00140,70900,"300 Comet Close, Upper Level 31, Fondor",PCL-6422-7560,Perrin (parent),RESTRICTED
+EMP-00141,54700,"289 Gantry Street, North Ring, Corellia",PCL-4790-5400,Rhosa (friend),RESTRICTED
+EMP-00142,67700,"259 Tidewater Lane, North Ring, Carida",PCL-6299-7801,Casimir (spouse),RESTRICTED
+EMP-00143,51200,"232 Comet Close, Mid Level 140, Alsakan",PCL-4878-8373,Ciran (friend),RESTRICTED
+EMP-00144,40900,"401 Tidewater Lane, North Ring, Sluis Van",PCL-2401-7880,Delia (partner),RESTRICTED
+EMP-00145,196000,"443 Orbital Way, Mid Level 212, Coruscant",PCL-5444-6818,Calla (adult child),RESTRICTED
+EMP-00146,163800,"246 Lantern Street, Old Quarter, Corulag",PCL-5366-8892,Dalric (parent),RESTRICTED
+EMP-00147,135900,"369 Meridian Row, North Ring, Sluis Van",PCL-9844-8232,Leda (friend),RESTRICTED
+EMP-00148,149700,"53 Foundry Road, Mid Level 140, Coruscant",PCL-8511-4747,Lysander (parent),RESTRICTED
+EMP-00149,130400,"375 Comet Close, Mid Level 140, Coruscant",PCL-9713-8270,Ferris (parent),RESTRICTED
+EMP-00150,118700,"124 Foundry Road, Mid Level 212, Fondor",PCL-6813-9598,Ciran (friend),RESTRICTED
+EMP-00151,110700,"360 Tidewater Lane, Mid Level 140, Chandrila",PCL-4310-5802,Soren (friend),RESTRICTED
+EMP-00152,54600,"462 Comet Close, North Ring, Eriadu",PCL-2042-9342,Katrin (friend),RESTRICTED
+EMP-00153,57600,"349 Foundry Road, Old Quarter, Sluis Van",PCL-4270-8227,Kaspar (friend),RESTRICTED
+EMP-00154,42900,"384 Beacon Walk, Upper Level 12, Corellia",PCL-4992-6236,Quell (partner),RESTRICTED
+EMP-00155,41300,"358 Orbital Way, Harbour District, Corellia",PCL-1265-8919,Noa (friend),RESTRICTED
+EMP-00156,111500,"405 Harbour Lane, South Ring, Lothal",PCL-8649-3392,Saela (sibling),RESTRICTED
+EMP-00157,31100,"149 Harbour Lane, Upper Level 12, Coruscant",PCL-4772-4098,Desik (adult child),RESTRICTED
+EMP-00158,63000,"304 Tidewater Lane, Upper Level 31, Coruscant",PCL-9046-9947,Arden (parent),RESTRICTED
+EMP-00159,109900,"319 Tidewater Lane, North Ring, Eriadu",PCL-7071-3258,Ines (sibling),RESTRICTED
+EMP-00160,60000,"435 Senate Mile, Mid Level 212, Corulag",PCL-9542-2223,Nalen (partner),RESTRICTED
+EMP-00161,61000,"149 Senate Mile, North Ring, Corellia",PCL-8721-8885,Dace (spouse),RESTRICTED
+EMP-00162,130400,"123 Nebula Court, South Ring, Alsakan",PCL-8690-7876,Pela (friend),RESTRICTED
+EMP-00163,31900,"229 Nebula Court, Old Quarter, Carida",PCL-3851-1212,Yorik (parent),RESTRICTED
+EMP-00164,46600,"59 Meridian Row, Harbour District, Abregado-rae",PCL-3395-4214,Ursel (partner),RESTRICTED
+EMP-00165,88300,"261 Beacon Walk, Mid Level 140, Eriadu",PCL-5560-1201,Lysander (sibling),RESTRICTED
+EMP-00166,51800,"309 Arcology Drive, Old Quarter, Ord Mantell",PCL-8374-3383,Sabel (parent),RESTRICTED
+EMP-00167,30400,"77 Lantern Street, North Ring, Carida",PCL-8200-5170,Maren (adult child),RESTRICTED
+EMP-00168,71600,"333 Beacon Walk, Mid Level 140, Kuat",PCL-4705-5989,Rhett (sibling),RESTRICTED
+EMP-00169,36600,"50 Orbital Way, Harbour District, Carida",PCL-1704-5517,Vance (parent),RESTRICTED
+EMP-00170,58300,"53 Tidewater Lane, Mid Level 212, Lothal",PCL-8581-6181,Treva (sibling),RESTRICTED
+EMP-00171,43700,"192 Gantry Street, North Ring, Fondor",PCL-5204-9634,Barrin (partner),RESTRICTED
+EMP-00172,31600,"79 Nebula Court, Old Quarter, Fondor",PCL-4850-1634,Yara (spouse),RESTRICTED
+EMP-00173,110500,"428 Arcology Drive, Mid Level 140, Coruscant",PCL-2752-7645,Fenna (spouse),RESTRICTED
+EMP-00174,91600,"328 Tidewater Lane, Old Quarter, Corellia",PCL-8230-9983,Jory (parent),RESTRICTED
+EMP-00175,121400,"289 Harbour Lane, South Ring, Ord Mantell",PCL-3533-2966,Dorne (spouse),RESTRICTED
+EMP-00176,42800,"235 Orbital Way, Mid Level 140, Naboo",PCL-6116-3589,Vela (adult child),RESTRICTED
+EMP-00177,52600,"429 Gantry Street, South Ring, Sluis Van",PCL-6810-9490,Kalla (parent),RESTRICTED
+EMP-00178,111500,"408 Spire Avenue, Old Quarter, Kuat",PCL-5450-2471,Fenna (partner),RESTRICTED
+EMP-00179,119000,"69 Lantern Street, Upper Level 12, Corulag",PCL-3023-3280,Darek (partner),RESTRICTED
+EMP-00180,44500,"29 Meridian Row, Upper Level 31, Brentaal",PCL-6749-1337,Vesna (adult child),RESTRICTED
+EMP-00181,29500,"150 Beacon Walk, Harbour District, Raxus",PCL-7030-8330,Venn (sibling),RESTRICTED
+EMP-00182,121900,"439 Foundry Road, Mid Level 140, Brentaal",PCL-3468-7431,Wilde (adult child),RESTRICTED
+EMP-00183,26400,"422 Nebula Court, Upper Level 12, Corellia",PCL-8342-6208,Faren (spouse),RESTRICTED
+EMP-00184,197700,"86 Arcology Drive, Mid Level 140, Coruscant",PCL-8839-3660,Lorne (friend),RESTRICTED
+EMP-00185,156000,"49 Tidewater Lane, Harbour District, Fondor",PCL-9120-2474,Neve (friend),RESTRICTED
+EMP-00186,129400,"479 Nebula Court, South Ring, Coruscant",PCL-1002-5222,Wren (parent),RESTRICTED
+EMP-00187,182100,"310 Skyline Terrace, North Ring, Corellia",PCL-7301-8058,Odile (spouse),RESTRICTED
+EMP-00188,183000,"424 Nebula Court, Upper Level 12, Sluis Van",PCL-7950-5665,Pela (parent),RESTRICTED
+EMP-00189,142600,"396 Arcology Drive, Mid Level 140, Chandrila",PCL-2724-4655,Emrys (friend),RESTRICTED
+EMP-00190,128700,"412 Arcology Drive, Upper Level 12, Chandrila",PCL-2066-9007,Edric (partner),RESTRICTED
+EMP-00191,183300,"101 Gantry Street, Mid Level 140, Carida",PCL-2524-5441,Lannic (partner),RESTRICTED
+EMP-00192,137300,"234 Meridian Row, Mid Level 212, Eriadu",PCL-8966-9670,Maren (friend),RESTRICTED
+EMP-00193,169700,"1 Lantern Street, Mid Level 212, Corellia",PCL-1807-2532,Marik (partner),RESTRICTED
+EMP-00194,148200,"219 Foundry Road, Mid Level 140, Carida",PCL-9031-1633,Hollis (partner),RESTRICTED
+EMP-00195,144200,"301 Meridian Row, Upper Level 12, Carida",PCL-7106-2034,Tova (partner),RESTRICTED
+EMP-00196,28500,"5 Beacon Walk, Upper Level 12, Corellia",PCL-2630-5288,Arlo (spouse),RESTRICTED
+EMP-00197,47800,"117 Gantry Street, Old Quarter, Corellia",PCL-5514-4651,Arlo (spouse),RESTRICTED
+EMP-00198,65000,"135 Spire Avenue, Upper Level 31, Kuat",PCL-4269-2624,Amsel (friend),RESTRICTED
+EMP-00199,64200,"442 Foundry Road, Harbour District, Lothal",PCL-7809-9561,Elian (partner),RESTRICTED
+EMP-00200,43200,"56 Arcology Drive, Mid Level 212, Alsakan",PCL-5939-1430,Vira (sibling),RESTRICTED
+EMP-00201,65400,"314 Comet Close, Mid Level 140, Coruscant",PCL-9118-5619,Edda (parent),RESTRICTED
+EMP-00202,53900,"401 Spire Avenue, Mid Level 140, Raxus",PCL-2971-9813,Sabel (friend),RESTRICTED
+EMP-00203,64500,"382 Skyline Terrace, Mid Level 212, Fondor",PCL-6210-6815,Quell (adult child),RESTRICTED
+EMP-00204,132000,"73 Tidewater Lane, Upper Level 31, Carida",PCL-7911-3253,Gessa (parent),RESTRICTED
+EMP-00205,89000,"405 Lantern Street, Upper Level 12, Lothal",PCL-3910-5002,Halden (friend),RESTRICTED
+EMP-00206,91900,"30 Gantry Street, North Ring, Abregado-rae",PCL-9006-9290,Quell (spouse),RESTRICTED
+EMP-00207,89700,"9 Foundry Road, Upper Level 31, Coruscant",PCL-6557-5700,Tova (friend),RESTRICTED
+EMP-00208,56900,"159 Spire Avenue, Mid Level 140, Alsakan",PCL-7841-8366,Wilde (friend),RESTRICTED
+EMP-00209,38800,"49 Meridian Row, Upper Level 12, Sluis Van",PCL-9762-8820,Edric (parent),RESTRICTED
+EMP-00210,58600,"130 Senate Mile, Mid Level 140, Corellia",PCL-5848-6648,Tilda (spouse),RESTRICTED
+EMP-00211,61100,"468 Arcology Drive, Harbour District, Brentaal",PCL-3919-4525,Lannic (spouse),RESTRICTED
+EMP-00212,42000,"441 Tidewater Lane, Harbour District, Coruscant",PCL-3554-3692,Wren (adult child),RESTRICTED
+EMP-00213,31600,"328 Beacon Walk, Upper Level 12, Brentaal",PCL-9624-1540,Tamsin (spouse),RESTRICTED
+EMP-00214,30900,"298 Nebula Court, North Ring, Alderaan",PCL-9990-1668,Bale (spouse),RESTRICTED
+EMP-00215,73100,"320 Lantern Street, Mid Level 140, Corulag",PCL-3369-2747,Garrow (sibling),RESTRICTED
+EMP-00216,44800,"323 Lantern Street, Harbour District, Alsakan",PCL-1265-3016,Xan (sibling),RESTRICTED
+EMP-00217,38600,"22 Gantry Street, North Ring, Coruscant",PCL-8000-8586,Nadia (partner),RESTRICTED
+EMP-00218,125100,"1 Skyline Terrace, Mid Level 140, Coruscant",PCL-3862-7639,Daro (parent),RESTRICTED
+EMP-00219,96400,"310 Spire Avenue, Mid Level 212, Brentaal",PCL-5546-2792,Tilda (friend),RESTRICTED
+EMP-00220,79000,"22 Arcology Drive, Mid Level 212, Lothal",PCL-9774-6230,Faren (friend),RESTRICTED
+EMP-00221,32500,"98 Lantern Street, Mid Level 140, Scarif",PCL-8945-8581,Kier (sibling),RESTRICTED
+EMP-00222,54400,"403 Nebula Court, Mid Level 212, Carida",PCL-3087-9305,Ilka (spouse),RESTRICTED
+EMP-00223,109900,"434 Meridian Row, Mid Level 140, Mon Gazza",PCL-3468-3641,Vance (friend),RESTRICTED
+EMP-00224,41200,"211 Foundry Road, Old Quarter, Coruscant",PCL-5438-4282,Maddox (friend),RESTRICTED
+EMP-00225,59000,"90 Nebula Court, Mid Level 212, Alsakan",PCL-4549-8180,Tyce (parent),RESTRICTED
+EMP-00226,76200,"106 Harbour Lane, Mid Level 140, Ord Mantell",PCL-5422-3596,Joren (spouse),RESTRICTED
+EMP-00227,60000,"386 Foundry Road, Mid Level 140, Raxus",PCL-7967-6151,Senna (spouse),RESTRICTED
+EMP-00228,52100,"315 Spire Avenue, Mid Level 212, Garel",PCL-3353-7385,Larsa (sibling),RESTRICTED
+EMP-00229,63000,"80 Comet Close, Mid Level 140, Corellia",PCL-3427-7919,Elara (friend),RESTRICTED
+EMP-00230,27000,"325 Skyline Terrace, Upper Level 12, Lothal",PCL-8374-2729,Lannic (partner),RESTRICTED
+EMP-00231,27000,"419 Beacon Walk, South Ring, Anaxes",PCL-5733-7007,Odile (spouse),RESTRICTED
+EMP-00232,60300,"128 Comet Close, South Ring, Raxus",PCL-2309-7552,Merrin (parent),RESTRICTED
+EMP-00233,55000,"325 Arcology Drive, Mid Level 212, Raxus",PCL-8151-4097,Vela (friend),RESTRICTED
+EMP-00234,78100,"460 Orbital Way, Old Quarter, Coruscant",PCL-5043-1809,Orla (friend),RESTRICTED
+EMP-00235,35700,"187 Foundry Road, North Ring, Carida",PCL-7991-3396,Davin (sibling),RESTRICTED
+EMP-00236,34300,"16 Comet Close, Old Quarter, Alsakan",PCL-8110-1582,Carys (sibling),RESTRICTED
+EMP-00237,38100,"230 Tidewater Lane, Old Quarter, Carida",PCL-9120-1114,Elara (partner),RESTRICTED
+EMP-00238,48500,"130 Nebula Court, Upper Level 31, Eriadu",PCL-4527-1597,Riven (friend),RESTRICTED
+EMP-00239,35800,"6 Foundry Road, South Ring, Coruscant",PCL-1293-2300,Anneka (friend),RESTRICTED
+EMP-00240,38900,"397 Nebula Court, Mid Level 212, Coruscant",PCL-6453-6918,Calla (parent),RESTRICTED
+EMP-00241,37800,"411 Comet Close, Mid Level 140, Coruscant",PCL-5341-6159,Nalen (spouse),RESTRICTED
+EMP-00242,58500,"351 Gantry Street, Old Quarter, Fondor",PCL-2276-3129,Nadia (adult child),RESTRICTED
+EMP-00243,76900,"134 Tidewater Lane, North Ring, Coruscant",PCL-7449-7033,Hessa (spouse),RESTRICTED
+EMP-00244,116500,"282 Harbour Lane, Mid Level 212, Eriadu",PCL-9542-7708,Renate (adult child),RESTRICTED
+EMP-00245,40200,"438 Foundry Road, South Ring, Coruscant",PCL-5490-3397,Maddox (partner),RESTRICTED
+EMP-00246,65900,"213 Beacon Walk, Mid Level 140, Anaxes",PCL-2874-5781,Marik (spouse),RESTRICTED
+EMP-00247,75800,"14 Lantern Street, North Ring, Coruscant",PCL-3316-6744,Garnet (sibling),RESTRICTED
+EMP-00248,44300,"88 Orbital Way, Upper Level 12, Alsakan",PCL-6401-8502,Garrow (partner),RESTRICTED
+EMP-00249,29200,"474 Orbital Way, Mid Level 140, Corellia",PCL-6250-1734,Arden (friend),RESTRICTED
+EMP-00250,28900,"117 Foundry Road, Upper Level 31, Coruscant",PCL-4142-4451,Ivor (adult child),RESTRICTED
+EMP-00251,54300,"208 Spire Avenue, Upper Level 31, Kuat",PCL-7577-6047,Vala (adult child),RESTRICTED
+EMP-00252,55900,"135 Foundry Road, Upper Level 12, Coruscant",PCL-1957-2869,Corra (friend),RESTRICTED
+EMP-00253,72500,"347 Comet Close, Harbour District, Corellia",PCL-7621-8925,Daro (spouse),RESTRICTED
+EMP-00254,33500,"137 Nebula Court, Upper Level 31, Eriadu",PCL-9643-6471,Finnick (spouse),RESTRICTED
+EMP-00255,54800,"153 Tidewater Lane, Upper Level 31, Chandrila",PCL-9137-2471,Arden (partner),RESTRICTED
+EMP-00256,31700,"309 Meridian Row, South Ring, Coruscant",PCL-1337-4453,Brisk (spouse),RESTRICTED
+EMP-00257,91700,"4 Arcology Drive, Mid Level 140, Coruscant",PCL-5322-1827,Quell (friend),RESTRICTED
+EMP-00258,63400,"54 Arcology Drive, Mid Level 140, Coruscant",PCL-2053-8522,Fallon (friend),RESTRICTED
+EMP-00259,29600,"136 Gantry Street, Old Quarter, Carida",PCL-3050-2828,Orrin (friend),RESTRICTED
+EMP-00260,28300,"102 Spire Avenue, Old Quarter, Corellia",PCL-7034-9443,Darek (spouse),RESTRICTED
+EMP-00261,82000,"311 Arcology Drive, North Ring, Carida",PCL-8486-5395,Soren (adult child),RESTRICTED
+EMP-00262,47500,"376 Tidewater Lane, Upper Level 12, Carida",PCL-5559-9385,Davin (sibling),RESTRICTED
+EMP-00263,62200,"39 Foundry Road, Old Quarter, Kuat",PCL-7546-1163,Maddox (sibling),RESTRICTED
+EMP-00264,31300,"174 Harbour Lane, Upper Level 12, Coruscant",PCL-3745-6248,Neve (sibling),RESTRICTED
+EMP-00265,45500,"174 Orbital Way, Harbour District, Lothal",PCL-9147-9818,Arlo (parent),RESTRICTED
+EMP-00266,31900,"123 Comet Close, Upper Level 31, Chandrila",PCL-4602-8163,Arden (friend),RESTRICTED
+EMP-00267,37300,"296 Meridian Row, Upper Level 31, Fondor",PCL-8787-7671,Vance (spouse),RESTRICTED
+EMP-00268,43900,"402 Arcology Drive, North Ring, Chandrila",PCL-6089-4265,Sarik (friend),RESTRICTED
+EMP-00269,47300,"358 Gantry Street, Old Quarter, Coruscant",PCL-6971-2751,Tilda (partner),RESTRICTED
+EMP-00270,122900,"215 Meridian Row, South Ring, Ord Mantell",PCL-8743-6397,Bryn (friend),RESTRICTED
+EMP-00271,110600,"447 Meridian Row, North Ring, Coruscant",PCL-1131-9532,Calla (sibling),RESTRICTED
+EMP-00272,69200,"191 Skyline Terrace, Old Quarter, Raxus",PCL-1891-6168,Jessa (adult child),RESTRICTED
+EMP-00273,76800,"313 Harbour Lane, South Ring, Mon Gazza",PCL-6442-3881,Rain (friend),RESTRICTED
+EMP-00274,30400,"200 Comet Close, North Ring, Brentaal",PCL-1316-4167,Rain (spouse),RESTRICTED
+EMP-00275,35100,"460 Spire Avenue, South Ring, Coruscant",PCL-8643-2586,Edric (spouse),RESTRICTED
+EMP-00276,27100,"151 Orbital Way, Harbour District, Mon Gazza",PCL-4431-1980,Vala (parent),RESTRICTED
+EMP-00277,43300,"146 Tidewater Lane, Mid Level 140, Corellia",PCL-5103-7305,Kesia (sibling),RESTRICTED
+EMP-00278,119200,"430 Meridian Row, Mid Level 140, Coruscant",PCL-9501-8691,Gavren (adult child),RESTRICTED
+EMP-00279,49800,"404 Nebula Court, South Ring, Eriadu",PCL-8350-7618,Lutz (parent),RESTRICTED
+EMP-00280,54900,"412 Lantern Street, Upper Level 31, Coruscant",PCL-9082-7485,Imra (partner),RESTRICTED
+EMP-00281,52600,"260 Orbital Way, Mid Level 140, Corulag",PCL-5496-3301,Kesia (partner),RESTRICTED
+EMP-00282,64700,"456 Spire Avenue, South Ring, Coruscant",PCL-3310-6180,Davin (adult child),RESTRICTED
+EMP-00283,84100,"203 Spire Avenue, Old Quarter, Kuat",PCL-6633-2413,Arlo (sibling),RESTRICTED
+EMP-00284,35900,"224 Nebula Court, Upper Level 12, Eriadu",PCL-2850-6607,Cassia (spouse),RESTRICTED
+EMP-00285,125800,"188 Arcology Drive, Upper Level 31, Corellia",PCL-4525-5754,Sola (friend),RESTRICTED
+EMP-00286,48900,"118 Meridian Row, South Ring, Eriadu",PCL-9998-7343,Mesa (sibling),RESTRICTED
+EMP-00287,36800,"96 Meridian Row, Old Quarter, Kuat",PCL-3013-7873,Teague (sibling),RESTRICTED
+EMP-00288,43100,"232 Nebula Court, Harbour District, Eriadu",PCL-5051-8606,Orrin (friend),RESTRICTED
+EMP-00289,53600,"36 Harbour Lane, North Ring, Carida",PCL-6927-7834,Lannic (sibling),RESTRICTED
+EMP-00290,30800,"22 Nebula Court, Harbour District, Coruscant",PCL-3723-7606,Edric (partner),RESTRICTED
+EMP-00291,39000,"33 Nebula Court, Old Quarter, Corellia",PCL-4786-9013,Nalen (friend),RESTRICTED
+EMP-00292,31200,"384 Gantry Street, Old Quarter, Corellia",PCL-3935-9613,Finnick (partner),RESTRICTED
+EMP-00293,224800,"57 Beacon Walk, Upper Level 31, Kuat",PCL-8819-2655,Anneka (parent),RESTRICTED
+EMP-00294,140200,"355 Comet Close, Upper Level 31, Garel",PCL-9556-6989,Wyatt (sibling),RESTRICTED
+EMP-00295,129700,"357 Arcology Drive, Mid Level 140, Kuat",PCL-6183-2868,Maren (friend),RESTRICTED
+EMP-00296,176100,"80 Comet Close, Upper Level 31, Chandrila",PCL-8591-6805,Wyatt (parent),RESTRICTED
+EMP-00297,161600,"350 Orbital Way, Mid Level 212, Corellia",PCL-7217-2186,Tessa (friend),RESTRICTED
+EMP-00298,150000,"351 Nebula Court, Upper Level 12, Corellia",PCL-5720-7448,Sarik (partner),RESTRICTED
+EMP-00299,152700,"79 Arcology Drive, Old Quarter, Alsakan",PCL-4705-5439,Tessa (friend),RESTRICTED
+EMP-00300,162300,"222 Arcology Drive, Upper Level 31, Anaxes",PCL-1285-1924,Larsa (adult child),RESTRICTED
+EMP-00301,133000,"281 Arcology Drive, Mid Level 140, Coruscant",PCL-5801-4543,Daro (friend),RESTRICTED
+EMP-00302,148300,"302 Meridian Row, Mid Level 212, Corellia",PCL-3916-3001,Yara (partner),RESTRICTED
+EMP-00303,80200,"210 Spire Avenue, Mid Level 140, Carida",PCL-1932-5584,Marik (adult child),RESTRICTED
+EMP-00304,37400,"26 Tidewater Lane, Upper Level 12, Chandrila",PCL-5239-8688,Edda (spouse),RESTRICTED
+EMP-00305,73200,"286 Gantry Street, Harbour District, Coruscant",PCL-6229-3862,Talia (sibling),RESTRICTED
+EMP-00306,63400,"324 Foundry Road, Upper Level 12, Eriadu",PCL-9099-9683,Ferris (adult child),RESTRICTED
+EMP-00307,104100,"233 Arcology Drive, South Ring, Sluis Van",PCL-9796-4208,Dorne (spouse),RESTRICTED
+EMP-00308,36000,"345 Foundry Road, Harbour District, Anaxes",PCL-7836-7453,Orrin (friend),RESTRICTED
+EMP-00309,76900,"339 Orbital Way, Upper Level 12, Garel",PCL-4331-6413,Orla (spouse),RESTRICTED
+EMP-00310,69900,"175 Harbour Lane, Mid Level 140, Bespin",PCL-2135-6363,Tilda (spouse),RESTRICTED
+EMP-00311,109400,"309 Harbour Lane, South Ring, Chandrila",PCL-7077-2791,Maren (parent),RESTRICTED
+EMP-00312,50500,"255 Orbital Way, Harbour District, Coruscant",PCL-5331-4109,Arden (spouse),RESTRICTED
+EMP-00313,42600,"269 Arcology Drive, Upper Level 31, Coruscant",PCL-9632-9470,Orla (adult child),RESTRICTED
+EMP-00314,80300,"213 Skyline Terrace, Mid Level 140, Corellia",PCL-2695-4102,Jaska (partner),RESTRICTED
+EMP-00315,56200,"450 Orbital Way, South Ring, Kuat",PCL-1089-5767,Joren (sibling),RESTRICTED
+EMP-00316,74900,"85 Harbour Lane, Upper Level 12, Scarif",PCL-8829-6906,Faren (parent),RESTRICTED
+EMP-00317,36700,"140 Skyline Terrace, Mid Level 140, Corellia",PCL-2202-3606,Jessa (spouse),RESTRICTED
+EMP-00318,51500,"68 Nebula Court, South Ring, Kuat",PCL-9004-7700,Danna (partner),RESTRICTED
+EMP-00319,75700,"435 Nebula Court, Mid Level 212, Carida",PCL-3997-7945,Kesia (sibling),RESTRICTED
+EMP-00320,113500,"330 Orbital Way, Harbour District, Garel",PCL-4496-7677,Aldo (partner),RESTRICTED
+EMP-00321,59200,"82 Meridian Row, North Ring, Kuat",PCL-6067-4064,Sarik (partner),RESTRICTED
+EMP-00322,52800,"345 Foundry Road, North Ring, Carida",PCL-1493-1335,Darek (parent),RESTRICTED
+EMP-00323,30500,"411 Skyline Terrace, Mid Level 212, Lothal",PCL-8498-3922,Quell (partner),RESTRICTED
+EMP-00324,36700,"438 Spire Avenue, Upper Level 31, Carida",PCL-1501-7032,Gavren (sibling),RESTRICTED
+EMP-00325,31900,"303 Lantern Street, Mid Level 140, Eriadu",PCL-1837-9386,Bastian (sibling),RESTRICTED
+EMP-00326,43000,"369 Skyline Terrace, Harbour District, Lothal",PCL-7184-2862,Nadia (partner),RESTRICTED
+EMP-00327,123600,"299 Tidewater Lane, Mid Level 140, Eriadu",PCL-3255-4310,Karsten (adult child),RESTRICTED
+EMP-00328,65300,"326 Spire Avenue, Harbour District, Anaxes",PCL-8630-2913,Halden (spouse),RESTRICTED
+EMP-00329,26600,"128 Orbital Way, Upper Level 31, Scarif",PCL-4692-4294,Quell (sibling),RESTRICTED
+EMP-00330,50200,"311 Spire Avenue, Harbour District, Fondor",PCL-1501-4206,Vela (friend),RESTRICTED
+EMP-00331,51100,"210 Beacon Walk, South Ring, Scarif",PCL-8067-1817,Edda (parent),RESTRICTED
+EMP-00332,48400,"146 Arcology Drive, Mid Level 140, Carida",PCL-9572-1890,Kirra (partner),RESTRICTED
+EMP-00333,75300,"35 Meridian Row, Harbour District, Abregado-rae",PCL-5856-6349,Rain (sibling),RESTRICTED
+EMP-00334,49300,"327 Gantry Street, Upper Level 12, Coruscant",PCL-1707-9545,Elian (friend),RESTRICTED
+EMP-00335,50200,"422 Tidewater Lane, South Ring, Corellia",PCL-1024-5763,Tamsin (sibling),RESTRICTED
+EMP-00336,54300,"168 Lantern Street, South Ring, Alderaan",PCL-8435-6861,Wilde (partner),RESTRICTED
+EMP-00337,88700,"179 Senate Mile, Upper Level 12, Chandrila",PCL-5217-6849,Osric (spouse),RESTRICTED
+EMP-00338,32100,"447 Tidewater Lane, Upper Level 12, Alsakan",PCL-5457-6988,Lannic (spouse),RESTRICTED
+EMP-00339,48300,"159 Harbour Lane, South Ring, Scarif",PCL-4493-8557,Nerys (partner),RESTRICTED
+EMP-00340,26000,"112 Gantry Street, South Ring, Kuat",PCL-7728-4536,Maelis (friend),RESTRICTED
+EMP-00341,82100,"131 Gantry Street, Mid Level 140, Lothal",PCL-8453-5674,Saela (partner),RESTRICTED
+EMP-00342,46600,"412 Comet Close, Upper Level 12, Fondor",PCL-1145-3876,Cassia (adult child),RESTRICTED
+EMP-00343,37600,"52 Tidewater Lane, Upper Level 31, Corulag",PCL-9999-8734,Cedric (partner),RESTRICTED
+EMP-00344,71800,"123 Spire Avenue, Upper Level 12, Abregado-rae",PCL-9242-2696,Kael (sibling),RESTRICTED
+EMP-00345,119500,"378 Senate Mile, North Ring, Alsakan",PCL-2667-5729,Garnet (partner),RESTRICTED
+EMP-00346,47300,"41 Arcology Drive, Mid Level 212, Alderaan",PCL-1410-1374,Emrys (parent),RESTRICTED
+EMP-00347,91400,"312 Beacon Walk, Harbour District, Raxus",PCL-6134-5811,Calla (friend),RESTRICTED
+EMP-00348,28000,"296 Lantern Street, South Ring, Kuat",PCL-7014-5121,Vira (partner),RESTRICTED
+EMP-00349,61700,"390 Gantry Street, Mid Level 212, Mon Gazza",PCL-4041-4889,Nalen (adult child),RESTRICTED
+EMP-00350,65600,"250 Gantry Street, Upper Level 12, Coruscant",PCL-4377-6881,Orrin (spouse),RESTRICTED
+EMP-00351,74100,"131 Tidewater Lane, North Ring, Lothal",PCL-4888-7665,Elsk (sibling),RESTRICTED
+EMP-00352,91500,"58 Arcology Drive, Mid Level 212, Anaxes",PCL-8066-4960,Ilka (spouse),RESTRICTED
+EMP-00353,65300,"406 Spire Avenue, Harbour District, Chandrila",PCL-5559-1955,Corra (friend),RESTRICTED
+EMP-00354,77600,"315 Nebula Court, Harbour District, Carida",PCL-2724-6509,Ilka (adult child),RESTRICTED
+EMP-00355,64200,"443 Nebula Court, Upper Level 31, Kuat",PCL-6239-5011,Dalric (parent),RESTRICTED
+EMP-00356,109500,"455 Lantern Street, Mid Level 140, Eriadu",PCL-2248-5369,Wolfram (friend),RESTRICTED
+EMP-00357,43300,"281 Foundry Road, Upper Level 31, Coruscant",PCL-2921-7656,Ulric (parent),RESTRICTED
+EMP-00358,40900,"433 Meridian Row, Mid Level 140, Corulag",PCL-2850-3650,Edda (spouse),RESTRICTED
+EMP-00359,67300,"438 Comet Close, Upper Level 12, Sluis Van",PCL-2401-2324,Dalric (parent),RESTRICTED
+EMP-00360,66600,"322 Beacon Walk, Harbour District, Corellia",PCL-4719-8039,Ilka (partner),RESTRICTED
+EMP-00361,121300,"2 Meridian Row, Mid Level 140, Coruscant",PCL-6828-2307,Tilda (parent),RESTRICTED
+EMP-00362,71500,"469 Senate Mile, Old Quarter, Alderaan",PCL-3189-5635,Casimir (sibling),RESTRICTED
+EMP-00363,100600,"415 Foundry Road, South Ring, Fondor",PCL-1738-3278,Sola (parent),RESTRICTED
+EMP-00364,36800,"464 Harbour Lane, South Ring, Coruscant",PCL-8318-4331,Amsel (adult child),RESTRICTED
+EMP-00365,61200,"40 Lantern Street, Old Quarter, Alderaan",PCL-6978-1764,Saela (friend),RESTRICTED
+EMP-00366,62000,"391 Beacon Walk, North Ring, Kuat",PCL-2478-3306,Halden (partner),RESTRICTED
+EMP-00367,43700,"208 Foundry Road, North Ring, Eriadu",PCL-2136-2232,Henrik (spouse),RESTRICTED
+EMP-00368,88800,"422 Meridian Row, South Ring, Lothal",PCL-2389-2529,Venn (partner),RESTRICTED
+EMP-00369,36100,"281 Orbital Way, Upper Level 31, Abregado-rae",PCL-6259-9181,Esme (parent),RESTRICTED
+EMP-00370,51200,"47 Foundry Road, North Ring, Coruscant",PCL-6132-5699,Theron (partner),RESTRICTED
+EMP-00371,77900,"77 Harbour Lane, Mid Level 212, Lothal",PCL-2005-5022,Daro (partner),RESTRICTED
+EMP-00372,54400,"243 Tidewater Lane, South Ring, Coruscant",PCL-2582-6681,Soren (friend),RESTRICTED
+EMP-00373,38700,"446 Foundry Road, Harbour District, Corellia",PCL-7248-6349,Ferris (partner),RESTRICTED
+EMP-00374,64900,"7 Meridian Row, Harbour District, Alsakan",PCL-2799-1531,Aldo (friend),RESTRICTED
+EMP-00375,32400,"71 Nebula Court, Upper Level 12, Brentaal",PCL-6219-3823,Dace (sibling),RESTRICTED
+EMP-00376,27000,"441 Arcology Drive, Mid Level 212, Coruscant",PCL-7356-4978,Elsk (sibling),RESTRICTED
+EMP-00377,225600,"252 Skyline Terrace, South Ring, Naboo",PCL-8019-2312,Lannic (parent),RESTRICTED
+EMP-00378,157300,"164 Nebula Court, Mid Level 140, Coruscant",PCL-5117-9419,Joren (spouse),RESTRICTED
+EMP-00379,135100,"247 Orbital Way, Mid Level 140, Anaxes",PCL-7628-6090,Petra (friend),RESTRICTED
+EMP-00380,132400,"44 Harbour Lane, Mid Level 212, Kuat",PCL-9355-1329,Dace (adult child),RESTRICTED
+EMP-00381,158300,"92 Meridian Row, North Ring, Coruscant",PCL-3797-7110,Halden (sibling),RESTRICTED
+EMP-00382,152500,"429 Gantry Street, Harbour District, Coruscant",PCL-2001-9735,Anneka (adult child),RESTRICTED
+EMP-00383,130500,"253 Beacon Walk, North Ring, Coruscant",PCL-9646-3561,Isolde (friend),RESTRICTED
+EMP-00384,52900,"205 Gantry Street, Mid Level 140, Brentaal",PCL-8081-5963,Rell (friend),RESTRICTED
+EMP-00385,28200,"417 Meridian Row, South Ring, Chandrila",PCL-5333-8061,Caddoc (friend),RESTRICTED
+EMP-00386,39300,"203 Tidewater Lane, North Ring, Garel",PCL-3321-3792,Kestin (spouse),RESTRICTED
+EMP-00387,61800,"151 Foundry Road, Harbour District, Coruscant",PCL-5626-9997,Bale (sibling),RESTRICTED
+EMP-00388,29600,"419 Spire Avenue, North Ring, Fondor",PCL-8437-4517,Linnea (partner),RESTRICTED
+EMP-00389,31100,"250 Meridian Row, Upper Level 12, Alsakan",PCL-1425-3028,Daro (partner),RESTRICTED
+EMP-00390,64400,"230 Spire Avenue, North Ring, Sluis Van",PCL-4783-8872,Tarn (parent),RESTRICTED
+EMP-00391,34500,"414 Senate Mile, Mid Level 140, Alsakan",PCL-6761-6033,Sabel (sibling),RESTRICTED
+EMP-00392,84900,"308 Foundry Road, Mid Level 140, Ord Mantell",PCL-6979-6132,Maddox (sibling),RESTRICTED
+EMP-00393,98900,"226 Beacon Walk, North Ring, Fondor",PCL-5558-3417,Darek (spouse),RESTRICTED
+EMP-00394,64800,"423 Foundry Road, Upper Level 31, Eriadu",PCL-1620-5122,Elara (friend),RESTRICTED
+EMP-00395,102900,"236 Skyline Terrace, Old Quarter, Anaxes",PCL-6098-1590,Edda (partner),RESTRICTED
+EMP-00396,91100,"48 Gantry Street, Mid Level 212, Raxus",PCL-2134-2354,Kael (sibling),RESTRICTED
+EMP-00397,129100,"187 Tidewater Lane, Harbour District, Kuat",PCL-1281-8537,Wyatt (friend),RESTRICTED
+EMP-00398,29900,"177 Orbital Way, South Ring, Corellia",PCL-1220-1186,Jessa (sibling),RESTRICTED
+EMP-00399,54900,"302 Senate Mile, Mid Level 140, Corulag",PCL-4353-7555,Halden (partner),RESTRICTED
+EMP-00400,48000,"367 Comet Close, North Ring, Corellia",PCL-9889-6105,Vala (sibling),RESTRICTED
+EMP-00401,104900,"265 Gantry Street, Old Quarter, Coruscant",PCL-6264-5432,Tova (friend),RESTRICTED
+EMP-00402,52500,"17 Comet Close, South Ring, Eriadu",PCL-3963-4978,Jutta (adult child),RESTRICTED
+EMP-00403,37400,"61 Comet Close, Old Quarter, Carida",PCL-6414-4175,Talia (sibling),RESTRICTED
+EMP-00404,29200,"38 Beacon Walk, South Ring, Carida",PCL-7640-9426,Joren (partner),RESTRICTED
+EMP-00405,28000,"15 Spire Avenue, Harbour District, Lothal",PCL-5705-8441,Odile (adult child),RESTRICTED
+EMP-00406,31100,"370 Nebula Court, Upper Level 31, Lothal",PCL-2217-9512,Hessa (partner),RESTRICTED
+EMP-00407,76200,"305 Beacon Walk, North Ring, Tepasi",PCL-8499-5207,Wren (parent),RESTRICTED
+EMP-00408,61400,"120 Skyline Terrace, Mid Level 140, Carida",PCL-9145-9192,Theron (adult child),RESTRICTED
+EMP-00409,44500,"451 Foundry Road, South Ring, Kuat",PCL-8733-5499,Orrin (sibling),RESTRICTED
+EMP-00410,107000,"257 Lantern Street, Mid Level 140, Corellia",PCL-2426-2469,Halden (parent),RESTRICTED
+EMP-00411,65600,"100 Orbital Way, Harbour District, Corellia",PCL-9946-9560,Ines (sibling),RESTRICTED
+EMP-00412,51900,"376 Arcology Drive, Mid Level 140, Coruscant",PCL-8822-9660,Gessa (spouse),RESTRICTED
+EMP-00413,27100,"358 Gantry Street, South Ring, Ord Mantell",PCL-5335-9126,Cassia (sibling),RESTRICTED
+EMP-00414,37700,"141 Foundry Road, Upper Level 12, Coruscant",PCL-3827-3411,Bryn (spouse),RESTRICTED
+EMP-00415,43900,"471 Orbital Way, Mid Level 212, Scarif",PCL-6525-5109,Barrin (sibling),RESTRICTED
+EMP-00416,55500,"166 Harbour Lane, Old Quarter, Coruscant",PCL-3719-6264,Alira (partner),RESTRICTED
+EMP-00417,49600,"442 Spire Avenue, Upper Level 12, Coruscant",PCL-6965-8461,Treva (sibling),RESTRICTED
+EMP-00418,54000,"477 Nebula Court, Upper Level 12, Sluis Van",PCL-9885-6490,Wren (friend),RESTRICTED
+EMP-00419,53000,"358 Skyline Terrace, South Ring, Sluis Van",PCL-5970-9721,Aven (friend),RESTRICTED
+EMP-00420,79600,"212 Gantry Street, South Ring, Sluis Van",PCL-1679-8860,Hessa (spouse),RESTRICTED
+EMP-00421,106800,"12 Beacon Walk, Mid Level 140, Garel",PCL-7601-1683,Asha (spouse),RESTRICTED
+EMP-00422,54500,"422 Comet Close, North Ring, Fondor",PCL-4907-6710,Orrin (friend),RESTRICTED
+EMP-00423,51700,"5 Foundry Road, North Ring, Kuat",PCL-5140-2953,Fallon (partner),RESTRICTED
+EMP-00424,44400,"217 Arcology Drive, Upper Level 12, Alderaan",PCL-9769-8463,Jaska (sibling),RESTRICTED
+EMP-00425,80800,"207 Orbital Way, South Ring, Coruscant",PCL-3935-6468,Rafe (friend),RESTRICTED
+EMP-00426,127700,"191 Skyline Terrace, North Ring, Kuat",PCL-5970-5473,Vira (parent),RESTRICTED
+EMP-00427,62000,"88 Arcology Drive, Upper Level 31, Chandrila",PCL-5156-2456,Riven (adult child),RESTRICTED
+EMP-00428,40600,"339 Comet Close, Harbour District, Fondor",PCL-4224-2832,Tarn (friend),RESTRICTED
+EMP-00429,64200,"379 Skyline Terrace, South Ring, Coruscant",PCL-8521-5316,Kier (partner),RESTRICTED
+EMP-00430,48900,"475 Tidewater Lane, Upper Level 31, Scarif",PCL-9240-1322,Tilda (partner),RESTRICTED
+EMP-00431,34700,"70 Comet Close, Mid Level 212, Coruscant",PCL-5319-5883,Ferris (parent),RESTRICTED
+EMP-00432,47300,"289 Meridian Row, Upper Level 12, Raxus",PCL-3447-7937,Tessa (sibling),RESTRICTED
+EMP-00433,53400,"214 Tidewater Lane, North Ring, Mon Gazza",PCL-2658-7938,Perrin (spouse),RESTRICTED
+EMP-00434,27700,"338 Spire Avenue, Upper Level 12, Carida",PCL-5707-1830,Caddoc (sibling),RESTRICTED
+EMP-00435,37500,"416 Harbour Lane, Old Quarter, Coruscant",PCL-5483-8767,Joren (spouse),RESTRICTED
+EMP-00436,201600,"447 Orbital Way, Upper Level 31, Coruscant",PCL-2129-1738,Elian (adult child),RESTRICTED
+EMP-00437,152400,"76 Harbour Lane, Upper Level 31, Alsakan",PCL-6230-7171,Talia (adult child),RESTRICTED
+EMP-00438,161500,"135 Senate Mile, North Ring, Alsakan",PCL-7359-9118,Perrin (sibling),RESTRICTED
+EMP-00439,154800,"95 Beacon Walk, Mid Level 140, Raxus",PCL-7569-8860,Torin (friend),RESTRICTED
+EMP-00440,177200,"197 Foundry Road, Upper Level 12, Carida",PCL-1925-2348,Ivor (parent),RESTRICTED
+EMP-00441,166500,"213 Comet Close, South Ring, Coruscant",PCL-8030-7487,Nerys (partner),RESTRICTED
+EMP-00442,151800,"66 Beacon Walk, South Ring, Abregado-rae",PCL-9765-7887,Hollis (spouse),RESTRICTED
+EMP-00443,147000,"169 Harbour Lane, Upper Level 31, Scarif",PCL-5329-5129,Remy (partner),RESTRICTED
+EMP-00444,133100,"342 Foundry Road, South Ring, Carida",PCL-9159-8364,Finnick (partner),RESTRICTED
+EMP-00445,153200,"99 Tidewater Lane, Harbour District, Coruscant",PCL-3475-3880,Corra (spouse),RESTRICTED
+EMP-00446,40300,"433 Harbour Lane, Mid Level 140, Fondor",PCL-3097-3711,Senna (friend),RESTRICTED
+EMP-00447,33300,"416 Senate Mile, Upper Level 31, Bespin",PCL-7446-8240,Enna (spouse),RESTRICTED
+EMP-00448,44500,"14 Gantry Street, North Ring, Chandrila",PCL-2377-5335,Gessa (partner),RESTRICTED
+EMP-00449,35400,"252 Lantern Street, Mid Level 140, Kuat",PCL-1125-9167,Gavren (partner),RESTRICTED
+EMP-00450,47200,"108 Senate Mile, Mid Level 212, Tepasi",PCL-8374-9390,Garrow (parent),RESTRICTED
+EMP-00451,36500,"464 Senate Mile, Harbour District, Brentaal",PCL-1878-1683,Wren (partner),RESTRICTED
+EMP-00452,46600,"359 Spire Avenue, Harbour District, Fondor",PCL-7896-4716,Wren (sibling),RESTRICTED
+EMP-00453,37100,"218 Beacon Walk, South Ring, Eriadu",PCL-1685-9486,Bernd (spouse),RESTRICTED
+EMP-00454,32700,"124 Harbour Lane, South Ring, Coruscant",PCL-9234-4666,Kaspar (friend),RESTRICTED
+EMP-00455,114400,"45 Orbital Way, Mid Level 140, Corellia",PCL-6078-3920,Rain (sibling),RESTRICTED
+EMP-00456,65200,"1 Harbour Lane, Upper Level 31, Corellia",PCL-1635-4961,Vela (friend),RESTRICTED
+EMP-00457,50400,"476 Meridian Row, Upper Level 12, Alderaan",PCL-3364-9067,Teague (friend),RESTRICTED
+EMP-00458,52500,"141 Gantry Street, South Ring, Alsakan",PCL-4800-7575,Zane (partner),RESTRICTED
+EMP-00459,35500,"161 Nebula Court, Mid Level 140, Eriadu",PCL-1156-8989,Ferris (friend),RESTRICTED
+EMP-00460,45200,"341 Spire Avenue, Harbour District, Alsakan",PCL-3554-1744,Kirra (adult child),RESTRICTED
+EMP-00461,37600,"188 Beacon Walk, Upper Level 31, Chandrila",PCL-6240-4461,Hollis (friend),RESTRICTED
+EMP-00462,54900,"287 Spire Avenue, South Ring, Brentaal",PCL-3641-2210,Ciran (adult child),RESTRICTED
+EMP-00463,30000,"96 Foundry Road, Harbour District, Garel",PCL-2939-9936,Senna (adult child),RESTRICTED
+EMP-00464,35200,"165 Skyline Terrace, Harbour District, Coruscant",PCL-1927-8574,Treva (friend),RESTRICTED
+EMP-00465,36400,"19 Gantry Street, Upper Level 12, Fondor",PCL-3754-9038,Yara (parent),RESTRICTED
+EMP-00466,85300,"431 Meridian Row, Upper Level 31, Kuat",PCL-6004-8586,Emrys (parent),RESTRICTED
+EMP-00467,36100,"346 Senate Mile, Mid Level 140, Garel",PCL-6578-4571,Gavren (parent),RESTRICTED
+EMP-00468,27600,"80 Harbour Lane, South Ring, Corulag",PCL-3084-9677,Rhosa (friend),RESTRICTED
+EMP-00469,61200,"416 Harbour Lane, Upper Level 31, Lothal",PCL-2863-3757,Delia (spouse),RESTRICTED
+EMP-00470,37100,"82 Arcology Drive, Harbour District, Anaxes",PCL-7668-5914,Jory (adult child),RESTRICTED
+EMP-00471,26100,"300 Nebula Court, Upper Level 12, Fondor",PCL-9918-7293,Saela (sibling),RESTRICTED
+EMP-00472,61700,"180 Senate Mile, Upper Level 31, Garel",PCL-1094-6358,Seren (sibling),RESTRICTED
+EMP-00473,119700,"211 Skyline Terrace, North Ring, Coruscant",PCL-6031-3811,Xan (spouse),RESTRICTED
+EMP-00474,71600,"287 Tidewater Lane, Upper Level 31, Eriadu",PCL-8114-9809,Sarik (partner),RESTRICTED
+EMP-00475,61800,"465 Spire Avenue, Old Quarter, Eriadu",PCL-8914-4509,Jarek (sibling),RESTRICTED
+EMP-00476,54000,"11 Lantern Street, Mid Level 212, Eriadu",PCL-2521-9449,Annegret (friend),RESTRICTED
+EMP-00477,32000,"128 Harbour Lane, Mid Level 212, Coruscant",PCL-2373-3911,Ferris (spouse),RESTRICTED
+EMP-00478,78300,"133 Tidewater Lane, Upper Level 31, Lothal",PCL-6880-8523,Ciran (friend),RESTRICTED
+EMP-00479,35900,"17 Harbour Lane, Upper Level 12, Lothal",PCL-5406-6710,Lysander (parent),RESTRICTED
+EMP-00480,37300,"320 Meridian Row, Upper Level 31, Naboo",PCL-3572-5552,Yorik (friend),RESTRICTED
+EMP-00481,52100,"390 Arcology Drive, South Ring, Kuat",PCL-7850-9424,Jory (sibling),RESTRICTED
+EMP-00482,74200,"15 Orbital Way, Mid Level 140, Abregado-rae",PCL-8006-3671,Kier (partner),RESTRICTED
+EMP-00483,48400,"30 Senate Mile, South Ring, Coruscant",PCL-3930-8049,Jessa (adult child),RESTRICTED
+EMP-00484,107100,"61 Harbour Lane, Mid Level 212, Eriadu",PCL-4624-2107,Bastian (parent),RESTRICTED
+EMP-00485,49800,"69 Lantern Street, Mid Level 212, Alderaan",PCL-7794-1691,Davin (parent),RESTRICTED
+EMP-00486,40200,"8 Harbour Lane, Upper Level 12, Coruscant",PCL-3166-3952,Lysander (parent),RESTRICTED
+EMP-00487,69400,"25 Arcology Drive, Upper Level 31, Chandrila",PCL-6014-2672,Yara (friend),RESTRICTED
+EMP-00488,55400,"377 Lantern Street, Mid Level 212, Corellia",PCL-8788-9884,Kaspar (parent),RESTRICTED
+EMP-00489,117300,"445 Orbital Way, Upper Level 12, Coruscant",PCL-5039-4314,Isolde (spouse),RESTRICTED
+EMP-00490,31400,"2 Orbital Way, South Ring, Coruscant",PCL-9878-2746,Edda (spouse),RESTRICTED
+EMP-00491,53900,"357 Harbour Lane, Upper Level 12, Brentaal",PCL-2774-3275,Jarek (sibling),RESTRICTED
+EMP-00492,128800,"250 Beacon Walk, Upper Level 12, Corellia",PCL-6244-4919,Xan (adult child),RESTRICTED
+EMP-00493,84800,"270 Beacon Walk, Mid Level 212, Raxus",PCL-4950-6363,Alira (spouse),RESTRICTED
+EMP-00494,30700,"5 Orbital Way, North Ring, Raxus",PCL-1631-8875,Quell (spouse),RESTRICTED
+EMP-00495,27600,"302 Lantern Street, Upper Level 31, Coruscant",PCL-2617-3345,Hale (sibling),RESTRICTED
+EMP-00496,47800,"323 Tidewater Lane, Upper Level 12, Coruscant",PCL-3508-8081,Sola (sibling),RESTRICTED
+EMP-00497,52100,"53 Foundry Road, South Ring, Corellia",PCL-9429-4738,Joren (parent),RESTRICTED
+EMP-00498,35700,"419 Comet Close, Mid Level 140, Naboo",PCL-6443-4592,Hessa (friend),RESTRICTED
+EMP-00499,34000,"105 Beacon Walk, Harbour District, Corellia",PCL-7950-9108,Hollis (parent),RESTRICTED
+EMP-00500,61900,"290 Meridian Row, Mid Level 140, Corellia",PCL-5992-1080,Carys (friend),RESTRICTED
+EMP-00501,68400,"339 Gantry Street, Old Quarter, Ord Mantell",PCL-6507-8301,Edric (spouse),RESTRICTED
+EMP-00502,126900,"100 Spire Avenue, North Ring, Tepasi",PCL-8403-1698,Tamsin (friend),RESTRICTED
+EMP-00503,93500,"352 Arcology Drive, Mid Level 140, Alsakan",PCL-9678-2530,Larsa (spouse),RESTRICTED
+EMP-00504,35400,"151 Foundry Road, Harbour District, Coruscant",PCL-7430-5622,Dorne (spouse),RESTRICTED
+EMP-00505,125900,"247 Nebula Court, Mid Level 212, Corellia",PCL-4172-2260,Pela (sibling),RESTRICTED
+EMP-00506,36900,"363 Foundry Road, Mid Level 212, Coruscant",PCL-7593-6441,Daro (parent),RESTRICTED
+EMP-00507,51000,"106 Nebula Court, South Ring, Kuat",PCL-7589-4485,Dorne (adult child),RESTRICTED
+EMP-00508,77200,"335 Tidewater Lane, North Ring, Corellia",PCL-3618-3274,Maren (spouse),RESTRICTED
+EMP-00509,29400,"336 Lantern Street, Mid Level 140, Corulag",PCL-5323-5609,Dorne (sibling),RESTRICTED
+EMP-00510,54100,"104 Beacon Walk, Old Quarter, Lothal",PCL-2768-5592,Vela (partner),RESTRICTED
+EMP-00511,49600,"378 Nebula Court, Upper Level 31, Tepasi",PCL-3408-9785,Maddox (partner),RESTRICTED
+EMP-00512,73500,"112 Arcology Drive, Old Quarter, Kuat",PCL-9350-9318,Seren (sibling),RESTRICTED
+EMP-00513,103100,"75 Spire Avenue, South Ring, Alsakan",PCL-2738-9534,Garrow (partner),RESTRICTED
+EMP-00514,37400,"7 Foundry Road, Upper Level 31, Coruscant",PCL-1925-9999,Elian (spouse),RESTRICTED
+EMP-00515,38800,"246 Orbital Way, Upper Level 31, Anaxes",PCL-9097-6350,Wilde (partner),RESTRICTED
+EMP-00516,73100,"475 Foundry Road, Old Quarter, Coruscant",PCL-1817-2712,Rafe (parent),RESTRICTED
+EMP-00517,64300,"67 Arcology Drive, Mid Level 140, Anaxes",PCL-1089-3921,Brisk (parent),RESTRICTED
+EMP-00518,39200,"297 Spire Avenue, North Ring, Corellia",PCL-5217-4978,Perrin (friend),RESTRICTED
+EMP-00519,83000,"70 Tidewater Lane, Harbour District, Alderaan",PCL-5768-1814,Vance (parent),RESTRICTED
+EMP-00520,100900,"106 Comet Close, Mid Level 140, Fondor",PCL-2641-7328,Rafe (adult child),RESTRICTED
+EMP-00521,36400,"388 Foundry Road, Harbour District, Corellia",PCL-1326-1267,Daro (adult child),RESTRICTED
+EMP-00522,100400,"335 Nebula Court, Harbour District, Chandrila",PCL-6769-5371,Merrin (spouse),RESTRICTED
+EMP-00523,44000,"308 Harbour Lane, North Ring, Eriadu",PCL-9965-7329,Dagmar (friend),RESTRICTED
+EMP-00524,66000,"176 Lantern Street, Upper Level 12, Coruscant",PCL-2030-6183,Tova (friend),RESTRICTED
+EMP-00525,203100,"353 Skyline Terrace, Mid Level 140, Kuat",PCL-9426-8172,Yara (friend),RESTRICTED
+EMP-00526,137600,"81 Harbour Lane, Mid Level 140, Fondor",PCL-8092-6305,Wyatt (spouse),RESTRICTED
+EMP-00527,132800,"333 Harbour Lane, Mid Level 140, Anaxes",PCL-9173-5903,Casimir (adult child),RESTRICTED
+EMP-00528,138900,"422 Beacon Walk, Mid Level 212, Coruscant",PCL-3281-3723,Rhett (sibling),RESTRICTED
+EMP-00529,140600,"111 Spire Avenue, North Ring, Fondor",PCL-9850-6333,Evran (spouse),RESTRICTED
+EMP-00530,176600,"141 Meridian Row, Mid Level 212, Lothal",PCL-7438-1279,Nalen (spouse),RESTRICTED
+EMP-00531,147600,"124 Arcology Drive, Old Quarter, Alsakan",PCL-9722-7156,Tessa (spouse),RESTRICTED
+EMP-00532,74100,"270 Nebula Court, Mid Level 212, Alderaan",PCL-1109-6094,Oren (sibling),RESTRICTED
+EMP-00533,35000,"123 Spire Avenue, North Ring, Coruscant",PCL-2635-6813,Aven (sibling),RESTRICTED
+EMP-00534,49800,"170 Beacon Walk, North Ring, Corellia",PCL-3625-4807,Enna (adult child),RESTRICTED
+EMP-00535,28600,"94 Comet Close, Upper Level 31, Coruscant",PCL-9274-7172,Tamsin (partner),RESTRICTED
+EMP-00536,71800,"27 Lantern Street, Upper Level 31, Anaxes",PCL-5613-2675,Venn (friend),RESTRICTED
+EMP-00537,78700,"116 Comet Close, Old Quarter, Abregado-rae",PCL-3051-5217,Dorne (sibling),RESTRICTED
+EMP-00538,91200,"459 Lantern Street, Mid Level 212, Alderaan",PCL-6253-3858,Aven (spouse),RESTRICTED
+EMP-00539,119700,"108 Spire Avenue, North Ring, Brentaal",PCL-9179-9833,Gessa (sibling),RESTRICTED
+EMP-00540,92700,"259 Nebula Court, Upper Level 12, Fondor",PCL-2660-6455,Asha (spouse),RESTRICTED
+EMP-00541,74200,"158 Beacon Walk, Old Quarter, Carida",PCL-6351-3425,Noa (adult child),RESTRICTED
+EMP-00542,49600,"446 Nebula Court, North Ring, Kuat",PCL-7157-4840,Callum (sibling),RESTRICTED
+EMP-00543,36900,"454 Orbital Way, Mid Level 140, Anaxes",PCL-5781-6820,Torin (partner),RESTRICTED
+EMP-00544,53400,"381 Lantern Street, Mid Level 212, Coruscant",PCL-2108-8136,Davin (sibling),RESTRICTED
+EMP-00545,90100,"219 Nebula Court, Old Quarter, Carida",PCL-1030-4323,Rafe (adult child),RESTRICTED
+EMP-00546,37100,"402 Skyline Terrace, North Ring, Raxus",PCL-4861-3732,Talia (adult child),RESTRICTED
+EMP-00547,65800,"300 Senate Mile, Old Quarter, Brentaal",PCL-4269-1376,Venn (parent),RESTRICTED
+EMP-00548,35300,"311 Arcology Drive, Old Quarter, Coruscant",PCL-2049-2591,Perrin (spouse),RESTRICTED
+EMP-00549,64700,"341 Senate Mile, Mid Level 140, Bespin",PCL-8720-1039,Seren (sibling),RESTRICTED
+EMP-00550,57800,"24 Tidewater Lane, Mid Level 212, Corellia",PCL-9936-9797,Tova (partner),RESTRICTED
+EMP-00551,40100,"341 Arcology Drive, Mid Level 212, Corulag",PCL-1930-8695,Kesia (partner),RESTRICTED
+EMP-00552,46100,"90 Foundry Road, Mid Level 140, Lothal",PCL-3668-2224,Bale (spouse),RESTRICTED
+EMP-00553,48100,"216 Tidewater Lane, South Ring, Scarif",PCL-4772-8513,Neve (friend),RESTRICTED
+EMP-00554,27400,"163 Lantern Street, Upper Level 12, Eriadu",PCL-4284-5572,Clemens (spouse),RESTRICTED
+EMP-00555,26900,"334 Senate Mile, North Ring, Alderaan",PCL-9869-2463,Yorik (parent),RESTRICTED
+EMP-00556,28400,"234 Foundry Road, South Ring, Corulag",PCL-2993-7637,Corra (friend),RESTRICTED
+EMP-00557,32300,"319 Senate Mile, North Ring, Carida",PCL-1799-6357,Emrys (friend),RESTRICTED
+EMP-00558,51800,"450 Nebula Court, Upper Level 31, Chandrila",PCL-1252-2358,Kestin (parent),RESTRICTED
+EMP-00559,49500,"82 Foundry Road, Upper Level 12, Alderaan",PCL-6942-8132,Bryn (spouse),RESTRICTED
+EMP-00560,82200,"325 Beacon Walk, Mid Level 212, Alsakan",PCL-5352-4506,Zara (adult child),RESTRICTED
+EMP-00561,87000,"223 Gantry Street, Harbour District, Coruscant",PCL-3648-7720,Dorne (adult child),RESTRICTED
+EMP-00562,34400,"82 Foundry Road, Upper Level 12, Kuat",PCL-8027-1386,Elsk (partner),RESTRICTED
+EMP-00563,129000,"167 Nebula Court, North Ring, Lothal",PCL-6374-1761,Daro (spouse),RESTRICTED
+EMP-00564,29600,"311 Orbital Way, Harbour District, Coruscant",PCL-2760-2365,Jessa (sibling),RESTRICTED
+EMP-00565,74400,"98 Foundry Road, North Ring, Kuat",PCL-2980-8522,Asha (friend),RESTRICTED
+EMP-00566,65600,"203 Nebula Court, Mid Level 140, Chandrila",PCL-7623-5126,Pax (friend),RESTRICTED
+EMP-00567,31900,"184 Orbital Way, Old Quarter, Coruscant",PCL-4394-8566,Desik (parent),RESTRICTED
+EMP-00568,73100,"239 Gantry Street, Old Quarter, Ord Mantell",PCL-9604-1990,Sabel (sibling),RESTRICTED
+EMP-00569,50300,"327 Orbital Way, North Ring, Naboo",PCL-6978-7144,Gessa (friend),RESTRICTED
+EMP-00570,50300,"326 Meridian Row, Upper Level 12, Carida",PCL-7426-7653,Darek (spouse),RESTRICTED
+EMP-00571,67200,"52 Lantern Street, Old Quarter, Kuat",PCL-3400-2453,Desik (spouse),RESTRICTED
+EMP-00572,79000,"216 Skyline Terrace, Mid Level 212, Coruscant",PCL-7522-8038,Hessa (partner),RESTRICTED
+EMP-00573,108800,"318 Tidewater Lane, Mid Level 212, Lothal",PCL-8823-1528,Pax (adult child),RESTRICTED
+EMP-00574,35900,"81 Lantern Street, Harbour District, Naboo",PCL-3725-8094,Jarek (partner),RESTRICTED
+EMP-00575,107600,"226 Foundry Road, South Ring, Abregado-rae",PCL-7070-8006,Cato (spouse),RESTRICTED
+EMP-00576,84900,"83 Senate Mile, Harbour District, Fondor",PCL-8097-1789,Elsk (parent),RESTRICTED
+EMP-00577,40700,"123 Nebula Court, Mid Level 140, Carida",PCL-2758-8765,Tilda (friend),RESTRICTED
+EMP-00578,39100,"354 Tidewater Lane, South Ring, Lothal",PCL-9592-6244,Hale (parent),RESTRICTED
+EMP-00579,207100,"229 Lantern Street, Upper Level 31, Kuat",PCL-2210-1883,Rowan (spouse),RESTRICTED
+EMP-00580,140400,"329 Meridian Row, Upper Level 31, Ord Mantell",PCL-4381-9942,Kaspar (partner),RESTRICTED
+EMP-00581,137700,"371 Comet Close, Upper Level 31, Garel",PCL-4781-1602,Hale (partner),RESTRICTED
+EMP-00582,152600,"52 Lantern Street, Upper Level 31, Raxus",PCL-6571-2209,Noa (adult child),RESTRICTED
+EMP-00583,133200,"358 Tidewater Lane, Harbour District, Coruscant",PCL-5274-2171,Kier (sibling),RESTRICTED
+EMP-00584,148900,"172 Gantry Street, Mid Level 212, Corulag",PCL-9201-7219,Gavren (adult child),RESTRICTED
+EMP-00585,28300,"121 Meridian Row, Mid Level 140, Alsakan",PCL-1144-6760,Casimir (parent),RESTRICTED
+EMP-00586,38300,"281 Meridian Row, North Ring, Scarif",PCL-7191-7990,Vela (sibling),RESTRICTED
+EMP-00587,44400,"138 Arcology Drive, Harbour District, Coruscant",PCL-9319-7853,Caddoc (friend),RESTRICTED
+EMP-00588,129000,"384 Spire Avenue, Old Quarter, Kuat",PCL-2193-2961,Osric (partner),RESTRICTED
+EMP-00589,28400,"58 Comet Close, Harbour District, Coruscant",PCL-7298-2450,Nalen (adult child),RESTRICTED
+EMP-00590,27000,"305 Lantern Street, Mid Level 140, Alsakan",PCL-7276-2357,Nadia (adult child),RESTRICTED
+EMP-00591,115700,"367 Foundry Road, Upper Level 31, Brentaal",PCL-9010-1147,Corra (partner),RESTRICTED
+EMP-00592,62900,"134 Tidewater Lane, Old Quarter, Alderaan",PCL-4676-6539,Pax (adult child),RESTRICTED
+EMP-00593,69500,"192 Harbour Lane, Mid Level 140, Corulag",PCL-8857-6497,Rafe (friend),RESTRICTED
+EMP-00594,95100,"362 Meridian Row, Old Quarter, Chandrila",PCL-3684-7165,Garnet (adult child),RESTRICTED
+EMP-00595,60800,"299 Arcology Drive, Upper Level 12, Raxus",PCL-1835-5732,Orrin (adult child),RESTRICTED
+EMP-00596,127700,"157 Beacon Walk, Harbour District, Alsakan",PCL-3191-3414,Petra (parent),RESTRICTED
+EMP-00597,59600,"314 Comet Close, Upper Level 12, Eriadu",PCL-7649-3622,Odile (adult child),RESTRICTED
+EMP-00598,124100,"373 Skyline Terrace, Upper Level 12, Tepasi",PCL-6736-9693,Petra (parent),RESTRICTED
+EMP-00599,33600,"179 Senate Mile, Mid Level 212, Bespin",PCL-5201-6154,Lysander (sibling),RESTRICTED
+EMP-00600,30500,"397 Lantern Street, North Ring, Scarif",PCL-3315-8268,Tyce (sibling),RESTRICTED
+EMP-00601,64500,"421 Spire Avenue, Upper Level 31, Kuat",PCL-1517-5914,Delia (friend),RESTRICTED
+EMP-00602,40600,"22 Nebula Court, Harbour District, Carida",PCL-6017-2724,Sabel (partner),RESTRICTED
+EMP-00603,36000,"281 Meridian Row, North Ring, Coruscant",PCL-1944-2738,Ines (adult child),RESTRICTED
+EMP-00604,26900,"413 Foundry Road, Mid Level 140, Alsakan",PCL-9823-3379,Saela (parent),RESTRICTED
+EMP-00605,54300,"105 Orbital Way, Mid Level 140, Corellia",PCL-3260-3063,Kestin (friend),RESTRICTED
+EMP-00606,85700,"270 Foundry Road, Old Quarter, Raxus",PCL-6259-6335,Treva (sibling),RESTRICTED
+EMP-00607,67900,"305 Harbour Lane, Upper Level 12, Eriadu",PCL-8693-4418,Henrik (friend),RESTRICTED
+EMP-00608,43200,"140 Beacon Walk, Upper Level 31, Coruscant",PCL-7487-2695,Larsa (sibling),RESTRICTED
+EMP-00609,71700,"462 Skyline Terrace, Upper Level 12, Corulag",PCL-5334-7892,Aldo (partner),RESTRICTED
+EMP-00610,37900,"166 Senate Mile, Harbour District, Kuat",PCL-3011-9516,Theron (sibling),RESTRICTED
+EMP-00611,106600,"98 Spire Avenue, North Ring, Corulag",PCL-3513-7842,Elara (sibling),RESTRICTED
+EMP-00612,32700,"245 Beacon Walk, Mid Level 140, Lothal",PCL-5691-1909,Silas (friend),RESTRICTED
+EMP-00613,44600,"165 Lantern Street, Old Quarter, Corellia",PCL-2260-7184,Zane (spouse),RESTRICTED
+EMP-00614,66800,"259 Gantry Street, Upper Level 12, Eriadu",PCL-1777-9172,Dorne (adult child),RESTRICTED
+EMP-00615,30000,"189 Spire Avenue, South Ring, Raxus",PCL-3861-6749,Bryn (partner),RESTRICTED
+EMP-00616,37700,"447 Senate Mile, Upper Level 12, Corellia",PCL-1005-1101,Isolde (friend),RESTRICTED
+EMP-00617,67500,"417 Harbour Lane, Upper Level 31, Carida",PCL-1116-4646,Amsel (adult child),RESTRICTED
+EMP-00618,85000,"162 Meridian Row, Upper Level 12, Mon Gazza",PCL-8700-1720,Osric (parent),RESTRICTED
+EMP-00619,115900,"333 Beacon Walk, Harbour District, Anaxes",PCL-5361-6555,Noa (partner),RESTRICTED
+EMP-00620,26300,"392 Comet Close, Old Quarter, Coruscant",PCL-9701-6070,Garrow (friend),RESTRICTED
+EMP-00621,50800,"47 Gantry Street, South Ring, Carida",PCL-7045-3629,Mesa (friend),RESTRICTED
+EMP-00622,77100,"141 Arcology Drive, Mid Level 212, Lothal",PCL-7657-2763,Carys (parent),RESTRICTED
+EMP-00623,121200,"323 Beacon Walk, North Ring, Coruscant",PCL-5015-3071,Jaska (adult child),RESTRICTED
+EMP-00624,37500,"89 Harbour Lane, Upper Level 12, Corellia",PCL-1661-4098,Delia (sibling),RESTRICTED
+EMP-00625,44100,"388 Orbital Way, North Ring, Naboo",PCL-2034-4316,Kestin (adult child),RESTRICTED
+EMP-00626,88200,"42 Orbital Way, Harbour District, Sluis Van",PCL-8807-5258,Nalen (spouse),RESTRICTED
+EMP-00627,32400,"104 Tidewater Lane, South Ring, Abregado-rae",PCL-7785-6549,Linnea (sibling),RESTRICTED
+EMP-00628,200800,"376 Senate Mile, Old Quarter, Chandrila",PCL-3058-5670,Petra (adult child),RESTRICTED
+EMP-00629,161800,"431 Beacon Walk, Upper Level 31, Coruscant",PCL-6361-2363,Vesna (spouse),RESTRICTED
+EMP-00630,165200,"267 Meridian Row, Upper Level 12, Coruscant",PCL-3425-4893,Sabel (sibling),RESTRICTED
+EMP-00631,137000,"348 Tidewater Lane, Upper Level 31, Corulag",PCL-2903-2576,Joren (spouse),RESTRICTED
+EMP-00632,129700,"464 Beacon Walk, Harbour District, Carida",PCL-1151-9017,Ines (sibling),RESTRICTED
+EMP-00633,147500,"34 Tidewater Lane, South Ring, Carida",PCL-9421-8937,Lorne (partner),RESTRICTED
+EMP-00634,153300,"476 Comet Close, Upper Level 12, Garel",PCL-3667-9786,Vesna (adult child),RESTRICTED
+EMP-00635,180400,"377 Nebula Court, Mid Level 212, Brentaal",PCL-1769-7167,Ivor (sibling),RESTRICTED
+EMP-00636,40000,"206 Comet Close, Harbour District, Corulag",PCL-7116-3412,Pela (parent),RESTRICTED
+EMP-00637,65600,"467 Skyline Terrace, South Ring, Alderaan",PCL-9095-3876,Enna (parent),RESTRICTED
+EMP-00638,35900,"279 Orbital Way, Upper Level 31, Tepasi",PCL-4604-7749,Cedric (spouse),RESTRICTED
+EMP-00639,46000,"282 Tidewater Lane, North Ring, Anaxes",PCL-8369-4560,Rhosa (spouse),RESTRICTED
+EMP-00640,62400,"474 Foundry Road, North Ring, Coruscant",PCL-4851-2100,Cato (parent),RESTRICTED
+EMP-00641,31900,"480 Tidewater Lane, Mid Level 140, Scarif",PCL-2753-6068,Vesna (partner),RESTRICTED
+EMP-00642,28500,"182 Beacon Walk, South Ring, Sluis Van",PCL-1143-5183,Vance (friend),RESTRICTED
+EMP-00643,40600,"319 Meridian Row, Old Quarter, Carida",PCL-9130-1769,Bryn (friend),RESTRICTED
+EMP-00644,38300,"277 Arcology Drive, North Ring, Coruscant",PCL-5558-2854,Dalric (friend),RESTRICTED
+EMP-00645,48300,"155 Spire Avenue, South Ring, Coruscant",PCL-2104-4529,Bale (adult child),RESTRICTED
+EMP-00646,116300,"340 Senate Mile, Mid Level 212, Eriadu",PCL-7302-5603,Nele (sibling),RESTRICTED
+EMP-00647,116400,"48 Beacon Walk, Upper Level 12, Abregado-rae",PCL-9118-8703,Darek (friend),RESTRICTED
+EMP-00648,51200,"473 Arcology Drive, Mid Level 212, Bespin",PCL-4947-5790,Hessa (parent),RESTRICTED
+EMP-00649,59500,"470 Arcology Drive, Upper Level 12, Kuat",PCL-8108-4717,Isolde (parent),RESTRICTED
+EMP-00650,77100,"189 Skyline Terrace, Old Quarter, Coruscant",PCL-6803-3909,Alira (sibling),RESTRICTED
+EMP-00651,59200,"384 Foundry Road, North Ring, Corellia",PCL-5282-8881,Barrin (adult child),RESTRICTED
+EMP-00652,37800,"87 Arcology Drive, Upper Level 31, Corellia",PCL-7930-4270,Bryn (adult child),RESTRICTED
+EMP-00653,35600,"343 Lantern Street, Mid Level 140, Coruscant",PCL-4237-6579,Finnick (spouse),RESTRICTED
+EMP-00654,59900,"282 Comet Close, Mid Level 140, Lothal",PCL-4589-8075,Orrin (spouse),RESTRICTED
+EMP-00655,49700,"49 Skyline Terrace, Upper Level 31, Raxus",PCL-4649-3536,Daro (spouse),RESTRICTED
+EMP-00656,37200,"50 Skyline Terrace, Mid Level 212, Lothal",PCL-6041-7227,Garnet (sibling),RESTRICTED
+EMP-00657,35400,"118 Skyline Terrace, Mid Level 140, Chandrila",PCL-3923-8069,Dace (adult child),RESTRICTED
+EMP-00658,43200,"193 Gantry Street, Old Quarter, Corellia",PCL-5721-1280,Asha (adult child),RESTRICTED
+EMP-00659,90700,"455 Senate Mile, South Ring, Anaxes",PCL-5662-9051,Lannic (spouse),RESTRICTED
+EMP-00660,39000,"125 Senate Mile, Upper Level 31, Chandrila",PCL-4731-2258,Corra (sibling),RESTRICTED
+EMP-00661,31400,"336 Beacon Walk, North Ring, Fondor",PCL-3433-6210,Petra (friend),RESTRICTED
+EMP-00662,110700,"380 Arcology Drive, Mid Level 212, Mon Gazza",PCL-8028-7499,Wyatt (friend),RESTRICTED
+EMP-00663,109600,"70 Spire Avenue, Mid Level 140, Kuat",PCL-1647-2947,Brisk (adult child),RESTRICTED
+EMP-00664,59300,"306 Foundry Road, Upper Level 12, Corulag",PCL-8055-3786,Treva (adult child),RESTRICTED
+EMP-00665,97200,"271 Lantern Street, North Ring, Sluis Van",PCL-9242-7073,Leda (adult child),RESTRICTED
+EMP-00666,116900,"265 Tidewater Lane, South Ring, Coruscant",PCL-7679-5819,Darek (spouse),RESTRICTED
+EMP-00667,84400,"52 Skyline Terrace, North Ring, Ord Mantell",PCL-1904-2482,Davin (adult child),RESTRICTED
+EMP-00668,68900,"268 Foundry Road, Upper Level 12, Eriadu",PCL-1343-8579,Venn (partner),RESTRICTED
+EMP-00669,33400,"362 Gantry Street, North Ring, Eriadu",PCL-8484-3467,Tyce (spouse),RESTRICTED
+EMP-00670,58900,"479 Comet Close, North Ring, Scarif",PCL-6202-7565,Larsa (friend),RESTRICTED
+EMP-00671,69700,"402 Senate Mile, Harbour District, Carida",PCL-9024-3088,Kier (friend),RESTRICTED
+EMP-00672,51500,"145 Beacon Walk, Harbour District, Brentaal",PCL-1696-1055,Finnick (adult child),RESTRICTED
+EMP-00673,47800,"189 Beacon Walk, North Ring, Coruscant",PCL-6349-9498,Ines (parent),RESTRICTED
+EMP-00674,42900,"119 Spire Avenue, Mid Level 212, Scarif",PCL-8111-1932,Casimir (adult child),RESTRICTED
+EMP-00675,54300,"236 Tidewater Lane, North Ring, Coruscant",PCL-5010-5015,Daro (sibling),RESTRICTED
+EMP-00676,60900,"72 Orbital Way, Old Quarter, Corulag",PCL-1578-8888,Amsel (friend),RESTRICTED
+EMP-00677,36400,"228 Harbour Lane, Upper Level 31, Carida",PCL-3850-4770,Desik (spouse),RESTRICTED
+EMP-00678,32200,"315 Senate Mile, Upper Level 12, Fondor",PCL-7078-9974,Halden (parent),RESTRICTED
+EMP-00679,69700,"347 Arcology Drive, Upper Level 31, Alsakan",PCL-1988-3981,Brisk (friend),RESTRICTED
+EMP-00680,58200,"109 Comet Close, North Ring, Coruscant",PCL-5560-7144,Linnea (partner),RESTRICTED
+EMP-00681,36500,"29 Foundry Road, Upper Level 31, Carida",PCL-5405-6702,Rafe (spouse),RESTRICTED
+EMP-00682,28800,"307 Foundry Road, Upper Level 31, Corulag",PCL-6105-9004,Merrin (partner),RESTRICTED
+EMP-00683,65200,"360 Harbour Lane, Mid Level 212, Coruscant",PCL-8549-4153,Tessa (friend),RESTRICTED
+EMP-00684,56800,"245 Beacon Walk, South Ring, Coruscant",PCL-1167-7632,Elsk (parent),RESTRICTED
+EMP-00685,48800,"322 Nebula Court, Old Quarter, Lothal",PCL-1765-3765,Ilka (parent),RESTRICTED
+EMP-00686,39900,"45 Beacon Walk, Harbour District, Coruscant",PCL-8100-3442,Gessa (friend),RESTRICTED
+EMP-00687,69700,"380 Gantry Street, Upper Level 12, Coruscant",PCL-9048-4448,Jessa (sibling),RESTRICTED
+EMP-00688,77300,"233 Gantry Street, Upper Level 31, Mon Gazza",PCL-8451-7140,Tova (adult child),RESTRICTED
+EMP-00689,54500,"461 Arcology Drive, South Ring, Raxus",PCL-5272-4178,Ulric (adult child),RESTRICTED
+EMP-00690,63000,"88 Meridian Row, Upper Level 31, Garel",PCL-8594-6793,Zara (sibling),RESTRICTED
+EMP-00691,71900,"329 Lantern Street, Upper Level 12, Brentaal",PCL-5053-6707,Osric (adult child),RESTRICTED
+EMP-00692,215000,"26 Lantern Street, North Ring, Coruscant",PCL-5513-6753,Rosk (friend),RESTRICTED
+EMP-00693,151100,"325 Gantry Street, South Ring, Scarif",PCL-1926-4565,Silas (friend),RESTRICTED
+EMP-00694,151200,"7 Meridian Row, Upper Level 31, Corellia",PCL-1681-1117,Anneka (sibling),RESTRICTED
+EMP-00695,136000,"151 Harbour Lane, Mid Level 212, Corellia",PCL-4272-7812,Gavren (partner),RESTRICTED
+EMP-00696,136200,"373 Skyline Terrace, Harbour District, Carida",PCL-8817-4582,Caddoc (friend),RESTRICTED
+EMP-00697,136000,"228 Harbour Lane, Harbour District, Lothal",PCL-5114-9511,Rell (parent),RESTRICTED
+EMP-00698,145800,"452 Orbital Way, Mid Level 140, Alsakan",PCL-7059-1212,Remy (sibling),RESTRICTED
+EMP-00699,29400,"260 Skyline Terrace, Mid Level 140, Sluis Van",PCL-8323-9026,Senna (parent),RESTRICTED
+EMP-00700,46700,"136 Harbour Lane, Harbour District, Eriadu",PCL-2050-1292,Dace (adult child),RESTRICTED
+EMP-00701,129100,"73 Senate Mile, North Ring, Eriadu",PCL-6143-6514,Imra (friend),RESTRICTED
+EMP-00702,41400,"273 Skyline Terrace, Old Quarter, Raxus",PCL-8525-2222,Odile (adult child),RESTRICTED
+EMP-00703,48800,"355 Tidewater Lane, Upper Level 31, Eriadu",PCL-7537-4418,Enna (sibling),RESTRICTED
+EMP-00704,76100,"79 Nebula Court, Mid Level 140, Carida",PCL-9955-3116,Marik (parent),RESTRICTED
+EMP-00705,40700,"47 Tidewater Lane, South Ring, Coruscant",PCL-5761-4834,Dace (parent),RESTRICTED
+EMP-00706,48000,"268 Skyline Terrace, North Ring, Coruscant",PCL-4160-5934,Lorne (friend),RESTRICTED
+EMP-00707,47900,"69 Nebula Court, Mid Level 140, Corulag",PCL-8821-7845,Elara (spouse),RESTRICTED
+EMP-00708,34900,"244 Beacon Walk, Old Quarter, Carida",PCL-5116-4632,Talia (spouse),RESTRICTED
+EMP-00709,82600,"298 Harbour Lane, Upper Level 31, Eriadu",PCL-2690-5942,Rainer (spouse),RESTRICTED
+EMP-00710,72900,"453 Arcology Drive, Mid Level 212, Alsakan",PCL-3703-8111,Osric (spouse),RESTRICTED
+EMP-00711,87600,"435 Spire Avenue, Upper Level 31, Abregado-rae",PCL-7946-2359,Zeva (spouse),RESTRICTED
+EMP-00712,103500,"179 Tidewater Lane, Upper Level 12, Carida",PCL-9193-9250,Yorik (sibling),RESTRICTED
+EMP-00713,81900,"397 Arcology Drive, Mid Level 140, Eriadu",PCL-8118-7211,Lutz (partner),RESTRICTED
+EMP-00714,80400,"97 Spire Avenue, Mid Level 212, Coruscant",PCL-1262-4952,Dace (spouse),RESTRICTED
+EMP-00715,119900,"167 Beacon Walk, Upper Level 12, Coruscant",PCL-3576-5108,Bryn (partner),RESTRICTED
+EMP-00716,67500,"409 Skyline Terrace, Upper Level 12, Brentaal",PCL-7468-3376,Evran (spouse),RESTRICTED
+EMP-00717,65800,"8 Comet Close, North Ring, Corellia",PCL-8245-8584,Barrin (parent),RESTRICTED
+EMP-00718,43600,"234 Nebula Court, Mid Level 140, Coruscant",PCL-7958-7410,Arlo (partner),RESTRICTED
+EMP-00719,41500,"100 Foundry Road, Harbour District, Coruscant",PCL-3643-6494,Lorne (parent),RESTRICTED
+EMP-00720,108400,"422 Lantern Street, Upper Level 31, Ord Mantell",PCL-8242-1864,Barrin (friend),RESTRICTED
+EMP-00721,31000,"180 Comet Close, Harbour District, Coruscant",PCL-7732-8754,Sarik (sibling),RESTRICTED
+EMP-00722,35000,"183 Meridian Row, Old Quarter, Fondor",PCL-1318-3902,Ciran (friend),RESTRICTED
+EMP-00723,114300,"319 Lantern Street, Upper Level 12, Kuat",PCL-9314-2625,Maddox (adult child),RESTRICTED
+EMP-00724,51300,"327 Senate Mile, Mid Level 212, Coruscant",PCL-9991-6370,Cato (spouse),RESTRICTED
+EMP-00725,55100,"241 Nebula Court, North Ring, Coruscant",PCL-2353-5363,Fallon (parent),RESTRICTED
+EMP-00726,34800,"390 Beacon Walk, North Ring, Corellia",PCL-9767-8680,Corra (spouse),RESTRICTED
+EMP-00727,77100,"181 Beacon Walk, Mid Level 140, Lothal",PCL-8871-4116,Cato (partner),RESTRICTED
+EMP-00728,27900,"52 Beacon Walk, Upper Level 31, Eriadu",PCL-3647-8718,Ingrid (adult child),RESTRICTED
+EMP-00729,68300,"305 Lantern Street, Upper Level 31, Eriadu",PCL-3671-6148,Callum (sibling),RESTRICTED
+EMP-00730,37300,"462 Harbour Lane, Upper Level 12, Eriadu",PCL-7303-9372,Nadia (sibling),RESTRICTED
+EMP-00731,125000,"283 Comet Close, Upper Level 12, Raxus",PCL-9769-5367,Cato (partner),RESTRICTED
+EMP-00732,33100,"428 Foundry Road, Harbour District, Raxus",PCL-8460-3066,Caddoc (partner),RESTRICTED
+EMP-00733,36100,"333 Nebula Court, Old Quarter, Lothal",PCL-4019-8646,Amsel (parent),RESTRICTED
+EMP-00734,48700,"256 Nebula Court, Upper Level 12, Kuat",PCL-9765-3402,Senna (parent),RESTRICTED
+EMP-00735,45200,"236 Meridian Row, Upper Level 12, Alsakan",PCL-3070-2411,Elsk (parent),RESTRICTED
+EMP-00736,88800,"40 Harbour Lane, North Ring, Naboo",PCL-4138-2911,Riven (partner),RESTRICTED
+EMP-00737,28000,"304 Harbour Lane, Mid Level 212, Coruscant",PCL-3923-7006,Edda (adult child),RESTRICTED
+EMP-00738,46200,"301 Gantry Street, Upper Level 31, Coruscant",PCL-7986-7296,Lannic (adult child),RESTRICTED
+EMP-00739,91300,"296 Meridian Row, Upper Level 31, Coruscant",PCL-9146-4166,Linnea (adult child),RESTRICTED
+EMP-00740,128500,"447 Foundry Road, Harbour District, Eriadu",PCL-8613-3862,Anneka (partner),RESTRICTED
+EMP-00741,44300,"340 Tidewater Lane, Old Quarter, Eriadu",PCL-6677-4176,Annegret (sibling),RESTRICTED
+EMP-00742,93000,"244 Foundry Road, North Ring, Eriadu",PCL-8753-9017,Lutz (parent),RESTRICTED
+EMP-00743,55000,"387 Comet Close, Mid Level 140, Raxus",PCL-6374-9855,Vira (spouse),RESTRICTED
+EMP-00744,30400,"230 Nebula Court, Upper Level 12, Corellia",PCL-2372-4898,Esme (parent),RESTRICTED
+EMP-00745,37200,"266 Harbour Lane, Upper Level 31, Eriadu",PCL-7031-6220,Katrin (adult child),RESTRICTED
+EMP-00746,41800,"225 Orbital Way, Upper Level 12, Tepasi",PCL-6493-4012,Wilde (partner),RESTRICTED
+EMP-00747,29300,"195 Comet Close, Old Quarter, Corulag",PCL-5270-3359,Vira (parent),RESTRICTED
+EMP-00748,56700,"186 Comet Close, Old Quarter, Corellia",PCL-8179-8561,Pela (sibling),RESTRICTED
+EMP-00749,30100,"209 Foundry Road, Old Quarter, Corulag",PCL-5461-1957,Halden (adult child),RESTRICTED
+EMP-00750,38400,"326 Skyline Terrace, Mid Level 212, Ord Mantell",PCL-8062-4393,Lorne (adult child),RESTRICTED
+EMP-00751,213900,"209 Lantern Street, Upper Level 12, Alderaan",PCL-9083-7380,Zane (adult child),RESTRICTED
+EMP-00752,157000,"350 Senate Mile, Upper Level 31, Kuat",PCL-2810-6385,Sola (partner),RESTRICTED
+EMP-00753,145500,"331 Comet Close, Upper Level 12, Eriadu",PCL-2509-9701,Lorne (spouse),RESTRICTED
+EMP-00754,175800,"191 Comet Close, North Ring, Kuat",PCL-7609-1294,Ilka (partner),RESTRICTED
+EMP-00755,146800,"198 Senate Mile, Upper Level 12, Naboo",PCL-7174-4348,Enna (partner),RESTRICTED
+EMP-00756,136500,"266 Harbour Lane, South Ring, Ord Mantell",PCL-1107-9085,Cato (parent),RESTRICTED
+EMP-00757,157500,"322 Orbital Way, Mid Level 140, Eriadu",PCL-3139-4490,Dagmar (friend),RESTRICTED
+EMP-00758,140300,"249 Gantry Street, Upper Level 12, Coruscant",PCL-1946-1991,Cato (parent),RESTRICTED
+EMP-00759,140100,"308 Arcology Drive, Harbour District, Eriadu",PCL-8866-6442,Rain (adult child),RESTRICTED
+EMP-00760,141000,"120 Orbital Way, Mid Level 140, Alderaan",PCL-5192-3464,Seren (parent),RESTRICTED
+EMP-00761,167600,"119 Orbital Way, Upper Level 31, Eriadu",PCL-6525-7816,Nele (parent),RESTRICTED
+EMP-00762,157200,"205 Spire Avenue, Upper Level 12, Eriadu",PCL-1437-5826,Heike (parent),RESTRICTED
+EMP-00763,66500,"109 Meridian Row, Upper Level 31, Eriadu",PCL-7571-3473,Nele (sibling),RESTRICTED
+EMP-00764,63600,"461 Nebula Court, Mid Level 212, Eriadu",PCL-6863-3072,Emrys (sibling),RESTRICTED
+EMP-00765,77100,"445 Orbital Way, Mid Level 140, Eriadu",PCL-7829-2392,Bastian (partner),RESTRICTED
+EMP-00766,64200,"81 Harbour Lane, North Ring, Eriadu",PCL-1866-3981,Quinn (sibling),RESTRICTED
+EMP-00767,64600,"99 Tidewater Lane, Upper Level 12, Corellia",PCL-2736-1392,Isolde (partner),RESTRICTED
+EMP-00768,130400,"471 Orbital Way, Old Quarter, Eriadu",PCL-2798-4682,Pax (partner),RESTRICTED
+EMP-00769,33100,"160 Orbital Way, Harbour District, Eriadu",PCL-8862-3337,Vala (sibling),RESTRICTED
+EMP-00770,119000,"246 Foundry Road, North Ring, Eriadu",PCL-1704-7452,Barrin (partner),RESTRICTED
+EMP-00771,29300,"167 Arcology Drive, Old Quarter, Carida",PCL-1979-4389,Theron (spouse),RESTRICTED
+EMP-00772,35800,"319 Gantry Street, South Ring, Coruscant",PCL-2948-1228,Dace (friend),RESTRICTED
+EMP-00773,35900,"416 Skyline Terrace, Mid Level 212, Coruscant",PCL-3531-4899,Evran (spouse),RESTRICTED
+EMP-00774,51500,"351 Spire Avenue, North Ring, Kuat",PCL-5448-3632,Tarn (spouse),RESTRICTED
+EMP-00775,29900,"322 Tidewater Lane, Upper Level 12, Corulag",PCL-9213-8184,Jarek (spouse),RESTRICTED
+EMP-00776,46200,"106 Senate Mile, Mid Level 212, Fondor",PCL-1657-4714,Gavren (adult child),RESTRICTED
+EMP-00777,49400,"153 Comet Close, Old Quarter, Garel",PCL-7059-6927,Sabel (partner),RESTRICTED
+EMP-00778,50800,"424 Foundry Road, Harbour District, Eriadu",PCL-3153-5939,Davin (parent),RESTRICTED
+EMP-00779,39300,"347 Beacon Walk, Upper Level 31, Eriadu",PCL-5350-8835,Anja (adult child),RESTRICTED
+EMP-00780,50500,"435 Senate Mile, North Ring, Fondor",PCL-9588-6765,Ines (adult child),RESTRICTED
+EMP-00781,72300,"285 Harbour Lane, Mid Level 140, Tepasi",PCL-9905-3529,Dorne (friend),RESTRICTED
+EMP-00782,53100,"86 Comet Close, Mid Level 212, Chandrila",PCL-8056-9822,Jessa (parent),RESTRICTED
+EMP-00783,123700,"40 Spire Avenue, South Ring, Raxus",PCL-6250-4778,Petra (partner),RESTRICTED
+EMP-00784,32100,"264 Beacon Walk, Harbour District, Eriadu",PCL-7226-1710,Frieda (friend),RESTRICTED
+EMP-00785,47800,"80 Orbital Way, Mid Level 212, Lothal",PCL-9104-2746,Sarik (parent),RESTRICTED
+EMP-00786,118500,"424 Spire Avenue, Mid Level 212, Chandrila",PCL-4663-8639,Tova (partner),RESTRICTED
+EMP-00787,68600,"363 Orbital Way, North Ring, Eriadu",PCL-6560-4294,Dace (spouse),RESTRICTED
+EMP-00788,65300,"461 Spire Avenue, Old Quarter, Eriadu",PCL-6050-2552,Jutta (partner),RESTRICTED
+EMP-00789,52100,"199 Comet Close, Upper Level 31, Eriadu",PCL-9477-1548,Lutz (parent),RESTRICTED
+EMP-00790,114400,"409 Lantern Street, Upper Level 12, Eriadu",PCL-6271-7387,Volker (adult child),RESTRICTED
+EMP-00791,50000,"375 Beacon Walk, North Ring, Eriadu",PCL-6852-7475,Talia (sibling),RESTRICTED
+EMP-00792,34000,"9 Arcology Drive, Old Quarter, Mon Gazza",PCL-2621-5079,Tyce (parent),RESTRICTED
+EMP-00793,124400,"58 Gantry Street, North Ring, Coruscant",PCL-8614-7394,Lannic (spouse),RESTRICTED
+EMP-00794,72800,"170 Tidewater Lane, Upper Level 12, Eriadu",PCL-6995-2690,Wilde (partner),RESTRICTED
+EMP-00795,27300,"69 Comet Close, Old Quarter, Lothal",PCL-8282-8052,Ilka (spouse),RESTRICTED
+EMP-00796,59700,"94 Arcology Drive, Mid Level 140, Eriadu",PCL-4129-2106,Rainer (partner),RESTRICTED
+EMP-00797,64300,"343 Lantern Street, North Ring, Fondor",PCL-2272-8566,Edric (spouse),RESTRICTED
+EMP-00798,91500,"27 Skyline Terrace, Mid Level 212, Kuat",PCL-9347-4411,Vesna (parent),RESTRICTED
+EMP-00799,47400,"88 Comet Close, Upper Level 12, Fondor",PCL-9391-6644,Amsel (sibling),RESTRICTED
+EMP-00800,110200,"212 Nebula Court, North Ring, Fondor",PCL-7453-4696,Teague (partner),RESTRICTED
+EMP-00801,35400,"367 Foundry Road, Old Quarter, Anaxes",PCL-2463-1073,Xan (parent),RESTRICTED
+EMP-00802,54800,"19 Senate Mile, Upper Level 12, Kuat",PCL-2775-9124,Wren (sibling),RESTRICTED
+EMP-00803,64300,"145 Lantern Street, Mid Level 140, Eriadu",PCL-8393-9845,Katrin (sibling),RESTRICTED
+EMP-00804,52500,"194 Harbour Lane, South Ring, Eriadu",PCL-3335-1020,Odile (partner),RESTRICTED
+EMP-00805,48900,"467 Meridian Row, Mid Level 212, Eriadu",PCL-4919-4191,Tova (friend),RESTRICTED
+EMP-00806,72100,"383 Skyline Terrace, Old Quarter, Naboo",PCL-3908-7340,Enna (spouse),RESTRICTED
+EMP-00807,39000,"147 Harbour Lane, Old Quarter, Eriadu",PCL-9143-6007,Thilo (adult child),RESTRICTED
+EMP-00808,52000,"373 Orbital Way, South Ring, Fondor",PCL-9191-8833,Treva (friend),RESTRICTED
+EMP-00809,35800,"447 Skyline Terrace, Harbour District, Eriadu",PCL-3658-1095,Jannik (friend),RESTRICTED
+EMP-00810,26500,"313 Orbital Way, Harbour District, Eriadu",PCL-2474-3225,Seren (adult child),RESTRICTED
+EMP-00811,39300,"431 Orbital Way, Upper Level 12, Eriadu",PCL-7803-4076,Silke (friend),RESTRICTED
+EMP-00812,42800,"129 Spire Avenue, South Ring, Kuat",PCL-5825-6432,Darek (adult child),RESTRICTED
+EMP-00813,117800,"291 Skyline Terrace, Mid Level 212, Eriadu",PCL-2151-7585,Jürgen (sibling),RESTRICTED
+EMP-00814,48700,"163 Tidewater Lane, Harbour District, Eriadu",PCL-5362-3670,Leda (friend),RESTRICTED
+EMP-00815,54300,"1 Foundry Road, Mid Level 140, Coruscant",PCL-8293-1783,Bryn (spouse),RESTRICTED
+EMP-00816,45700,"286 Comet Close, Upper Level 31, Eriadu",PCL-9488-8216,Sabel (partner),RESTRICTED
+EMP-00817,44500,"401 Lantern Street, Old Quarter, Eriadu",PCL-7027-8984,Volker (spouse),RESTRICTED
+EMP-00818,40300,"451 Spire Avenue, Old Quarter, Carida",PCL-8175-1291,Oren (friend),RESTRICTED
+EMP-00819,60200,"271 Harbour Lane, Old Quarter, Eriadu",PCL-5761-6714,Sabel (parent),RESTRICTED
+EMP-00820,48800,"331 Comet Close, Old Quarter, Kuat",PCL-4653-3244,Edric (sibling),RESTRICTED
+EMP-00821,129200,"67 Meridian Row, Upper Level 31, Kuat",PCL-9984-8337,Soren (partner),RESTRICTED
+EMP-00822,86200,"223 Arcology Drive, Old Quarter, Eriadu",PCL-1077-9959,Fenna (spouse),RESTRICTED
+EMP-00823,65300,"176 Harbour Lane, North Ring, Corellia",PCL-8580-2780,Quell (spouse),RESTRICTED
+EMP-00824,49900,"316 Harbour Lane, Harbour District, Eriadu",PCL-3953-1631,Neve (sibling),RESTRICTED
+EMP-00825,108600,"24 Orbital Way, Mid Level 212, Eriadu",PCL-6618-2559,Matthias (partner),RESTRICTED
+EMP-00826,49200,"26 Meridian Row, North Ring, Corulag",PCL-9090-4139,Desik (friend),RESTRICTED
+EMP-00827,37500,"472 Spire Avenue, Upper Level 31, Fondor",PCL-4132-3757,Remy (friend),RESTRICTED
+EMP-00828,42000,"61 Meridian Row, Old Quarter, Coruscant",PCL-6567-6590,Enna (friend),RESTRICTED
+EMP-00829,50900,"478 Tidewater Lane, South Ring, Eriadu",PCL-3282-5378,Heike (adult child),RESTRICTED
+EMP-00830,64300,"184 Skyline Terrace, Harbour District, Eriadu",PCL-6837-4277,Larsa (sibling),RESTRICTED
+EMP-00831,50400,"126 Meridian Row, Upper Level 31, Carida",PCL-6788-3058,Quinn (partner),RESTRICTED
+EMP-00832,81300,"323 Arcology Drive, Harbour District, Eriadu",PCL-9774-1469,Ulric (sibling),RESTRICTED
+EMP-00833,27800,"231 Arcology Drive, Harbour District, Carida",PCL-6497-1453,Marik (partner),RESTRICTED
+EMP-00834,37700,"86 Arcology Drive, South Ring, Eriadu",PCL-4116-4138,Maren (sibling),RESTRICTED
+EMP-00835,43400,"438 Senate Mile, Mid Level 212, Kuat",PCL-7846-3289,Tova (partner),RESTRICTED
+EMP-00836,48200,"373 Comet Close, Mid Level 212, Corulag",PCL-1055-2273,Osric (adult child),RESTRICTED
+EMP-00837,33900,"305 Arcology Drive, Upper Level 12, Corellia",PCL-2772-5795,Silas (partner),RESTRICTED
+EMP-00838,60800,"459 Arcology Drive, Mid Level 212, Eriadu",PCL-5768-3743,Frieda (friend),RESTRICTED
+EMP-00839,54900,"43 Orbital Way, Upper Level 12, Corulag",PCL-2003-1519,Barrin (spouse),RESTRICTED
+EMP-00840,32500,"401 Nebula Court, North Ring, Eriadu",PCL-2331-9072,Heike (adult child),RESTRICTED
+EMP-00841,73700,"11 Orbital Way, Mid Level 212, Naboo",PCL-5189-2285,Evran (parent),RESTRICTED
+EMP-00842,34500,"415 Meridian Row, Mid Level 212, Coruscant",PCL-7237-2640,Elara (spouse),RESTRICTED
+EMP-00843,74200,"4 Gantry Street, Old Quarter, Eriadu",PCL-4793-5208,Renate (parent),RESTRICTED
+EMP-00844,42300,"37 Skyline Terrace, Harbour District, Eriadu",PCL-2735-2656,Katrin (friend),RESTRICTED
+EMP-00845,53400,"143 Gantry Street, North Ring, Eriadu",PCL-7680-5840,Hale (friend),RESTRICTED
+EMP-00846,74900,"228 Skyline Terrace, Mid Level 140, Eriadu",PCL-5936-1545,Maddox (spouse),RESTRICTED
+EMP-00847,55800,"228 Meridian Row, Harbour District, Eriadu",PCL-5161-5720,Nele (sibling),RESTRICTED
+EMP-00848,124100,"44 Meridian Row, North Ring, Kuat",PCL-1755-3774,Nadia (spouse),RESTRICTED
+EMP-00849,38300,"36 Spire Avenue, Mid Level 140, Garel",PCL-5034-9323,Esme (sibling),RESTRICTED
+EMP-00850,49200,"473 Comet Close, Mid Level 212, Fondor",PCL-1977-8745,Ulla (friend),RESTRICTED
+EMP-00851,64400,"237 Foundry Road, Old Quarter, Eriadu",PCL-1897-9324,Ortwin (friend),RESTRICTED
+EMP-00852,51000,"430 Spire Avenue, Mid Level 212, Eriadu",PCL-7179-4408,Elke (sibling),RESTRICTED
+EMP-00853,32900,"452 Comet Close, Mid Level 140, Raxus",PCL-1221-8019,Theron (parent),RESTRICTED
+EMP-00854,44400,"303 Lantern Street, Old Quarter, Kuat",PCL-8547-2727,Esme (partner),RESTRICTED
+EMP-00855,196400,"53 Beacon Walk, South Ring, Kuat",PCL-5196-8787,Ines (partner),RESTRICTED
+EMP-00856,145200,"136 Tidewater Lane, Mid Level 212, Fondor",PCL-5789-7522,Imra (spouse),RESTRICTED
+EMP-00857,153900,"224 Tidewater Lane, Upper Level 12, Coruscant",PCL-6102-3422,Delia (partner),RESTRICTED
+EMP-00858,184800,"397 Meridian Row, North Ring, Chandrila",PCL-3720-3790,Oren (sibling),RESTRICTED
+EMP-00859,146000,"103 Spire Avenue, North Ring, Lothal",PCL-8721-8992,Marik (spouse),RESTRICTED
+EMP-00860,152900,"84 Orbital Way, Upper Level 31, Coruscant",PCL-7736-7073,Lorne (partner),RESTRICTED
+EMP-00861,29000,"60 Comet Close, Mid Level 212, Kuat",PCL-8211-7479,Emrys (adult child),RESTRICTED
+EMP-00862,108100,"90 Gantry Street, Mid Level 212, Fondor",PCL-2621-4416,Senna (partner),RESTRICTED
+EMP-00863,48400,"132 Tidewater Lane, Old Quarter, Kuat",PCL-1029-6655,Elian (friend),RESTRICTED
+EMP-00864,33300,"91 Meridian Row, Upper Level 12, Corellia",PCL-7488-6950,Tessa (friend),RESTRICTED
+EMP-00865,37900,"430 Skyline Terrace, South Ring, Carida",PCL-9955-8385,Barrin (partner),RESTRICTED
+EMP-00866,32500,"94 Spire Avenue, Harbour District, Sluis Van",PCL-8590-2095,Bale (sibling),RESTRICTED
+EMP-00867,117900,"340 Skyline Terrace, Upper Level 12, Alsakan",PCL-8185-6251,Ulla (sibling),RESTRICTED
+EMP-00868,74400,"259 Meridian Row, Mid Level 212, Brentaal",PCL-6075-6627,Enna (partner),RESTRICTED
+EMP-00869,44300,"197 Spire Avenue, Upper Level 31, Corulag",PCL-8452-8546,Edda (friend),RESTRICTED
+EMP-00870,57100,"151 Lantern Street, Upper Level 12, Raxus",PCL-9389-8204,Kestin (parent),RESTRICTED
+EMP-00871,99400,"256 Harbour Lane, North Ring, Fondor",PCL-8208-5518,Fenna (adult child),RESTRICTED
+EMP-00872,54400,"59 Comet Close, Harbour District, Kuat",PCL-2675-5029,Desik (adult child),RESTRICTED
+EMP-00873,47100,"431 Lantern Street, Mid Level 140, Carida",PCL-9419-8593,Merrin (sibling),RESTRICTED
+EMP-00874,38500,"171 Spire Avenue, Mid Level 212, Coruscant",PCL-2734-9336,Petra (spouse),RESTRICTED
+EMP-00875,65500,"433 Harbour Lane, North Ring, Abregado-rae",PCL-4717-9136,Silas (adult child),RESTRICTED
+EMP-00876,37300,"364 Spire Avenue, North Ring, Coruscant",PCL-1111-5758,Bale (sibling),RESTRICTED
+EMP-00877,114100,"388 Senate Mile, North Ring, Kuat",PCL-7280-1045,Callum (partner),RESTRICTED
+EMP-00878,52900,"63 Tidewater Lane, Old Quarter, Brentaal",PCL-4775-3504,Cedric (adult child),RESTRICTED
+EMP-00879,91300,"223 Nebula Court, Upper Level 31, Kuat",PCL-8117-5015,Finnick (sibling),RESTRICTED
+EMP-00880,109000,"124 Nebula Court, Old Quarter, Alsakan",PCL-5867-7739,Edda (sibling),RESTRICTED
+EMP-00881,77100,"88 Meridian Row, North Ring, Coruscant",PCL-3662-1967,Aven (adult child),RESTRICTED
+EMP-00882,77400,"160 Lantern Street, Upper Level 12, Garel",PCL-9122-7453,Hollis (parent),RESTRICTED
+EMP-00883,51700,"233 Gantry Street, Mid Level 212, Kuat",PCL-7898-6121,Lorne (parent),RESTRICTED
+EMP-00884,101100,"230 Nebula Court, North Ring, Alsakan",PCL-3016-4266,Calla (sibling),RESTRICTED
+EMP-00885,107000,"390 Meridian Row, Upper Level 31, Abregado-rae",PCL-9501-3651,Merrin (parent),RESTRICTED
+EMP-00886,65900,"187 Senate Mile, Mid Level 212, Coruscant",PCL-4237-4524,Garnet (sibling),RESTRICTED
+EMP-00887,34800,"140 Nebula Court, Mid Level 212, Corulag",PCL-6554-3187,Fenna (partner),RESTRICTED
+EMP-00888,50000,"317 Tidewater Lane, Upper Level 31, Coruscant",PCL-4209-1665,Aven (spouse),RESTRICTED
+EMP-00889,33800,"168 Nebula Court, Old Quarter, Alsakan",PCL-3093-2602,Oren (partner),RESTRICTED
+EMP-00890,32200,"184 Meridian Row, Mid Level 140, Ord Mantell",PCL-5240-8923,Dorne (sibling),RESTRICTED
+EMP-00891,49400,"125 Harbour Lane, Upper Level 31, Corulag",PCL-3629-7339,Merrin (friend),RESTRICTED
+EMP-00892,41700,"406 Arcology Drive, Old Quarter, Kuat",PCL-5778-5247,Cassia (sibling),RESTRICTED
+EMP-00893,37700,"148 Harbour Lane, Mid Level 140, Carida",PCL-1658-7961,Arden (parent),RESTRICTED
+EMP-00894,44700,"88 Nebula Court, Old Quarter, Lothal",PCL-5344-9980,Fenna (parent),RESTRICTED
+EMP-00895,43400,"454 Orbital Way, Harbour District, Kuat",PCL-3750-2868,Jarek (friend),RESTRICTED
+EMP-00896,40700,"157 Harbour Lane, Upper Level 31, Coruscant",PCL-1037-5692,Torin (sibling),RESTRICTED
+EMP-00897,38600,"370 Foundry Road, Mid Level 140, Carida",PCL-7494-3681,Danna (friend),RESTRICTED
+EMP-00898,62900,"62 Harbour Lane, Upper Level 12, Coruscant",PCL-6977-2924,Ines (parent),RESTRICTED
+EMP-00899,135200,"103 Spire Avenue, Old Quarter, Corellia",PCL-5119-6862,Faren (partner),RESTRICTED
+EMP-00900,134500,"354 Skyline Terrace, Mid Level 212, Naboo",PCL-3051-8859,Kaspar (parent),RESTRICTED
+EMP-00901,137000,"238 Beacon Walk, Old Quarter, Fondor",PCL-5234-2296,Nadia (parent),RESTRICTED
+EMP-00902,154700,"325 Orbital Way, Old Quarter, Coruscant",PCL-6062-2722,Nils (parent),RESTRICTED
+EMP-00903,110600,"387 Meridian Row, Upper Level 12, Raxus",PCL-8542-6429,Emrys (partner),RESTRICTED
+EMP-00904,81400,"416 Comet Close, Mid Level 140, Kuat",PCL-7187-4629,Enna (partner),RESTRICTED
+EMP-00905,76300,"100 Gantry Street, Harbour District, Fondor",PCL-1373-6507,Hale (friend),RESTRICTED
+EMP-00906,53800,"434 Spire Avenue, Harbour District, Eriadu",PCL-8445-4781,Jutta (spouse),RESTRICTED
+EMP-00907,53200,"44 Skyline Terrace, North Ring, Chandrila",PCL-7191-7232,Fallon (partner),RESTRICTED
+EMP-00908,50000,"236 Meridian Row, Mid Level 212, Coruscant",PCL-3604-5182,Elsk (sibling),RESTRICTED
+EMP-00909,51300,"212 Tidewater Lane, North Ring, Coruscant",PCL-9565-2314,Pela (spouse),RESTRICTED
+EMP-00910,54500,"361 Senate Mile, South Ring, Naboo",PCL-5006-1023,Joren (friend),RESTRICTED
+EMP-00911,49900,"312 Lantern Street, Upper Level 12, Kuat",PCL-9513-5340,Ilka (sibling),RESTRICTED
+EMP-00912,48200,"91 Nebula Court, Upper Level 12, Kuat",PCL-1492-7943,Hale (friend),RESTRICTED
+EMP-00913,107300,"334 Harbour Lane, South Ring, Mon Gazza",PCL-3303-8638,Rosk (adult child),RESTRICTED
+EMP-00914,80000,"276 Gantry Street, Upper Level 31, Lothal",PCL-4001-5837,Zara (adult child),RESTRICTED
+EMP-00915,95700,"289 Arcology Drive, Upper Level 12, Lothal",PCL-6560-1701,Ines (spouse),RESTRICTED
+EMP-00916,41800,"356 Spire Avenue, Old Quarter, Raxus",PCL-8830-9048,Kier (spouse),RESTRICTED
+EMP-00917,63000,"265 Comet Close, Upper Level 31, Anaxes",PCL-3189-2591,Tova (sibling),RESTRICTED
+EMP-00918,28100,"327 Orbital Way, Upper Level 12, Kuat",PCL-9909-9118,Noa (sibling),RESTRICTED
+EMP-00919,127300,"232 Harbour Lane, North Ring, Coruscant",PCL-8763-1109,Danna (spouse),RESTRICTED
+EMP-00920,29500,"170 Foundry Road, Upper Level 31, Coruscant",PCL-1441-7434,Barrin (adult child),RESTRICTED
+EMP-00921,61900,"182 Foundry Road, Old Quarter, Ord Mantell",PCL-2924-8068,Calla (spouse),RESTRICTED
+EMP-00922,49600,"103 Meridian Row, North Ring, Coruscant",PCL-5590-3419,Bryn (sibling),RESTRICTED
+EMP-00923,122800,"100 Beacon Walk, Upper Level 12, Coruscant",PCL-4904-4018,Bryn (partner),RESTRICTED
+EMP-00924,77500,"43 Gantry Street, Old Quarter, Carida",PCL-1819-5984,Mesa (spouse),RESTRICTED
+EMP-00925,121300,"417 Foundry Road, Mid Level 212, Lothal",PCL-8593-3612,Arlo (adult child),RESTRICTED
+EMP-00926,90700,"411 Lantern Street, North Ring, Alsakan",PCL-2513-7705,Rhett (parent),RESTRICTED
+EMP-00927,123700,"366 Gantry Street, Mid Level 212, Sluis Van",PCL-3926-9333,Jaska (partner),RESTRICTED
+EMP-00928,53400,"116 Nebula Court, South Ring, Carida",PCL-9582-8994,Nils (parent),RESTRICTED
+EMP-00929,45800,"385 Lantern Street, Old Quarter, Brentaal",PCL-3619-6475,Quinn (spouse),RESTRICTED
+EMP-00930,54400,"408 Comet Close, Mid Level 212, Coruscant",PCL-7648-5423,Zara (sibling),RESTRICTED
+EMP-00931,39600,"125 Spire Avenue, South Ring, Tepasi",PCL-5519-8058,Nadia (sibling),RESTRICTED
+EMP-00932,125200,"325 Arcology Drive, Mid Level 140, Corulag",PCL-4584-6068,Hollis (sibling),RESTRICTED
+EMP-00933,145800,"442 Meridian Row, South Ring, Raxus",PCL-8066-9715,Esme (friend),RESTRICTED
+EMP-00934,136900,"337 Gantry Street, North Ring, Fondor",PCL-4346-5208,Elsk (adult child),RESTRICTED
+EMP-00935,153900,"257 Comet Close, Old Quarter, Alderaan",PCL-4516-3755,Sabel (sibling),RESTRICTED
+EMP-00936,42800,"476 Foundry Road, Upper Level 31, Scarif",PCL-2669-7414,Rell (adult child),RESTRICTED
+EMP-00937,49000,"390 Foundry Road, Mid Level 140, Corellia",PCL-3274-5385,Fallon (adult child),RESTRICTED
+EMP-00938,63100,"354 Gantry Street, South Ring, Coruscant",PCL-4556-4517,Vesna (partner),RESTRICTED
+EMP-00939,88400,"289 Meridian Row, Mid Level 212, Coruscant",PCL-2736-3394,Vira (spouse),RESTRICTED
+EMP-00940,60600,"441 Orbital Way, Upper Level 12, Alsakan",PCL-2746-8691,Theron (spouse),RESTRICTED
+EMP-00941,118400,"319 Meridian Row, Old Quarter, Raxus",PCL-8456-6009,Emrys (adult child),RESTRICTED
+EMP-00942,76600,"360 Meridian Row, Upper Level 12, Corulag",PCL-4852-4925,Hessa (friend),RESTRICTED
+EMP-00943,63900,"398 Skyline Terrace, Old Quarter, Corellia",PCL-2834-2975,Elsk (spouse),RESTRICTED
+EMP-00944,65800,"18 Lantern Street, Upper Level 12, Anaxes",PCL-2914-8430,Fenna (partner),RESTRICTED
+EMP-00945,124400,"221 Meridian Row, Harbour District, Alsakan",PCL-2159-4543,Quell (friend),RESTRICTED
+EMP-00946,44500,"330 Nebula Court, Mid Level 212, Coruscant",PCL-5643-2124,Jaska (sibling),RESTRICTED
+EMP-00947,54200,"279 Comet Close, South Ring, Fondor",PCL-7028-4996,Isolde (parent),RESTRICTED
+EMP-00948,61200,"401 Comet Close, Upper Level 12, Lothal",PCL-5282-9696,Brisk (parent),RESTRICTED
+EMP-00949,54300,"478 Spire Avenue, North Ring, Coruscant",PCL-1402-7641,Amsel (spouse),RESTRICTED
+EMP-00950,125300,"45 Meridian Row, North Ring, Lothal",PCL-4094-9768,Sabel (parent),RESTRICTED
+EMP-00951,49900,"450 Nebula Court, Old Quarter, Corulag",PCL-7672-5793,Wilde (spouse),RESTRICTED
+EMP-00952,30700,"245 Skyline Terrace, Mid Level 140, Raxus",PCL-8008-9236,Kalla (spouse),RESTRICTED
+EMP-00953,50100,"442 Harbour Lane, Mid Level 140, Naboo",PCL-7432-4694,Danna (parent),RESTRICTED
+EMP-00954,60500,"246 Skyline Terrace, Mid Level 212, Coruscant",PCL-6965-2451,Brisk (spouse),RESTRICTED
+EMP-00955,43000,"312 Harbour Lane, Upper Level 12, Anaxes",PCL-6047-1309,Ulla (adult child),RESTRICTED
+EMP-00956,43700,"150 Foundry Road, Upper Level 31, Carida",PCL-2868-3653,Theron (friend),RESTRICTED
+EMP-00957,132800,"409 Meridian Row, North Ring, Alderaan",PCL-4839-7028,Petra (sibling),RESTRICTED
+EMP-00958,151800,"228 Lantern Street, Mid Level 140, Bespin",PCL-6219-5308,Alira (friend),RESTRICTED
+EMP-00959,60300,"334 Beacon Walk, Mid Level 140, Corellia",PCL-2980-2890,Danna (adult child),RESTRICTED
+EMP-00960,35700,"70 Senate Mile, Old Quarter, Eriadu",PCL-8770-1517,Dagmar (friend),RESTRICTED
+EMP-00961,31600,"25 Beacon Walk, Mid Level 212, Corellia",PCL-3366-9168,Ivor (friend),RESTRICTED
+EMP-00962,65200,"384 Orbital Way, South Ring, Carida",PCL-4475-9957,Vance (friend),RESTRICTED
+EMP-00963,53900,"128 Beacon Walk, Harbour District, Kuat",PCL-2375-1688,Kesia (friend),RESTRICTED
+EMP-00964,43300,"258 Skyline Terrace, Old Quarter, Coruscant",PCL-9699-1638,Larsa (friend),RESTRICTED
+EMP-00965,30500,"342 Tidewater Lane, South Ring, Corulag",PCL-4357-5333,Tessa (parent),RESTRICTED
+EMP-00966,44600,"477 Spire Avenue, Upper Level 12, Carida",PCL-6141-4433,Bryn (partner),RESTRICTED
+EMP-00967,40900,"468 Nebula Court, Old Quarter, Lothal",PCL-2534-6928,Cassia (friend),RESTRICTED
+EMP-00968,26500,"337 Nebula Court, Upper Level 31, Coruscant",PCL-6191-5831,Carys (spouse),RESTRICTED
+EMP-00969,34800,"403 Harbour Lane, Harbour District, Scarif",PCL-4885-3202,Darek (partner),RESTRICTED
+EMP-00970,47400,"468 Orbital Way, Mid Level 140, Corellia",PCL-4812-6063,Maelis (friend),RESTRICTED
+EMP-00971,81700,"280 Beacon Walk, South Ring, Raxus",PCL-7608-7795,Daro (adult child),RESTRICTED
+EMP-00972,58700,"324 Orbital Way, Upper Level 12, Corellia",PCL-2309-5696,Esme (spouse),RESTRICTED
+EMP-00973,78200,"393 Foundry Road, Harbour District, Kuat",PCL-3063-6218,Perrin (partner),RESTRICTED
+EMP-00974,157800,"7 Gantry Street, South Ring, Corulag",PCL-2275-7170,Noa (adult child),RESTRICTED
+EMP-00975,152800,"361 Meridian Row, Upper Level 12, Raxus",PCL-8812-8889,Kier (parent),RESTRICTED
+EMP-00976,166700,"319 Senate Mile, South Ring, Eriadu",PCL-4446-6785,Frieda (friend),RESTRICTED
+EMP-00977,31400,"222 Gantry Street, South Ring, Carida",PCL-2489-7240,Petra (partner),RESTRICTED
+EMP-00978,104000,"62 Tidewater Lane, South Ring, Ord Mantell",PCL-2775-5529,Garnet (spouse),RESTRICTED
+EMP-00979,58000,"282 Nebula Court, North Ring, Alsakan",PCL-7536-5856,Arlo (spouse),RESTRICTED
+EMP-00980,37500,"468 Senate Mile, Mid Level 140, Anaxes",PCL-5095-3322,Elsk (friend),RESTRICTED
+EMP-00981,45200,"452 Comet Close, North Ring, Fondor",PCL-5799-1351,Fenna (friend),RESTRICTED
+EMP-00982,89100,"480 Arcology Drive, Old Quarter, Corellia",PCL-6232-2253,Gavren (adult child),RESTRICTED
+EMP-00983,76600,"477 Arcology Drive, Upper Level 31, Lothal",PCL-3428-5730,Zane (adult child),RESTRICTED
+EMP-00984,51400,"201 Skyline Terrace, South Ring, Coruscant",PCL-3100-3687,Gessa (parent),RESTRICTED
+EMP-00985,53000,"185 Lantern Street, South Ring, Eriadu",PCL-8891-1013,Annegret (adult child),RESTRICTED
+EMP-00986,28600,"343 Comet Close, North Ring, Abregado-rae",PCL-2040-6799,Esme (parent),RESTRICTED
+EMP-00987,84900,"98 Meridian Row, Mid Level 212, Ord Mantell",PCL-2556-4830,Silas (spouse),RESTRICTED
+EMP-00988,39600,"15 Arcology Drive, Upper Level 12, Coruscant",PCL-1482-3116,Corra (friend),RESTRICTED
+EMP-00989,59800,"255 Arcology Drive, Upper Level 31, Coruscant",PCL-4876-4922,Aven (friend),RESTRICTED
+EMP-00990,82000,"199 Gantry Street, Upper Level 12, Corellia",PCL-8980-7673,Vela (friend),RESTRICTED
+EMP-00991,62000,"132 Senate Mile, Mid Level 140, Tepasi",PCL-6069-9172,Quinn (friend),RESTRICTED
+EMP-00992,30900,"336 Nebula Court, North Ring, Carida",PCL-4265-9725,Oren (spouse),RESTRICTED
+EMP-00993,62100,"178 Lantern Street, Upper Level 12, Eriadu",PCL-6012-8049,Bastian (partner),RESTRICTED
+EMP-00994,102500,"224 Tidewater Lane, Mid Level 212, Fondor",PCL-3615-7314,Caddoc (adult child),RESTRICTED
+EMP-00995,38300,"201 Lantern Street, Upper Level 12, Sluis Van",PCL-4230-2483,Bryn (spouse),RESTRICTED
+EMP-00996,53400,"23 Harbour Lane, Old Quarter, Alsakan",PCL-7233-1274,Wren (friend),RESTRICTED
+EMP-00997,36300,"250 Meridian Row, Harbour District, Fondor",PCL-6290-4374,Kestin (spouse),RESTRICTED
+EMP-00998,39200,"298 Orbital Way, Harbour District, Carida",PCL-1465-9488,Cato (adult child),RESTRICTED
+EMP-00999,38600,"354 Meridian Row, North Ring, Coruscant",PCL-1525-9415,Danna (partner),RESTRICTED
+EMP-01000,35500,"343 Beacon Walk, Mid Level 212, Scarif",PCL-4848-4015,Zara (parent),RESTRICTED
+EMP-01001,75900,"57 Meridian Row, Upper Level 12, Carida",PCL-4569-6982,Evran (friend),RESTRICTED
+EMP-01002,84500,"321 Lantern Street, Mid Level 212, Scarif",PCL-8587-6597,Wilde (adult child),RESTRICTED
+EMP-01003,89100,"185 Tidewater Lane, Old Quarter, Carida",PCL-7236-7252,Xan (friend),RESTRICTED
+EMP-01004,50000,"382 Comet Close, South Ring, Coruscant",PCL-3498-9774,Danna (spouse),RESTRICTED
+EMP-01005,51600,"100 Arcology Drive, Old Quarter, Coruscant",PCL-7485-1688,Ilka (sibling),RESTRICTED
+EMP-01006,29600,"433 Lantern Street, South Ring, Carida",PCL-7620-3613,Hessa (parent),RESTRICTED
+EMP-01007,76600,"133 Nebula Court, South Ring, Raxus",PCL-6832-5987,Wren (partner),RESTRICTED
+EMP-01008,29500,"239 Harbour Lane, Harbour District, Eriadu",PCL-6761-7748,Wyatt (sibling),RESTRICTED
+EMP-01009,84500,"134 Nebula Court, Harbour District, Coruscant",PCL-2527-7805,Rain (partner),RESTRICTED
+EMP-01010,47200,"352 Gantry Street, Old Quarter, Sluis Van",PCL-7396-4594,Zeva (sibling),RESTRICTED
+EMP-01011,47000,"228 Arcology Drive, South Ring, Bespin",PCL-5122-2804,Calla (partner),RESTRICTED
+EMP-01012,30100,"49 Comet Close, Upper Level 12, Brentaal",PCL-5303-1002,Linnea (friend),RESTRICTED
+EMP-01013,34800,"196 Comet Close, Upper Level 12, Chandrila",PCL-5885-2101,Orla (friend),RESTRICTED
+EMP-01014,123800,"456 Meridian Row, Mid Level 212, Corulag",PCL-9048-9848,Nils (spouse),RESTRICTED
+EMP-01015,37600,"281 Nebula Court, Harbour District, Corellia",PCL-9616-8222,Merrin (partner),RESTRICTED
+EMP-01016,31600,"346 Foundry Road, South Ring, Fondor",PCL-7126-4700,Silas (adult child),RESTRICTED
+EMP-01017,81900,"382 Meridian Row, Mid Level 140, Coruscant",PCL-4071-9502,Garrow (adult child),RESTRICTED
+EMP-01018,64700,"205 Meridian Row, Old Quarter, Carida",PCL-3510-8363,Maddox (parent),RESTRICTED
+EMP-01019,56300,"195 Comet Close, Old Quarter, Coruscant",PCL-8133-2658,Kesia (friend),RESTRICTED
+EMP-01020,116800,"201 Meridian Row, Harbour District, Alderaan",PCL-3228-4170,Tova (sibling),RESTRICTED
+EMP-01021,64900,"55 Meridian Row, Mid Level 140, Kuat",PCL-7260-7852,Leda (adult child),RESTRICTED
+EMP-01022,62200,"303 Skyline Terrace, Harbour District, Kuat",PCL-4025-7564,Ulla (friend),RESTRICTED
+EMP-01023,60800,"118 Gantry Street, Harbour District, Eriadu",PCL-3534-4601,Fallon (friend),RESTRICTED
+EMP-01024,43500,"33 Senate Mile, Mid Level 140, Coruscant",PCL-7183-8190,Maddox (friend),RESTRICTED
+EMP-01025,57700,"400 Orbital Way, Harbour District, Coruscant",PCL-3851-4863,Cedric (partner),RESTRICTED
+EMP-01026,52800,"453 Meridian Row, North Ring, Corellia",PCL-4411-8987,Orrin (partner),RESTRICTED
+EMP-01027,49000,"2 Foundry Road, Upper Level 31, Corellia",PCL-2479-4416,Tamsin (partner),RESTRICTED
+EMP-01028,71200,"242 Beacon Walk, Harbour District, Corellia",PCL-3728-3608,Jarek (spouse),RESTRICTED
+EMP-01029,112500,"97 Beacon Walk, Old Quarter, Coruscant",PCL-5072-3000,Arlo (parent),RESTRICTED
+EMP-01030,35900,"275 Tidewater Lane, Upper Level 31, Carida",PCL-3420-1151,Asha (spouse),RESTRICTED
+EMP-01031,36200,"160 Gantry Street, North Ring, Chandrila",PCL-5733-3078,Arden (partner),RESTRICTED
+EMP-01032,66200,"307 Lantern Street, Mid Level 212, Alsakan",PCL-3449-2390,Faren (friend),RESTRICTED
+EMP-01033,26100,"376 Meridian Row, Upper Level 12, Kuat",PCL-7816-8061,Brisk (sibling),RESTRICTED
+EMP-01034,31600,"370 Gantry Street, South Ring, Fondor",PCL-3618-1470,Carys (adult child),RESTRICTED
+EMP-01035,71100,"449 Harbour Lane, North Ring, Bespin",PCL-6901-5705,Talia (partner),RESTRICTED
+EMP-01036,43700,"233 Meridian Row, Harbour District, Anaxes",PCL-9170-5826,Tamsin (friend),RESTRICTED
+EMP-01037,78800,"201 Meridian Row, Harbour District, Kuat",PCL-6639-4913,Jory (friend),RESTRICTED
+EMP-01038,37800,"439 Nebula Court, North Ring, Coruscant",PCL-3730-9844,Rhosa (spouse),RESTRICTED
+EMP-01039,91200,"139 Senate Mile, Mid Level 140, Mon Gazza",PCL-7932-8166,Callum (partner),RESTRICTED
+EMP-01040,65200,"127 Gantry Street, South Ring, Eriadu",PCL-2487-3444,Bernd (adult child),RESTRICTED
+EMP-01041,36500,"1 Tidewater Lane, Harbour District, Brentaal",PCL-3863-3052,Mesa (sibling),RESTRICTED
+EMP-01042,65300,"205 Senate Mile, Upper Level 31, Anaxes",PCL-2522-3633,Jarek (parent),RESTRICTED
+EMP-01043,131100,"397 Beacon Walk, South Ring, Fondor",PCL-5242-1643,Hessa (parent),RESTRICTED
+EMP-01044,58300,"326 Comet Close, Upper Level 12, Coruscant",PCL-4760-4637,Jessa (spouse),RESTRICTED
+EMP-01045,64900,"273 Lantern Street, Harbour District, Coruscant",PCL-7515-2846,Cassia (spouse),RESTRICTED
+EMP-01046,80700,"346 Orbital Way, Old Quarter, Coruscant",PCL-3723-5003,Torin (adult child),RESTRICTED
+EMP-01047,54300,"477 Comet Close, South Ring, Brentaal",PCL-2739-2916,Ilka (adult child),RESTRICTED
+EMP-01048,93900,"210 Nebula Court, South Ring, Brentaal",PCL-9333-5090,Zeva (parent),RESTRICTED
+EMP-01049,81700,"312 Meridian Row, Mid Level 140, Sluis Van",PCL-9351-5671,Rell (adult child),RESTRICTED
+EMP-01050,54100,"343 Comet Close, Mid Level 140, Coruscant",PCL-8715-4522,Kesia (partner),RESTRICTED
+EMP-01051,33300,"141 Arcology Drive, South Ring, Anaxes",PCL-4515-1383,Senna (spouse),RESTRICTED
+EMP-01052,82800,"461 Arcology Drive, Mid Level 140, Alderaan",PCL-5464-9275,Jessa (spouse),RESTRICTED
+EMP-01053,66900,"247 Harbour Lane, Mid Level 140, Bespin",PCL-6432-8899,Yara (partner),RESTRICTED
+EMP-01054,34500,"200 Orbital Way, Mid Level 140, Coruscant",PCL-1362-7085,Vela (adult child),RESTRICTED
+EMP-01055,96400,"51 Nebula Court, Mid Level 212, Lothal",PCL-6265-1957,Rhosa (partner),RESTRICTED
+EMP-01056,58300,"457 Harbour Lane, Upper Level 31, Kuat",PCL-1546-7865,Nadia (parent),RESTRICTED
+EMP-01057,31800,"143 Senate Mile, South Ring, Coruscant",PCL-2471-7533,Tilda (partner),RESTRICTED
+EMP-01058,41400,"268 Comet Close, North Ring, Brentaal",PCL-7876-3290,Kier (spouse),RESTRICTED
+EMP-01059,50600,"38 Tidewater Lane, Upper Level 31, Garel",PCL-7702-5028,Delia (partner),RESTRICTED
+EMP-01060,111600,"62 Foundry Road, Mid Level 212, Coruscant",PCL-4900-7437,Xan (parent),RESTRICTED
+EMP-01061,37000,"218 Gantry Street, Mid Level 140, Scarif",PCL-9943-2651,Carys (parent),RESTRICTED
+EMP-01062,73100,"372 Foundry Road, Upper Level 31, Coruscant",PCL-7071-5381,Merrin (friend),RESTRICTED
+EMP-01063,34000,"304 Meridian Row, Harbour District, Coruscant",PCL-5571-5390,Riven (adult child),RESTRICTED
+EMP-01064,43300,"235 Spire Avenue, South Ring, Eriadu",PCL-4219-5854,Annegret (spouse),RESTRICTED
+EMP-01065,125200,"396 Foundry Road, North Ring, Carida",PCL-2671-8719,Vesna (parent),RESTRICTED
+EMP-01066,59100,"17 Gantry Street, Harbour District, Ord Mantell",PCL-5577-4226,Treva (adult child),RESTRICTED
+EMP-01067,36500,"269 Comet Close, Mid Level 212, Coruscant",PCL-2250-5086,Arden (friend),RESTRICTED
+EMP-01068,38300,"23 Senate Mile, Upper Level 12, Chandrila",PCL-7980-1347,Evran (adult child),RESTRICTED
+EMP-01069,50300,"280 Arcology Drive, Upper Level 12, Corulag",PCL-7167-2836,Cato (partner),RESTRICTED
+EMP-01070,47000,"3 Tidewater Lane, South Ring, Brentaal",PCL-8857-4971,Saela (spouse),RESTRICTED
+EMP-01071,38000,"191 Senate Mile, Upper Level 31, Coruscant",PCL-8755-4595,Bryn (sibling),RESTRICTED
+EMP-01072,97200,"98 Senate Mile, Mid Level 212, Sluis Van",PCL-7726-6259,Seren (friend),RESTRICTED

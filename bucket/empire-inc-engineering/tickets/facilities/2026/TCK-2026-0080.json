@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0080",
+  "queue": "FACILITIES",
+  "subject": "Room too warm at Compactor 3263827 access hatch",
+  "description": "The temperature at Compactor 3263827 access hatch stays above 26 °C all afternoon.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00493",
+    "name": "Zara Whitlock",
+    "email": "zara.whitlock@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00994",
+    "name": "Rosk Calder",
+    "email": "rosk.calder@empire-inc.example"
+  },
+  "created_at": "2026-07-23T11:50:00Z",
+  "resolved_at": "2026-07-29T17:50:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-07-23T13:20:00Z",
+      "author": "Rosk Calder",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-07-29T17:50:00Z",
+      "author": "Rosk Calder",
+      "text": "Thermostat recalibrated."
+    }
+  ]
+}

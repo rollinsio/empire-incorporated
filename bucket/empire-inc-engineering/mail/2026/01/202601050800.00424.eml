@@ -1,0 +1,45 @@
+From: Ursel Marrek <ursel.marrek@empire-inc.example>
+To: Service Desk Team <service-desk@empire-inc.example>
+Subject: Service desk backlog 2026-01
+Date: Mon, 05 Jan 2026 08:00:00 +0000
+Message-ID: <202601050800.00424@empire-inc.example>
+X-Classification: INTERNAL
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_empire_mail_00424"
+
+--=_empire_mail_00424
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INTERNAL
+
+Hello team,
+
+attached is the service desk backlog as of 2026-01-05: 3 open tickets.
+The oldest is TCK-2025-0125, opened on 2025-12-14.
+
+Regards,
+Ursel
+
+-- 
+Ursel Marrek
+Engineering Manager, Communications
+Computing & Communications
+Empire Incorporated
+Ext. x5052
+
+--=_empire_mail_00424
+Content-Type: text/csv; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename="service-desk-backlog-2026-01.csv"
+MIME-Version: 1.0
+
+ticket_id,queue,subject,requester,assignee,priority,created_at
+TCK-2025-0125,FACILITIES,Facility incident FI-2025-003,Marik Illing,Rain Cold=
+brook,MEDIUM,2025-12-14T09:58:00Z
+TCK-2025-0128,IT_HELPDESK,New starter equipment,Bale Vexley,Bale Zell,HIGH,20=
+25-12-28T14:32:00Z
+TCK-2026-0001,FACILITIES,Facility incident FI-2026-056,Lorne Dravis,Rain Cold=
+brook,MEDIUM,2026-01-04T14:08:00Z
+
+--=_empire_mail_00424--

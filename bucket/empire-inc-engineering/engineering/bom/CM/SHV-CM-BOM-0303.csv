@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-CM-037-01,"Traffic routing switch card, standard",8,ea,37126.25,297010.00,Mekuun Fabrication,SHV-CM-DWG-0203
+2,EI-CM-036-01,"HoloNet transceiver board, standard",3,ea,76682.10,230046.30,Telgorn Corporation,SHV-CM-DWG-0203
+3,EI-CM-037-01,"Traffic routing switch card, standard",8,ea,37126.25,297010.00,Kuat Drive Yards,SHV-CM-DWG-0203
+4,EI-CM-036-01,"HoloNet transceiver board, standard",8,ea,76682.10,613456.80,Kalist Mining Combine,SHV-CM-DWG-0203
+5,EI-CM-037-01,"Traffic routing switch card, standard",240,ea,37126.25,8910300.00,Corulag Precision Optics,SHV-CM-DWG-0203
+6,EI-CM-037-01,"Traffic routing switch card, standard",2,ea,37126.25,74252.50,Uulshos Manufacturing,SHV-CM-DWG-0203
+7,EI-CM-036-01,"HoloNet transceiver board, standard",4,ea,76682.10,306728.40,Kuat Drive Yards,SHV-CM-DWG-0203
+8,EI-CM-037-01,"Traffic routing switch card, standard",24,ea,37126.25,891030.00,Bespin Gas Consortium,SHV-CM-DWG-0203
+9,EI-CM-037-01,"Traffic routing switch card, standard",2,ea,37126.25,74252.50,Garel Composite Mills,SHV-CM-DWG-0203
+10,EI-CM-036-01,"HoloNet transceiver board, standard",3,ea,76682.10,230046.30,Alsakan Instruments,SHV-CM-DWG-0203

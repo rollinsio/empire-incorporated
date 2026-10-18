@@ -1,0 +1,10 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HA-041-01,"Medical supply kit, standard",48,kit,429.31,20606.88,Chandrila Atmospherics,SHV-HA-DWG-0201
+2,EI-HA-042-02,"Crew berth module, family",240,ea,6387.92,1533100.80,Anaxes Turbolift Company,SHV-HA-DWG-0201
+3,EI-HA-041-01,"Medical supply kit, standard",8,kit,429.31,3434.48,Brentaal Logistics Guild,SHV-HA-DWG-0201
+4,EI-HA-044-01,"Classroom furniture set, primary",2,set,1998.86,3997.72,Chandrila Atmospherics,SHV-HA-DWG-0201
+5,EI-HA-042-02,"Crew berth module, family",48,ea,6387.92,306620.16,Rothana Heavy Cranes,SHV-HA-DWG-0201
+6,EI-HA-004-03,"Transparisteel viewport panel, observation deck",96,ea,30614.84,2939024.64,Axxila Power Cells,SHV-HA-DWG-0201
+7,EI-HA-004-02,"Transparisteel viewport panel, medium",96,ea,16245.18,1559537.28,Corellian Bulk Fasteners,SHV-HA-DWG-0201
+8,EI-HA-004-01,"Transparisteel viewport panel, small",1,ea,21578.32,21578.32,Corulag Precision Optics,SHV-HA-DWG-0201
+9,EI-HA-044-01,"Classroom furniture set, primary",12,set,1998.86,23986.32,Carbanti United Electronics,SHV-HA-DWG-0201

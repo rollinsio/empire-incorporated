@@ -1,0 +1,16 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-AG-045-01,"Hydroponic grow tray, shallow",2,ea,297.76,595.52,Chiewab Medical,SHV-AG-DWG-0201
+2,EI-AG-045-02,"Hydroponic grow tray, deep",8,ea,326.83,2614.64,Mekuun Fabrication,SHV-AG-DWG-0201
+3,EI-AG-046-01,"Nutrient concentrate, leafy greens",4,l,44.87,179.48,Carida Safety Supply,SHV-AG-DWG-0201
+4,EI-AG-046-01,"Nutrient concentrate, leafy greens",96,l,44.87,4307.52,Axxila Power Cells,SHV-AG-DWG-0201
+5,EI-AG-047-02,"LED grow light fixture, 1000 W",4,ea,768.89,3075.56,Mekuun Fabrication,SHV-AG-DWG-0201
+6,EI-AG-047-02,"LED grow light fixture, 1000 W",24,ea,768.89,18453.36,Uulshos Manufacturing,SHV-AG-DWG-0201
+7,EI-AG-045-02,"Hydroponic grow tray, deep",8,ea,326.83,2614.64,Fabritech,SHV-AG-DWG-0201
+8,EI-AG-048-02,"Seed stock, grains",2,kg,584.31,1168.62,Rendili StarDrive,SHV-AG-DWG-0201
+9,EI-AG-047-02,"LED grow light fixture, 1000 W",2,ea,768.89,1537.78,Kalist Mining Combine,SHV-AG-DWG-0201
+10,EI-AG-048-03,"Seed stock, herbs",96,kg,460.84,44240.64,Chiewab Medical,SHV-AG-DWG-0201
+11,EI-AG-048-02,"Seed stock, grains",2,kg,584.31,1168.62,Fondor Foundry Collective,SHV-AG-DWG-0201
+12,EI-AG-048-03,"Seed stock, herbs",1,kg,460.84,460.84,Eriadu Steelworks,SHV-AG-DWG-0201
+13,EI-AG-047-02,"LED grow light fixture, 1000 W",12,ea,768.89,9226.68,Bespin Gas Consortium,SHV-AG-DWG-0201
+14,EI-AG-047-02,"LED grow light fixture, 1000 W",12,ea,768.89,9226.68,Scarif Data Systems,SHV-AG-DWG-0201
+15,EI-AG-048-01,"Seed stock, vegetables",12,kg,1822.04,21864.48,Fondor Foundry Collective,SHV-AG-DWG-0201

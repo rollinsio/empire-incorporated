@@ -1,0 +1,7 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-01353,2026-02-02,SUP-007,Fabritech,1,EI-AG-047-02,"LED grow light fixture, 1000 W",20,ea,818.24,16364.80,2026-07-01
+EI-PO-2026-01353,2026-02-02,SUP-007,Fabritech,2,EI-AG-048-02,"Seed stock, grains",4,kg,615.57,2462.28,2026-06-12
+EI-PO-2026-01353,2026-02-02,SUP-007,Fabritech,3,EI-AG-048-03,"Seed stock, herbs",12,kg,496.65,5959.80,2026-05-12
+EI-PO-2026-01353,2026-02-02,SUP-007,Fabritech,4,EI-AG-046-01,"Nutrient concentrate, leafy greens",2,l,45.22,90.44,2026-06-09
+EI-PO-2026-01353,2026-02-02,SUP-007,Fabritech,5,EI-AG-045-02,"Hydroponic grow tray, deep",120,ea,325.06,39007.20,2026-05-23
+EI-PO-2026-01353,,,,,,ORDER TOTAL,,,,63884.52,

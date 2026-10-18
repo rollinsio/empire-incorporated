@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-AG-045-01,"Hydroponic grow tray, shallow",96,ea,297.76,28584.96,Corellian Bulk Fasteners,SHV-OC-DWG-0203
+2,EI-SY-030-02,"Dry dock seal assembly, service hatch",1,ea,259604.69,259604.69,Brentaal Logistics Guild,SHV-OC-DWG-0203
+3,EI-SA-013-02,"Solar collector panel, high-efficiency",4,ea,48084.64,192338.56,Brentaal Logistics Guild,SHV-OC-DWG-0203
+4,EI-SA-013-01,"Solar collector panel, standard",4,ea,42611.21,170444.84,Naboo Hydroponic Supply,SHV-OC-DWG-0203
+5,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",2,ea,97349.16,194698.32,Kuat Precision Instruments,SHV-OC-DWG-0203
+6,EI-CN-033-01,"Data backbone switch, 48-port",1,ea,16643.89,16643.89,Mekuun Fabrication,SHV-OC-DWG-0203
+7,EI-CN-035-03,"Sensor array module, pressure",1,ea,18814.77,18814.77,Carida Safety Supply,SHV-OC-DWG-0203
+8,EI-AG-047-01,"LED grow light fixture, 600 W",12,ea,1191.12,14293.44,Scarif Data Systems,SHV-OC-DWG-0203
+9,EI-CN-035-02,"Sensor array module, radiation",12,ea,11916.71,143000.52,Telgorn Corporation,SHV-OC-DWG-0203
+10,EI-RL-056-02,"Telescope mirror segment, outer ring",8,ea,2368185.51,18945484.08,Chandrila Atmospherics,SHV-OC-DWG-0203

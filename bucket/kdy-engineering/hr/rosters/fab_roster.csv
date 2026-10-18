@@ -1,0 +1,51 @@
+employee_id,name,title,email,manager
+KDY-E-0006,Tobin Marsh,Director of Fabrication,tobin.marsh@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0057,Sola Longmire,Team Lead,sola.longmire@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0058,Calla Jarrow,Welder,calla.jarrow@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0059,Ursel Wren,Crane Fitter,ursel.wren@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0060,Maelis Ashby,Shift Supervisor,maelis.ashby@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0061,Vela Everhart,Plater,vela.everhart@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0062,Gavren Fairholm,Welder,gavren.fairholm@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0063,Elian Kaine,Crane Fitter,elian.kaine@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0064,Anneka Quarrel,Shift Supervisor,anneka.quarrel@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0065,Garnet Calder,Plater,garnet.calder@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0066,Joren Holloway,Welder,joren.holloway@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0067,Tilda Halloran,Crane Fitter,tilda.halloran@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0068,Anneka Nash,Shift Supervisor,anneka.nash@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0069,Alira Drummond,Plater,alira.drummond@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0070,Venn Lorne,Welder,venn.lorne@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0071,Cedric Embry,Crane Fitter,cedric.embry@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0072,Amsel Ellery,Shift Supervisor,amsel.ellery@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0073,Casimir Marlow,Plater,casimir.marlow@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0074,Ulla Nevins,Welder,ulla.nevins@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0075,Elian Rusk,Crane Fitter,elian.rusk@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0076,Vala Ardent,Shift Supervisor,vala.ardent@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0077,Bale Kendrick,Plater,bale.kendrick@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0078,Teague Falkner,Welder,teague.falkner@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0079,Jory Radlow,Crane Fitter,jory.radlow@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0080,Garnet Parrish,Shift Supervisor,garnet.parrish@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0081,Vala Marrek,Plater,vala.marrek@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0082,Ciran Ironside,Welder,ciran.ironside@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0083,Neve Varrick,Crane Fitter,neve.varrick@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0084,Gavren Warrick,Shift Supervisor,gavren.warrick@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0085,Ivor Pell,Plater,ivor.pell@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0086,Treva Norcott,Welder,treva.norcott@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0087,Jessa Kade,Crane Fitter,jessa.kade@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0088,Xan Kendrick,Shift Supervisor,xan.kendrick@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0089,Lannic Welles,Plater,lannic.welles@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0090,Elian Osgood,Welder,elian.osgood@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0091,Sarik Halloran,Crane Fitter,sarik.halloran@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0092,Teague Teague,Shift Supervisor,teague.teague@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0093,Cedric Abernathe,Plater,cedric.abernathe@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0094,Teague Castellan,Welder,teague.castellan@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0095,Davin Drummond,Crane Fitter,davin.drummond@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0096,Ursel Lusk,Shift Supervisor,ursel.lusk@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0097,Tova Vexley,Plater,tova.vexley@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0098,Oren Crane,Welder,oren.crane@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0099,Edric Parrish,Crane Fitter,edric.parrish@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0100,Evran Kade,Shift Supervisor,evran.kade@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0101,Hale Rhydon,Plater,hale.rhydon@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0102,Rhett Embry,Welder,rhett.embry@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0103,Darek Aster,Crane Fitter,darek.aster@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0104,Maren Rusk,Shift Supervisor,maren.rusk@kuat-drive-yards.example,Tobin Marsh
+KDY-E-0105,Vela Ulmer,Plater,vela.ulmer@kuat-drive-yards.example,Tobin Marsh

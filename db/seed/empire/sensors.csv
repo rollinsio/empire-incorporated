@@ -1,0 +1,38 @@
+sensor_id,system_code,zone_code,metric,unit,sensitivity
+HR-CORE-T01,HR,Z12,reactor_core_temperature,K,CONFIDENTIAL
+HR-CORE-T02,HR,Z13,reactor_core_temperature,K,CONFIDENTIAL
+HR-CFG-F01,HR,Z12,containment_field_strength,% nominal,CONFIDENTIAL
+HR-CFG-F02,HR,Z13,containment_field_strength,% nominal,CONFIDENTIAL
+HR-OUT-P01,HR,Z12,reactor_output,% rated,CONFIDENTIAL
+TX-HXS-T01,TX,Z11,heat_exchanger_outlet_temperature,K,INTERNAL
+TX-HXS-T02,TX,Z14,heat_exchanger_outlet_temperature,K,INTERNAL
+TX-CPS-F01,TX,Z12,coolant_pump_flow,m³/s,INTERNAL
+PD-SUB-L01,PD,Z03,substation_load,% rated,INTERNAL
+PD-SUB-L02,PD,Z07,substation_load,% rated,INTERNAL
+PD-SUB-L03,PD,Z15,substation_load,% rated,INTERNAL
+PD-SUB-L04,PD,Z21,substation_load,% rated,INTERNAL
+SA-PCU-P01,SA,Z02,solar_array_output,GW,INTERNAL
+SA-PCU-P02,SA,Z05,solar_array_output,GW,INTERNAL
+HB-MHB-P01,HB,Z06,hangar_pressure,kPa,INTERNAL
+HB-MHB-P02,HB,Z18,hangar_pressure,kPa,INTERNAL
+HB-CSC-C01,HB,Z06,docking_cycles,count/h,INTERNAL
+SY-GCR-L01,SY,Z22,gantry_crane_load,t,CONFIDENTIAL
+LS-ATP-O01,LS,Z04,oxygen_fraction,%,INTERNAL
+LS-ATP-O02,LS,Z09,oxygen_fraction,%,INTERNAL
+LS-ATP-O03,LS,Z16,oxygen_fraction,%,INTERNAL
+LS-ATP-C01,LS,Z04,carbon_dioxide,ppm,INTERNAL
+LS-ATP-C02,LS,Z16,carbon_dioxide,ppm,INTERNAL
+LS-WRC-R01,LS,Z10,water_reclamation_rate,%,INTERNAL
+LS-TRG-T01,LS,Z04,cabin_temperature,°C,INTERNAL
+LS-TRG-T02,LS,Z16,cabin_temperature,°C,INTERNAL
+LS-GRV-U01,LS,Z08,gravity_uniformity,%,INTERNAL
+HA-CRQ-O01,HA,Z19,berth_occupancy,berths,INTERNAL
+AG-HGT-H01,AG,Z20,grow_tier_humidity,%,INTERNAL
+CN-CCO-U01,CN,Z05,core_utilization,%,INTERNAL
+CN-DNB-L01,CN,Z05,backbone_latency,ms,INTERNAL
+CM-HNT-Q01,CM,Z02,holonet_queue_depth,messages,INTERNAL
+WM-TCU-C01,WM,Z20,compactor_cycles,count/h,INTERNAL
+TR-TRM-R01,TR,Z09,tram_riders,persons/h,INTERNAL
+SF-RIB-S01,SF,Z12,rib_strain,µε,INTERNAL
+SF-RIB-S02,SF,Z06,rib_strain,µε,INTERNAL
+SF-HPS-V01,SF,Z17,hull_vibration,mm/s,INTERNAL

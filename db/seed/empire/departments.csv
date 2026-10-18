@@ -1,0 +1,19 @@
+department_id,code,name,headcount,sensitivity
+D01,OCH,Office of the Chairman,12,INTERNAL
+D02,PMO,Program Management Office,45,INTERNAL
+D03,SCI,Science & Research,70,INTERNAL
+D04,AGR,Agriculture & Food Systems,40,INTERNAL
+D05,STR,Structural Engineering,110,INTERNAL
+D06,RPS,Reactor & Power Systems,85,INTERNAL
+D07,PRO,Propulsion & Station-Keeping,60,INTERNAL
+D08,SYD,Shipyard Operations,90,INTERNAL
+D09,HFO,Docking & Flight Operations,55,INTERNAL
+D10,LSH,Life Support & Habitation,50,INTERNAL
+D11,CCS,Computing & Communications,65,INTERNAL
+D12,QAT,Quality Assurance & Test,60,INTERNAL
+D13,CON,Construction Operations,105,INTERNAL
+D14,SCM,Procurement & Supply Chain,45,INTERNAL
+D15,FIN,Finance,35,INTERNAL
+D16,HRA,Personnel Administration,25,INTERNAL
+D17,LEG,Legal & Contracts,18,INTERNAL
+D18,FAC,Facilities & Workplace Safety,30,INTERNAL

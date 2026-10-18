@@ -1,0 +1,184 @@
+{
+  "simulation_id": "SHV-SF-SIM-0007",
+  "title": "Structural load case (run 7)",
+  "system": "SF",
+  "classification": "INTERNAL",
+  "model_version": "5.8.8",
+  "run_date": "2024-11-25",
+  "engineer": "Esme Hesk",
+  "engineer_id": "EMP-00283",
+  "inputs": {
+    "scenario": "contingency",
+    "duration_steps": 27
+  },
+  "results": {
+    "summary": {
+      "peak_deflection_m": 85.38,
+      "peak_step": 25
+    },
+    "series": [
+      {
+        "t": 0,
+        "load_factor": 75.789,
+        "max_rib_strain": 59.321,
+        "deflection_m": 71.815
+      },
+      {
+        "t": 1,
+        "load_factor": 79.84,
+        "max_rib_strain": 60.804,
+        "deflection_m": 76.721
+      },
+      {
+        "t": 2,
+        "load_factor": 79.313,
+        "max_rib_strain": 59.439,
+        "deflection_m": 73.24
+      },
+      {
+        "t": 3,
+        "load_factor": 78.631,
+        "max_rib_strain": 60.927,
+        "deflection_m": 73.133
+      },
+      {
+        "t": 4,
+        "load_factor": 79.807,
+        "max_rib_strain": 61.251,
+        "deflection_m": 75.383
+      },
+      {
+        "t": 5,
+        "load_factor": 76.794,
+        "max_rib_strain": 60.656,
+        "deflection_m": 72.814
+      },
+      {
+        "t": 6,
+        "load_factor": 79.66,
+        "max_rib_strain": 61.76,
+        "deflection_m": 76.742
+      },
+      {
+        "t": 7,
+        "load_factor": 78.735,
+        "max_rib_strain": 60.965,
+        "deflection_m": 74.945
+      },
+      {
+        "t": 8,
+        "load_factor": 81.712,
+        "max_rib_strain": 61.867,
+        "deflection_m": 79.537
+      },
+      {
+        "t": 9,
+        "load_factor": 82.8,
+        "max_rib_strain": 63.304,
+        "deflection_m": 77.654
+      },
+      {
+        "t": 10,
+        "load_factor": 83.036,
+        "max_rib_strain": 62.805,
+        "deflection_m": 76.624
+      },
+      {
+        "t": 11,
+        "load_factor": 83.821,
+        "max_rib_strain": 64.358,
+        "deflection_m": 78.097
+      },
+      {
+        "t": 12,
+        "load_factor": 81.349,
+        "max_rib_strain": 64.821,
+        "deflection_m": 79.211
+      },
+      {
+        "t": 13,
+        "load_factor": 83.292,
+        "max_rib_strain": 64.96,
+        "deflection_m": 76.858
+      },
+      {
+        "t": 14,
+        "load_factor": 87.598,
+        "max_rib_strain": 64.743,
+        "deflection_m": 77.517
+      },
+      {
+        "t": 15,
+        "load_factor": 84.419,
+        "max_rib_strain": 68.7,
+        "deflection_m": 77.151
+      },
+      {
+        "t": 16,
+        "load_factor": 81.918,
+        "max_rib_strain": 64.717,
+        "deflection_m": 78.242
+      },
+      {
+        "t": 17,
+        "load_factor": 85.788,
+        "max_rib_strain": 65.275,
+        "deflection_m": 76.422
+      },
+      {
+        "t": 18,
+        "load_factor": 84.698,
+        "max_rib_strain": 68.36,
+        "deflection_m": 80.476
+      },
+      {
+        "t": 19,
+        "load_factor": 86.09,
+        "max_rib_strain": 67.816,
+        "deflection_m": 80.759
+      },
+      {
+        "t": 20,
+        "load_factor": 85.875,
+        "max_rib_strain": 67.499,
+        "deflection_m": 80.201
+      },
+      {
+        "t": 21,
+        "load_factor": 87.168,
+        "max_rib_strain": 68.836,
+        "deflection_m": 77.793
+      },
+      {
+        "t": 22,
+        "load_factor": 88.267,
+        "max_rib_strain": 68.246,
+        "deflection_m": 81.919
+      },
+      {
+        "t": 23,
+        "load_factor": 87.402,
+        "max_rib_strain": 67.548,
+        "deflection_m": 81.566
+      },
+      {
+        "t": 24,
+        "load_factor": 89.529,
+        "max_rib_strain": 67.803,
+        "deflection_m": 84.824
+      },
+      {
+        "t": 25,
+        "load_factor": 87.698,
+        "max_rib_strain": 69.001,
+        "deflection_m": 85.38
+      },
+      {
+        "t": 26,
+        "load_factor": 90.349,
+        "max_rib_strain": 70.357,
+        "deflection_m": 84.299
+      }
+    ]
+  }
+}

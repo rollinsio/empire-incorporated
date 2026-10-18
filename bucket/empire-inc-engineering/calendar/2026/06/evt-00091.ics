@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00091@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260610T140000Z
+DTEND:20260610T150000Z
+SUMMARY:Structural Engineering team meeting
+LOCATION:Coruscant Headquarters\, room H41-12
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-06-10.
+ORGANIZER;CN="Brenna Tolle":mailto:brenna.tolle@empire-inc.example
+ATTENDEE;CN="Jory Coldbrook";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:jory.coldbrook@empire-inc.example
+ATTENDEE;CN="Aldo Calloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:aldo.calloway@empire-inc.example
+ATTENDEE;CN="Carys Galloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:carys.galloway@empire-inc.example
+ATTENDEE;CN="Tilda Delane";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:tilda.delane@empire-inc.example
+ATTENDEE;CN="Silas Lusk";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:silas.lusk@empire-inc.example
+ATTENDEE;CN="Asha Starke";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:asha.starke@empire-inc.example
+ATTENDEE;CN="Leda Holloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:leda.holloway@empire-inc.example
+ATTENDEE;CN="Hessa Kingsley";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:hessa.kingsley@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

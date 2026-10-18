@@ -1,0 +1,14 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-CM-036-01,"HoloNet transceiver board, standard",1,ea,76682.10,76682.10,Kuat Precision Instruments,SHV-CM-DWG-0202
+2,EI-CM-036-01,"HoloNet transceiver board, standard",4,ea,76682.10,306728.40,Chandrila Atmospherics,SHV-CM-DWG-0202
+3,EI-CM-036-01,"HoloNet transceiver board, standard",1,ea,76682.10,76682.10,Fondor Foundry Collective,SHV-CM-DWG-0202
+4,EI-CM-036-01,"HoloNet transceiver board, standard",2,ea,76682.10,153364.20,Rendili StarDrive,SHV-CM-DWG-0202
+5,EI-CM-036-01,"HoloNet transceiver board, standard",3,ea,76682.10,230046.30,Mekuun Fabrication,SHV-CM-DWG-0202
+6,EI-CM-037-01,"Traffic routing switch card, standard",1,ea,37126.25,37126.25,Chiewab Medical,SHV-CM-DWG-0202
+7,EI-CM-037-01,"Traffic routing switch card, standard",240,ea,37126.25,8910300.00,Rothana Heavy Cranes,SHV-CM-DWG-0202
+8,EI-CM-036-01,"HoloNet transceiver board, standard",1,ea,76682.10,76682.10,Lothal Fleet Services,SHV-CM-DWG-0202
+9,EI-CM-037-01,"Traffic routing switch card, standard",1,ea,37126.25,37126.25,Telgorn Corporation,SHV-CM-DWG-0202
+10,EI-CM-036-01,"HoloNet transceiver board, standard",1,ea,76682.10,76682.10,Naboo Hydroponic Supply,SHV-CM-DWG-0202
+11,EI-CM-036-01,"HoloNet transceiver board, standard",1,ea,76682.10,76682.10,Naboo Hydroponic Supply,SHV-CM-DWG-0202
+12,EI-CM-037-01,"Traffic routing switch card, standard",24,ea,37126.25,891030.00,Alsakan Instruments,SHV-CM-DWG-0202
+13,EI-CM-036-01,"HoloNet transceiver board, standard",8,ea,76682.10,613456.80,Corulag Precision Optics,SHV-CM-DWG-0202

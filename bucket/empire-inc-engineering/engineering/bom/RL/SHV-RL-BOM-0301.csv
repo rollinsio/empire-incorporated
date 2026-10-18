@@ -1,0 +1,7 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-RL-054-02,"Laboratory fume hood, walk-in",8,ea,11615.37,92922.96,Garel Composite Mills,SHV-RL-DWG-0201
+2,EI-RL-055-02,"Cleanroom filter unit, class 6",24,ea,2512.36,60296.64,Alsakan Instruments,SHV-RL-DWG-0201
+3,EI-RL-054-02,"Laboratory fume hood, walk-in",48,ea,11615.37,557537.76,Sluis Van Orbital Works,SHV-RL-DWG-0201
+4,EI-RL-054-02,"Laboratory fume hood, walk-in",2,ea,11615.37,23230.74,Fabritech,SHV-RL-DWG-0201
+5,EI-RL-054-01,"Laboratory fume hood, standard",2,ea,11591.45,23182.90,Scarif Data Systems,SHV-RL-DWG-0201
+6,EI-RL-055-01,"Cleanroom filter unit, class 5",2,ea,6695.92,13391.84,Mustafar Refinery Cooperative,SHV-RL-DWG-0201

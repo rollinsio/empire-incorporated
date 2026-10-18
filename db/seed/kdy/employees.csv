@@ -1,0 +1,147 @@
+employee_id,first_name,last_name,email,department_id,title,grade,manager_id,hire_date,status,termination_date,access_level,sensitivity
+KDY-E-0001,Aurelia,Vantress,aurelia.vantress@kuat-drive-yards.example,K01,Chief Executive Officer,12,,2009-02-02,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0002,Hollis,Brack,hollis.brack@kuat-drive-yards.example,K06,Chief Financial Officer,12,KDY-E-0001,2012-05-14,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0003,Severin,Lathe,severin.lathe@kuat-drive-yards.example,K02,Head of Sales & Key Accounts,11,KDY-E-0001,2014-09-01,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0004,Merel,Danvik,merel.danvik@kuat-drive-yards.example,K02,"Key Account Manager, Empire Incorporated",8,KDY-E-0003,2018-03-12,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0005,Ida,Halcrow,ida.halcrow@kuat-drive-yards.example,K03,Director of Engineering,11,KDY-E-0001,2011-07-04,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0006,Tobin,Marsh,tobin.marsh@kuat-drive-yards.example,K04,Director of Fabrication,11,KDY-E-0001,2010-01-18,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0007,Ysolde,Quint,ysolde.quint@kuat-drive-yards.example,K05,Head of Quality,10,KDY-E-0001,2016-06-06,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0008,Nadine,Corbel,nadine.corbel@kuat-drive-yards.example,K07,Head of People & Culture,10,KDY-E-0001,2017-10-02,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0009,Jory,Fenner,jory.fenner@kuat-drive-yards.example,K08,Head of Procurement,10,KDY-E-0001,2015-04-20,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0010,Cass,Albright,cass.albright@kuat-drive-yards.example,K09,Logistics Lead,9,KDY-E-0001,2019-08-05,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0011,Pax,Warrick,pax.warrick@kuat-drive-yards.example,K01,Executive Assistant,6,KDY-E-0001,2016-08-10,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0012,Marik,Belcourt,marik.belcourt@kuat-drive-yards.example,K01,Strategy Analyst,6,KDY-E-0001,2017-03-13,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0013,Gessa,Delane,gessa.delane@kuat-drive-yards.example,K01,Executive Assistant,4,KDY-E-0001,2016-05-18,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0014,Enna,Tull,enna.tull@kuat-drive-yards.example,K01,Strategy Analyst,5,KDY-E-0001,2016-03-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0015,Ilka,Torvald,ilka.torvald@kuat-drive-yards.example,K01,Executive Assistant,4,KDY-E-0001,2015-01-28,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0016,Cato,Merrick,cato.merrick@kuat-drive-yards.example,K02,Team Lead,8,KDY-E-0003,2016-06-07,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0017,Maddox,Crestwell,maddox.crestwell@kuat-drive-yards.example,K02,Account Manager,3,KDY-E-0003,2017-04-07,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0018,Ferris,Vance,ferris.vance@kuat-drive-yards.example,K02,Bid Manager,5,KDY-E-0003,2014-12-23,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0019,Cato,Greaves,cato.greaves@kuat-drive-yards.example,K02,Sales Coordinator,6,KDY-E-0003,2021-08-30,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0020,Garrow,Mordant,garrow.mordant@kuat-drive-yards.example,K02,Account Manager,4,KDY-E-0003,2016-03-22,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0021,Maddox,Morrow,maddox.morrow@kuat-drive-yards.example,K02,Bid Manager,5,KDY-E-0003,2026-01-28,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0022,Tamsin,Holloway,tamsin.holloway@kuat-drive-yards.example,K02,Sales Coordinator,7,KDY-E-0003,2025-02-09,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0023,Rain,Falkner,rain.falkner@kuat-drive-yards.example,K02,Account Manager,7,KDY-E-0003,2016-08-26,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0024,Lannic,Lusk,lannic.lusk@kuat-drive-yards.example,K02,Bid Manager,3,KDY-E-0003,2023-01-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0025,Hollis,Ingram,hollis.ingram@kuat-drive-yards.example,K02,Sales Coordinator,5,KDY-E-0003,2016-01-31,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0026,Pela,Ellery,pela.ellery@kuat-drive-yards.example,K02,Account Manager,6,KDY-E-0003,2019-01-04,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0027,Riven,Rothe,riven.rothe@kuat-drive-yards.example,K02,Bid Manager,3,KDY-E-0003,2017-07-17,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0028,Kael,Crestwell,kael.crestwell@kuat-drive-yards.example,K03,Team Lead,8,KDY-E-0005,2025-09-23,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0029,Halden,Fiore,halden.fiore@kuat-drive-yards.example,K03,Structural Analyst,7,KDY-E-0005,2023-03-24,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0030,Davin,Calder,davin.calder@kuat-drive-yards.example,K03,Production Engineer,5,KDY-E-0005,2017-01-13,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0031,Wilde,Rothe,wilde.rothe@kuat-drive-yards.example,K03,Design Engineer,3,KDY-E-0005,2014-08-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0032,Soren,Yorke,soren.yorke@kuat-drive-yards.example,K03,Structural Analyst,2,KDY-E-0005,2026-04-22,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0033,Petra,Marrek,petra.marrek@kuat-drive-yards.example,K03,Production Engineer,2,KDY-E-0005,2025-10-23,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0034,Rowan,Delane,rowan.delane@kuat-drive-yards.example,K03,Design Engineer,5,KDY-E-0005,2021-11-01,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0035,Callum,Craddock,callum.craddock@kuat-drive-yards.example,K03,Structural Analyst,3,KDY-E-0005,2017-08-26,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0036,Caddoc,Zell,caddoc.zell@kuat-drive-yards.example,K03,Production Engineer,7,KDY-E-0005,2016-03-10,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0037,Rhosa,Starke,rhosa.starke@kuat-drive-yards.example,K03,Design Engineer,2,KDY-E-0005,2015-01-30,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0038,Lysander,Holloway,lysander.holloway@kuat-drive-yards.example,K03,Structural Analyst,6,KDY-E-0005,2017-03-04,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0039,Edric,Alcorne,edric.alcorne@kuat-drive-yards.example,K03,Production Engineer,2,KDY-E-0005,2018-07-19,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0040,Xan,Everhart,xan.everhart@kuat-drive-yards.example,K03,Design Engineer,7,KDY-E-0005,2020-04-01,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0041,Noa,Oakes,noa.oakes@kuat-drive-yards.example,K03,Structural Analyst,4,KDY-E-0005,2021-01-20,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0042,Nerys,Ironside,nerys.ironside@kuat-drive-yards.example,K03,Production Engineer,4,KDY-E-0005,2013-08-13,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0043,Soren,Jarrow,soren.jarrow@kuat-drive-yards.example,K03,Design Engineer,5,KDY-E-0005,2025-03-02,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0044,Darek,Rhydon,darek.rhydon@kuat-drive-yards.example,K03,Structural Analyst,5,KDY-E-0005,2015-07-18,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0045,Xan,Falkner,xan.falkner@kuat-drive-yards.example,K03,Production Engineer,3,KDY-E-0005,2022-12-20,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0046,Tilda,Tarrant,tilda.tarrant@kuat-drive-yards.example,K03,Design Engineer,4,KDY-E-0005,2013-08-05,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0047,Bale,Dunmore,bale.dunmore@kuat-drive-yards.example,K03,Structural Analyst,4,KDY-E-0005,2017-04-04,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0048,Dalric,Maddox,dalric.maddox@kuat-drive-yards.example,K03,Production Engineer,5,KDY-E-0005,2024-05-27,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0049,Sola,Bailin,sola.bailin@kuat-drive-yards.example,K03,Design Engineer,6,KDY-E-0005,2020-01-24,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0050,Zeva,Bresk,zeva.bresk@kuat-drive-yards.example,K03,Structural Analyst,4,KDY-E-0005,2023-05-18,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0051,Teague,Delane,teague.delane@kuat-drive-yards.example,K03,Production Engineer,3,KDY-E-0005,2020-09-17,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0052,Ursel,Tregar,ursel.tregar@kuat-drive-yards.example,K03,Design Engineer,4,KDY-E-0005,2013-04-09,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0053,Pax,Venner,pax.venner@kuat-drive-yards.example,K03,Structural Analyst,4,KDY-E-0005,2019-02-03,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0054,Jaska,Harrick,jaska.harrick@kuat-drive-yards.example,K03,Production Engineer,5,KDY-E-0005,2019-06-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0055,Kirra,Castellan,kirra.castellan@kuat-drive-yards.example,K03,Design Engineer,4,KDY-E-0005,2024-01-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0056,Riven,Osgood,riven.osgood@kuat-drive-yards.example,K03,Structural Analyst,7,KDY-E-0005,2023-02-25,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0057,Sola,Longmire,sola.longmire@kuat-drive-yards.example,K04,Team Lead,8,KDY-E-0006,2021-09-16,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0058,Calla,Jarrow,calla.jarrow@kuat-drive-yards.example,K04,Welder,7,KDY-E-0006,2021-10-15,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0059,Ursel,Wren,ursel.wren@kuat-drive-yards.example,K04,Crane Fitter,4,KDY-E-0006,2019-05-05,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0060,Maelis,Ashby,maelis.ashby@kuat-drive-yards.example,K04,Shift Supervisor,4,KDY-E-0006,2014-12-28,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0061,Vela,Everhart,vela.everhart@kuat-drive-yards.example,K04,Plater,5,KDY-E-0006,2017-01-07,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0062,Gavren,Fairholm,gavren.fairholm@kuat-drive-yards.example,K04,Welder,2,KDY-E-0006,2019-07-14,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0063,Elian,Kaine,elian.kaine@kuat-drive-yards.example,K04,Crane Fitter,5,KDY-E-0006,2020-12-09,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0064,Anneka,Quarrel,anneka.quarrel@kuat-drive-yards.example,K04,Shift Supervisor,3,KDY-E-0006,2020-01-21,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0065,Garnet,Calder,garnet.calder@kuat-drive-yards.example,K04,Plater,6,KDY-E-0006,2025-07-26,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0066,Joren,Holloway,joren.holloway@kuat-drive-yards.example,K04,Welder,3,KDY-E-0006,2015-01-29,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0067,Tilda,Halloran,tilda.halloran@kuat-drive-yards.example,K04,Crane Fitter,4,KDY-E-0006,2018-08-14,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0068,Anneka,Nash,anneka.nash@kuat-drive-yards.example,K04,Shift Supervisor,5,KDY-E-0006,2013-07-11,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0069,Alira,Drummond,alira.drummond@kuat-drive-yards.example,K04,Plater,2,KDY-E-0006,2022-12-13,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0070,Venn,Lorne,venn.lorne@kuat-drive-yards.example,K04,Welder,3,KDY-E-0006,2021-04-20,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0071,Cedric,Embry,cedric.embry@kuat-drive-yards.example,K04,Crane Fitter,2,KDY-E-0006,2020-11-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0072,Amsel,Ellery,amsel.ellery@kuat-drive-yards.example,K04,Shift Supervisor,7,KDY-E-0006,2014-03-31,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0073,Casimir,Marlow,casimir.marlow@kuat-drive-yards.example,K04,Plater,3,KDY-E-0006,2015-05-13,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0074,Ulla,Nevins,ulla.nevins@kuat-drive-yards.example,K04,Welder,5,KDY-E-0006,2025-01-20,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0075,Elian,Rusk,elian.rusk@kuat-drive-yards.example,K04,Crane Fitter,6,KDY-E-0006,2019-07-02,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0076,Vala,Ardent,vala.ardent@kuat-drive-yards.example,K04,Shift Supervisor,7,KDY-E-0006,2022-05-17,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0077,Bale,Kendrick,bale.kendrick@kuat-drive-yards.example,K04,Plater,5,KDY-E-0006,2014-10-29,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0078,Teague,Falkner,teague.falkner@kuat-drive-yards.example,K04,Welder,3,KDY-E-0006,2020-11-08,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0079,Jory,Radlow,jory.radlow@kuat-drive-yards.example,K04,Crane Fitter,7,KDY-E-0006,2020-02-22,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0080,Garnet,Parrish,garnet.parrish@kuat-drive-yards.example,K04,Shift Supervisor,2,KDY-E-0006,2024-06-29,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0081,Vala,Marrek,vala.marrek@kuat-drive-yards.example,K04,Plater,4,KDY-E-0006,2016-08-27,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0082,Ciran,Ironside,ciran.ironside@kuat-drive-yards.example,K04,Welder,5,KDY-E-0006,2020-09-21,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0083,Neve,Varrick,neve.varrick@kuat-drive-yards.example,K04,Crane Fitter,3,KDY-E-0006,2019-02-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0084,Gavren,Warrick,gavren.warrick@kuat-drive-yards.example,K04,Shift Supervisor,3,KDY-E-0006,2016-07-23,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0085,Ivor,Pell,ivor.pell@kuat-drive-yards.example,K04,Plater,5,KDY-E-0006,2021-02-10,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0086,Treva,Norcott,treva.norcott@kuat-drive-yards.example,K04,Welder,2,KDY-E-0006,2020-01-12,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0087,Jessa,Kade,jessa.kade@kuat-drive-yards.example,K04,Crane Fitter,4,KDY-E-0006,2017-03-26,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0088,Xan,Kendrick,xan.kendrick@kuat-drive-yards.example,K04,Shift Supervisor,3,KDY-E-0006,2022-09-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0089,Lannic,Welles,lannic.welles@kuat-drive-yards.example,K04,Plater,5,KDY-E-0006,2015-08-27,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0090,Elian,Osgood,elian.osgood@kuat-drive-yards.example,K04,Welder,7,KDY-E-0006,2024-09-22,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0091,Sarik,Halloran,sarik.halloran@kuat-drive-yards.example,K04,Crane Fitter,7,KDY-E-0006,2025-12-02,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0092,Teague,Teague,teague.teague@kuat-drive-yards.example,K04,Shift Supervisor,5,KDY-E-0006,2013-11-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0093,Cedric,Abernathe,cedric.abernathe@kuat-drive-yards.example,K04,Plater,6,KDY-E-0006,2021-08-08,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0094,Teague,Castellan,teague.castellan@kuat-drive-yards.example,K04,Welder,4,KDY-E-0006,2019-05-02,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0095,Davin,Drummond,davin.drummond@kuat-drive-yards.example,K04,Crane Fitter,2,KDY-E-0006,2026-02-06,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0096,Ursel,Lusk,ursel.lusk@kuat-drive-yards.example,K04,Shift Supervisor,5,KDY-E-0006,2024-02-04,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0097,Tova,Vexley,tova.vexley@kuat-drive-yards.example,K04,Plater,5,KDY-E-0006,2019-04-03,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0098,Oren,Crane,oren.crane@kuat-drive-yards.example,K04,Welder,3,KDY-E-0006,2017-09-18,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0099,Edric,Parrish,edric.parrish@kuat-drive-yards.example,K04,Crane Fitter,2,KDY-E-0006,2018-01-27,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0100,Evran,Kade,evran.kade@kuat-drive-yards.example,K04,Shift Supervisor,3,KDY-E-0006,2014-08-01,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0101,Hale,Rhydon,hale.rhydon@kuat-drive-yards.example,K04,Plater,4,KDY-E-0006,2017-07-26,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0102,Rhett,Embry,rhett.embry@kuat-drive-yards.example,K04,Welder,7,KDY-E-0006,2020-08-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0103,Darek,Aster,darek.aster@kuat-drive-yards.example,K04,Crane Fitter,2,KDY-E-0006,2014-07-15,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0104,Maren,Rusk,maren.rusk@kuat-drive-yards.example,K04,Shift Supervisor,3,KDY-E-0006,2016-11-28,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0105,Vela,Ulmer,vela.ulmer@kuat-drive-yards.example,K04,Plater,4,KDY-E-0006,2022-02-09,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0106,Perrin,Vance,perrin.vance@kuat-drive-yards.example,K05,Team Lead,8,KDY-E-0007,2017-06-02,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0107,Kirra,Crestwell,kirra.crestwell@kuat-drive-yards.example,K05,Quality Engineer,3,KDY-E-0007,2021-04-19,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0108,Osric,Osgood,osric.osgood@kuat-drive-yards.example,K05,Quality Inspector,4,KDY-E-0007,2013-02-15,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0109,Jaska,Ramsey,jaska.ramsey@kuat-drive-yards.example,K05,Quality Engineer,4,KDY-E-0007,2024-12-26,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0110,Osric,Jarrow,osric.jarrow@kuat-drive-yards.example,K05,Quality Inspector,5,KDY-E-0007,2025-11-25,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0111,Leda,Greaves,leda.greaves@kuat-drive-yards.example,K05,Quality Engineer,3,KDY-E-0007,2022-04-14,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0112,Hale,Hune,hale.hune@kuat-drive-yards.example,K05,Quality Inspector,5,KDY-E-0007,2017-01-03,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0113,Quinn,Nevins,quinn.nevins@kuat-drive-yards.example,K05,Quality Engineer,5,KDY-E-0007,2014-06-24,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0114,Edda,Dallan,edda.dallan@kuat-drive-yards.example,K05,Quality Inspector,4,KDY-E-0007,2018-09-04,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0115,Wren,Keller,wren.keller@kuat-drive-yards.example,K05,Quality Engineer,4,KDY-E-0007,2013-04-12,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0116,Kirra,Avrane,kirra.avrane@kuat-drive-yards.example,K05,Quality Inspector,3,KDY-E-0007,2022-03-21,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0117,Daro,Delane,daro.delane@kuat-drive-yards.example,K06,Team Lead,8,KDY-E-0002,2023-04-25,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0118,Aldo,Lorne,aldo.lorne@kuat-drive-yards.example,K06,Financial Analyst,6,KDY-E-0002,2015-03-12,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0119,Dorne,Teague,dorne.teague@kuat-drive-yards.example,K06,Cost Accountant,3,KDY-E-0002,2015-01-03,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0120,Hollis,Orlen,hollis.orlen@kuat-drive-yards.example,K06,Financial Analyst,5,KDY-E-0002,2014-08-14,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0121,Rhosa,Merrick,rhosa.merrick@kuat-drive-yards.example,K06,Cost Accountant,6,KDY-E-0002,2014-08-28,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0122,Aven,Kade,aven.kade@kuat-drive-yards.example,K06,Financial Analyst,4,KDY-E-0002,2015-07-21,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0123,Dorne,Venner,dorne.venner@kuat-drive-yards.example,K06,Cost Accountant,7,KDY-E-0002,2023-10-09,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0124,Anneka,Rhydon,anneka.rhydon@kuat-drive-yards.example,K06,Financial Analyst,5,KDY-E-0002,2024-01-09,ACTIVE,,CONFIDENTIAL,INTERNAL
+KDY-E-0125,Maelis,Dunleavy,maelis.dunleavy@kuat-drive-yards.example,K06,Cost Accountant,3,KDY-E-0002,2017-02-19,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0126,Kael,Fiore,kael.fiore@kuat-drive-yards.example,K07,People Partner,2,KDY-E-0008,2025-10-15,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0127,Maren,Bastide,maren.bastide@kuat-drive-yards.example,K07,Payroll Specialist,7,KDY-E-0008,2023-05-25,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0128,Elara,Sorrel,elara.sorrel@kuat-drive-yards.example,K07,People Partner,2,KDY-E-0008,2015-02-20,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0129,Elsk,Crane,elsk.crane@kuat-drive-yards.example,K07,Payroll Specialist,2,KDY-E-0008,2014-01-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0130,Esme,Marrek,esme.marrek@kuat-drive-yards.example,K07,People Partner,4,KDY-E-0008,2025-05-30,ACTIVE,,RESTRICTED,INTERNAL
+KDY-E-0131,Barrin,Corrin,barrin.corrin@kuat-drive-yards.example,K08,Buyer,2,KDY-E-0009,2015-03-21,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0132,Osric,Lusk,osric.lusk@kuat-drive-yards.example,K08,Supplier Quality Engineer,7,KDY-E-0009,2014-08-03,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0133,Faren,Sable,faren.sable@kuat-drive-yards.example,K08,Buyer,3,KDY-E-0009,2018-11-05,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0134,Cassia,Ancel,cassia.ancel@kuat-drive-yards.example,K08,Supplier Quality Engineer,2,KDY-E-0009,2020-08-21,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0135,Tilda,Desmont,tilda.desmont@kuat-drive-yards.example,K08,Buyer,5,KDY-E-0009,2017-10-10,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0136,Sabel,Lusk,sabel.lusk@kuat-drive-yards.example,K08,Supplier Quality Engineer,6,KDY-E-0009,2021-04-19,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0137,Cedric,Fairholm,cedric.fairholm@kuat-drive-yards.example,K08,Buyer,7,KDY-E-0009,2014-07-16,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0138,Sola,Wolcott,sola.wolcott@kuat-drive-yards.example,K09,Logistics Planner,3,KDY-E-0010,2024-11-03,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0139,Wilde,Osgood,wilde.osgood@kuat-drive-yards.example,K09,Dispatch Coordinator,7,KDY-E-0010,2025-10-24,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0140,Jory,Iverson,jory.iverson@kuat-drive-yards.example,K09,Logistics Planner,7,KDY-E-0010,2024-10-14,ACTIVE,,INTERNAL,INTERNAL
+KDY-E-0141,Rain,Stroud,rain.stroud@kuat-drive-yards.example,K05,Quality Inspector,4,KDY-E-0007,2021-07-15,DEPARTED,2023-05-21,INTERNAL,INTERNAL
+KDY-E-0142,Amsel,Alcorne,amsel.alcorne@kuat-drive-yards.example,K02,Sales Coordinator,4,KDY-E-0003,2019-03-23,DEPARTED,2022-03-31,CONFIDENTIAL,INTERNAL
+KDY-E-0143,Lorne,Sarne,lorne.sarne@kuat-drive-yards.example,K05,Quality Inspector,4,KDY-E-0007,2020-01-13,DEPARTED,2022-01-28,INTERNAL,INTERNAL
+KDY-E-0144,Danna,Tull,danna.tull@kuat-drive-yards.example,K04,Plater,5,KDY-E-0006,2015-12-26,DEPARTED,2019-01-08,INTERNAL,INTERNAL
+KDY-E-0145,Cato,Hartwell,cato.hartwell@kuat-drive-yards.example,K03,Design Engineer,5,KDY-E-0005,2020-02-17,DEPARTED,2021-04-27,INTERNAL,INTERNAL
+KDY-E-0146,Merrin,Mordant,merrin.mordant@kuat-drive-yards.example,K05,Quality Inspector,4,KDY-E-0007,2018-07-07,DEPARTED,2020-09-09,INTERNAL,INTERNAL

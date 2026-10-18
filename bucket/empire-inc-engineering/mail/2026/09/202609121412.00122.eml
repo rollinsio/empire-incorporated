@@ -1,0 +1,29 @@
+From: Ines Greaves <ines.greaves@empire-inc.example>
+To: Mira Kestrel <mira.kestrel@empire-inc.example>
+Subject: HR-CORE-T01 temperature peak on 2026-09-12
+Date: Sat, 12 Sep 2026 14:12:00 +0000
+Message-ID: <202609121412.00122@empire-inc.example>
+X-Classification: CONFIDENTIAL
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+Cc: Reactor Operations <reactor-ops@empire-inc.example>
+
+CONFIDENTIAL
+
+Hello Mira,
+
+HR-CORE-T01 peaked at 4812.6 K at 14:00 UTC today, above the approved
+design core temperature of 4,400 K in SHV-HR-SPEC-0002 Rev D. TX-HXS-T01
+at the heat exchanger outlet rose to 702.4 K at the same time. We are
+checking the coolant loop.
+
+Regards,
+Ines
+
+-- 
+Ines Greaves
+Senior Power Systems Engineer
+Reactor & Power Systems
+Empire Incorporated
+Ext. x4675

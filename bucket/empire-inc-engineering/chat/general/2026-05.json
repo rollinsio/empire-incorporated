@@ -1,0 +1,533 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#general",
+    "month": "2026-05",
+    "language": "en",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 46
+  },
+  "members": [
+    {
+      "user_id": "EMP-00087",
+      "name": "Orla Kendrick",
+      "title": "Senior Research Scientist"
+    },
+    {
+      "user_id": "EMP-00103",
+      "name": "Merrin Ardent",
+      "title": "Laboratory Technician"
+    },
+    {
+      "user_id": "EMP-00105",
+      "name": "Casimir Blackwood",
+      "title": "Data Analyst"
+    },
+    {
+      "user_id": "EMP-00191",
+      "name": "Kier Belcourt",
+      "title": "Engineering Manager, Internal Transit"
+    },
+    {
+      "user_id": "EMP-00201",
+      "name": "Kaspar Rothe",
+      "title": "Senior Structural Engineer"
+    },
+    {
+      "user_id": "EMP-00268",
+      "name": "Rell Ardent",
+      "title": "Welding Technician"
+    },
+    {
+      "user_id": "EMP-00285",
+      "name": "Vira Lowell",
+      "title": "Principal Structural Engineer"
+    },
+    {
+      "user_id": "EMP-00295",
+      "name": "Nils Errant",
+      "title": "Engineering Manager, Thermal Systems"
+    },
+    {
+      "user_id": "EMP-00340",
+      "name": "Imra Lancer",
+      "title": "Reactor Technician"
+    },
+    {
+      "user_id": "EMP-00341",
+      "name": "Tarn Delane",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00356",
+      "name": "Silas Fiore",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00357",
+      "name": "Lannic Palin",
+      "title": "Reactor Technician"
+    },
+    {
+      "user_id": "EMP-00358",
+      "name": "Ines Halloran",
+      "title": "Power Systems Technician"
+    },
+    {
+      "user_id": "EMP-00363",
+      "name": "Vance Thorne",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00390",
+      "name": "Desik Rusk",
+      "title": "Senior Propulsion Engineer"
+    },
+    {
+      "user_id": "EMP-00409",
+      "name": "Corra Crane",
+      "title": "Propulsion Technician"
+    },
+    {
+      "user_id": "EMP-00444",
+      "name": "Wyatt Penrose",
+      "title": "Dry Dock Manager"
+    },
+    {
+      "user_id": "EMP-00520",
+      "name": "Maren Renner",
+      "title": "Senior Shipyard Engineer"
+    },
+    {
+      "user_id": "EMP-00522",
+      "name": "Rafe Graylin",
+      "title": "Senior Shipyard Engineer"
+    },
+    {
+      "user_id": "EMP-00562",
+      "name": "Rhett Dravis",
+      "title": "Hangar Technician"
+    },
+    {
+      "user_id": "EMP-00600",
+      "name": "Gavren Daventry",
+      "title": "Life Support Technician"
+    },
+    {
+      "user_id": "EMP-00646",
+      "name": "Vira Renner",
+      "title": "Principal Systems Architect"
+    },
+    {
+      "user_id": "EMP-00669",
+      "name": "Nadia Arkwell",
+      "title": "Records Clerk"
+    },
+    {
+      "user_id": "EMP-00733",
+      "name": "Vela Radlow",
+      "title": "Quality Inspector"
+    },
+    {
+      "user_id": "EMP-00861",
+      "name": "Esme Maddox",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00880",
+      "name": "Quinn Corrin",
+      "title": "Principal Category Manager"
+    },
+    {
+      "user_id": "EMP-00903",
+      "name": "Kael Rhydon",
+      "title": "Principal Financial Analyst"
+    },
+    {
+      "user_id": "EMP-00909",
+      "name": "Ines Torvald",
+      "title": "Accountant"
+    },
+    {
+      "user_id": "EMP-00924",
+      "name": "Lysander Tregar",
+      "title": "Senior Financial Analyst"
+    },
+    {
+      "user_id": "EMP-00974",
+      "name": "Fenna Teague",
+      "title": "Workplace Safety Manager"
+    }
+  ],
+  "messages": [
+    {
+      "id": "general-202605-0001",
+      "ts": "2026-05-01T15:14:25Z",
+      "user_id": "EMP-00103",
+      "user": "Merrin Ardent",
+      "text": "The cafeteria on level 56 serves noodle soup today.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0002",
+      "ts": "2026-05-03T13:51:32Z",
+      "user_id": "EMP-00562",
+      "user": "Rhett Dravis",
+      "text": "Welcome to everyone who started this week!",
+      "replies": [
+        {
+          "id": "general-202605-0002-r1",
+          "ts": "2026-05-03T13:56:32Z",
+          "user_id": "EMP-00201",
+          "user": "Kaspar Rothe",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0003",
+      "ts": "2026-05-03T13:57:02Z",
+      "user_id": "EMP-00522",
+      "user": "Rafe Graylin",
+      "text": "Welcome to everyone who started this week!",
+      "replies": [
+        {
+          "id": "general-202605-0003-r1",
+          "ts": "2026-05-03T14:02:02Z",
+          "user_id": "EMP-00103",
+          "user": "Merrin Ardent",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0004",
+      "ts": "2026-05-04T06:55:15Z",
+      "user_id": "EMP-00295",
+      "user": "Nils Errant",
+      "text": "Welcome to everyone who started this week!",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0005",
+      "ts": "2026-05-08T15:31:32Z",
+      "user_id": "EMP-00363",
+      "user": "Vance Thorne",
+      "text": "Tram band 10 is closed tonight for track work.",
+      "replies": [
+        {
+          "id": "general-202605-0005-r1",
+          "ts": "2026-05-08T15:38:32Z",
+          "user_id": "EMP-00861",
+          "user": "Esme Maddox",
+          "text": "Thanks for the heads-up."
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0006",
+      "ts": "2026-05-09T08:33:05Z",
+      "user_id": "EMP-00390",
+      "user": "Desik Rusk",
+      "text": "The cafeteria on level 8 serves lentil stew today.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0007",
+      "ts": "2026-05-09T09:26:42Z",
+      "user_id": "EMP-00201",
+      "user": "Kaspar Rothe",
+      "text": "The cafeteria on level 6 serves noodle soup today.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0008",
+      "ts": "2026-05-09T16:15:53Z",
+      "user_id": "EMP-00390",
+      "user": "Desik Rusk",
+      "text": "Welcome to everyone who started this week!",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0009",
+      "ts": "2026-05-10T14:55:44Z",
+      "user_id": "EMP-00363",
+      "user": "Vance Thorne",
+      "text": "Welcome to everyone who started this week!",
+      "replies": [
+        {
+          "id": "general-202605-0009-r1",
+          "ts": "2026-05-10T15:02:44Z",
+          "user_id": "EMP-00909",
+          "user": "Ines Torvald",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0010",
+      "ts": "2026-05-10T16:51:03Z",
+      "user_id": "EMP-00409",
+      "user": "Corra Crane",
+      "text": "Tram band 4 is closed tonight for track work.",
+      "replies": [
+        {
+          "id": "general-202605-0010-r1",
+          "ts": "2026-05-10T16:56:03Z",
+          "user_id": "EMP-00295",
+          "user": "Nils Errant",
+          "text": "Thanks for the heads-up."
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0011",
+      "ts": "2026-05-11T09:43:19Z",
+      "user_id": "EMP-00340",
+      "user": "Imra Lancer",
+      "text": "The cafeteria on level 31 serves lentil stew today.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0012",
+      "ts": "2026-05-13T11:42:09Z",
+      "user_id": "EMP-00974",
+      "user": "Fenna Teague",
+      "text": "Welcome to everyone who started this week!",
+      "replies": [
+        {
+          "id": "general-202605-0012-r1",
+          "ts": "2026-05-13T11:46:09Z",
+          "user_id": "EMP-00669",
+          "user": "Nadia Arkwell",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0013",
+      "ts": "2026-05-15T11:20:36Z",
+      "user_id": "EMP-00903",
+      "user": "Kael Rhydon",
+      "text": "The Eadu greenhouse tour still has a few places left.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0014",
+      "ts": "2026-05-17T10:21:34Z",
+      "user_id": "EMP-00520",
+      "user": "Maren Renner",
+      "text": "Lost and found: a datapad was left in the conference suite.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0015",
+      "ts": "2026-05-17T11:53:11Z",
+      "user_id": "EMP-00646",
+      "user": "Vira Renner",
+      "text": "Tram band 2 is closed tonight for track work.",
+      "replies": [
+        {
+          "id": "general-202605-0015-r1",
+          "ts": "2026-05-17T11:58:11Z",
+          "user_id": "EMP-00105",
+          "user": "Casimir Blackwood",
+          "text": "Thanks for the heads-up."
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0016",
+      "ts": "2026-05-18T07:33:55Z",
+      "user_id": "EMP-00522",
+      "user": "Rafe Graylin",
+      "text": "The Eadu greenhouse tour still has a few places left.",
+      "replies": [
+        {
+          "id": "general-202605-0016-r1",
+          "ts": "2026-05-18T07:40:55Z",
+          "user_id": "EMP-00285",
+          "user": "Vira Lowell",
+          "text": "Signed up."
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0017",
+      "ts": "2026-05-18T11:25:33Z",
+      "user_id": "EMP-00974",
+      "user": "Fenna Teague",
+      "text": "The Eadu greenhouse tour still has a few places left.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0018",
+      "ts": "2026-05-19T11:00:05Z",
+      "user_id": "EMP-00444",
+      "user": "Wyatt Penrose",
+      "text": "Welcome to everyone who started this week!",
+      "replies": [
+        {
+          "id": "general-202605-0018-r1",
+          "ts": "2026-05-19T11:06:05Z",
+          "user_id": "EMP-00285",
+          "user": "Vira Lowell",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0019",
+      "ts": "2026-05-20T17:05:15Z",
+      "user_id": "EMP-00103",
+      "user": "Merrin Ardent",
+      "text": "Lost and found: a datapad was left in the conference suite.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0020",
+      "ts": "2026-05-20T17:49:16Z",
+      "user_id": "EMP-00444",
+      "user": "Wyatt Penrose",
+      "text": "Welcome to everyone who started this week!",
+      "replies": [
+        {
+          "id": "general-202605-0020-r1",
+          "ts": "2026-05-20T17:56:16Z",
+          "user_id": "EMP-00087",
+          "user": "Orla Kendrick",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0021",
+      "ts": "2026-05-22T10:16:56Z",
+      "user_id": "EMP-00357",
+      "user": "Lannic Palin",
+      "text": "Lost and found: a datapad was left in the conference suite.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0022",
+      "ts": "2026-05-22T13:42:03Z",
+      "user_id": "EMP-00880",
+      "user": "Quinn Corrin",
+      "text": "The cafeteria on level 46 serves fresh greens from hydroponics today.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0023",
+      "ts": "2026-05-22T15:16:45Z",
+      "user_id": "EMP-00880",
+      "user": "Quinn Corrin",
+      "text": "Welcome to everyone who started this week!",
+      "replies": [
+        {
+          "id": "general-202605-0023-r1",
+          "ts": "2026-05-22T15:21:45Z",
+          "user_id": "EMP-00861",
+          "user": "Esme Maddox",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0024",
+      "ts": "2026-05-23T09:07:53Z",
+      "user_id": "EMP-00880",
+      "user": "Quinn Corrin",
+      "text": "The cafeteria on level 34 serves fresh greens from hydroponics today.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0025",
+      "ts": "2026-05-23T18:17:19Z",
+      "user_id": "EMP-00924",
+      "user": "Lysander Tregar",
+      "text": "Lost and found: a datapad was left in the conference suite.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0026",
+      "ts": "2026-05-25T14:11:47Z",
+      "user_id": "EMP-00390",
+      "user": "Desik Rusk",
+      "text": "The cafeteria on level 47 serves roasted vegetables today.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0027",
+      "ts": "2026-05-26T10:23:36Z",
+      "user_id": "EMP-00562",
+      "user": "Rhett Dravis",
+      "text": "Welcome to everyone who started this week!",
+      "replies": [
+        {
+          "id": "general-202605-0027-r1",
+          "ts": "2026-05-26T10:29:36Z",
+          "user_id": "EMP-00356",
+          "user": "Silas Fiore",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0028",
+      "ts": "2026-05-26T11:39:46Z",
+      "user_id": "EMP-00201",
+      "user": "Kaspar Rothe",
+      "text": "The cafeteria on level 3 serves lentil stew today.",
+      "replies": []
+    },
+    {
+      "id": "general-202605-0029",
+      "ts": "2026-05-27T19:22:49Z",
+      "user_id": "EMP-00191",
+      "user": "Kier Belcourt",
+      "text": "Tram band 6 is closed tonight for track work.",
+      "replies": [
+        {
+          "id": "general-202605-0029-r1",
+          "ts": "2026-05-27T19:28:49Z",
+          "user_id": "EMP-00341",
+          "user": "Tarn Delane",
+          "text": "Thanks for the heads-up."
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0030",
+      "ts": "2026-05-28T08:25:40Z",
+      "user_id": "EMP-00357",
+      "user": "Lannic Palin",
+      "text": "Welcome to everyone who started this week!",
+      "replies": [
+        {
+          "id": "general-202605-0030-r1",
+          "ts": "2026-05-28T08:29:40Z",
+          "user_id": "EMP-00880",
+          "user": "Quinn Corrin",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "general-202605-0031",
+      "ts": "2026-05-28T11:25:14Z",
+      "user_id": "EMP-00105",
+      "user": "Casimir Blackwood",
+      "text": "Lost and found: a datapad was left in the conference suite.",
+      "replies": [
+        {
+          "id": "general-202605-0031-r1",
+          "ts": "2026-05-28T11:32:14Z",
+          "user_id": "EMP-00880",
+          "user": "Quinn Corrin",
+          "text": "That's mine, on my way!"
+        }
+      ]
+    }
+  ]
+}

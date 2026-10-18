@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0015",
+  "queue": "FACILITIES",
+  "subject": "Turbolift noise near Eriadu yard gate 3",
+  "description": "The turbolift near Eriadu yard gate 3 makes a grinding noise.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00954",
+    "name": "Xan Holloway",
+    "email": "xan.holloway@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00995",
+    "name": "Lysander Arkwell",
+    "email": "lysander.arkwell@empire-inc.example"
+  },
+  "created_at": "2025-02-09T09:40:00Z",
+  "resolved_at": "2025-02-10T13:40:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-02-09T10:55:00Z",
+      "author": "Lysander Arkwell",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-02-10T13:40:00Z",
+      "author": "Lysander Arkwell",
+      "text": "Guide rollers lubricated."
+    }
+  ]
+}

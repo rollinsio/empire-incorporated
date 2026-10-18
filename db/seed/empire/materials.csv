@@ -1,0 +1,129 @@
+material_id,sku,name,category,system_code,unit,unit_cost_credits,strategic,hazardous,sensitivity
+MAT-00101,EI-SF-001-01,"Durasteel plate, grade A",Structural,SF,t,3202.38,false,false,INTERNAL
+MAT-00102,EI-SF-001-02,"Durasteel plate, grade B",Structural,SF,t,3024.46,false,false,INTERNAL
+MAT-00103,EI-SF-001-03,"Durasteel plate, grade C",Structural,SF,t,2666.36,false,false,INTERNAL
+MAT-00104,EI-SF-001-04,"Durasteel plate, grade D marine",Structural,SF,t,3694.59,false,false,INTERNAL
+MAT-00105,EI-SF-001-05,"Durasteel plate, grade E heavy",Structural,SF,t,2079.87,false,false,INTERNAL
+MAT-00106,EI-SF-001-06,"Durasteel plate, grade F ultra",Structural,SF,t,1887.17,false,false,INTERNAL
+MAT-00201,EI-SF-002-01,"Quadanium steel beam, 60 m",Structural,SF,t,5799.1,false,false,INTERNAL
+MAT-00202,EI-SF-002-02,"Quadanium steel beam, 90 m",Structural,SF,t,4235.32,false,false,INTERNAL
+MAT-00203,EI-SF-002-03,"Quadanium steel beam, 120 m",Structural,SF,t,5720.88,false,false,INTERNAL
+MAT-00204,EI-SF-002-04,"Quadanium steel beam, 140 m",Structural,SF,t,2758.99,false,false,INTERNAL
+MAT-00301,EI-SF-003-01,"Hull plating section, type 1",Structural,SF,ea,85551.04,false,false,INTERNAL
+MAT-00302,EI-SF-003-02,"Hull plating section, type 2",Structural,SF,ea,78148.06,false,false,INTERNAL
+MAT-00303,EI-SF-003-03,"Hull plating section, type 3 equatorial",Structural,SF,ea,66783.66,false,false,INTERNAL
+MAT-00304,EI-SF-003-04,"Hull plating section, type 4 polar",Structural,SF,ea,53449.5,false,false,INTERNAL
+MAT-00401,EI-HA-004-01,"Transparisteel viewport panel, small",Structural,HA,ea,21578.32,false,false,INTERNAL
+MAT-00402,EI-HA-004-02,"Transparisteel viewport panel, medium",Structural,HA,ea,16245.18,false,false,INTERNAL
+MAT-00403,EI-HA-004-03,"Transparisteel viewport panel, observation deck",Structural,HA,ea,30614.84,false,false,INTERNAL
+MAT-00501,EI-SF-005-01,"Carbon-composite truss, light",Structural,SF,ea,2163.96,false,false,INTERNAL
+MAT-00502,EI-SF-005-02,"Carbon-composite truss, heavy",Structural,SF,ea,1363.38,false,false,INTERNAL
+MAT-00601,EI-SF-006-01,"Hull fastener kit, M40",Fasteners,SF,kit,243.27,false,false,INTERNAL
+MAT-00602,EI-SF-006-02,"Hull fastener kit, M60",Fasteners,SF,kit,459.32,false,false,INTERNAL
+MAT-00603,EI-SF-006-03,"Hull fastener kit, M90",Fasteners,SF,kit,479.0,false,false,INTERNAL
+MAT-00604,EI-SF-006-04,"Hull fastener kit, M120",Fasteners,SF,kit,195.17,false,false,INTERNAL
+MAT-00701,EI-SF-007-01,"Structural bolt set, class 8",Fasteners,SF,set,106.7,false,false,INTERNAL
+MAT-00702,EI-SF-007-02,"Structural bolt set, class 10",Fasteners,SF,set,232.29,false,false,INTERNAL
+MAT-00703,EI-SF-007-03,"Structural bolt set, class 12",Fasteners,SF,set,194.77,false,false,INTERNAL
+MAT-00801,EI-PD-008-01,"Power coupling, 10 MA",Power,PD,ea,36538.46,false,false,INTERNAL
+MAT-00802,EI-PD-008-02,"Power coupling, 30 MA",Power,PD,ea,65846.27,false,false,INTERNAL
+MAT-00803,EI-PD-008-03,"Power coupling, 60 MA",Power,PD,ea,47097.08,false,false,INTERNAL
+MAT-00804,EI-PD-008-04,"Power coupling, 90 MA",Power,PD,ea,72093.4,false,false,INTERNAL
+MAT-00901,EI-PD-009-01,"Superconducting bus conduit, class 4",Power,PD,m,1780.68,false,false,INTERNAL
+MAT-00902,EI-PD-009-02,"Superconducting bus conduit, class 5",Power,PD,m,647.67,false,false,INTERNAL
+MAT-00903,EI-PD-009-03,"Superconducting bus conduit, class 6",Power,PD,m,592.8,false,false,INTERNAL
+MAT-01001,EI-PD-010-01,"Zone substation breaker, standard",Power,PD,ea,8655.39,false,false,INTERNAL
+MAT-01002,EI-PD-010-02,"Zone substation breaker, fast-trip",Power,PD,ea,5467.18,false,false,INTERNAL
+MAT-01101,EI-PD-011-01,"Backup generator module, 0.5 TW",Power,PD,ea,323028.35,false,false,INTERNAL
+MAT-01102,EI-PD-011-02,"Backup generator module, 1 TW",Power,PD,ea,376348.06,false,false,INTERNAL
+MAT-01103,EI-PD-011-03,"Backup generator module, 2 TW",Power,PD,ea,286001.3,false,false,INTERNAL
+MAT-01201,EI-PD-012-01,"Storage battery module, 20 GWh",Power,PD,ea,108683.72,false,true,INTERNAL
+MAT-01202,EI-PD-012-02,"Storage battery module, 40 GWh",Power,PD,ea,73517.15,false,true,INTERNAL
+MAT-01301,EI-SA-013-01,"Solar collector panel, standard",Solar,SA,ea,42611.21,false,false,INTERNAL
+MAT-01302,EI-SA-013-02,"Solar collector panel, high-efficiency",Solar,SA,ea,48084.64,false,false,INTERNAL
+MAT-01401,EI-SA-014-01,"Tracking drive motor, standard",Solar,SA,ea,22744.05,false,false,INTERNAL
+MAT-01501,EI-HR-015-01,"Hypermatter fuel, stabilized, batch grade I",Reactor,HR,kg,134636.84,true,true,INTERNAL
+MAT-01502,EI-HR-015-02,"Hypermatter fuel, stabilized, batch grade II",Reactor,HR,kg,141677.01,true,true,INTERNAL
+MAT-01601,EI-HR-016-01,"Containment field emitter, mk II",Reactor,HR,ea,676347.78,true,false,INTERNAL
+MAT-01602,EI-HR-016-02,"Containment field emitter, mk III",Reactor,HR,ea,750241.91,true,false,INTERNAL
+MAT-01701,EI-HR-017-01,"Fuel injector cartridge, standard",Reactor,HR,ea,54059.89,false,true,INTERNAL
+MAT-01702,EI-HR-017-02,"Fuel injector cartridge, high-flow",Reactor,HR,ea,60434.83,false,true,INTERNAL
+MAT-01801,EI-HR-018-01,"Coolant, cryogenic, type K",Reactor,HR,m³,990.16,false,true,INTERNAL
+MAT-01802,EI-HR-018-02,"Coolant, cryogenic, type L",Reactor,HR,m³,867.37,false,true,INTERNAL
+MAT-01901,EI-TX-019-01,"Heat exchanger core, 16-stack",Thermal,TX,ea,72530.19,false,false,INTERNAL
+MAT-01902,EI-TX-019-02,"Heat exchanger core, 32-stack",Thermal,TX,ea,75721.23,false,false,INTERNAL
+MAT-02001,EI-TX-020-01,"Radiator fin panel, 1 m²",Thermal,TX,ea,4059.58,false,false,INTERNAL
+MAT-02002,EI-TX-020-02,"Radiator fin panel, 4 m²",Thermal,TX,ea,3977.17,false,false,INTERNAL
+MAT-02003,EI-TX-020-03,"Radiator fin panel, 9 m²",Thermal,TX,ea,2532.44,false,false,INTERNAL
+MAT-02101,EI-TX-021-01,"Coolant pump, 40 m³/s",Thermal,TX,ea,47628.99,false,false,INTERNAL
+MAT-02102,EI-TX-021-02,"Coolant pump, 80 m³/s",Thermal,TX,ea,35364.96,false,false,INTERNAL
+MAT-02201,EI-PR-022-01,"Sublight ion engine module, standard",Propulsion,PR,ea,707958.13,true,false,INTERNAL
+MAT-02301,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",Propulsion,PR,ea,40510.25,false,false,INTERNAL
+MAT-02302,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",Propulsion,PR,ea,51851.82,false,false,INTERNAL
+MAT-02401,EI-PR-024-01,"Gyroscope rotor assembly, standard",Propulsion,PR,ea,370099.59,true,false,INTERNAL
+MAT-02501,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",Hangar,HB,ea,82457.85,false,false,INTERNAL
+MAT-02502,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",Hangar,HB,ea,97349.16,false,false,INTERNAL
+MAT-02601,EI-HB-026-01,"Magnetic containment field generator, bay",Hangar,HB,ea,172229.69,false,false,INTERNAL
+MAT-02602,EI-HB-026-02,"Magnetic containment field generator, docking",Hangar,HB,ea,138260.35,false,false,INTERNAL
+MAT-02701,EI-HB-027-01,"Deck plating, anti-slip, standard",Hangar,HB,m²,182.7,false,false,INTERNAL
+MAT-02801,EI-SY-028-01,"Gantry crane hoist, 800 t",Shipyard,SY,ea,673108.92,true,false,INTERNAL
+MAT-02802,EI-SY-028-02,"Gantry crane hoist, 2000 t",Shipyard,SY,ea,535215.96,true,false,INTERNAL
+MAT-02803,EI-SY-028-03,"Gantry crane hoist, 4000 t",Shipyard,SY,ea,631899.0,true,false,INTERNAL
+MAT-02901,EI-SY-029-01,"Slipway rail segment, straight",Shipyard,SY,ea,18378.84,false,false,INTERNAL
+MAT-02902,EI-SY-029-02,"Slipway rail segment, curved",Shipyard,SY,ea,17124.97,false,false,INTERNAL
+MAT-03001,EI-SY-030-01,"Dry dock seal assembly, main gate",Shipyard,SY,ea,267163.2,false,false,INTERNAL
+MAT-03002,EI-SY-030-02,"Dry dock seal assembly, service hatch",Shipyard,SY,ea,259604.69,false,false,INTERNAL
+MAT-03101,EI-SY-031-01,"Hull coating, marine-grade, primer",Shipyard,SY,l,41.31,false,true,INTERNAL
+MAT-03102,EI-SY-031-02,"Hull coating, marine-grade, topcoat",Shipyard,SY,l,69.09,false,true,INTERNAL
+MAT-03201,EI-CN-032-01,"Computer core processing node, gen 7",Electronics,CN,ea,24260.78,false,false,INTERNAL
+MAT-03202,EI-CN-032-02,"Computer core processing node, gen 8",Electronics,CN,ea,63006.2,false,false,INTERNAL
+MAT-03301,EI-CN-033-01,"Data backbone switch, 48-port",Electronics,CN,ea,16643.89,false,false,INTERNAL
+MAT-03302,EI-CN-033-02,"Data backbone switch, 96-port",Electronics,CN,ea,27131.58,false,false,INTERNAL
+MAT-03401,EI-CN-034-01,"Maintenance port module, standard",Electronics,CN,ea,798.96,false,false,INTERNAL
+MAT-03402,EI-CN-034-02,"Maintenance port module, ruggedized",Electronics,CN,ea,822.89,false,false,INTERNAL
+MAT-03501,EI-CN-035-01,"Sensor array module, thermal",Electronics,CN,ea,5655.23,false,false,INTERNAL
+MAT-03502,EI-CN-035-02,"Sensor array module, radiation",Electronics,CN,ea,11916.71,false,false,INTERNAL
+MAT-03503,EI-CN-035-03,"Sensor array module, pressure",Electronics,CN,ea,18814.77,false,false,INTERNAL
+MAT-03601,EI-CM-036-01,"HoloNet transceiver board, standard",Electronics,CM,ea,76682.1,false,false,INTERNAL
+MAT-03701,EI-CM-037-01,"Traffic routing switch card, standard",Electronics,CM,ea,37126.25,false,false,INTERNAL
+MAT-03801,EI-LS-038-01,"Atmosphere scrubber cartridge, CO2",Life support,LS,ea,329.04,false,false,INTERNAL
+MAT-03802,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",Life support,LS,ea,280.79,false,false,INTERNAL
+MAT-03901,EI-LS-039-01,"Water reclamation membrane, standard",Life support,LS,ea,2183.44,false,false,INTERNAL
+MAT-03902,EI-LS-039-02,"Water reclamation membrane, high-flux",Life support,LS,ea,1777.16,false,false,INTERNAL
+MAT-04001,EI-LS-040-01,"Gravity plate, 1 m²",Life support,LS,ea,11976.11,false,false,INTERNAL
+MAT-04002,EI-LS-040-02,"Gravity plate, 4 m²",Life support,LS,ea,12069.62,false,false,INTERNAL
+MAT-04101,EI-HA-041-01,"Medical supply kit, standard",Habitation,HA,kit,429.31,false,false,INTERNAL
+MAT-04102,EI-HA-041-02,"Medical supply kit, surgical",Habitation,HA,kit,398.31,false,false,INTERNAL
+MAT-04201,EI-HA-042-01,"Crew berth module, single",Habitation,HA,ea,3278.03,false,false,INTERNAL
+MAT-04202,EI-HA-042-02,"Crew berth module, family",Habitation,HA,ea,6387.92,false,false,INTERNAL
+MAT-04301,EI-HA-043-01,"Galley equipment set, standard",Habitation,HA,set,23359.01,false,false,INTERNAL
+MAT-04401,EI-HA-044-01,"Classroom furniture set, primary",Habitation,HA,set,1998.86,false,false,INTERNAL
+MAT-04402,EI-HA-044-02,"Classroom furniture set, secondary",Habitation,HA,set,3049.09,false,false,INTERNAL
+MAT-04501,EI-AG-045-01,"Hydroponic grow tray, shallow",Agriculture,AG,ea,297.76,false,false,INTERNAL
+MAT-04502,EI-AG-045-02,"Hydroponic grow tray, deep",Agriculture,AG,ea,326.83,false,false,INTERNAL
+MAT-04601,EI-AG-046-01,"Nutrient concentrate, leafy greens",Agriculture,AG,l,44.87,false,false,INTERNAL
+MAT-04602,EI-AG-046-02,"Nutrient concentrate, fruiting crops",Agriculture,AG,l,36.06,false,false,INTERNAL
+MAT-04701,EI-AG-047-01,"LED grow light fixture, 600 W",Agriculture,AG,ea,1191.12,false,false,INTERNAL
+MAT-04702,EI-AG-047-02,"LED grow light fixture, 1000 W",Agriculture,AG,ea,768.89,false,false,INTERNAL
+MAT-04801,EI-AG-048-01,"Seed stock, vegetables",Agriculture,AG,kg,1822.04,false,false,INTERNAL
+MAT-04802,EI-AG-048-02,"Seed stock, grains",Agriculture,AG,kg,584.31,false,false,INTERNAL
+MAT-04803,EI-AG-048-03,"Seed stock, herbs",Agriculture,AG,kg,460.84,false,false,INTERNAL
+MAT-04901,EI-WM-049-01,"Compactor wall drive, standard",Waste,WM,ea,59518.93,false,false,INTERNAL
+MAT-05001,EI-WM-050-01,"Recycling sorter module, metals",Waste,WM,ea,75169.79,false,false,INTERNAL
+MAT-05002,EI-WM-050-02,"Recycling sorter module, polymers",Waste,WM,ea,74575.19,false,false,INTERNAL
+MAT-05101,EI-TR-051-01,"Turbolift car assembly, 12-person",Transit,TR,ea,362535.7,false,false,INTERNAL
+MAT-05102,EI-TR-051-02,"Turbolift car assembly, 40-person",Transit,TR,ea,387909.22,false,false,INTERNAL
+MAT-05201,EI-TR-052-01,"Tram bogie, powered",Transit,TR,ea,48500.96,false,false,INTERNAL
+MAT-05202,EI-TR-052-02,"Tram bogie, trailer",Transit,TR,ea,47009.03,false,false,INTERNAL
+MAT-05301,EI-TR-053-01,"Tram rail segment, 40 m",Transit,TR,ea,4659.42,false,false,INTERNAL
+MAT-05302,EI-TR-053-02,"Tram rail segment, 120 m",Transit,TR,ea,5609.18,false,false,INTERNAL
+MAT-05401,EI-RL-054-01,"Laboratory fume hood, standard",Research,RL,ea,11591.45,false,false,INTERNAL
+MAT-05402,EI-RL-054-02,"Laboratory fume hood, walk-in",Research,RL,ea,11615.37,false,false,INTERNAL
+MAT-05501,EI-RL-055-01,"Cleanroom filter unit, class 5",Research,RL,ea,6695.92,false,false,INTERNAL
+MAT-05502,EI-RL-055-02,"Cleanroom filter unit, class 6",Research,RL,ea,2512.36,false,false,INTERNAL
+MAT-05601,EI-RL-056-01,"Telescope mirror segment, inner ring",Research,RL,ea,2134538.51,true,false,INTERNAL
+MAT-05602,EI-RL-056-02,"Telescope mirror segment, outer ring",Research,RL,ea,2368185.51,true,false,INTERNAL
+MAT-05701,EI-SF-057-01,"Welding consumables pack, standard",Consumables,SF,pack,159.4,false,false,INTERNAL
+MAT-05702,EI-SF-057-02,"Welding consumables pack, heavy",Consumables,SF,pack,88.54,false,false,INTERNAL
+MAT-05801,EI-SF-058-01,"Protective suit, vacuum rated, standard",Consumables,SF,ea,2287.4,false,false,INTERNAL
+MAT-05802,EI-SF-058-02,"Protective suit, vacuum rated, heavy",Consumables,SF,ea,3313.06,false,false,INTERNAL

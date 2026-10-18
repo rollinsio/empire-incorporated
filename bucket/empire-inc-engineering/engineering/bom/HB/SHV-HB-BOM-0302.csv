@@ -1,0 +1,12 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HB-026-01,"Magnetic containment field generator, bay",4,ea,172229.69,688918.76,Cygnus Spaceworks,SHV-HB-DWG-0202
+2,EI-HB-026-01,"Magnetic containment field generator, bay",1,ea,172229.69,172229.69,Alsakan Instruments,SHV-HB-DWG-0202
+3,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",2,ea,82457.85,164915.70,Carbanti United Electronics,SHV-HB-DWG-0202
+4,EI-HB-026-02,"Magnetic containment field generator, docking",2,ea,138260.35,276520.70,Alsakan Instruments,SHV-HB-DWG-0202
+5,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",1,ea,82457.85,82457.85,Corulag Precision Optics,SHV-HB-DWG-0202
+6,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",1,ea,97349.16,97349.16,Bespin Gas Consortium,SHV-HB-DWG-0202
+7,EI-HB-027-01,"Deck plating, anti-slip, standard",240,m²,182.70,43848.00,Eriadu Steelworks,SHV-HB-DWG-0202
+8,EI-HB-026-02,"Magnetic containment field generator, docking",2,ea,138260.35,276520.70,Rendili StarDrive,SHV-HB-DWG-0202
+9,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",2,ea,97349.16,194698.32,Alsakan Instruments,SHV-HB-DWG-0202
+10,EI-HB-026-02,"Magnetic containment field generator, docking",4,ea,138260.35,553041.40,Chiewab Medical,SHV-HB-DWG-0202
+11,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",4,ea,82457.85,329831.40,Corellian Bulk Fasteners,SHV-HB-DWG-0202

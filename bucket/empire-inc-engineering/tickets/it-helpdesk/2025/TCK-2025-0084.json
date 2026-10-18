@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0084",
+  "queue": "IT_HELPDESK",
+  "subject": "Datapad screen cracked",
+  "description": "My datapad screen cracked after it fell off the desk.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00347",
+    "name": "Emrys Tarrant",
+    "email": "emrys.tarrant@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00636",
+    "name": "Bale Zell",
+    "email": "bale.zell@empire-inc.example"
+  },
+  "created_at": "2025-08-04T13:46:00Z",
+  "resolved_at": "2025-08-15T16:46:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-08-04T16:15:00Z",
+      "author": "Bale Zell",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-08-15T16:46:00Z",
+      "author": "Bale Zell",
+      "text": "Replacement datapad issued."
+    }
+  ]
+}

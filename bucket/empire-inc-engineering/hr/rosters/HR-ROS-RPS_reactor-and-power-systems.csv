@@ -1,0 +1,86 @@
+Name,Title,Email,Extension,Work location,Manager
+Lorne Adrel,Power Systems Engineer,lorne.adrel@empire-inc.example,x8045,Starhaven (on site),Dalric Rusk
+Asha Ancel,Senior Thermal Engineer,asha.ancel@empire-inc.example,x3846,Coruscant Headquarters,Esme Sable
+Jaska Ardent,Reactor Technician,jaska.ardent@empire-inc.example,x8013,Coruscant Headquarters,Ulric Kirwan
+Torin Ardent,Senior Power Systems Engineer,torin.ardent@empire-inc.example,x6194,Coruscant Headquarters,Esme Sable
+Delia Ashby,Reactor Engineer,delia.ashby@empire-inc.example,x3346,Coruscant Headquarters,Tamsin Quarrel
+Alira Aster,Principal Reactor Engineer,alira.aster@empire-inc.example,x6015,Coruscant Headquarters,Rhosa Barrowe
+Delia Bailin,Senior Power Systems Engineer,delia.bailin@empire-inc.example,x2150,Starhaven (on site),Tamsin Quarrel
+Larsa Bailin,Reactor Engineer,larsa.bailin@empire-inc.example,x8224,Starhaven (on site),Rhosa Barrowe
+Davin Barrowe,Power Systems Technician,davin.barrowe@empire-inc.example,x2177,Starhaven (on site),Nils Errant
+Rhosa Barrowe,"Engineering Manager, Thermal Systems",rhosa.barrowe@empire-inc.example,x7904,Coruscant Headquarters,Edric Welles
+Emrys Bresk,"Engineering Manager, Thermal Systems",emrys.bresk@empire-inc.example,x5160,Starhaven (on site),Edric Welles
+Tarn Bresk,Power Systems Engineer,tarn.bresk@empire-inc.example,x3521,Coruscant Headquarters,Rhosa Barrowe
+Kalla Calloway,Power Systems Technician,kalla.calloway@empire-inc.example,x7773,Starhaven (on site),Emrys Bresk
+Gavren Crane,Power Systems Engineer,gavren.crane@empire-inc.example,x2398,Starhaven (on site),Nils Errant
+Jessa Crestwell,Power Systems Technician,jessa.crestwell@empire-inc.example,x3863,Coruscant Headquarters,Tamsin Quarrel
+Lannic Crestwell,Senior Reactor Engineer,lannic.crestwell@empire-inc.example,x6118,Starhaven (on site),Dalric Rusk
+Pax Dallan,Reactor Technician,pax.dallan@empire-inc.example,x6432,Starhaven (on site),Edda Lancer
+Amsel Darrow,Power Systems Engineer,amsel.darrow@empire-inc.example,x2867,Starhaven (on site),Nils Errant
+Fallon Darrow,Senior Reactor Engineer,fallon.darrow@empire-inc.example,x4192,Coruscant Headquarters,Rhosa Barrowe
+Rosk Darrow,Reactor Technician,rosk.darrow@empire-inc.example,x7367,Starhaven (on site),Tamsin Quarrel
+Tarn Delane,Senior Thermal Engineer,tarn.delane@empire-inc.example,x5752,Coruscant Headquarters,Jessa Pell
+Jory Dravis,Senior Thermal Engineer,jory.dravis@empire-inc.example,x5284,Starhaven (on site),Ulric Kirwan
+Elara Drummond,Senior Power Systems Engineer,elara.drummond@empire-inc.example,x5321,Starhaven (on site),Esme Sable
+Hessa Dunmore,Reactor Technician,hessa.dunmore@empire-inc.example,x5185,Starhaven (on site),Esme Sable
+Orrin Elsmore,Senior Reactor Engineer,orrin.elsmore@empire-inc.example,x5690,Starhaven (on site),Ulric Kirwan
+Nils Errant,"Engineering Manager, Thermal Systems",nils.errant@empire-inc.example,x5764,Coruscant Headquarters,Edric Welles
+Hollis Fenwick,Principal Reactor Engineer,hollis.fenwick@empire-inc.example,x4634,Starhaven (on site),Emrys Bresk
+Ivor Fenwick,Power Systems Engineer,ivor.fenwick@empire-inc.example,x7074,Starhaven (on site),Edda Lancer
+Mesa Fenwick,Reactor Technician,mesa.fenwick@empire-inc.example,x3827,Starhaven (on site),Edda Lancer
+Silas Fiore,Senior Thermal Engineer,silas.fiore@empire-inc.example,x3415,Starhaven (on site),Emrys Bresk
+Ulric Garron,Senior Thermal Engineer,ulric.garron@empire-inc.example,x4864,Starhaven (on site),Tamsin Quarrel
+Orrin Graylin,Power Systems Technician,orrin.graylin@empire-inc.example,x7634,Starhaven (on site),Esme Sable
+Delia Greaves,Power Systems Engineer,delia.greaves@empire-inc.example,x7025,Starhaven (on site),Rhosa Barrowe
+Ines Greaves,Senior Power Systems Engineer,ines.greaves@empire-inc.example,x4675,Starhaven (on site),Edda Lancer
+Aldo Halloran,Reactor Engineer,aldo.halloran@empire-inc.example,x2905,Starhaven (on site),Ulric Kirwan
+Ines Halloran,Power Systems Technician,ines.halloran@empire-inc.example,x7019,Starhaven (on site),Nils Errant
+Vesna Harrick,Power Systems Engineer,vesna.harrick@empire-inc.example,x2046,Starhaven (on site),Esme Sable
+Tyce Hartwell,Reactor Technician,tyce.hartwell@empire-inc.example,x5806,Coruscant Headquarters,Nils Errant
+Wyatt Hartwell,Power Systems Technician,wyatt.hartwell@empire-inc.example,x3894,Starhaven (on site),Nils Errant
+Yorik Hartwell,Principal Reactor Engineer,yorik.hartwell@empire-inc.example,x2760,Starhaven (on site),Rhosa Barrowe
+Emrys Hune,Senior Reactor Engineer,emrys.hune@empire-inc.example,x6825,Coruscant Headquarters,Tamsin Quarrel
+Ilka Hune,Reactor Technician,ilka.hune@empire-inc.example,x8289,Starhaven (on site),Jessa Pell
+Nadia Iverson,Power Systems Technician,nadia.iverson@empire-inc.example,x3416,Starhaven (on site),Dalric Rusk
+Callum Kaine,Power Systems Engineer,callum.kaine@empire-inc.example,x7163,Coruscant Headquarters,Edda Lancer
+Daro Kaine,Power Systems Engineer,daro.kaine@empire-inc.example,x5590,Starhaven (on site),Emrys Bresk
+Nalen Keller,Power Systems Engineer,nalen.keller@empire-inc.example,x3722,Starhaven (on site),Tamsin Quarrel
+Soren Kessel,Senior Thermal Engineer,soren.kessel@empire-inc.example,x2921,Starhaven (on site),Jessa Pell
+Mira Kestrel,"Director, Reactor & Power Systems",mira.kestrel@empire-inc.example,x3781,Coruscant Headquarters,Edmund Tarrow
+Ulric Kirwan,"Engineering Manager, Reactor Core",ulric.kirwan@empire-inc.example,x7233,Coruscant Headquarters,Edric Welles
+Edda Lancer,"Engineering Manager, Power Distribution",edda.lancer@empire-inc.example,x8279,Starhaven (on site),Edric Welles
+Imra Lancer,Reactor Technician,imra.lancer@empire-inc.example,x5016,Coruscant Headquarters,Nils Errant
+Vela Longmire,Power Systems Engineer,vela.longmire@empire-inc.example,x2260,Coruscant Headquarters,Nils Errant
+Nadia Lorne,Reactor Engineer,nadia.lorne@empire-inc.example,x6737,Coruscant Headquarters,Ulric Kirwan
+Leda Maddox,Reactor Engineer,leda.maddox@empire-inc.example,x5427,Starhaven (on site),Jessa Pell
+Nadia Mathers,Senior Power Systems Engineer,nadia.mathers@empire-inc.example,x8568,Starhaven (on site),Jessa Pell
+Zeva Merrick,Principal Reactor Engineer,zeva.merrick@empire-inc.example,x5668,Coruscant Headquarters,Ulric Kirwan
+Casimir Mordant,Power Systems Technician,casimir.mordant@empire-inc.example,x5786,Coruscant Headquarters,Nils Errant
+Venn Nash,Senior Power Systems Engineer,venn.nash@empire-inc.example,x5947,Starhaven (on site),Emrys Bresk
+Garrow Osgood,Reactor Technician,garrow.osgood@empire-inc.example,x8602,Coruscant Headquarters,Ulric Kirwan
+Lannic Palin,Reactor Technician,lannic.palin@empire-inc.example,x8776,Coruscant Headquarters,Edda Lancer
+Jessa Pell,"Engineering Manager, Power Distribution",jessa.pell@empire-inc.example,x4747,Starhaven (on site),Edric Welles
+Brisk Penrose,Senior Thermal Engineer,brisk.penrose@empire-inc.example,x5529,Starhaven (on site),Esme Sable
+Merrin Quarrel,Senior Thermal Engineer,merrin.quarrel@empire-inc.example,x5500,Coruscant Headquarters,Jessa Pell
+Tamsin Quarrel,"Engineering Manager, Thermal Systems",tamsin.quarrel@empire-inc.example,x2281,Starhaven (on site),Edric Welles
+Edric Rhydon,Reactor Engineer,edric.rhydon@empire-inc.example,x7298,Starhaven (on site),Edda Lancer
+Dalric Rusk,"Engineering Manager, Thermal Systems",dalric.rusk@empire-inc.example,x3497,Coruscant Headquarters,Edric Welles
+Arlo Sable,Senior Thermal Engineer,arlo.sable@empire-inc.example,x4000,Coruscant Headquarters,Tamsin Quarrel
+Emrys Sable,Reactor Engineer,emrys.sable@empire-inc.example,x4029,Coruscant Headquarters,Edda Lancer
+Esme Sable,"Engineering Manager, Power Distribution",esme.sable@empire-inc.example,x3648,Coruscant Headquarters,Edric Welles
+Anneka Starke,Reactor Engineer,anneka.starke@empire-inc.example,x2970,Starhaven (on site),Dalric Rusk
+Rhett Starke,Senior Reactor Engineer,rhett.starke@empire-inc.example,x2379,Starhaven (on site),Rhosa Barrowe
+Hale Stroud,Power Systems Technician,hale.stroud@empire-inc.example,x3331,Starhaven (on site),Emrys Bresk
+Emrys Tarrant,Senior Thermal Engineer,emrys.tarrant@empire-inc.example,x4892,Starhaven (on site),Emrys Bresk
+Talia Thorne,Power Systems Technician,talia.thorne@empire-inc.example,x2348,Starhaven (on site),Dalric Rusk
+Vance Thorne,Senior Thermal Engineer,vance.thorne@empire-inc.example,x5746,Coruscant Headquarters,Rhosa Barrowe
+Dalric Torvald,Senior Power Systems Engineer,dalric.torvald@empire-inc.example,x2327,Coruscant Headquarters,Dalric Rusk
+Daro Ulmer,Reactor Engineer,daro.ulmer@empire-inc.example,x8501,Coruscant Headquarters,Emrys Bresk
+Zara Vance,Reactor Engineer,zara.vance@empire-inc.example,x7617,Starhaven (on site),Dalric Rusk
+Rosk Venner,Power Systems Technician,rosk.venner@empire-inc.example,x3236,Coruscant Headquarters,Esme Sable
+Cassia Wade,Power Systems Engineer,cassia.wade@empire-inc.example,x8972,Starhaven (on site),Jessa Pell
+Edric Welles,"Deputy Director, Reactor & Power Systems",edric.welles@empire-inc.example,x8341,Starhaven (on site),Mira Kestrel
+Jory Welles,Reactor Engineer,jory.welles@empire-inc.example,x4780,Coruscant Headquarters,Edda Lancer
+Senna Whitlock,Senior Power Systems Engineer,senna.whitlock@empire-inc.example,x7126,Starhaven (on site),Dalric Rusk
+Barrin Yorke,Senior Reactor Engineer,barrin.yorke@empire-inc.example,x4920,Starhaven (on site),Ulric Kirwan
+Yorik Zell,Senior Thermal Engineer,yorik.zell@empire-inc.example,x5120,Starhaven (on site),Jessa Pell

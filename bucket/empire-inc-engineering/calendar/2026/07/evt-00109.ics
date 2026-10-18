@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00109@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260717T100000Z
+DTEND:20260717T110000Z
+SUMMARY:Docking & Flight Operations team meeting
+LOCATION:Coruscant Headquarters\, room H41-15
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-07-17.
+ORGANIZER;CN="Dorian Hask":mailto:dorian.hask@empire-inc.example
+ATTENDEE;CN="Quell Barrowe";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:quell.barrowe@empire-inc.example
+ATTENDEE;CN="Sarik Kendrick";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:sarik.kendrick@empire-inc.example
+ATTENDEE;CN="Dalric Avrane";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:dalric.avrane@empire-inc.example
+ATTENDEE;CN="Rhosa Pike";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rhosa.pike@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,7 @@
+employee_id,name,title,email,manager
+KDY-E-0008,Nadine Corbel,Head of People & Culture,nadine.corbel@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0126,Kael Fiore,People Partner,kael.fiore@kuat-drive-yards.example,Nadine Corbel
+KDY-E-0127,Maren Bastide,Payroll Specialist,maren.bastide@kuat-drive-yards.example,Nadine Corbel
+KDY-E-0128,Elara Sorrel,People Partner,elara.sorrel@kuat-drive-yards.example,Nadine Corbel
+KDY-E-0129,Elsk Crane,Payroll Specialist,elsk.crane@kuat-drive-yards.example,Nadine Corbel
+KDY-E-0130,Esme Marrek,People Partner,esme.marrek@kuat-drive-yards.example,Nadine Corbel

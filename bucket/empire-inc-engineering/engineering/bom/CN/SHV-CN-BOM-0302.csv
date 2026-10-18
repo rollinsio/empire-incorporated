@@ -1,0 +1,8 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-CN-032-02,"Computer core processing node, gen 8",8,ea,63006.20,504049.60,SoroSuub Corporation,SHV-CN-DWG-0202
+2,EI-CN-035-03,"Sensor array module, pressure",4,ea,18814.77,75259.08,Sluis Van Orbital Works,SHV-CN-DWG-0202
+3,EI-CN-035-03,"Sensor array module, pressure",240,ea,18814.77,4515544.80,Chandrila Atmospherics,SHV-CN-DWG-0202
+4,EI-CN-033-01,"Data backbone switch, 48-port",8,ea,16643.89,133151.12,Mekuun Fabrication,SHV-CN-DWG-0202
+5,EI-CN-035-03,"Sensor array module, pressure",24,ea,18814.77,451554.48,Naboo Hydroponic Supply,SHV-CN-DWG-0202
+6,EI-CN-033-01,"Data backbone switch, 48-port",96,ea,16643.89,1597813.44,Fondor Shipyards,SHV-CN-DWG-0202
+7,EI-CN-035-02,"Sensor array module, radiation",4,ea,11916.71,47666.84,Chandrila Atmospherics,SHV-CN-DWG-0202

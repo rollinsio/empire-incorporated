@@ -1,0 +1,8 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2023-01364,2023-09-19,SUP-027,Anaxes Turbolift Company,1,EI-HR-017-02,"Fuel injector cartridge, high-flow",1,ea,62736.46,62736.46,2023-12-01
+EI-PO-2023-01364,2023-09-19,SUP-027,Anaxes Turbolift Company,2,EI-CM-036-01,"HoloNet transceiver board, standard",2,ea,80538.70,161077.40,2023-12-20
+EI-PO-2023-01364,2023-09-19,SUP-027,Anaxes Turbolift Company,3,EI-PD-009-03,"Superconducting bus conduit, class 6",1,m,606.11,606.11,2023-12-19
+EI-PO-2023-01364,2023-09-19,SUP-027,Anaxes Turbolift Company,4,EI-HR-016-01,"Containment field emitter, mk II",3,ea,707577.08,2122731.24,2023-11-10
+EI-PO-2023-01364,2023-09-19,SUP-027,Anaxes Turbolift Company,5,EI-SF-006-03,"Hull fastener kit, M90",2,kit,504.64,1009.28,2023-11-26
+EI-PO-2023-01364,2023-09-19,SUP-027,Anaxes Turbolift Company,6,EI-HA-044-01,"Classroom furniture set, primary",20,set,2118.24,42364.80,2024-02-18
+EI-PO-2023-01364,,,,,,ORDER TOTAL,,,,2390525.29,

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00115@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260319T140000Z
+DTEND:20260319T150000Z
+SUMMARY:Quarterly budget review Q1 2026
+LOCATION:Coruscant Headquarters\, room H41-08
+DESCRIPTION:Budget against actuals per program\; forecast changes. Date:
+  2026-03-19.
+ORGANIZER;CN="Odessa Varga":mailto:odessa.varga@empire-inc.example
+ATTENDEE;CN="Arlo Ashcombe";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:arlo.ashcombe@empire-inc.example
+ATTENDEE;CN="Ciran Salter";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:ciran.salter@empire-inc.example
+ATTENDEE;CN="Kirra Ellery";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:kirra.ellery@empire-inc.example
+ATTENDEE;CN="Lannic Avrane";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:lannic.avrane@empire-inc.example
+ATTENDEE;CN="Ines Torvald";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:ines.torvald@empire-inc.example
+ATTENDEE;CN="Lysander Tregar";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:lysander.tregar@empire-inc.example
+ATTENDEE;CN="Desik Chalke";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:desik.chalke@empire-inc.example
+ATTENDEE;CN="Daro Keller";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:daro.keller@empire-inc.example
+X-EMPIRE-CLASSIFICATION:CONFIDENTIAL
+END:VEVENT
+END:VCALENDAR

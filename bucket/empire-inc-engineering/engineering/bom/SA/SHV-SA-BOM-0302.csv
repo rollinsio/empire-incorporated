@@ -1,0 +1,16 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SA-013-01,"Solar collector panel, standard",12,ea,42611.21,511334.52,Brentaal Logistics Guild,SHV-SA-DWG-0202
+2,EI-SA-014-01,"Tracking drive motor, standard",8,ea,22744.05,181952.40,Naboo Hydroponic Supply,SHV-SA-DWG-0202
+3,EI-SA-013-02,"Solar collector panel, high-efficiency",4,ea,48084.64,192338.56,Mon Gazza Transport,SHV-SA-DWG-0202
+4,EI-SA-013-01,"Solar collector panel, standard",2,ea,42611.21,85222.42,Brentaal Logistics Guild,SHV-SA-DWG-0202
+5,EI-SA-013-02,"Solar collector panel, high-efficiency",96,ea,48084.64,4616125.44,Mekuun Fabrication,SHV-SA-DWG-0202
+6,EI-SA-014-01,"Tracking drive motor, standard",1,ea,22744.05,22744.05,Axxila Power Cells,SHV-SA-DWG-0202
+7,EI-SA-014-01,"Tracking drive motor, standard",48,ea,22744.05,1091714.40,Corulag Precision Optics,SHV-SA-DWG-0202
+8,EI-SA-014-01,"Tracking drive motor, standard",240,ea,22744.05,5458572.00,Telgorn Corporation,SHV-SA-DWG-0202
+9,EI-SA-014-01,"Tracking drive motor, standard",1,ea,22744.05,22744.05,Scarif Data Systems,SHV-SA-DWG-0202
+10,EI-SA-014-01,"Tracking drive motor, standard",8,ea,22744.05,181952.40,Lianna Orbital Systems,SHV-SA-DWG-0202
+11,EI-SA-013-01,"Solar collector panel, standard",24,ea,42611.21,1022669.04,Rendili StarDrive,SHV-SA-DWG-0202
+12,EI-SA-013-02,"Solar collector panel, high-efficiency",96,ea,48084.64,4616125.44,Fabritech,SHV-SA-DWG-0202
+13,EI-SA-013-01,"Solar collector panel, standard",240,ea,42611.21,10226690.40,Rothana Heavy Cranes,SHV-SA-DWG-0202
+14,EI-SA-014-01,"Tracking drive motor, standard",24,ea,22744.05,545857.20,Mustafar Refinery Cooperative,SHV-SA-DWG-0202
+15,EI-SA-014-01,"Tracking drive motor, standard",240,ea,22744.05,5458572.00,Lothal Fleet Services,SHV-SA-DWG-0202

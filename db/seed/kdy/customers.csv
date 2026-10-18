@@ -1,0 +1,8 @@
+customer_id,name,planet,tier,account_manager_id,procurement_email,sensitivity
+CUS-001,Empire Incorporated,Coruscant,KEY,KDY-E-0004,procurement@empire-inc.example,INTERNAL
+CUS-002,Brentaal Freight Lines,Brentaal,KEY,KDY-E-0018,procurement@brentaal-freight-lines.example,INTERNAL
+CUS-003,Chandrila Transit Authority,Chandrila,STANDARD,KDY-E-0019,procurement@chandrila-transit.example,INTERNAL
+CUS-004,Sluis Van Orbital Works,Sluis Van,STANDARD,KDY-E-0020,procurement@sluis-van-orbital-works.example,INTERNAL
+CUS-005,Alsakan Ferry Company,Alsakan,STANDARD,KDY-E-0021,procurement@alsakan-ferry.example,INTERNAL
+CUS-006,Fondor Shipyards,Fondor,KEY,KDY-E-0022,procurement@fondor-shipyards.example,INTERNAL
+CUS-007,Corellia Harbour Authority,Corellia,STANDARD,KDY-E-0023,procurement@corellia-harbour.example,INTERNAL

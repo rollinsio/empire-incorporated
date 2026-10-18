@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0011",
+  "queue": "FACILITIES",
+  "subject": "Cleaning request: Eadu greenhouse hall 2",
+  "description": "Please arrange an extra clean at Eadu greenhouse hall 2 after the move.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00658",
+    "name": "Vala Arkwell",
+    "email": "vala.arkwell@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00998",
+    "name": "Sarik Redgrave",
+    "email": "sarik.redgrave@empire-inc.example"
+  },
+  "created_at": "2025-02-01T17:56:00Z",
+  "resolved_at": "2025-02-12T17:56:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-02-01T19:51:00Z",
+      "author": "Sarik Redgrave",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-02-12T17:56:00Z",
+      "author": "Sarik Redgrave",
+      "text": "Cleaning completed."
+    }
+  ]
+}

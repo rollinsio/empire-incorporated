@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00101@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260202T150000Z
+DTEND:20260202T160000Z
+SUMMARY:Personnel Administration team meeting
+LOCATION:Coruscant Headquarters\, room H41-16
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-02-02.
+ORGANIZER;CN="Pell Amaranth":mailto:pell.amaranth@empire-inc.example
+ATTENDEE;CN="Oren Aster";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:oren.aster@empire-inc.example
+ATTENDEE;CN="Lysander Hune";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:lysander.hune@empire-inc.example
+ATTENDEE;CN="Xan Holloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:xan.holloway@empire-inc.example
+ATTENDEE;CN="Imra Kade";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:imra.kade@empire-inc.example
+ATTENDEE;CN="Wilde Stagg";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:wilde.stagg@empire-inc.example
+ATTENDEE;CN="Nalen Whitlock";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:nalen.whitlock@empire-inc.example
+ATTENDEE;CN="Odile Dunleavy";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:odile.dunleavy@empire-inc.example
+ATTENDEE;CN="Caddoc Dallan";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:caddoc.dallan@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

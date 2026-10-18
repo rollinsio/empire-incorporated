@@ -1,0 +1,244 @@
+{
+  "simulation_id": "SHV-PD-SIM-0037",
+  "title": "Substation fault cascade (run 37)",
+  "system": "PD",
+  "classification": "INTERNAL",
+  "model_version": "3.1.0",
+  "run_date": "2026-04-28",
+  "engineer": "Vance Thorne",
+  "engineer_id": "EMP-00363",
+  "inputs": {
+    "scenario": "peak demand",
+    "duration_steps": 37
+  },
+  "results": {
+    "summary": {
+      "peak_load_shed_pct": 54.728,
+      "peak_step": 36
+    },
+    "series": [
+      {
+        "t": 0,
+        "time_s": 64.468,
+        "zones_affected": 61.712,
+        "load_shed_pct": 48.481
+      },
+      {
+        "t": 1,
+        "time_s": 63.652,
+        "zones_affected": 63.867,
+        "load_shed_pct": 46.222
+      },
+      {
+        "t": 2,
+        "time_s": 64.226,
+        "zones_affected": 61.135,
+        "load_shed_pct": 45.272
+      },
+      {
+        "t": 3,
+        "time_s": 64.522,
+        "zones_affected": 62.694,
+        "load_shed_pct": 48.462
+      },
+      {
+        "t": 4,
+        "time_s": 63.125,
+        "zones_affected": 63.199,
+        "load_shed_pct": 47.796
+      },
+      {
+        "t": 5,
+        "time_s": 63.904,
+        "zones_affected": 63.968,
+        "load_shed_pct": 46.471
+      },
+      {
+        "t": 6,
+        "time_s": 62.102,
+        "zones_affected": 64.56,
+        "load_shed_pct": 47.587
+      },
+      {
+        "t": 7,
+        "time_s": 61.279,
+        "zones_affected": 62.547,
+        "load_shed_pct": 49.42
+      },
+      {
+        "t": 8,
+        "time_s": 66.498,
+        "zones_affected": 64.362,
+        "load_shed_pct": 47.72
+      },
+      {
+        "t": 9,
+        "time_s": 64.851,
+        "zones_affected": 63.86,
+        "load_shed_pct": 49.787
+      },
+      {
+        "t": 10,
+        "time_s": 65.024,
+        "zones_affected": 67.817,
+        "load_shed_pct": 47.964
+      },
+      {
+        "t": 11,
+        "time_s": 64.831,
+        "zones_affected": 67.351,
+        "load_shed_pct": 49.876
+      },
+      {
+        "t": 12,
+        "time_s": 65.557,
+        "zones_affected": 66.819,
+        "load_shed_pct": 48.716
+      },
+      {
+        "t": 13,
+        "time_s": 68.716,
+        "zones_affected": 65.069,
+        "load_shed_pct": 50.522
+      },
+      {
+        "t": 14,
+        "time_s": 66.528,
+        "zones_affected": 66.948,
+        "load_shed_pct": 49.939
+      },
+      {
+        "t": 15,
+        "time_s": 66.934,
+        "zones_affected": 69.559,
+        "load_shed_pct": 49.03
+      },
+      {
+        "t": 16,
+        "time_s": 68.656,
+        "zones_affected": 64.573,
+        "load_shed_pct": 50.542
+      },
+      {
+        "t": 17,
+        "time_s": 67.78,
+        "zones_affected": 66.006,
+        "load_shed_pct": 50.113
+      },
+      {
+        "t": 18,
+        "time_s": 66.373,
+        "zones_affected": 69.57,
+        "load_shed_pct": 51.172
+      },
+      {
+        "t": 19,
+        "time_s": 68.91,
+        "zones_affected": 66.911,
+        "load_shed_pct": 51.012
+      },
+      {
+        "t": 20,
+        "time_s": 69.001,
+        "zones_affected": 66.231,
+        "load_shed_pct": 50.034
+      },
+      {
+        "t": 21,
+        "time_s": 69.21,
+        "zones_affected": 66.947,
+        "load_shed_pct": 50.054
+      },
+      {
+        "t": 22,
+        "time_s": 66.476,
+        "zones_affected": 68.554,
+        "load_shed_pct": 53.584
+      },
+      {
+        "t": 23,
+        "time_s": 67.601,
+        "zones_affected": 68.655,
+        "load_shed_pct": 52.258
+      },
+      {
+        "t": 24,
+        "time_s": 69.289,
+        "zones_affected": 67.716,
+        "load_shed_pct": 52.531
+      },
+      {
+        "t": 25,
+        "time_s": 71.047,
+        "zones_affected": 70.334,
+        "load_shed_pct": 51.66
+      },
+      {
+        "t": 26,
+        "time_s": 67.57,
+        "zones_affected": 68.643,
+        "load_shed_pct": 52.408
+      },
+      {
+        "t": 27,
+        "time_s": 71.48,
+        "zones_affected": 71.587,
+        "load_shed_pct": 50.73
+      },
+      {
+        "t": 28,
+        "time_s": 69.357,
+        "zones_affected": 70.882,
+        "load_shed_pct": 52.089
+      },
+      {
+        "t": 29,
+        "time_s": 71.685,
+        "zones_affected": 71.706,
+        "load_shed_pct": 52.486
+      },
+      {
+        "t": 30,
+        "time_s": 71.677,
+        "zones_affected": 70.035,
+        "load_shed_pct": 53.53
+      },
+      {
+        "t": 31,
+        "time_s": 73.253,
+        "zones_affected": 70.825,
+        "load_shed_pct": 54.362
+      },
+      {
+        "t": 32,
+        "time_s": 74.51,
+        "zones_affected": 72.537,
+        "load_shed_pct": 52.193
+      },
+      {
+        "t": 33,
+        "time_s": 71.266,
+        "zones_affected": 70.877,
+        "load_shed_pct": 53.149
+      },
+      {
+        "t": 34,
+        "time_s": 71.393,
+        "zones_affected": 74.502,
+        "load_shed_pct": 53.305
+      },
+      {
+        "t": 35,
+        "time_s": 72.18,
+        "zones_affected": 75.761,
+        "load_shed_pct": 51.63
+      },
+      {
+        "t": 36,
+        "time_s": 71.96,
+        "zones_affected": 73.794,
+        "load_shed_pct": 54.728
+      }
+    ]
+  }
+}

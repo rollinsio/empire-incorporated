@@ -1,0 +1,4 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2024-01443,2024-06-05,SUP-022,Kalist Mining Combine,1,EI-HB-026-01,"Magnetic containment field generator, bay",1,ea,182236.62,182236.62,2024-07-28
+EI-PO-2024-01443,2024-06-05,SUP-022,Kalist Mining Combine,2,EI-HB-026-02,"Magnetic containment field generator, docking",1,ea,138625.63,138625.63,2024-09-29
+EI-PO-2024-01443,,,,,,ORDER TOTAL,,,,320862.25,

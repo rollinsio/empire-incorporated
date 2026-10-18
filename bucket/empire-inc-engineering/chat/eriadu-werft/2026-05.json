@@ -1,0 +1,496 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#eriadu-werft",
+    "month": "2026-05",
+    "language": "de",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 47
+  },
+  "members": [
+    {
+      "user_id": "EMP-00021",
+      "name": "Ulrike Brandt",
+      "title": "Direktorin Bauausführung (Director, Construction Operations)"
+    },
+    {
+      "user_id": "EMP-00700",
+      "name": "Volker Zimmermann",
+      "title": "Qualitätsingenieur/in"
+    },
+    {
+      "user_id": "EMP-00703",
+      "name": "Jürgen Weber",
+      "title": "Prüfingenieur/in"
+    },
+    {
+      "user_id": "EMP-00741",
+      "name": "Margit Falkenberg",
+      "title": "Qualitätsprüfer/in"
+    },
+    {
+      "user_id": "EMP-00754",
+      "name": "Margit Huber",
+      "title": "Zonenleiter/in"
+    },
+    {
+      "user_id": "EMP-00761",
+      "name": "Dagmar Seidel",
+      "title": "Bauleiter/in"
+    },
+    {
+      "user_id": "EMP-00766",
+      "name": "Ingrid Huber",
+      "title": "Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00770",
+      "name": "Matthias Stein",
+      "title": "Oberbauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00776",
+      "name": "Elke Albrecht",
+      "title": "Bauaufsicht"
+    },
+    {
+      "user_id": "EMP-00787",
+      "name": "Heike Neumann",
+      "title": "Kolonnenführer/in"
+    },
+    {
+      "user_id": "EMP-00788",
+      "name": "Clemens Weiß",
+      "title": "Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00791",
+      "name": "Detlef Falkenberg",
+      "title": "Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00794",
+      "name": "Ortwin Kessler",
+      "title": "Leitende/r Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00797",
+      "name": "Bernd Zimmermann",
+      "title": "Kolonnenführer/in"
+    },
+    {
+      "user_id": "EMP-00799",
+      "name": "Henrik Weber",
+      "title": "Bauaufsicht"
+    },
+    {
+      "user_id": "EMP-00803",
+      "name": "Bastian Schäfer",
+      "title": "Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00805",
+      "name": "Heike Brückner",
+      "title": "Bauaufsicht"
+    },
+    {
+      "user_id": "EMP-00822",
+      "name": "Volker Reinhardt",
+      "title": "Kolonnenführer/in"
+    },
+    {
+      "user_id": "EMP-00829",
+      "name": "Dagmar Winkler",
+      "title": "Bauaufsicht"
+    },
+    {
+      "user_id": "EMP-00848",
+      "name": "Ingrid Schmitt",
+      "title": "Oberbauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00851",
+      "name": "Henrik Hahn",
+      "title": "Bauaufsicht"
+    }
+  ],
+  "messages": [
+    {
+      "id": "eriadu-werft-202605-0001",
+      "ts": "2026-05-03T09:30:56Z",
+      "user_id": "EMP-00703",
+      "user": "Jürgen Weber",
+      "text": "Die Quadanium-Stahlträger für Z17 sind immer noch nicht da.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0001-r1",
+          "ts": "2026-05-03T09:37:56Z",
+          "user_id": "EMP-00700",
+          "user": "Volker Zimmermann",
+          "text": "Einkauf kümmert sich, die Bestellung ist eskaliert."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0002",
+      "ts": "2026-05-07T06:35:57Z",
+      "user_id": "EMP-00754",
+      "user": "Margit Huber",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0002-r1",
+          "ts": "2026-05-07T06:40:57Z",
+          "user_id": "EMP-00797",
+          "user": "Bernd Zimmermann",
+          "text": "Liegt bei der Qualitätssicherung."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0003",
+      "ts": "2026-05-07T07:52:40Z",
+      "user_id": "EMP-00848",
+      "user": "Ingrid Schmitt",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0004",
+      "ts": "2026-05-07T14:51:06Z",
+      "user_id": "EMP-00766",
+      "user": "Ingrid Huber",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0005",
+      "ts": "2026-05-08T11:49:10Z",
+      "user_id": "EMP-00851",
+      "user": "Henrik Hahn",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0006",
+      "ts": "2026-05-09T07:34:36Z",
+      "user_id": "EMP-00770",
+      "user": "Matthias Stein",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0006-r1",
+          "ts": "2026-05-09T07:38:36Z",
+          "user_id": "EMP-00703",
+          "user": "Jürgen Weber",
+          "text": "Liegt bei der Qualitätssicherung."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0007",
+      "ts": "2026-05-09T15:36:16Z",
+      "user_id": "EMP-00700",
+      "user": "Volker Zimmermann",
+      "text": "Schicht C beginnt heute um 14:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0008",
+      "ts": "2026-05-11T07:43:33Z",
+      "user_id": "EMP-00851",
+      "user": "Henrik Hahn",
+      "text": "Portalkran 3 ist bis 10:00 Uhr außer Betrieb.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0008-r1",
+          "ts": "2026-05-11T07:50:33Z",
+          "user_id": "EMP-00791",
+          "user": "Detlef Falkenberg",
+          "text": "Danke für die Info."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0009",
+      "ts": "2026-05-12T10:13:22Z",
+      "user_id": "EMP-00803",
+      "user": "Bastian Schäfer",
+      "text": "Die Quadanium-Stahlträger für Z17 sind immer noch nicht da.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0009-r1",
+          "ts": "2026-05-12T10:18:22Z",
+          "user_id": "EMP-00741",
+          "user": "Margit Falkenberg",
+          "text": "Einkauf kümmert sich, die Bestellung ist eskaliert."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0010",
+      "ts": "2026-05-13T17:25:19Z",
+      "user_id": "EMP-00797",
+      "user": "Bernd Zimmermann",
+      "text": "Portalkran 3 ist bis 15:00 Uhr außer Betrieb.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0011",
+      "ts": "2026-05-13T18:31:59Z",
+      "user_id": "EMP-00791",
+      "user": "Detlef Falkenberg",
+      "text": "Schicht C beginnt heute um 06:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0012",
+      "ts": "2026-05-13T19:20:52Z",
+      "user_id": "EMP-00788",
+      "user": "Clemens Weiß",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0012-r1",
+          "ts": "2026-05-13T19:26:52Z",
+          "user_id": "EMP-00703",
+          "user": "Jürgen Weber",
+          "text": "Liegt bei der Qualitätssicherung."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0013",
+      "ts": "2026-05-14T12:37:45Z",
+      "user_id": "EMP-00805",
+      "user": "Heike Brückner",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0014",
+      "ts": "2026-05-14T16:29:26Z",
+      "user_id": "EMP-00761",
+      "user": "Dagmar Seidel",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0015",
+      "ts": "2026-05-16T12:43:05Z",
+      "user_id": "EMP-00703",
+      "user": "Jürgen Weber",
+      "text": "Lieferung ist angekommen, liegt in Halle 2.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0015-r1",
+          "ts": "2026-05-16T12:49:05Z",
+          "user_id": "EMP-00788",
+          "user": "Clemens Weiß",
+          "text": "Super, wir holen sie nach der Pause."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0016",
+      "ts": "2026-05-16T19:49:49Z",
+      "user_id": "EMP-00797",
+      "user": "Bernd Zimmermann",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0017",
+      "ts": "2026-05-17T12:41:52Z",
+      "user_id": "EMP-00829",
+      "user": "Dagmar Winkler",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0018",
+      "ts": "2026-05-17T19:36:50Z",
+      "user_id": "EMP-00741",
+      "user": "Margit Falkenberg",
+      "text": "Portalkran 3 ist bis 15:00 Uhr außer Betrieb.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0018-r1",
+          "ts": "2026-05-17T19:42:50Z",
+          "user_id": "EMP-00787",
+          "user": "Heike Neumann",
+          "text": "Danke für die Info."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0019",
+      "ts": "2026-05-18T13:22:46Z",
+      "user_id": "EMP-00741",
+      "user": "Margit Falkenberg",
+      "text": "Portalkran 3 ist bis 13:00 Uhr außer Betrieb.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0019-r1",
+          "ts": "2026-05-18T13:28:46Z",
+          "user_id": "EMP-00754",
+          "user": "Margit Huber",
+          "text": "Danke für die Info."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0020",
+      "ts": "2026-05-18T14:42:56Z",
+      "user_id": "EMP-00803",
+      "user": "Bastian Schäfer",
+      "text": "Die Quadanium-Stahlträger für Z17 sind immer noch nicht da.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0020-r1",
+          "ts": "2026-05-18T14:46:56Z",
+          "user_id": "EMP-00766",
+          "user": "Ingrid Huber",
+          "text": "Einkauf kümmert sich, die Bestellung ist eskaliert."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0021",
+      "ts": "2026-05-18T15:13:44Z",
+      "user_id": "EMP-00797",
+      "user": "Bernd Zimmermann",
+      "text": "Die Quadanium-Stahlträger für Z17 sind immer noch nicht da.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0022",
+      "ts": "2026-05-19T14:42:43Z",
+      "user_id": "EMP-00754",
+      "user": "Margit Huber",
+      "text": "Schicht C beginnt heute um 22:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0023",
+      "ts": "2026-05-21T16:48:55Z",
+      "user_id": "EMP-00805",
+      "user": "Heike Brückner",
+      "text": "Schicht C beginnt heute um 22:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0024",
+      "ts": "2026-05-22T12:35:52Z",
+      "user_id": "EMP-00794",
+      "user": "Ortwin Kessler",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0024-r1",
+          "ts": "2026-05-22T12:42:52Z",
+          "user_id": "EMP-00799",
+          "user": "Henrik Weber",
+          "text": "Liegt bei der Qualitätssicherung."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0025",
+      "ts": "2026-05-22T17:59:49Z",
+      "user_id": "EMP-00703",
+      "user": "Jürgen Weber",
+      "text": "Schicht A beginnt heute um 22:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0026",
+      "ts": "2026-05-23T08:59:27Z",
+      "user_id": "EMP-00851",
+      "user": "Henrik Hahn",
+      "text": "Schicht C beginnt heute um 14:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0027",
+      "ts": "2026-05-25T17:07:32Z",
+      "user_id": "EMP-00754",
+      "user": "Margit Huber",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0027-r1",
+          "ts": "2026-05-25T17:14:32Z",
+          "user_id": "EMP-00741",
+          "user": "Margit Falkenberg",
+          "text": "Liegt bei der Qualitätssicherung."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0028",
+      "ts": "2026-05-26T08:35:31Z",
+      "user_id": "EMP-00822",
+      "user": "Volker Reinhardt",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0029",
+      "ts": "2026-05-27T08:06:05Z",
+      "user_id": "EMP-00791",
+      "user": "Detlef Falkenberg",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0030",
+      "ts": "2026-05-29T09:32:54Z",
+      "user_id": "EMP-00766",
+      "user": "Ingrid Huber",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0030-r1",
+          "ts": "2026-05-29T09:36:54Z",
+          "user_id": "EMP-00787",
+          "user": "Heike Neumann",
+          "text": "Liegt bei der Qualitätssicherung."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202605-0031",
+      "ts": "2026-05-29T19:53:06Z",
+      "user_id": "EMP-00741",
+      "user": "Margit Falkenberg",
+      "text": "Schicht A beginnt heute um 14:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0032",
+      "ts": "2026-05-30T09:46:36Z",
+      "user_id": "EMP-00770",
+      "user": "Matthias Stein",
+      "text": "Die Quadanium-Stahlträger für Z17 sind immer noch nicht da.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202605-0033",
+      "ts": "2026-05-30T14:35:55Z",
+      "user_id": "EMP-00761",
+      "user": "Dagmar Seidel",
+      "text": "Die Quadanium-Stahlträger für Z17 sind immer noch nicht da.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202605-0033-r1",
+          "ts": "2026-05-30T14:42:55Z",
+          "user_id": "EMP-00805",
+          "user": "Heike Brückner",
+          "text": "Einkauf kümmert sich, die Bestellung ist eskaliert."
+        }
+      ]
+    }
+  ]
+}

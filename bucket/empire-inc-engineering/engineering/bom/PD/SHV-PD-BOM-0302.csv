@@ -1,0 +1,12 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-PD-011-03,"Backup generator module, 2 TW",1,ea,286001.30,286001.30,Kuat Precision Instruments,SHV-PD-DWG-0202
+2,EI-PD-009-01,"Superconducting bus conduit, class 4",12,m,1780.68,21368.16,Anaxes Turbolift Company,SHV-PD-DWG-0202
+3,EI-PD-009-02,"Superconducting bus conduit, class 5",96,m,647.67,62176.32,Fabritech,SHV-PD-DWG-0202
+4,EI-PD-008-02,"Power coupling, 30 MA",1,ea,65846.27,65846.27,Sluis Van Orbital Works,SHV-PD-DWG-0202
+5,EI-PD-011-03,"Backup generator module, 2 TW",1,ea,286001.30,286001.30,Cygnus Spaceworks,SHV-PD-DWG-0202
+6,EI-PD-012-02,"Storage battery module, 40 GWh",3,ea,73517.15,220551.45,Sluis Van Orbital Works,SHV-PD-DWG-0202
+7,EI-PD-008-01,"Power coupling, 10 MA",8,ea,36538.46,292307.68,Corulag Precision Optics,SHV-PD-DWG-0202
+8,EI-PD-009-03,"Superconducting bus conduit, class 6",48,m,592.80,28454.40,Chandrila Atmospherics,SHV-PD-DWG-0202
+9,EI-PD-009-01,"Superconducting bus conduit, class 4",24,m,1780.68,42736.32,Kuat Precision Instruments,SHV-PD-DWG-0202
+10,EI-PD-008-03,"Power coupling, 60 MA",12,ea,47097.08,565164.96,Kuat Drive Yards,SHV-PD-DWG-0202
+11,EI-PD-011-03,"Backup generator module, 2 TW",8,ea,286001.30,2288010.40,Kuat Drive Yards,SHV-PD-DWG-0202

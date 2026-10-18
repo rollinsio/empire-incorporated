@@ -1,0 +1,8 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-00698,2026-01-29,SUP-025,Mustafar Refinery Cooperative,1,EI-HR-016-02,"Containment field emitter, mk III",4,ea,762618.90,3050475.60,2026-04-21
+EI-PO-2026-00698,2026-01-29,SUP-025,Mustafar Refinery Cooperative,2,EI-HR-016-02,"Containment field emitter, mk III",3,ea,798079.60,2394238.80,2026-06-21
+EI-PO-2026-00698,2026-01-29,SUP-025,Mustafar Refinery Cooperative,3,EI-HR-016-02,"Containment field emitter, mk III",1,ea,807408.68,807408.68,2026-04-03
+EI-PO-2026-00698,2026-01-29,SUP-025,Mustafar Refinery Cooperative,4,EI-HR-016-02,"Containment field emitter, mk III",4,ea,718775.39,2875101.56,2026-07-20
+EI-PO-2026-00698,2026-01-29,SUP-025,Mustafar Refinery Cooperative,5,EI-HR-015-01,"Hypermatter fuel, stabilized, batch grade I",1,kg,138553.83,138553.83,2026-04-24
+EI-PO-2026-00698,2026-01-29,SUP-025,Mustafar Refinery Cooperative,6,EI-HR-016-01,"Containment field emitter, mk II",2,ea,711828.99,1423657.98,2026-02-14
+EI-PO-2026-00698,,,,,,ORDER TOTAL,,,,10689436.45,

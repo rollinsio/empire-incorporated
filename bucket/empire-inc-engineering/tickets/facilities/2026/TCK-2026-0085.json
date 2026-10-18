@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0085",
+  "queue": "FACILITIES",
+  "subject": "Room too warm at Eriadu yard gate 3",
+  "description": "The temperature at Eriadu yard gate 3 stays above 26 °C all afternoon.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00644",
+    "name": "Anneka Torvald",
+    "email": "anneka.torvald@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00991",
+    "name": "Rain Coldbrook",
+    "email": "rain.coldbrook@empire-inc.example"
+  },
+  "created_at": "2026-08-07T10:08:00Z",
+  "resolved_at": "2026-09-15T10:08:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-08-07T12:36:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-09-15T10:08:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Thermostat recalibrated."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2024-00288,2024-06-23,SUP-008,Abregado Droid Works,1,EI-HA-004-01,"Transparisteel viewport panel, small",1,ea,21525.26,21525.26,2024-08-07
+EI-PO-2024-00288,2024-06-23,SUP-008,Abregado Droid Works,2,EI-LS-040-02,"Gravity plate, 4 m²",1,ea,11756.52,11756.52,2024-09-28
+EI-PO-2024-00288,,,,,,ORDER TOTAL,,,,33281.78,

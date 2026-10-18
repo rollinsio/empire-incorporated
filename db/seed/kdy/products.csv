@@ -1,0 +1,15 @@
+product_id,name,category,unit,list_price_credits,standard_cost_credits,sensitivity
+KDY-P-001,"Hull plating section, type 1",Hull,ea,88000.0,65194.18,CONFIDENTIAL
+KDY-P-002,"Hull plating section, type 2",Hull,ea,94000.0,68574.49,CONFIDENTIAL
+KDY-P-003,"Hull plating section, type 3 equatorial",Hull,ea,104000.0,77334.02,CONFIDENTIAL
+KDY-P-004,"Hull plating section, type 4 polar",Hull,ea,112000.0,86735.42,CONFIDENTIAL
+KDY-P-005,"Gantry crane hoist, 800 t",Cranes,ea,420000.0,295070.99,CONFIDENTIAL
+KDY-P-006,"Gantry crane hoist, 2000 t",Cranes,ea,610000.0,437010.18,CONFIDENTIAL
+KDY-P-007,"Gantry crane hoist, 4000 t",Cranes,ea,760000.0,565007.75,CONFIDENTIAL
+KDY-P-008,"Slipway rail segment, straight",Shipyard,ea,31000.0,21367.02,CONFIDENTIAL
+KDY-P-009,"Slipway rail segment, curved",Shipyard,ea,36000.0,25236.82,CONFIDENTIAL
+KDY-P-010,"Dry dock seal assembly, main gate",Shipyard,ea,300000.0,226506.71,CONFIDENTIAL
+KDY-P-011,"Freighter hull module, 40 m",Hull,ea,1450000.0,1126876.23,CONFIDENTIAL
+KDY-P-012,Ferry passenger deck module,Hull,ea,980000.0,752630.63,CONFIDENTIAL
+KDY-P-013,Docking clamp assembly,Shipyard,ea,145000.0,103314.3,CONFIDENTIAL
+KDY-P-014,"Transit tube section, 120 m",Infrastructure,ea,260000.0,190284.35,CONFIDENTIAL

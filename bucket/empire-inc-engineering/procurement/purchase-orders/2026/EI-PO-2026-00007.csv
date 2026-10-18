@@ -1,0 +1,4 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-00007,2026-09-22,SUP-009,Telgorn Corporation,1,EI-TX-020-03,"Radiator fin panel, 9 m²",2,ea,2629.06,5258.12,2026-11-18
+EI-PO-2026-00007,2026-09-22,SUP-009,Telgorn Corporation,2,EI-TX-021-01,"Coolant pump, 40 m³/s",6,ea,48447.18,290683.08,2027-02-23
+EI-PO-2026-00007,,,,,,ORDER TOTAL,,,,295941.20,

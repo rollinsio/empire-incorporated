@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00102@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260623T140000Z
+DTEND:20260623T150000Z
+SUMMARY:Legal & Contracts team meeting
+LOCATION:Coruscant Headquarters\, room H41-06
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-06-23.
+ORGANIZER;CN="Corvin Ashgrove":mailto:corvin.ashgrove@empire-inc.example
+ATTENDEE;CN="Odile Garron";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:odile.garron@empire-inc.example
+ATTENDEE;CN="Linnea Tull";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:linnea.tull@empire-inc.example
+ATTENDEE;CN="Gessa Tull";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:gessa.tull@empire-inc.example
+ATTENDEE;CN="Arden Kendrick";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:arden.kendrick@empire-inc.example
+ATTENDEE;CN="Dorne Avrane";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:dorne.avrane@empire-inc.example
+ATTENDEE;CN="Joren Avrane";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:joren.avrane@empire-inc.example
+ATTENDEE;CN="Teague Rothe";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:teague.rothe@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

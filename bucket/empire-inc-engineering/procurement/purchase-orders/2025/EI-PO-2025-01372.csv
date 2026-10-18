@@ -1,0 +1,6 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2025-01372,2025-05-06,SUP-021,Rothana Heavy Cranes,1,EI-RL-056-01,"Telescope mirror segment, inner ring",4,ea,2245442.97,8981771.88,2025-08-20
+EI-PO-2025-01372,2025-05-06,SUP-021,Rothana Heavy Cranes,2,EI-RL-056-01,"Telescope mirror segment, inner ring",4,ea,2275170.70,9100682.80,2025-10-28
+EI-PO-2025-01372,2025-05-06,SUP-021,Rothana Heavy Cranes,3,EI-RL-054-01,"Laboratory fume hood, standard",4,ea,11971.77,47887.08,2025-09-19
+EI-PO-2025-01372,2025-05-06,SUP-021,Rothana Heavy Cranes,4,EI-RL-054-01,"Laboratory fume hood, standard",2,ea,12014.33,24028.66,2025-09-16
+EI-PO-2025-01372,,,,,,ORDER TOTAL,,,,18154370.42,

@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0028",
+  "queue": "IT_HELPDESK",
+  "subject": "Software install request: structural analysis suite",
+  "description": "Please install the structural analysis suite on my workstation.",
+  "priority": "HIGH",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00878",
+    "name": "Lannic Salter",
+    "email": "lannic.salter@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00680",
+    "name": "Gessa Glenmore",
+    "email": "gessa.glenmore@empire-inc.example"
+  },
+  "created_at": "2026-03-01T17:14:00Z",
+  "resolved_at": "2026-03-02T04:14:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-03-01T20:20:00Z",
+      "author": "Gessa Glenmore",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-03-02T04:14:00Z",
+      "author": "Gessa Glenmore",
+      "text": "Installed and licensed."
+    }
+  ]
+}

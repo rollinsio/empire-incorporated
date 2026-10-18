@@ -1,0 +1,6 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-01436,2026-07-13,SUP-028,Carida Safety Supply,1,EI-HR-017-02,"Fuel injector cartridge, high-flow",1,ea,63165.74,63165.74,2026-09-11
+EI-PO-2026-01436,2026-07-13,SUP-028,Carida Safety Supply,2,EI-HR-017-02,"Fuel injector cartridge, high-flow",2,ea,58066.57,116133.14,2026-08-11
+EI-PO-2026-01436,2026-07-13,SUP-028,Carida Safety Supply,3,EI-HR-017-01,"Fuel injector cartridge, standard",3,ea,55795.44,167386.32,2026-10-22
+EI-PO-2026-01436,2026-07-13,SUP-028,Carida Safety Supply,4,EI-HR-018-01,"Coolant, cryogenic, type K",120,m³,1044.07,125288.40,2026-12-19
+EI-PO-2026-01436,,,,,,ORDER TOTAL,,,,471973.60,

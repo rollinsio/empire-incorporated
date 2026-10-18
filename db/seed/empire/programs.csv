@@ -1,0 +1,6 @@
+program_id,code,name,executive_sponsor_id,program_director_id,status,start_date,target_completion,budget_mcr,sensitivity
+PRG-SHV,SHV,Starhaven Orbital Habitat & Shipyard,EMP-00003,EMP-00003,ACTIVE,2020-01-06,2027-06-30,1240000,CONFIDENTIAL
+PRG-CSL,CSL,Cargo Shuttle Production Line Expansion,EMP-00006,EMP-00017,ACTIVE,2023-03-01,2026-12-15,38500,CONFIDENTIAL
+PRG-SCA,SCA,Scarif Records Archive Modernization,EMP-00023,EMP-00019,ACTIVE,2024-02-12,2026-11-30,9200,CONFIDENTIAL
+PRG-EAD,EAD,Eadu Agricultural Research Campus,EMP-00004,EMP-00015,ACTIVE,2022-08-01,2026-10-31,21700,CONFIDENTIAL
+PRG-HQC,HQC,Coruscant Office Consolidation,EMP-00002,EMP-00024,ACTIVE,2025-01-06,2027-03-31,1150,CONFIDENTIAL

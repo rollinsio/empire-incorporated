@@ -1,0 +1,166 @@
+{
+  "empire": {
+    "company": "Empire Incorporated",
+    "database": "empire_inc",
+    "schema": "empire",
+    "bucket": "empire-inc-engineering",
+    "logins": [
+      {
+        "username": "visitor.public",
+        "access_level": "PUBLIC",
+        "employee_id": null,
+        "display_name": "External visitor (no employee record)",
+        "email": null,
+        "department": null,
+        "may_see": [
+          "PUBLIC"
+        ],
+        "label_descriptions": {
+          "PUBLIC": "Approved for release outside the company.",
+          "INTERNAL": "Any employee may see it; not for release outside the company.",
+          "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
+          "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        }
+      },
+      {
+        "username": "staff.internal",
+        "access_level": "INTERNAL",
+        "employee_id": "EMP-00532",
+        "display_name": "Torin Osgood",
+        "email": "torin.osgood@empire-inc.example",
+        "department": "Docking & Flight Operations",
+        "may_see": [
+          "PUBLIC",
+          "INTERNAL"
+        ],
+        "label_descriptions": {
+          "PUBLIC": "Approved for release outside the company.",
+          "INTERNAL": "Any employee may see it; not for release outside the company.",
+          "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
+          "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        }
+      },
+      {
+        "username": "analyst.confidential",
+        "access_level": "CONFIDENTIAL",
+        "employee_id": "EMP-00904",
+        "display_name": "Sabel Rhydon",
+        "email": "sabel.rhydon@empire-inc.example",
+        "department": "Finance",
+        "may_see": [
+          "PUBLIC",
+          "INTERNAL",
+          "CONFIDENTIAL"
+        ],
+        "label_descriptions": {
+          "PUBLIC": "Approved for release outside the company.",
+          "INTERNAL": "Any employee may see it; not for release outside the company.",
+          "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
+          "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        }
+      },
+      {
+        "username": "hr.restricted",
+        "access_level": "RESTRICTED",
+        "employee_id": "EMP-00937",
+        "display_name": "Tyce Merrick",
+        "email": "tyce.merrick@empire-inc.example",
+        "department": "Personnel Administration",
+        "may_see": [
+          "PUBLIC",
+          "INTERNAL",
+          "CONFIDENTIAL",
+          "RESTRICTED"
+        ],
+        "label_descriptions": {
+          "PUBLIC": "Approved for release outside the company.",
+          "INTERNAL": "Any employee may see it; not for release outside the company.",
+          "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
+          "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        }
+      }
+    ]
+  },
+  "kdy": {
+    "company": "Kuat Drive Yards",
+    "database": "kdy",
+    "schema": "kdy",
+    "bucket": "kdy-engineering",
+    "logins": [
+      {
+        "username": "kdy.visitor.public",
+        "access_level": "PUBLIC",
+        "employee_id": null,
+        "display_name": "External visitor (no employee record)",
+        "email": null,
+        "department": null,
+        "may_see": [
+          "PUBLIC"
+        ],
+        "label_descriptions": {
+          "PUBLIC": "Approved for release outside the company.",
+          "INTERNAL": "Any employee may see it; not for release outside the company.",
+          "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
+          "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        }
+      },
+      {
+        "username": "kdy.staff.internal",
+        "access_level": "INTERNAL",
+        "employee_id": "KDY-E-0058",
+        "display_name": "Calla Jarrow",
+        "email": "calla.jarrow@kuat-drive-yards.example",
+        "department": "Fabrication",
+        "may_see": [
+          "PUBLIC",
+          "INTERNAL"
+        ],
+        "label_descriptions": {
+          "PUBLIC": "Approved for release outside the company.",
+          "INTERNAL": "Any employee may see it; not for release outside the company.",
+          "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
+          "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        }
+      },
+      {
+        "username": "kdy.analyst.confidential",
+        "access_level": "CONFIDENTIAL",
+        "employee_id": "KDY-E-0117",
+        "display_name": "Daro Delane",
+        "email": "daro.delane@kuat-drive-yards.example",
+        "department": "Finance",
+        "may_see": [
+          "PUBLIC",
+          "INTERNAL",
+          "CONFIDENTIAL"
+        ],
+        "label_descriptions": {
+          "PUBLIC": "Approved for release outside the company.",
+          "INTERNAL": "Any employee may see it; not for release outside the company.",
+          "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
+          "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        }
+      },
+      {
+        "username": "kdy.hr.restricted",
+        "access_level": "RESTRICTED",
+        "employee_id": "KDY-E-0127",
+        "display_name": "Maren Bastide",
+        "email": "maren.bastide@kuat-drive-yards.example",
+        "department": "People & Culture",
+        "may_see": [
+          "PUBLIC",
+          "INTERNAL",
+          "CONFIDENTIAL",
+          "RESTRICTED"
+        ],
+        "label_descriptions": {
+          "PUBLIC": "Approved for release outside the company.",
+          "INTERNAL": "Any employee may see it; not for release outside the company.",
+          "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
+          "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+employee_id,name,title,email,manager
+KDY-E-0001,Aurelia Vantress,Chief Executive Officer,aurelia.vantress@kuat-drive-yards.example,
+KDY-E-0011,Pax Warrick,Executive Assistant,pax.warrick@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0012,Marik Belcourt,Strategy Analyst,marik.belcourt@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0013,Gessa Delane,Executive Assistant,gessa.delane@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0014,Enna Tull,Strategy Analyst,enna.tull@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0015,Ilka Torvald,Executive Assistant,ilka.torvald@kuat-drive-yards.example,Aurelia Vantress

@@ -1,0 +1,3 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2023-01039,2023-02-01,SUP-036,Corellian Bulk Fasteners,1,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",4,ea,50091.87,200367.48,2023-07-01
+EI-PO-2023-01039,,,,,,ORDER TOTAL,,,,200367.48,

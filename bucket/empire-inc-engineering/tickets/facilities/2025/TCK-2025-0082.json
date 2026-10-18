@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0082",
+  "queue": "FACILITIES",
+  "subject": "Light fixture flickering at Research laboratory wing B",
+  "description": "A light fixture at Research laboratory wing B keeps flickering.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00586",
+    "name": "Vela Carrow",
+    "email": "vela.carrow@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00994",
+    "name": "Rosk Calder",
+    "email": "rosk.calder@empire-inc.example"
+  },
+  "created_at": "2025-07-29T11:53:00Z",
+  "resolved_at": "2025-07-31T06:53:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-07-29T12:50:00Z",
+      "author": "Rosk Calder",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-07-31T06:53:00Z",
+      "author": "Rosk Calder",
+      "text": "Fixture replaced."
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#reactor-ops",
+    "month": "2026-09",
+    "language": "en",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 50
+  },
+  "members": [
+    {
+      "user_id": "EMP-00012",
+      "name": "Mira Kestrel",
+      "title": "Director, Reactor & Power Systems"
+    },
+    {
+      "user_id": "EMP-00296",
+      "name": "Jessa Pell",
+      "title": "Engineering Manager, Power Distribution"
+    },
+    {
+      "user_id": "EMP-00303",
+      "name": "Ines Greaves",
+      "title": "Senior Power Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00306",
+      "name": "Lorne Adrel",
+      "title": "Power Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00307",
+      "name": "Jory Dravis",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00314",
+      "name": "Merrin Quarrel",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00316",
+      "name": "Barrin Yorke",
+      "title": "Senior Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00330",
+      "name": "Emrys Sable",
+      "title": "Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00335",
+      "name": "Vesna Harrick",
+      "title": "Power Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00341",
+      "name": "Tarn Delane",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00346",
+      "name": "Delia Ashby",
+      "title": "Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00349",
+      "name": "Vela Longmire",
+      "title": "Power Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00350",
+      "name": "Leda Maddox",
+      "title": "Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00354",
+      "name": "Rhett Starke",
+      "title": "Senior Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00360",
+      "name": "Lannic Crestwell",
+      "title": "Senior Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00363",
+      "name": "Vance Thorne",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00368",
+      "name": "Yorik Zell",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00370",
+      "name": "Aldo Halloran",
+      "title": "Reactor Engineer"
+    }
+  ],
+  "messages": [
+    {
+      "id": "reactor-ops-202609-0001",
+      "ts": "2026-09-01T19:32:50Z",
+      "user_id": "EMP-00360",
+      "user": "Lannic Crestwell",
+      "text": "Coolant manifold inspection on loop 5 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0002",
+      "ts": "2026-09-02T07:36:29Z",
+      "user_id": "EMP-00350",
+      "user": "Leda Maddox",
+      "text": "Heat exchanger stack 8 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0003",
+      "ts": "2026-09-03T10:46:54Z",
+      "user_id": "EMP-00330",
+      "user": "Emrys Sable",
+      "text": "Heat exchanger stack 7 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0004",
+      "ts": "2026-09-03T14:40:00Z",
+      "user_id": "EMP-00341",
+      "user": "Tarn Delane",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0004-r1",
+          "ts": "2026-09-03T14:44:00Z",
+          "user_id": "EMP-00335",
+          "user": "Vesna Harrick",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202609-0004-r2",
+          "ts": "2026-09-03T14:51:00Z",
+          "user_id": "EMP-00316",
+          "user": "Barrin Yorke",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0005",
+      "ts": "2026-09-06T16:28:37Z",
+      "user_id": "EMP-00368",
+      "user": "Yorik Zell",
+      "text": "Coolant manifold inspection on loop 6 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0006",
+      "ts": "2026-09-10T09:08:54Z",
+      "user_id": "EMP-00330",
+      "user": "Emrys Sable",
+      "text": "Shift handover: reactor output steady around 40% rated.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0006-r1",
+          "ts": "2026-09-10T09:13:54Z",
+          "user_id": "EMP-00360",
+          "user": "Lannic Crestwell",
+          "text": "Thanks, have a good evening."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0007",
+      "ts": "2026-09-11T13:08:30Z",
+      "user_id": "EMP-00368",
+      "user": "Yorik Zell",
+      "text": "Coolant manifold inspection on loop 2 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0008",
+      "ts": "2026-09-12T14:03:00Z",
+      "user_id": "EMP-00303",
+      "user": "Ines Greaves",
+      "text": "HR-CORE-T01 just read 4812.6 K. Checking the coolant loop now.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0008-r1",
+          "ts": "2026-09-12T14:08:00Z",
+          "user_id": "EMP-00012",
+          "user": "Mira Kestrel",
+          "text": "Thanks, keep me posted. Facilities is looking at the pump."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0009",
+      "ts": "2026-09-13T18:02:02Z",
+      "user_id": "EMP-00335",
+      "user": "Vesna Harrick",
+      "text": "Containment field generator 18 is back online after scheduled maintenance.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0010",
+      "ts": "2026-09-14T10:15:32Z",
+      "user_id": "EMP-00370",
+      "user": "Aldo Halloran",
+      "text": "Shift handover: reactor output steady around 43% rated.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0010-r1",
+          "ts": "2026-09-14T10:21:32Z",
+          "user_id": "EMP-00330",
+          "user": "Emrys Sable",
+          "text": "Thanks, have a good evening."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0011",
+      "ts": "2026-09-14T10:25:03Z",
+      "user_id": "EMP-00314",
+      "user": "Merrin Quarrel",
+      "text": "Shift handover: reactor output steady around 39% rated.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0011-r1",
+          "ts": "2026-09-14T10:32:03Z",
+          "user_id": "EMP-00370",
+          "user": "Aldo Halloran",
+          "text": "Thanks, have a good evening."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0012",
+      "ts": "2026-09-16T16:51:53Z",
+      "user_id": "EMP-00349",
+      "user": "Vela Longmire",
+      "text": "Containment field generator 15 is back online after scheduled maintenance.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0012-r1",
+          "ts": "2026-09-16T16:58:53Z",
+          "user_id": "EMP-00012",
+          "user": "Mira Kestrel",
+          "text": "Thanks for the update."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0013",
+      "ts": "2026-09-16T19:57:35Z",
+      "user_id": "EMP-00012",
+      "user": "Mira Kestrel",
+      "text": "Containment field generator 6 is back online after scheduled maintenance.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0013-r1",
+          "ts": "2026-09-16T20:01:35Z",
+          "user_id": "EMP-00341",
+          "user": "Tarn Delane",
+          "text": "Thanks for the update."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0014",
+      "ts": "2026-09-18T16:24:12Z",
+      "user_id": "EMP-00314",
+      "user": "Merrin Quarrel",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0015",
+      "ts": "2026-09-19T07:09:13Z",
+      "user_id": "EMP-00370",
+      "user": "Aldo Halloran",
+      "text": "Heat exchanger stack 2 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0016",
+      "ts": "2026-09-19T14:56:06Z",
+      "user_id": "EMP-00346",
+      "user": "Delia Ashby",
+      "text": "Shift handover: reactor output steady around 44% rated.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0016-r1",
+          "ts": "2026-09-19T15:03:06Z",
+          "user_id": "EMP-00368",
+          "user": "Yorik Zell",
+          "text": "Thanks, have a good evening."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0017",
+      "ts": "2026-09-19T15:03:04Z",
+      "user_id": "EMP-00363",
+      "user": "Vance Thorne",
+      "text": "Containment field generator 16 is back online after scheduled maintenance.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0017-r1",
+          "ts": "2026-09-19T15:09:04Z",
+          "user_id": "EMP-00341",
+          "user": "Tarn Delane",
+          "text": "Thanks for the update."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0018",
+      "ts": "2026-09-19T16:18:29Z",
+      "user_id": "EMP-00368",
+      "user": "Yorik Zell",
+      "text": "Heat exchanger stack 2 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0019",
+      "ts": "2026-09-19T16:56:08Z",
+      "user_id": "EMP-00349",
+      "user": "Vela Longmire",
+      "text": "Shift handover: reactor output steady around 38% rated.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0019-r1",
+          "ts": "2026-09-19T17:01:08Z",
+          "user_id": "EMP-00303",
+          "user": "Ines Greaves",
+          "text": "Thanks, have a good evening."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0020",
+      "ts": "2026-09-20T08:40:37Z",
+      "user_id": "EMP-00368",
+      "user": "Yorik Zell",
+      "text": "Coolant manifold inspection on loop 7 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0021",
+      "ts": "2026-09-21T16:03:53Z",
+      "user_id": "EMP-00350",
+      "user": "Leda Maddox",
+      "text": "Coolant manifold inspection on loop 3 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0022",
+      "ts": "2026-09-22T11:22:24Z",
+      "user_id": "EMP-00307",
+      "user": "Jory Dravis",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0022-r1",
+          "ts": "2026-09-22T11:26:24Z",
+          "user_id": "EMP-00012",
+          "user": "Mira Kestrel",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202609-0022-r2",
+          "ts": "2026-09-22T11:31:24Z",
+          "user_id": "EMP-00012",
+          "user": "Mira Kestrel",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0023",
+      "ts": "2026-09-22T16:07:53Z",
+      "user_id": "EMP-00296",
+      "user": "Jessa Pell",
+      "text": "Containment field generator 24 is back online after scheduled maintenance.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0024",
+      "ts": "2026-09-24T12:07:44Z",
+      "user_id": "EMP-00370",
+      "user": "Aldo Halloran",
+      "text": "Coolant manifold inspection on loop 6 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0025",
+      "ts": "2026-09-24T17:48:42Z",
+      "user_id": "EMP-00314",
+      "user": "Merrin Quarrel",
+      "text": "Heat exchanger stack 1 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0026",
+      "ts": "2026-09-25T09:08:12Z",
+      "user_id": "EMP-00330",
+      "user": "Emrys Sable",
+      "text": "Containment field generator 15 is back online after scheduled maintenance.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0026-r1",
+          "ts": "2026-09-25T09:13:12Z",
+          "user_id": "EMP-00306",
+          "user": "Lorne Adrel",
+          "text": "Thanks for the update."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0027",
+      "ts": "2026-09-25T15:51:18Z",
+      "user_id": "EMP-00370",
+      "user": "Aldo Halloran",
+      "text": "Containment field generator 10 is back online after scheduled maintenance.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0027-r1",
+          "ts": "2026-09-25T15:58:18Z",
+          "user_id": "EMP-00296",
+          "user": "Jessa Pell",
+          "text": "Thanks for the update."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0028",
+      "ts": "2026-09-27T06:11:09Z",
+      "user_id": "EMP-00370",
+      "user": "Aldo Halloran",
+      "text": "Heat exchanger stack 6 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0029",
+      "ts": "2026-09-27T07:58:02Z",
+      "user_id": "EMP-00330",
+      "user": "Emrys Sable",
+      "text": "Coolant manifold inspection on loop 3 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0030",
+      "ts": "2026-09-27T12:22:28Z",
+      "user_id": "EMP-00335",
+      "user": "Vesna Harrick",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0030-r1",
+          "ts": "2026-09-27T12:27:28Z",
+          "user_id": "EMP-00346",
+          "user": "Delia Ashby",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202609-0030-r2",
+          "ts": "2026-09-27T12:31:28Z",
+          "user_id": "EMP-00303",
+          "user": "Ines Greaves",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202609-0031",
+      "ts": "2026-09-28T15:54:49Z",
+      "user_id": "EMP-00368",
+      "user": "Yorik Zell",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202609-0032",
+      "ts": "2026-09-29T08:40:37Z",
+      "user_id": "EMP-00354",
+      "user": "Rhett Starke",
+      "text": "Containment field generator 19 is back online after scheduled maintenance.",
+      "replies": [
+        {
+          "id": "reactor-ops-202609-0032-r1",
+          "ts": "2026-09-29T08:44:37Z",
+          "user_id": "EMP-00303",
+          "user": "Ines Greaves",
+          "text": "Thanks for the update."
+        }
+      ]
+    }
+  ]
+}

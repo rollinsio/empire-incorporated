@@ -1,0 +1,10 @@
+department_id,code,name,headcount,sensitivity
+K01,EXE,Executive Office,6,INTERNAL
+K02,SAL,Sales & Key Accounts,14,INTERNAL
+K03,ENG,Engineering,30,INTERNAL
+K04,FAB,Fabrication,50,INTERNAL
+K05,QUA,Quality,12,INTERNAL
+K06,FIN,Finance,10,INTERNAL
+K07,HRS,People & Culture,6,INTERNAL
+K08,PRC,Procurement,8,INTERNAL
+K09,LOG,Logistics,4,INTERNAL

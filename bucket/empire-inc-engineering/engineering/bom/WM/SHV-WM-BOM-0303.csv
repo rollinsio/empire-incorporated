@@ -1,0 +1,14 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-WM-050-01,"Recycling sorter module, metals",8,ea,75169.79,601358.32,Anaxes Turbolift Company,SHV-WM-DWG-0203
+2,EI-WM-049-01,"Compactor wall drive, standard",2,ea,59518.93,119037.86,Cygnus Spaceworks,SHV-WM-DWG-0203
+3,EI-WM-050-02,"Recycling sorter module, polymers",2,ea,74575.19,149150.38,Naboo Hydroponic Supply,SHV-WM-DWG-0203
+4,EI-WM-049-01,"Compactor wall drive, standard",2,ea,59518.93,119037.86,Kalist Mining Combine,SHV-WM-DWG-0203
+5,EI-WM-050-01,"Recycling sorter module, metals",1,ea,75169.79,75169.79,Kuat Precision Instruments,SHV-WM-DWG-0203
+6,EI-WM-050-02,"Recycling sorter module, polymers",1,ea,74575.19,74575.19,Anaxes Turbolift Company,SHV-WM-DWG-0203
+7,EI-WM-049-01,"Compactor wall drive, standard",2,ea,59518.93,119037.86,Carbanti United Electronics,SHV-WM-DWG-0203
+8,EI-WM-050-02,"Recycling sorter module, polymers",3,ea,74575.19,223725.57,Chiewab Medical,SHV-WM-DWG-0203
+9,EI-WM-050-01,"Recycling sorter module, metals",2,ea,75169.79,150339.58,Mon Gazza Transport,SHV-WM-DWG-0203
+10,EI-WM-050-01,"Recycling sorter module, metals",2,ea,75169.79,150339.58,Telgorn Corporation,SHV-WM-DWG-0203
+11,EI-WM-049-01,"Compactor wall drive, standard",3,ea,59518.93,178556.79,Telgorn Corporation,SHV-WM-DWG-0203
+12,EI-WM-050-01,"Recycling sorter module, metals",2,ea,75169.79,150339.58,Brentaal Logistics Guild,SHV-WM-DWG-0203
+13,EI-WM-050-02,"Recycling sorter module, polymers",4,ea,74575.19,298300.76,Kalist Mining Combine,SHV-WM-DWG-0203

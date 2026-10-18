@@ -1,0 +1,616 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#reactor-ops",
+    "month": "2026-03",
+    "language": "en",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 65
+  },
+  "members": [
+    {
+      "user_id": "EMP-00012",
+      "name": "Mira Kestrel",
+      "title": "Director, Reactor & Power Systems"
+    },
+    {
+      "user_id": "EMP-00296",
+      "name": "Jessa Pell",
+      "title": "Engineering Manager, Power Distribution"
+    },
+    {
+      "user_id": "EMP-00303",
+      "name": "Ines Greaves",
+      "title": "Senior Power Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00306",
+      "name": "Lorne Adrel",
+      "title": "Power Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00307",
+      "name": "Jory Dravis",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00314",
+      "name": "Merrin Quarrel",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00316",
+      "name": "Barrin Yorke",
+      "title": "Senior Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00330",
+      "name": "Emrys Sable",
+      "title": "Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00335",
+      "name": "Vesna Harrick",
+      "title": "Power Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00341",
+      "name": "Tarn Delane",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00346",
+      "name": "Delia Ashby",
+      "title": "Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00349",
+      "name": "Vela Longmire",
+      "title": "Power Systems Engineer"
+    },
+    {
+      "user_id": "EMP-00350",
+      "name": "Leda Maddox",
+      "title": "Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00354",
+      "name": "Rhett Starke",
+      "title": "Senior Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00360",
+      "name": "Lannic Crestwell",
+      "title": "Senior Reactor Engineer"
+    },
+    {
+      "user_id": "EMP-00363",
+      "name": "Vance Thorne",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00368",
+      "name": "Yorik Zell",
+      "title": "Senior Thermal Engineer"
+    },
+    {
+      "user_id": "EMP-00370",
+      "name": "Aldo Halloran",
+      "title": "Reactor Engineer"
+    }
+  ],
+  "messages": [
+    {
+      "id": "reactor-ops-202603-0001",
+      "ts": "2026-03-04T10:19:47Z",
+      "user_id": "EMP-00316",
+      "user": "Barrin Yorke",
+      "text": "Heat exchanger stack 22 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0002",
+      "ts": "2026-03-05T14:11:31Z",
+      "user_id": "EMP-00303",
+      "user": "Ines Greaves",
+      "text": "Coolant manifold inspection on loop 6 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0003",
+      "ts": "2026-03-06T07:40:20Z",
+      "user_id": "EMP-00012",
+      "user": "Mira Kestrel",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0003-r1",
+          "ts": "2026-03-06T07:46:20Z",
+          "user_id": "EMP-00346",
+          "user": "Delia Ashby",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202603-0003-r2",
+          "ts": "2026-03-06T07:48:20Z",
+          "user_id": "EMP-00316",
+          "user": "Barrin Yorke",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0004",
+      "ts": "2026-03-07T08:11:50Z",
+      "user_id": "EMP-00346",
+      "user": "Delia Ashby",
+      "text": "Heat exchanger stack 17 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0005",
+      "ts": "2026-03-07T16:34:43Z",
+      "user_id": "EMP-00368",
+      "user": "Yorik Zell",
+      "text": "Shift handover: reactor output steady around 43% rated.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0005-r1",
+          "ts": "2026-03-07T16:40:43Z",
+          "user_id": "EMP-00335",
+          "user": "Vesna Harrick",
+          "text": "Thanks, have a good evening."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0006",
+      "ts": "2026-03-08T12:04:45Z",
+      "user_id": "EMP-00012",
+      "user": "Mira Kestrel",
+      "text": "Containment field generator 7 is back online after scheduled maintenance.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0007",
+      "ts": "2026-03-09T06:05:12Z",
+      "user_id": "EMP-00363",
+      "user": "Vance Thorne",
+      "text": "Containment field generator 5 is back online after scheduled maintenance.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0007-r1",
+          "ts": "2026-03-09T06:12:12Z",
+          "user_id": "EMP-00346",
+          "user": "Delia Ashby",
+          "text": "Thanks for the update."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0008",
+      "ts": "2026-03-10T11:16:59Z",
+      "user_id": "EMP-00012",
+      "user": "Mira Kestrel",
+      "text": "Shift handover: reactor output steady around 40% rated.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0008-r1",
+          "ts": "2026-03-10T11:23:59Z",
+          "user_id": "EMP-00314",
+          "user": "Merrin Quarrel",
+          "text": "Thanks, have a good evening."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0009",
+      "ts": "2026-03-12T08:57:12Z",
+      "user_id": "EMP-00350",
+      "user": "Leda Maddox",
+      "text": "Coolant manifold inspection on loop 2 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0010",
+      "ts": "2026-03-12T14:02:31Z",
+      "user_id": "EMP-00346",
+      "user": "Delia Ashby",
+      "text": "Shift handover: reactor output steady around 42% rated.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0011",
+      "ts": "2026-03-13T14:14:43Z",
+      "user_id": "EMP-00303",
+      "user": "Ines Greaves",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0011-r1",
+          "ts": "2026-03-13T14:18:43Z",
+          "user_id": "EMP-00368",
+          "user": "Yorik Zell",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202603-0011-r2",
+          "ts": "2026-03-13T14:23:43Z",
+          "user_id": "EMP-00349",
+          "user": "Vela Longmire",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0012",
+      "ts": "2026-03-14T09:49:11Z",
+      "user_id": "EMP-00330",
+      "user": "Emrys Sable",
+      "text": "Heat exchanger stack 16 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0013",
+      "ts": "2026-03-15T10:59:14Z",
+      "user_id": "EMP-00354",
+      "user": "Rhett Starke",
+      "text": "Coolant manifold inspection on loop 4 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0014",
+      "ts": "2026-03-16T15:01:53Z",
+      "user_id": "EMP-00314",
+      "user": "Merrin Quarrel",
+      "text": "Heat exchanger stack 25 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0015",
+      "ts": "2026-03-16T16:11:13Z",
+      "user_id": "EMP-00363",
+      "user": "Vance Thorne",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0015-r1",
+          "ts": "2026-03-16T16:15:13Z",
+          "user_id": "EMP-00307",
+          "user": "Jory Dravis",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202603-0015-r2",
+          "ts": "2026-03-16T16:21:13Z",
+          "user_id": "EMP-00354",
+          "user": "Rhett Starke",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0016",
+      "ts": "2026-03-17T07:33:06Z",
+      "user_id": "EMP-00368",
+      "user": "Yorik Zell",
+      "text": "Heat exchanger stack 13 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0017",
+      "ts": "2026-03-17T08:32:39Z",
+      "user_id": "EMP-00335",
+      "user": "Vesna Harrick",
+      "text": "Containment field generator 24 is back online after scheduled maintenance.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0018",
+      "ts": "2026-03-18T13:54:17Z",
+      "user_id": "EMP-00316",
+      "user": "Barrin Yorke",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0018-r1",
+          "ts": "2026-03-18T13:59:17Z",
+          "user_id": "EMP-00354",
+          "user": "Rhett Starke",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0019",
+      "ts": "2026-03-19T11:40:51Z",
+      "user_id": "EMP-00316",
+      "user": "Barrin Yorke",
+      "text": "Coolant manifold inspection on loop 7 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0020",
+      "ts": "2026-03-19T19:05:15Z",
+      "user_id": "EMP-00335",
+      "user": "Vesna Harrick",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0020-r1",
+          "ts": "2026-03-19T19:09:15Z",
+          "user_id": "EMP-00370",
+          "user": "Aldo Halloran",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202603-0020-r2",
+          "ts": "2026-03-19T19:16:15Z",
+          "user_id": "EMP-00307",
+          "user": "Jory Dravis",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0021",
+      "ts": "2026-03-20T12:00:38Z",
+      "user_id": "EMP-00341",
+      "user": "Tarn Delane",
+      "text": "Containment field generator 14 is back online after scheduled maintenance.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0021-r1",
+          "ts": "2026-03-20T12:06:38Z",
+          "user_id": "EMP-00368",
+          "user": "Yorik Zell",
+          "text": "Thanks for the update."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0022",
+      "ts": "2026-03-20T16:00:56Z",
+      "user_id": "EMP-00303",
+      "user": "Ines Greaves",
+      "text": "Coolant manifold inspection on loop 7 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0023",
+      "ts": "2026-03-21T17:00:23Z",
+      "user_id": "EMP-00012",
+      "user": "Mira Kestrel",
+      "text": "Shift handover: reactor output steady around 40% rated.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0023-r1",
+          "ts": "2026-03-21T17:04:23Z",
+          "user_id": "EMP-00307",
+          "user": "Jory Dravis",
+          "text": "Thanks, have a good evening."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0024",
+      "ts": "2026-03-22T17:03:23Z",
+      "user_id": "EMP-00012",
+      "user": "Mira Kestrel",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0024-r1",
+          "ts": "2026-03-22T17:09:23Z",
+          "user_id": "EMP-00330",
+          "user": "Emrys Sable",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202603-0024-r2",
+          "ts": "2026-03-22T17:14:23Z",
+          "user_id": "EMP-00350",
+          "user": "Leda Maddox",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0025",
+      "ts": "2026-03-22T18:23:54Z",
+      "user_id": "EMP-00349",
+      "user": "Vela Longmire",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0025-r1",
+          "ts": "2026-03-22T18:28:54Z",
+          "user_id": "EMP-00306",
+          "user": "Lorne Adrel",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202603-0025-r2",
+          "ts": "2026-03-22T18:33:54Z",
+          "user_id": "EMP-00296",
+          "user": "Jessa Pell",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0026",
+      "ts": "2026-03-23T09:38:45Z",
+      "user_id": "EMP-00350",
+      "user": "Leda Maddox",
+      "text": "Heat exchanger stack 27 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0027",
+      "ts": "2026-03-23T11:20:43Z",
+      "user_id": "EMP-00306",
+      "user": "Lorne Adrel",
+      "text": "Coolant manifold inspection on loop 5 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0028",
+      "ts": "2026-03-24T19:32:21Z",
+      "user_id": "EMP-00306",
+      "user": "Lorne Adrel",
+      "text": "Shift handover: reactor output steady around 38% rated.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0028-r1",
+          "ts": "2026-03-24T19:37:21Z",
+          "user_id": "EMP-00296",
+          "user": "Jessa Pell",
+          "text": "Thanks, have a good evening."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0029",
+      "ts": "2026-03-25T07:28:35Z",
+      "user_id": "EMP-00368",
+      "user": "Yorik Zell",
+      "text": "Containment field generator 9 is back online after scheduled maintenance.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0030",
+      "ts": "2026-03-25T12:29:04Z",
+      "user_id": "EMP-00314",
+      "user": "Merrin Quarrel",
+      "text": "Heat exchanger stack 31 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0031",
+      "ts": "2026-03-26T06:01:30Z",
+      "user_id": "EMP-00306",
+      "user": "Lorne Adrel",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0031-r1",
+          "ts": "2026-03-26T06:07:30Z",
+          "user_id": "EMP-00012",
+          "user": "Mira Kestrel",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0032",
+      "ts": "2026-03-27T06:07:26Z",
+      "user_id": "EMP-00363",
+      "user": "Vance Thorne",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0032-r1",
+          "ts": "2026-03-27T06:12:26Z",
+          "user_id": "EMP-00303",
+          "user": "Ines Greaves",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202603-0032-r2",
+          "ts": "2026-03-27T06:15:26Z",
+          "user_id": "EMP-00303",
+          "user": "Ines Greaves",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0033",
+      "ts": "2026-03-27T13:28:54Z",
+      "user_id": "EMP-00360",
+      "user": "Lannic Crestwell",
+      "text": "Coolant manifold inspection on loop 3 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0034",
+      "ts": "2026-03-27T13:50:25Z",
+      "user_id": "EMP-00363",
+      "user": "Vance Thorne",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0035",
+      "ts": "2026-03-29T08:27:40Z",
+      "user_id": "EMP-00335",
+      "user": "Vesna Harrick",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0035-r1",
+          "ts": "2026-03-29T08:34:40Z",
+          "user_id": "EMP-00370",
+          "user": "Aldo Halloran",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202603-0035-r2",
+          "ts": "2026-03-29T08:36:40Z",
+          "user_id": "EMP-00346",
+          "user": "Delia Ashby",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    },
+    {
+      "id": "reactor-ops-202603-0036",
+      "ts": "2026-03-29T08:49:54Z",
+      "user_id": "EMP-00012",
+      "user": "Mira Kestrel",
+      "text": "Heat exchanger stack 2 flushed and refilled.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0037",
+      "ts": "2026-03-29T13:45:46Z",
+      "user_id": "EMP-00314",
+      "user": "Merrin Quarrel",
+      "text": "Coolant manifold inspection on loop 4 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0038",
+      "ts": "2026-03-30T09:33:41Z",
+      "user_id": "EMP-00354",
+      "user": "Rhett Starke",
+      "text": "Coolant manifold inspection on loop 5 complete, no findings.",
+      "replies": []
+    },
+    {
+      "id": "reactor-ops-202603-0039",
+      "ts": "2026-03-30T15:18:40Z",
+      "user_id": "EMP-00354",
+      "user": "Rhett Starke",
+      "text": "Can someone check the trend on HR-CFG-F02? It looks noisy since this morning.",
+      "replies": [
+        {
+          "id": "reactor-ops-202603-0039-r1",
+          "ts": "2026-03-30T15:25:40Z",
+          "user_id": "EMP-00307",
+          "user": "Jory Dravis",
+          "text": "Looking at it now."
+        },
+        {
+          "id": "reactor-ops-202603-0039-r2",
+          "ts": "2026-03-30T15:29:40Z",
+          "user_id": "EMP-00350",
+          "user": "Leda Maddox",
+          "text": "Sensor lead was loose, fixed."
+        }
+      ]
+    }
+  ]
+}

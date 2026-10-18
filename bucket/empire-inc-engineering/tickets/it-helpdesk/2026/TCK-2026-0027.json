@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0027",
+  "queue": "IT_HELPDESK",
+  "subject": "Software für Messarm installieren",
+  "description": "Bitte die Auswertesoftware für den Messarm in Halle 3 installieren.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "de",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00852",
+    "name": "Gisela Neumann",
+    "email": "gisela.neumann@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00674",
+    "name": "Kesia Voren",
+    "email": "kesia.voren@empire-inc.example"
+  },
+  "created_at": "2026-03-01T11:57:00Z",
+  "resolved_at": "2026-03-11T19:57:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-03-01T13:58:00Z",
+      "author": "Kesia Voren",
+      "text": "Wird bearbeitet."
+    },
+    {
+      "at": "2026-03-11T19:57:00Z",
+      "author": "Kesia Voren",
+      "text": "Software installiert."
+    }
+  ]
+}

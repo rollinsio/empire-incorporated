@@ -1,0 +1,36 @@
+ticket_id,queue,subject,requester,assignee,priority,status,created_at,resolved_at,related_incident
+TCK-2025-0030,IT_HELPDESK,Holo-projector not working in meeting room H41-12,Mira Kestrel,Ulla Calloway,LOW,RESOLVED,2025-04-03T15:38:00Z,2025-04-04T06:38:00Z,
+TCK-2025-0031,FACILITIES,Lost badge replacement,Merrin Rorke,Sarik Redgrave,HIGH,RESOLVED,2025-04-04T13:39:00Z,2025-05-19T13:39:00Z,
+TCK-2025-0032,FACILITIES,Room too warm at Compactor 3263827 access hatch,Osric Tallis,Lysander Arkwell,MEDIUM,RESOLVED,2025-04-06T12:34:00Z,2025-04-15T20:34:00Z,
+TCK-2025-0033,IT_HELPDESK,Shared folder for Cargo Shuttle Production Line Expansion,Esme Ancel,Kesia Voren,MEDIUM,RESOLVED,2025-04-21T14:01:00Z,2025-04-26T16:01:00Z,
+TCK-2025-0034,FACILITIES,Coolant drip at Coruscant Headquarters floor 41,Wyatt Easton,Orrin Thorne,MEDIUM,RESOLVED,2025-04-24T16:56:00Z,2025-04-25T22:56:00Z,
+TCK-2025-0035,IT_HELPDESK,Network slow at Coruscant Headquarters floor 41,Vira Lowell,Gessa Glenmore,HIGH,RESOLVED,2025-04-25T12:55:00Z,2025-04-26T20:55:00Z,
+TCK-2025-0036,IT_HELPDESK,Software für Messarm installieren,Margit Falkenberg,Ulla Calloway,MEDIUM,RESOLVED,2025-04-27T16:33:00Z,2025-04-27T23:33:00Z,
+TCK-2025-0037,FACILITIES,Facility incident FI-2025-031,Jessa Kessel,Orrin Thorne,HIGH,RESOLVED,2025-04-28T15:29:00Z,2025-05-14T17:00:00Z,FI-2025-031
+TCK-2025-0038,IT_HELPDESK,Shared folder for Eadu Agricultural Research Campus,Darek Vexley,Ulla Calloway,LOW,RESOLVED,2025-04-29T10:14:00Z,2025-06-26T10:14:00Z,
+TCK-2025-0039,IT_HELPDESK,Datapad startet nicht,Renate Brückner,Vance Garron,LOW,RESOLVED,2025-04-29T13:49:00Z,2025-04-30T02:49:00Z,
+TCK-2025-0040,IT_HELPDESK,Datapad screen cracked,Corra Crane,Ulla Calloway,LOW,RESOLVED,2025-05-04T13:04:00Z,2025-06-18T13:04:00Z,
+TCK-2025-0041,IT_HELPDESK,Drucker in Halle 4 druckt nicht,Uwe Vogt,Kesia Voren,MEDIUM,RESOLVED,2025-05-05T10:40:00Z,2025-05-11T17:40:00Z,
+TCK-2025-0042,IT_HELPDESK,Network slow at Operations centre anteroom,Odile Rothe,Kesia Voren,LOW,RESOLVED,2025-05-06T11:36:00Z,2025-05-10T17:36:00Z,
+TCK-2025-0043,IT_HELPDESK,New starter equipment,Joren Lusk,Kesia Voren,MEDIUM,RESOLVED,2025-05-10T08:40:00Z,2025-05-10T16:40:00Z,
+TCK-2025-0044,IT_HELPDESK,New starter equipment,Halden Aster,Bale Zell,MEDIUM,RESOLVED,2025-05-11T14:03:00Z,2025-05-12T05:03:00Z,
+TCK-2025-0045,IT_HELPDESK,Printer on floor 24 jams,Heike Neumann,Gessa Glenmore,LOW,RESOLVED,2025-05-14T16:16:00Z,2025-05-26T00:16:00Z,
+TCK-2025-0046,FACILITIES,Kaffeemaschine im Pausenraum außer Betrieb,Anja Reinhardt,Lysander Arkwell,LOW,RESOLVED,2025-05-18T07:58:00Z,2025-05-20T07:58:00Z,
+TCK-2025-0047,FACILITIES,Light fixture flickering at Eadu greenhouse hall 2,Mesa Welles,Lysander Arkwell,LOW,RESOLVED,2025-05-20T11:06:00Z,2025-05-22T09:06:00Z,
+TCK-2025-0048,IT_HELPDESK,Shared folder for Starhaven Orbital Habitat & Shipyard,Esme Tull,Kesia Voren,HIGH,RESOLVED,2025-05-21T14:35:00Z,2025-06-15T14:35:00Z,
+TCK-2025-0049,IT_HELPDESK,Calendar not syncing on datapad,Faren Galloway,Bale Zell,MEDIUM,RESOLVED,2025-05-28T17:53:00Z,2025-05-30T05:53:00Z,
+TCK-2025-0050,FACILITIES,Werksausweis verloren,Ingrid Huber,Orrin Thorne,HIGH,RESOLVED,2025-05-29T07:20:00Z,2025-05-30T22:20:00Z,
+TCK-2025-0051,IT_HELPDESK,Network slow at Eadu greenhouse hall 2,Edda Ingram,Vance Garron,LOW,RESOLVED,2025-06-01T09:36:00Z,2025-06-01T15:36:00Z,
+TCK-2025-0052,IT_HELPDESK,Shared folder for Coruscant Office Consolidation,Theron Dravis,Kesia Voren,HIGH,RESOLVED,2025-06-05T08:02:00Z,2025-06-06T02:02:00Z,
+TCK-2025-0053,FACILITIES,Facility incident FI-2025-059,Gavren Dunmore,Orrin Thorne,MEDIUM,RESOLVED,2025-06-06T16:11:00Z,2025-06-25T17:00:00Z,FI-2025-059
+TCK-2025-0054,IT_HELPDESK,Software install request: drawing viewer,Tilda Ashby,Bale Zell,LOW,RESOLVED,2025-06-08T13:40:00Z,2025-06-09T22:40:00Z,
+TCK-2025-0055,FACILITIES,Facility incident FI-2025-019,Ferris Quayle,Orrin Thorne,MEDIUM,RESOLVED,2025-06-09T08:21:00Z,2025-06-10T17:00:00Z,FI-2025-019
+TCK-2025-0056,FACILITIES,Coolant drip at Reactor access walkway 7,Zeva Merrick,Orrin Thorne,MEDIUM,RESOLVED,2025-06-10T08:21:00Z,2025-06-11T01:21:00Z,
+TCK-2025-0057,FACILITIES,Facility incident FI-2025-050,Ferris Quayle,Rosk Calder,MEDIUM,RESOLVED,2025-06-15T10:01:00Z,2025-06-24T17:00:00Z,FI-2025-050
+TCK-2025-0058,FACILITIES,Office chair broken,Wiebke Baumann,Rain Coldbrook,MEDIUM,RESOLVED,2025-06-17T13:14:00Z,2025-06-18T06:14:00Z,
+TCK-2025-0059,IT_HELPDESK,Datapad startet nicht,Uwe Köhler,Kalla Errant,MEDIUM,RESOLVED,2025-06-22T12:31:00Z,2025-06-27T17:31:00Z,
+TCK-2025-0060,IT_HELPDESK,Holo-projector not working in meeting room H41-12,Maren Ramsey,Kesia Voren,MEDIUM,RESOLVED,2025-06-23T12:38:00Z,2025-06-25T06:38:00Z,
+TCK-2025-0061,FACILITIES,Facility incident FI-2025-039,Hessa Lorne,Lysander Arkwell,MEDIUM,IN_PROGRESS,2025-06-24T10:02:00Z,,FI-2025-039
+TCK-2025-0062,IT_HELPDESK,Mailbox full,Merrin Greaves,Kesia Voren,HIGH,IN_PROGRESS,2025-06-26T07:37:00Z,,
+TCK-2025-0063,IT_HELPDESK,Shared folder for Scarif Records Archive Modernization,Dace Ashcombe,Bale Zell,HIGH,RESOLVED,2025-06-26T11:05:00Z,2025-06-28T04:05:00Z,
+TCK-2025-0064,IT_HELPDESK,New starter equipment,Bryn Yarrow,Bale Zell,MEDIUM,RESOLVED,2025-06-30T07:54:00Z,2025-06-30T12:54:00Z,

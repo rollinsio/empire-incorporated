@@ -1,0 +1,8 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2025-00217,2025-11-11,SUP-019,Mekuun Fabrication,1,EI-TX-019-02,"Heat exchanger core, 32-stack",1,ea,81180.02,81180.02,2026-01-30
+EI-PO-2025-00217,2025-11-11,SUP-019,Mekuun Fabrication,2,EI-TX-019-01,"Heat exchanger core, 16-stack",3,ea,72341.66,217024.98,2025-12-31
+EI-PO-2025-00217,2025-11-11,SUP-019,Mekuun Fabrication,3,EI-TX-020-02,"Radiator fin panel, 4 m²",120,ea,4156.19,498742.80,2026-01-10
+EI-PO-2025-00217,2025-11-11,SUP-019,Mekuun Fabrication,4,EI-TX-021-02,"Coolant pump, 80 m³/s",10,ea,35522.16,355221.60,2026-03-31
+EI-PO-2025-00217,2025-11-11,SUP-019,Mekuun Fabrication,5,EI-TX-021-01,"Coolant pump, 40 m³/s",40,ea,46657.03,1866281.20,2026-03-14
+EI-PO-2025-00217,2025-11-11,SUP-019,Mekuun Fabrication,6,EI-TX-020-01,"Radiator fin panel, 1 m²",40,ea,3858.03,154321.20,2026-04-24
+EI-PO-2025-00217,,,,,,ORDER TOTAL,,,,3172771.80,

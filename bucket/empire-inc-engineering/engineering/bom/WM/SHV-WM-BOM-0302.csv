@@ -1,0 +1,16 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-WM-049-01,"Compactor wall drive, standard",1,ea,59518.93,59518.93,Brentaal Logistics Guild,SHV-WM-DWG-0202
+2,EI-WM-049-01,"Compactor wall drive, standard",4,ea,59518.93,238075.72,Chiewab Medical,SHV-WM-DWG-0202
+3,EI-WM-050-02,"Recycling sorter module, polymers",2,ea,74575.19,149150.38,Fabritech,SHV-WM-DWG-0202
+4,EI-WM-050-02,"Recycling sorter module, polymers",3,ea,74575.19,223725.57,Rendili StarDrive,SHV-WM-DWG-0202
+5,EI-WM-049-01,"Compactor wall drive, standard",8,ea,59518.93,476151.44,Chandrila Atmospherics,SHV-WM-DWG-0202
+6,EI-WM-049-01,"Compactor wall drive, standard",1,ea,59518.93,59518.93,Mekuun Fabrication,SHV-WM-DWG-0202
+7,EI-WM-050-02,"Recycling sorter module, polymers",3,ea,74575.19,223725.57,Kuat Drive Yards,SHV-WM-DWG-0202
+8,EI-WM-049-01,"Compactor wall drive, standard",2,ea,59518.93,119037.86,Ord Mantell Salvage & Supply,SHV-WM-DWG-0202
+9,EI-WM-050-02,"Recycling sorter module, polymers",1,ea,74575.19,74575.19,Mekuun Fabrication,SHV-WM-DWG-0202
+10,EI-WM-050-02,"Recycling sorter module, polymers",8,ea,74575.19,596601.52,Carbanti United Electronics,SHV-WM-DWG-0202
+11,EI-WM-050-02,"Recycling sorter module, polymers",3,ea,74575.19,223725.57,Chiewab Medical,SHV-WM-DWG-0202
+12,EI-WM-050-01,"Recycling sorter module, metals",8,ea,75169.79,601358.32,Chandrila Atmospherics,SHV-WM-DWG-0202
+13,EI-WM-050-01,"Recycling sorter module, metals",8,ea,75169.79,601358.32,Corulag Precision Optics,SHV-WM-DWG-0202
+14,EI-WM-050-02,"Recycling sorter module, polymers",1,ea,74575.19,74575.19,Kuat Drive Yards,SHV-WM-DWG-0202
+15,EI-WM-050-01,"Recycling sorter module, metals",2,ea,75169.79,150339.58,Kuat Precision Instruments,SHV-WM-DWG-0202

@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0092",
+  "queue": "FACILITIES",
+  "subject": "Beleuchtung in Halle 4 flackert",
+  "description": "Die Hallenbeleuchtung in Halle 4 flackert seit gestern.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "de",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00021",
+    "name": "Ulrike Brandt",
+    "email": "ulrike.brandt@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00994",
+    "name": "Rosk Calder",
+    "email": "rosk.calder@empire-inc.example"
+  },
+  "created_at": "2026-09-02T10:19:00Z",
+  "resolved_at": "2026-09-11T17:19:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-09-02T12:04:00Z",
+      "author": "Rosk Calder",
+      "text": "Wird bearbeitet."
+    },
+    {
+      "at": "2026-09-11T17:19:00Z",
+      "author": "Rosk Calder",
+      "text": "Leuchtmittel getauscht."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0074",
+  "queue": "FACILITIES",
+  "subject": "Light fixture flickering at Eriadu yard gate 3",
+  "description": "A light fixture at Eriadu yard gate 3 keeps flickering.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00372",
+    "name": "Delia Greaves",
+    "email": "delia.greaves@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00995",
+    "name": "Lysander Arkwell",
+    "email": "lysander.arkwell@empire-inc.example"
+  },
+  "created_at": "2025-07-18T07:55:00Z",
+  "resolved_at": "2025-07-20T10:55:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-07-18T11:48:00Z",
+      "author": "Lysander Arkwell",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-07-20T10:55:00Z",
+      "author": "Lysander Arkwell",
+      "text": "Fixture replaced."
+    }
+  ]
+}

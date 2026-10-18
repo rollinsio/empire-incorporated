@@ -1,0 +1,10 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SY-030-02,"Dry dock seal assembly, service hatch",4,ea,259604.69,1038418.76,Chandrila Atmospherics,SHV-SY-DWG-0203
+2,EI-SY-031-02,"Hull coating, marine-grade, topcoat",12,l,69.09,829.08,Axxila Power Cells,SHV-SY-DWG-0203
+3,EI-SY-028-01,"Gantry crane hoist, 800 t",1,ea,673108.92,673108.92,Alsakan Instruments,SHV-SY-DWG-0203
+4,EI-SY-031-01,"Hull coating, marine-grade, primer",48,l,41.31,1982.88,Raxus Coolant Works,SHV-SY-DWG-0203
+5,EI-SY-029-01,"Slipway rail segment, straight",8,ea,18378.84,147030.72,Garel Composite Mills,SHV-SY-DWG-0203
+6,EI-SY-029-02,"Slipway rail segment, curved",24,ea,17124.97,410999.28,Scarif Data Systems,SHV-SY-DWG-0203
+7,EI-SY-031-02,"Hull coating, marine-grade, topcoat",48,l,69.09,3316.32,Fondor Foundry Collective,SHV-SY-DWG-0203
+8,EI-SY-029-02,"Slipway rail segment, curved",96,ea,17124.97,1643997.12,Eriadu Steelworks,SHV-SY-DWG-0203
+9,EI-SY-028-01,"Gantry crane hoist, 800 t",1,ea,673108.92,673108.92,Axxila Power Cells,SHV-SY-DWG-0203

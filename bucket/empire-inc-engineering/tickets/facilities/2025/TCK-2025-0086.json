@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0086",
+  "queue": "FACILITIES",
+  "subject": "Light fixture flickering at Hangar 327 control room",
+  "description": "A light fixture at Hangar 327 control room keeps flickering.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00450",
+    "name": "Zeva Pell",
+    "email": "zeva.pell@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00998",
+    "name": "Sarik Redgrave",
+    "email": "sarik.redgrave@empire-inc.example"
+  },
+  "created_at": "2025-08-07T10:36:00Z",
+  "resolved_at": "2025-08-08T05:36:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-08-07T14:13:00Z",
+      "author": "Sarik Redgrave",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-08-08T05:36:00Z",
+      "author": "Sarik Redgrave",
+      "text": "Fixture replaced."
+    }
+  ]
+}

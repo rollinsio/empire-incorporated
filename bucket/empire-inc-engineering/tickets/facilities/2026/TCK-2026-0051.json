@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0051",
+  "queue": "FACILITIES",
+  "subject": "Room too warm at Hangar 327 control room",
+  "description": "The temperature at Hangar 327 control room stays above 26 °C all afternoon.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00246",
+    "name": "Kestin Dallan",
+    "email": "kestin.dallan@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00994",
+    "name": "Rosk Calder",
+    "email": "rosk.calder@empire-inc.example"
+  },
+  "created_at": "2026-05-07T07:13:00Z",
+  "resolved_at": "2026-06-24T07:13:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-05-07T09:13:00Z",
+      "author": "Rosk Calder",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-06-24T07:13:00Z",
+      "author": "Rosk Calder",
+      "text": "Thermostat recalibrated."
+    }
+  ]
+}

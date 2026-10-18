@@ -1,0 +1,36 @@
+Materialnummer;Bezeichnung;Menge;Einheit;Stückpreis (Credits);Zähldatum
+MAT-00101;Durasteel plate, grade A;1438;t;3.202,38;22.09.2026
+MAT-00102;Durasteel plate, grade B;3975;t;3.024,46;24.06.2026
+MAT-00202;Quadanium steel beam, 90 m;3710;t;4.235,32;01.07.2026
+MAT-00401;Transparisteel viewport panel, small;505;ea;21.578,32;29.07.2026
+MAT-00502;Carbon-composite truss, heavy;3067;ea;1.363,38;13.08.2026
+MAT-00603;Hull fastener kit, M90;121;kit;479,00;03.07.2026
+MAT-00702;Structural bolt set, class 10;2792;set;232,29;22.07.2026
+MAT-00804;Power coupling, 90 MA;34;ea;72.093,40;21.06.2026
+MAT-00903;Superconducting bus conduit, class 6;1841;m;592,80;03.08.2026
+MAT-01002;Zone substation breaker, fast-trip;3419;ea;5.467,18;25.08.2026
+MAT-01102;Backup generator module, 1 TW;33;ea;376.348,06;02.08.2026
+MAT-01301;Solar collector panel, standard;1165;ea;42.611,21;15.06.2026
+MAT-01601;Containment field emitter, mk II;37;ea;676.347,78;19.06.2026
+MAT-01701;Fuel injector cartridge, standard;39;ea;54.059,89;31.07.2026
+MAT-01801;Coolant, cryogenic, type K;2735;m³;990,16;21.09.2026
+MAT-02302;Station-keeping thruster nozzle, 1200 kN;12;ea;51.851,82;14.09.2026
+MAT-02602;Magnetic containment field generator, docking;32;ea;138.260,35;06.09.2026
+MAT-02701;Deck plating, anti-slip, standard;553;m²;182,70;26.06.2026
+MAT-02901;Slipway rail segment, straight;889;ea;18.378,84;19.08.2026
+MAT-02902;Slipway rail segment, curved;2293;ea;17.124,97;02.06.2026
+MAT-03102;Hull coating, marine-grade, topcoat;2828;l;69,09;28.09.2026
+MAT-03902;Water reclamation membrane, high-flux;1534;ea;1.777,16;30.08.2026
+MAT-04002;Gravity plate, 4 m²;956;ea;12.069,62;07.08.2026
+MAT-04702;LED grow light fixture, 1000 W;1551;ea;768,89;20.08.2026
+MAT-04801;Seed stock, vegetables;657;kg;1.822,04;16.06.2026
+MAT-04901;Compactor wall drive, standard;18;ea;59.518,93;03.08.2026
+MAT-05001;Recycling sorter module, metals;9;ea;75.169,79;06.09.2026
+MAT-05201;Tram bogie, powered;1484;ea;48.500,96;03.08.2026
+MAT-05301;Tram rail segment, 40 m;475;ea;4.659,42;21.07.2026
+MAT-05501;Cleanroom filter unit, class 5;3509;ea;6.695,92;02.08.2026
+MAT-05601;Telescope mirror segment, inner ring;4;ea;2.134.538,51;28.09.2026
+MAT-05602;Telescope mirror segment, outer ring;32;ea;2.368.185,51;18.08.2026
+MAT-05701;Welding consumables pack, standard;3113;pack;159,40;11.08.2026
+MAT-05702;Welding consumables pack, heavy;1122;pack;88,54;31.07.2026
+MAT-05802;Protective suit, vacuum rated, heavy;120;ea;3.313,06;07.06.2026

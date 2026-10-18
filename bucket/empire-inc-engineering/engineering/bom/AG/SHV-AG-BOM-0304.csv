@@ -1,0 +1,16 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-AG-045-02,"Hydroponic grow tray, deep",4,ea,326.83,1307.32,Kalist Mining Combine,SHV-AG-DWG-0204
+2,EI-AG-047-01,"LED grow light fixture, 600 W",8,ea,1191.12,9528.96,Lothal Fleet Services,SHV-AG-DWG-0204
+3,EI-AG-046-02,"Nutrient concentrate, fruiting crops",240,l,36.06,8654.40,Uulshos Manufacturing,SHV-AG-DWG-0204
+4,EI-AG-045-02,"Hydroponic grow tray, deep",240,ea,326.83,78439.20,Eriadu Steelworks,SHV-AG-DWG-0204
+5,EI-AG-045-01,"Hydroponic grow tray, shallow",96,ea,297.76,28584.96,Rothana Heavy Cranes,SHV-AG-DWG-0204
+6,EI-AG-047-01,"LED grow light fixture, 600 W",4,ea,1191.12,4764.48,Rothana Heavy Cranes,SHV-AG-DWG-0204
+7,EI-AG-046-01,"Nutrient concentrate, leafy greens",2,l,44.87,89.74,Carida Safety Supply,SHV-AG-DWG-0204
+8,EI-AG-048-01,"Seed stock, vegetables",12,kg,1822.04,21864.48,Lothal Fleet Services,SHV-AG-DWG-0204
+9,EI-AG-045-02,"Hydroponic grow tray, deep",48,ea,326.83,15687.84,Bespin Gas Consortium,SHV-AG-DWG-0204
+10,EI-AG-048-02,"Seed stock, grains",12,kg,584.31,7011.72,Axxila Power Cells,SHV-AG-DWG-0204
+11,EI-AG-046-02,"Nutrient concentrate, fruiting crops",8,l,36.06,288.48,Brentaal Logistics Guild,SHV-AG-DWG-0204
+12,EI-AG-046-01,"Nutrient concentrate, leafy greens",48,l,44.87,2153.76,Fondor Shipyards,SHV-AG-DWG-0204
+13,EI-AG-048-02,"Seed stock, grains",48,kg,584.31,28046.88,Kalist Mining Combine,SHV-AG-DWG-0204
+14,EI-AG-048-03,"Seed stock, herbs",96,kg,460.84,44240.64,Telgorn Corporation,SHV-AG-DWG-0204
+15,EI-AG-047-01,"LED grow light fixture, 600 W",24,ea,1191.12,28586.88,Kuat Drive Yards,SHV-AG-DWG-0204

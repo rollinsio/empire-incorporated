@@ -1,0 +1,9 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SY-030-02,"Dry dock seal assembly, service hatch",1,ea,259604.69,259604.69,Anaxes Turbolift Company,SHV-SY-DWG-0201
+2,EI-SY-031-02,"Hull coating, marine-grade, topcoat",4,l,69.09,276.36,Sluis Van Orbital Works,SHV-SY-DWG-0201
+3,EI-SY-030-02,"Dry dock seal assembly, service hatch",1,ea,259604.69,259604.69,Kuat Precision Instruments,SHV-SY-DWG-0201
+4,EI-SY-029-02,"Slipway rail segment, curved",240,ea,17124.97,4109992.80,Mekuun Fabrication,SHV-SY-DWG-0201
+5,EI-SY-029-02,"Slipway rail segment, curved",96,ea,17124.97,1643997.12,Kuat Drive Yards,SHV-SY-DWG-0201
+6,EI-SY-028-01,"Gantry crane hoist, 800 t",4,ea,673108.92,2692435.68,Scarif Data Systems,SHV-SY-DWG-0201
+7,EI-SY-028-01,"Gantry crane hoist, 800 t",4,ea,673108.92,2692435.68,Fondor Shipyards,SHV-SY-DWG-0201
+8,EI-SY-030-01,"Dry dock seal assembly, main gate",1,ea,267163.20,267163.20,Telgorn Corporation,SHV-SY-DWG-0201

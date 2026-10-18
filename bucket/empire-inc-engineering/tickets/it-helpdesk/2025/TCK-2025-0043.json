@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0043",
+  "queue": "IT_HELPDESK",
+  "subject": "New starter equipment",
+  "description": "A new colleague starts next week and needs a workstation and a datapad.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00907",
+    "name": "Joren Lusk",
+    "email": "joren.lusk@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00674",
+    "name": "Kesia Voren",
+    "email": "kesia.voren@empire-inc.example"
+  },
+  "created_at": "2025-05-10T08:40:00Z",
+  "resolved_at": "2025-05-10T16:40:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-05-10T11:11:00Z",
+      "author": "Kesia Voren",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-05-10T16:40:00Z",
+      "author": "Kesia Voren",
+      "text": "Workstation and datapad prepared."
+    }
+  ]
+}

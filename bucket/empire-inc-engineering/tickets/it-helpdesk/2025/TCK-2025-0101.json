@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0101",
+  "queue": "IT_HELPDESK",
+  "subject": "Network slow at Eadu greenhouse hall 2",
+  "description": "The network has been very slow at Eadu greenhouse hall 2 since this morning.",
+  "priority": "HIGH",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00534",
+    "name": "Alira Rothe",
+    "email": "alira.rothe@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00674",
+    "name": "Kesia Voren",
+    "email": "kesia.voren@empire-inc.example"
+  },
+  "created_at": "2025-09-21T14:07:00Z",
+  "resolved_at": "2025-09-22T03:07:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-09-21T15:52:00Z",
+      "author": "Kesia Voren",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-09-22T03:07:00Z",
+      "author": "Kesia Voren",
+      "text": "Faulty switch port replaced."
+    }
+  ]
+}

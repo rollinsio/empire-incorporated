@@ -1,0 +1,4 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2025-01266,2025-10-14,SUP-016,Corulag Precision Optics,1,EI-CM-036-01,"HoloNet transceiver board, standard",1,ea,79992.21,79992.21,2026-01-04
+EI-PO-2025-01266,2025-10-14,SUP-016,Corulag Precision Optics,2,EI-CM-037-01,"Traffic routing switch card, standard",40,ea,36276.90,1451076.00,2025-12-29
+EI-PO-2025-01266,,,,,,ORDER TOTAL,,,,1531068.21,

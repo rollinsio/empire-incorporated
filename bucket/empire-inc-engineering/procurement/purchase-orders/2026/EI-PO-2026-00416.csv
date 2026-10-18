@@ -1,0 +1,5 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-00416,2026-01-14,SUP-012,Uulshos Manufacturing,1,EI-RL-056-02,"Telescope mirror segment, outer ring",1,ea,2386578.81,2386578.81,2026-07-01
+EI-PO-2026-00416,2026-01-14,SUP-012,Uulshos Manufacturing,2,EI-SA-014-01,"Tracking drive motor, standard",80,ea,23706.60,1896528.00,2026-07-10
+EI-PO-2026-00416,2026-01-14,SUP-012,Uulshos Manufacturing,3,EI-AG-045-02,"Hydroponic grow tray, deep",120,ea,331.32,39758.40,2026-03-02
+EI-PO-2026-00416,,,,,,ORDER TOTAL,,,,4322865.21,

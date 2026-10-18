@@ -1,0 +1,15 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-RL-056-02,"Telescope mirror segment, outer ring",1,ea,2368185.51,2368185.51,Fabritech,SHV-RL-DWG-0203
+2,EI-RL-055-01,"Cleanroom filter unit, class 5",12,ea,6695.92,80351.04,Mon Gazza Transport,SHV-RL-DWG-0203
+3,EI-RL-054-02,"Laboratory fume hood, walk-in",1,ea,11615.37,11615.37,Mustafar Refinery Cooperative,SHV-RL-DWG-0203
+4,EI-RL-055-01,"Cleanroom filter unit, class 5",1,ea,6695.92,6695.92,SoroSuub Corporation,SHV-RL-DWG-0203
+5,EI-RL-054-01,"Laboratory fume hood, standard",2,ea,11591.45,23182.90,Eriadu Steelworks,SHV-RL-DWG-0203
+6,EI-RL-056-01,"Telescope mirror segment, inner ring",8,ea,2134538.51,17076308.08,Ord Mantell Salvage & Supply,SHV-RL-DWG-0203
+7,EI-RL-054-02,"Laboratory fume hood, walk-in",8,ea,11615.37,92922.96,Lothal Fleet Services,SHV-RL-DWG-0203
+8,EI-RL-054-01,"Laboratory fume hood, standard",1,ea,11591.45,11591.45,Fondor Foundry Collective,SHV-RL-DWG-0203
+9,EI-RL-054-01,"Laboratory fume hood, standard",48,ea,11591.45,556389.60,Mon Gazza Transport,SHV-RL-DWG-0203
+10,EI-RL-056-01,"Telescope mirror segment, inner ring",1,ea,2134538.51,2134538.51,Cygnus Spaceworks,SHV-RL-DWG-0203
+11,EI-RL-054-01,"Laboratory fume hood, standard",96,ea,11591.45,1112779.20,Fondor Shipyards,SHV-RL-DWG-0203
+12,EI-RL-054-02,"Laboratory fume hood, walk-in",8,ea,11615.37,92922.96,Mon Gazza Transport,SHV-RL-DWG-0203
+13,EI-RL-054-01,"Laboratory fume hood, standard",1,ea,11591.45,11591.45,Kuat Drive Yards,SHV-RL-DWG-0203
+14,EI-RL-054-01,"Laboratory fume hood, standard",1,ea,11591.45,11591.45,Eriadu Steelworks,SHV-RL-DWG-0203

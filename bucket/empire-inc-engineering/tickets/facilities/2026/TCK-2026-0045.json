@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0045",
+  "queue": "FACILITIES",
+  "subject": "Cleaning request: Reactor access walkway 7",
+  "description": "Please arrange an extra clean at Reactor access walkway 7 after the move.",
+  "priority": "HIGH",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00039",
+    "name": "Danna Maddox",
+    "email": "danna.maddox@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00991",
+    "name": "Rain Coldbrook",
+    "email": "rain.coldbrook@empire-inc.example"
+  },
+  "created_at": "2026-04-21T07:13:00Z",
+  "resolved_at": "2026-06-10T07:13:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-04-21T10:08:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-06-10T07:13:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Cleaning completed."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00097@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260422T100000Z
+DTEND:20260422T110000Z
+SUMMARY:Quality Assurance & Test team meeting
+LOCATION:Coruscant Headquarters\, room H41-03
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-04-22.
+ORGANIZER;CN="Wendell Harrowgate":mailto
+ :wendell.harrowgate@empire-inc.example
+ATTENDEE;CN="Kier Elsmore";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:kier.elsmore@empire-inc.example
+ATTENDEE;CN="Rain Calder";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rain.calder@empire-inc.example
+ATTENDEE;CN="Aven Renner";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:aven.renner@empire-inc.example
+ATTENDEE;CN="Gessa Tarrant";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:gessa.tarrant@empire-inc.example
+ATTENDEE;CN="Rhosa Winter";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rhosa.winter@empire-inc.example
+ATTENDEE;CN="Margit Falkenberg";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:margit.falkenberg@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

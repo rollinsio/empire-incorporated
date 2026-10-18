@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0006",
+  "queue": "IT_HELPDESK",
+  "subject": "Holo-projector not working in meeting room LAB-B3",
+  "description": "The holo-projector in meeting room LAB-B3 shows no image.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00703",
+    "name": "Jürgen Weber",
+    "email": "juergen.weber@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00680",
+    "name": "Gessa Glenmore",
+    "email": "gessa.glenmore@empire-inc.example"
+  },
+  "created_at": "2026-01-15T10:28:00Z",
+  "resolved_at": "2026-01-28T12:28:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-01-15T10:47:00Z",
+      "author": "Gessa Glenmore",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-01-28T12:28:00Z",
+      "author": "Gessa Glenmore",
+      "text": "Projector emitter replaced."
+    }
+  ]
+}

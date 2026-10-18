@@ -1,0 +1,116 @@
+req_id,component_code,name,unit,value,tolerance_pct,verification,sensitivity
+HR-RCV-R01,HR-RCV,Core diameter,km,1.85,0.5,Inspection,CONFIDENTIAL
+HR-RCV-R02,HR-RCV,Wall thickness,m,18.7,0.5,Demonstration,CONFIDENTIAL
+HR-RCV-R03,HR-RCV,Design core temperature,K,4400,0.5,Test,CONFIDENTIAL
+HR-CFG-R01,HR-CFG,Field strength,% nominal,96.66,5.0,Test,CONFIDENTIAL
+HR-CFG-R02,HR-CFG,Generator count,ea,19.0,2.5,Inspection,CONFIDENTIAL
+HR-FIA-R01,HR-FIA,Injection rate,kg/s,7.79,2.5,Demonstration,CONFIDENTIAL
+HR-FIA-R02,HR-FIA,Injector count,ea,128.0,1.0,Analysis,CONFIDENTIAL
+HR-CMF-R01,HR-CMF,Flow capacity,m³/s,964.0,1.0,Test,CONFIDENTIAL
+HR-CMF-R02,HR-CMF,Pressure rating,MPa,42.0,5.0,Analysis,CONFIDENTIAL
+HR-RMS-R01,HR-RMS,Sensor channels,ea,5286.0,0.5,Demonstration,CONFIDENTIAL
+HR-RMS-R02,HR-RMS,Scan interval,ms,45.0,0.5,Demonstration,CONFIDENTIAL
+TX-HXS-R01,TX-HXS,Rejection capacity,PW,0.66,5.0,Test,INTERNAL
+TX-HXS-R02,TX-HXS,Stack count,ea,20.0,2.0,Analysis,INTERNAL
+TX-RFA-R01,TX-RFA,Fin area,km²,6.3,2.0,Demonstration,INTERNAL
+TX-RFA-R02,TX-RFA,Emissivity,,0.89,5.0,Demonstration,INTERNAL
+TX-CPS-R01,TX-CPS,Pump flow,m³/s,104.0,2.0,Test,INTERNAL
+TX-CPS-R02,TX-CPS,Pump count,ea,12.0,2.5,Inspection,INTERNAL
+TX-HPL-R01,TX-HPL,Loop length,km,5.78,2.5,Analysis,INTERNAL
+TX-HPL-R02,TX-HPL,Operating temperature,K,282.0,5.0,Test,INTERNAL
+PD-MBC-R01,PD-MBC,Conduit rating,% reactor,10.3,0.5,Inspection,INTERNAL
+PD-MBC-R02,PD-MBC,Conduit length,km,57.0,2.5,Test,INTERNAL
+PD-SUB-R01,PD-SUB,Substation rating,TW,2.5,2.5,Demonstration,INTERNAL
+PD-SUB-R02,PD-SUB,Breaker count,ea,450.0,2.0,Test,INTERNAL
+PD-BKG-R01,PD-BKG,Bank output,TW,1.35,2.0,Inspection,INTERNAL
+PD-BKG-R02,PD-BKG,Start time,s,14.0,2.5,Analysis,INTERNAL
+PD-SBS-R01,PD-SBS,Storage capacity,GWh,101.0,2.5,Inspection,INTERNAL
+PD-SBS-R02,PD-SBS,Discharge time,h,5.0,2.5,Test,INTERNAL
+SA-SCP-R01,SA-SCP,Panel area,m²,749.0,5.0,Demonstration,INTERNAL
+SA-SCP-R02,SA-SCP,Conversion efficiency,%,31.3,5.0,Analysis,INTERNAL
+SA-SAT-R01,SA-SAT,Pointing accuracy,deg,0.42,2.0,Test,INTERNAL
+SA-SAT-R02,SA-SAT,Slew rate,deg/min,6.6,5.0,Inspection,INTERNAL
+SA-PCU-R01,SA-PCU,Rated power,GW,1.8,2.0,Demonstration,INTERNAL
+SA-PCU-R02,SA-PCU,Conversion loss,%,2.1,2.5,Test,INTERNAL
+PR-SKT-R01,PR-SKT,Thrust,kN,1579.0,2.5,Inspection,CONFIDENTIAL
+PR-SKT-R02,PR-SKT,Thruster count,ea,84.0,2.0,Inspection,CONFIDENTIAL
+PR-SIE-R01,PR-SIE,Engine count,ea,33.0,2.0,Analysis,CONFIDENTIAL
+PR-SIE-R02,PR-SIE,Thrust per engine,MN,1065.0,2.0,Test,CONFIDENTIAL
+PR-NAV-R01,PR-NAV,Orbit solution time,s,49.0,2.5,Inspection,CONFIDENTIAL
+PR-NAV-R02,PR-NAV,Ephemeris entries,M,164.0,1.0,Inspection,CONFIDENTIAL
+PR-ACG-R01,PR-ACG,Angular momentum,GN·m·s,5.1,0.5,Test,CONFIDENTIAL
+PR-ACG-R02,PR-ACG,Gyroscope count,ea,8.0,5.0,Analysis,CONFIDENTIAL
+HB-MHB-R01,HB-MHB,Bay count,ea,357,0.5,Analysis,INTERNAL
+HB-MHB-R02,HB-MHB,Atmosphere field rating,%,99.5,2.5,Test,INTERNAL
+HB-DBY-R01,HB-DBY,Clear span,m,237.0,1.0,Analysis,INTERNAL
+HB-DBY-R02,HB-DBY,Mooring load rating,t,1595.0,5.0,Test,INTERNAL
+HB-CSC-R01,HB-CSC,Cradle capacity,craft,5.0,2.0,Demonstration,INTERNAL
+HB-CSC-R02,HB-CSC,Turnaround time,min,49.0,1.0,Test,INTERNAL
+HB-FCT-R01,HB-FCT,Controller stations,ea,21.0,5.0,Demonstration,INTERNAL
+SY-SLW-R01,SY-SLW,Slipway length,m,879.0,2.5,Analysis,CONFIDENTIAL
+SY-SLW-R02,SY-SLW,Maximum hull mass,t,192342.0,1.0,Analysis,CONFIDENTIAL
+SY-GCR-R01,SY-GCR,Lift capacity,t,3800.0,1.0,Analysis,CONFIDENTIAL
+SY-GCR-R02,SY-GCR,Crane span,m,168.0,2.5,Inspection,CONFIDENTIAL
+SY-DDK-R01,SY-DDK,Dock length,m,1242.0,0.5,Inspection,CONFIDENTIAL
+SY-DDK-R02,SY-DDK,Pressurization time,h,6.6,0.5,Inspection,CONFIDENTIAL
+SY-PSH-R01,SY-PSH,Booth count,ea,5.0,0.5,Demonstration,CONFIDENTIAL
+SY-PSH-R02,SY-PSH,Cure time,h,28.0,2.5,Analysis,CONFIDENTIAL
+SY-OFQ-R01,SY-OFQ,Berths,ea,12.0,5.0,Test,CONFIDENTIAL
+SY-OFQ-R02,SY-OFQ,Shore power,MW,217.0,1.0,Demonstration,CONFIDENTIAL
+LS-ATP-R01,LS-ATP,Processing rate,m³/s,8694.0,2.0,Demonstration,INTERNAL
+LS-ATP-R02,LS-ATP,O2 setpoint,%,21.0,1.0,Demonstration,INTERNAL
+LS-WRC-R01,LS-WRC,Reclamation rate,%,98.2,5.0,Inspection,INTERNAL
+LS-WRC-R02,LS-WRC,Throughput,m³/h,7976.0,2.0,Analysis,INTERNAL
+LS-GRV-R01,LS-GRV,Field uniformity,%,97.8,5.0,Inspection,INTERNAL
+LS-TRG-R01,LS-TRG,Setpoint,°C,21.8,0.5,Analysis,INTERNAL
+HA-CRQ-R01,HA-CRQ,Berths,ea,2050,1.0,Test,INTERNAL
+HA-MSH-R01,HA-MSH,Seating,ea,871.0,5.0,Test,INTERNAL
+HA-MED-R01,HA-MED,Beds,ea,161.0,2.5,Test,INTERNAL
+HA-MED-R02,HA-MED,Treatment rooms,ea,51.0,2.0,Analysis,INTERNAL
+HA-SCH-R01,HA-SCH,Classrooms,ea,31.0,5.0,Inspection,INTERNAL
+HA-REC-R01,HA-REC,Deck area,m²,15705.0,2.0,Demonstration,INTERNAL
+WM-TCU-R01,WM-TCU,Compaction force,MN,11.5,2.5,Test,INTERNAL
+WM-TCU-R02,WM-TCU,Cycle time,min,7.0,2.0,Demonstration,INTERNAL
+WM-WTP-R01,WM-WTP,Throughput,t/day,1951.0,1.0,Test,INTERNAL
+WM-RCY-R01,WM-RCY,Recovery rate,%,80.9,5.0,Demonstration,INTERNAL
+WM-RCY-R02,WM-RCY,Line throughput,t/day,883.0,2.5,Inspection,INTERNAL
+AG-HGT-R01,AG-HGT,Growing area,m²,6934.0,5.0,Test,INTERNAL
+AG-HGT-R02,AG-HGT,Annual yield,kg/m²,103.0,1.0,Analysis,INTERNAL
+AG-NSD-R01,AG-NSD,Dosing accuracy,%,2.4,2.0,Inspection,INTERNAL
+AG-NSD-R02,AG-NSD,Dosing lines,ea,29.0,0.5,Demonstration,INTERNAL
+AG-LGT-R01,AG-LGT,Photon flux,µmol/m²/s,947.0,0.5,Demonstration,INTERNAL
+AG-LGT-R02,AG-LGT,Fixture count,ea,8906.0,0.5,Inspection,INTERNAL
+AG-FPK-R01,AG-FPK,Meals per day,ea,68391.0,0.5,Analysis,INTERNAL
+CN-CCO-R01,CN-CCO,Processing nodes,ea,5485.0,0.5,Test,INTERNAL
+CN-CCO-R02,CN-CCO,Storage,PB,1899.0,0.5,Demonstration,INTERNAL
+CN-DNB-R01,CN-DNB,Backbone links,ea,234.0,2.0,Test,INTERNAL
+CN-DNB-R02,CN-DNB,Latency,ms,3.6,1.0,Demonstration,INTERNAL
+CN-MDP-R01,CN-MDP,Port count,ea,12761.0,0.5,Inspection,INTERNAL
+CN-MTT-R01,CN-MTT,Terminal count,ea,4077.0,2.5,Demonstration,INTERNAL
+CM-HNT-R01,CM-HNT,Channels,ea,1146.0,0.5,Demonstration,INTERNAL
+CM-CMA-R01,CM-CMA,Dish diameter,m,112.0,5.0,Analysis,INTERNAL
+CM-CMA-R02,CM-CMA,Array count,ea,12.0,2.0,Inspection,INTERNAL
+CM-TRS-R01,CM-TRS,Throughput,Tbit/s,8.2,1.0,Analysis,INTERNAL
+SF-HPS-R01,SF-HPS,Plate thickness,m,6.3,5.0,Demonstration,INTERNAL
+SF-HPS-R02,SF-HPS,Section count,ea,20889.0,5.0,Inspection,INTERNAL
+SF-RIB-R01,SF-RIB,Rib count,ea,612.0,2.0,Demonstration,INTERNAL
+SF-RIB-R02,SF-RIB,Rib depth,m,127.0,1.0,Inspection,INTERNAL
+SF-ESR-R01,SF-ESR,Ring width,m,790.0,2.0,Test,INTERNAL
+SF-ESR-R02,SF-ESR,Ring depth,m,307.0,0.5,Analysis,INTERNAL
+SF-ANM-R01,SF-ANM,Mast height,m,531.0,1.0,Demonstration,INTERNAL
+TR-TLC-R01,TR-TLC,Car capacity,persons,39.0,0.5,Analysis,INTERNAL
+TR-TLC-R02,TR-TLC,Car speed,m/s,11.7,2.5,Demonstration,INTERNAL
+TR-TLS-R01,TR-TLS,Shaft length,km,8.66,1.0,Inspection,INTERNAL
+TR-TLS-R02,TR-TLS,Shaft count,ea,194.0,5.0,Analysis,INTERNAL
+TR-TRM-R01,TR-TRM,Seats,ea,86.0,5.0,Inspection,INTERNAL
+TR-TRK-R01,TR-TRK,Segment length,m,68.0,5.0,Inspection,INTERNAL
+TR-TRK-R02,TR-TRK,Segment count,ea,7799.0,2.5,Test,INTERNAL
+RL-MLB-R01,RL-MLB,Bench count,ea,81.0,2.5,Test,INTERNAL
+RL-CLS-R01,RL-CLS,Cleanroom class,class,5.0,1.0,Demonstration,INTERNAL
+RL-CLS-R02,RL-CLS,Floor area,m²,1333.0,1.0,Demonstration,INTERNAL
+RL-ZGL-R01,RL-ZGL,Lab volume,m³,5025.0,5.0,Inspection,INTERNAL
+RL-OBS-R01,RL-OBS,Primary mirror diameter,m,10.1,0.5,Analysis,INTERNAL
+RL-OBS-R02,RL-OBS,Pointing accuracy,arcsec,0.37,5.0,Test,INTERNAL
+OC-OPC-R01,OC-OPC,Operator stations,ea,41.0,2.0,Demonstration,INTERNAL
+OC-CRM-R01,OC-CRM,Seats,ea,22.0,2.5,Analysis,INTERNAL
+OC-ODW-R01,OC-ODW,Display panels,ea,75.0,5.0,Demonstration,INTERNAL

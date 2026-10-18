@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0062",
+  "queue": "IT_HELPDESK",
+  "subject": "Calendar not syncing on datapad",
+  "description": "My datapad calendar stopped syncing with the mail system.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00150",
+    "name": "Xan Bresk",
+    "email": "xan.bresk@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00636",
+    "name": "Bale Zell",
+    "email": "bale.zell@empire-inc.example"
+  },
+  "created_at": "2026-05-28T15:56:00Z",
+  "resolved_at": "2026-05-30T00:56:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-05-28T18:07:00Z",
+      "author": "Bale Zell",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-05-30T00:56:00Z",
+      "author": "Bale Zell",
+      "text": "Sync profile reset."
+    }
+  ]
+}

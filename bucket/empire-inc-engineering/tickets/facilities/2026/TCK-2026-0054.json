@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0054",
+  "queue": "FACILITIES",
+  "subject": "Lost badge replacement",
+  "description": "I lost my badge near Habitation block H-3 laundry.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00465",
+    "name": "Jarek Pell",
+    "email": "jarek.pell@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00991",
+    "name": "Rain Coldbrook",
+    "email": "rain.coldbrook@empire-inc.example"
+  },
+  "created_at": "2026-05-13T15:43:00Z",
+  "resolved_at": "2026-06-10T15:43:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-05-13T15:57:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-06-10T15:43:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Badge replaced at reception."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-RL-056-01,"Telescope mirror segment, inner ring",2,ea,2134538.51,4269077.02,Sluis Van Orbital Works,SHV-RL-DWG-0202
+2,EI-RL-056-02,"Telescope mirror segment, outer ring",8,ea,2368185.51,18945484.08,Cygnus Spaceworks,SHV-RL-DWG-0202
+3,EI-RL-055-01,"Cleanroom filter unit, class 5",4,ea,6695.92,26783.68,Garel Composite Mills,SHV-RL-DWG-0202
+4,EI-RL-056-02,"Telescope mirror segment, outer ring",4,ea,2368185.51,9472742.04,Kalist Mining Combine,SHV-RL-DWG-0202
+5,EI-RL-055-02,"Cleanroom filter unit, class 6",1,ea,2512.36,2512.36,Scarif Data Systems,SHV-RL-DWG-0202
+6,EI-RL-056-02,"Telescope mirror segment, outer ring",3,ea,2368185.51,7104556.53,Mustafar Refinery Cooperative,SHV-RL-DWG-0202
+7,EI-RL-054-01,"Laboratory fume hood, standard",48,ea,11591.45,556389.60,Lianna Orbital Systems,SHV-RL-DWG-0202
+8,EI-RL-055-01,"Cleanroom filter unit, class 5",24,ea,6695.92,160702.08,Anaxes Turbolift Company,SHV-RL-DWG-0202
+9,EI-RL-056-02,"Telescope mirror segment, outer ring",4,ea,2368185.51,9472742.04,Abregado Droid Works,SHV-RL-DWG-0202

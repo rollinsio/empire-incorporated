@@ -1,0 +1,8 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-TX-020-02,"Radiator fin panel, 4 m²",48,ea,3977.17,190904.16,Mustafar Refinery Cooperative,SHV-TX-DWG-0203
+2,EI-TX-021-01,"Coolant pump, 40 m³/s",8,ea,47628.99,381031.92,Cygnus Spaceworks,SHV-TX-DWG-0203
+3,EI-TX-020-02,"Radiator fin panel, 4 m²",1,ea,3977.17,3977.17,Kuat Drive Yards,SHV-TX-DWG-0203
+4,EI-TX-021-02,"Coolant pump, 80 m³/s",2,ea,35364.96,70729.92,Telgorn Corporation,SHV-TX-DWG-0203
+5,EI-TX-019-02,"Heat exchanger core, 32-stack",4,ea,75721.23,302884.92,Eriadu Steelworks,SHV-TX-DWG-0203
+6,EI-TX-019-02,"Heat exchanger core, 32-stack",4,ea,75721.23,302884.92,Carida Safety Supply,SHV-TX-DWG-0203
+7,EI-TX-019-01,"Heat exchanger core, 16-stack",3,ea,72530.19,217590.57,Lianna Orbital Systems,SHV-TX-DWG-0203

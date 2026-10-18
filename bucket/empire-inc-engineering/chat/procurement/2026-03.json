@@ -1,0 +1,587 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#procurement",
+    "month": "2026-03",
+    "language": "en",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 44
+  },
+  "members": [
+    {
+      "user_id": "EMP-00022",
+      "name": "Rennick Solberg",
+      "title": "Director, Procurement & Supply Chain"
+    },
+    {
+      "user_id": "EMP-00855",
+      "name": "Theron Ashby",
+      "title": "Deputy Director, Procurement & Supply Chain"
+    },
+    {
+      "user_id": "EMP-00856",
+      "name": "Ulric Alcorne",
+      "title": "Procurement Manager"
+    },
+    {
+      "user_id": "EMP-00857",
+      "name": "Yorik Orlen",
+      "title": "Procurement Manager"
+    },
+    {
+      "user_id": "EMP-00858",
+      "name": "Kirra Crane",
+      "title": "Procurement Manager"
+    },
+    {
+      "user_id": "EMP-00859",
+      "name": "Torin Torvald",
+      "title": "Logistics Manager"
+    },
+    {
+      "user_id": "EMP-00860",
+      "name": "Pax Barrowe",
+      "title": "Procurement Manager"
+    },
+    {
+      "user_id": "EMP-00861",
+      "name": "Esme Maddox",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00862",
+      "name": "Vance Carrow",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00863",
+      "name": "Remy Dunmore",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00864",
+      "name": "Rowan Ingram",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00865",
+      "name": "Desik Ambrose",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00866",
+      "name": "Vela Greaves",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00867",
+      "name": "Darek Dunleavy",
+      "title": "Principal Category Manager"
+    },
+    {
+      "user_id": "EMP-00868",
+      "name": "Marik Orlen",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00869",
+      "name": "Orrin Kessel",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00870",
+      "name": "Corra Craddock",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00871",
+      "name": "Darek Vance",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00872",
+      "name": "Elian Wakefield",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00873",
+      "name": "Arden Dallan",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00874",
+      "name": "Gavren Nevins",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00875",
+      "name": "Odile Ashby",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00876",
+      "name": "Calla Longmire",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00877",
+      "name": "Nils Thorne",
+      "title": "Principal Category Manager"
+    },
+    {
+      "user_id": "EMP-00878",
+      "name": "Lannic Salter",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00879",
+      "name": "Maren Warrick",
+      "title": "Category Manager"
+    },
+    {
+      "user_id": "EMP-00880",
+      "name": "Quinn Corrin",
+      "title": "Principal Category Manager"
+    },
+    {
+      "user_id": "EMP-00881",
+      "name": "Arden Holloway",
+      "title": "Category Manager"
+    },
+    {
+      "user_id": "EMP-00882",
+      "name": "Nils Sable",
+      "title": "Category Manager"
+    },
+    {
+      "user_id": "EMP-00883",
+      "name": "Jessa Holloway",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00884",
+      "name": "Nils Longmire",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00885",
+      "name": "Zeva Graylin",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00886",
+      "name": "Rain Nevins",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00887",
+      "name": "Cassia Errant",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00888",
+      "name": "Lannic Vexley",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00890",
+      "name": "Ferris Calloway",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00891",
+      "name": "Ivor Tarrant",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00892",
+      "name": "Saela Penrose",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00893",
+      "name": "Rowan Ellery",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00894",
+      "name": "Imra Bracken",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00895",
+      "name": "Petra Voren",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00896",
+      "name": "Seren Corrin",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00897",
+      "name": "Ursel Radlow",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00898",
+      "name": "Yara Radlow",
+      "title": "Buyer"
+    }
+  ],
+  "messages": [
+    {
+      "id": "procurement-202603-0001",
+      "ts": "2026-03-01T07:10:22Z",
+      "user_id": "EMP-00865",
+      "user": "Desik Ambrose",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0002",
+      "ts": "2026-03-03T12:31:35Z",
+      "user_id": "EMP-00880",
+      "user": "Quinn Corrin",
+      "text": "Anyone know the current lead time for Tram rail segment, 120 m?",
+      "replies": [
+        {
+          "id": "procurement-202603-0002-r1",
+          "ts": "2026-03-03T12:35:35Z",
+          "user_id": "EMP-00869",
+          "user": "Orrin Kessel",
+          "text": "About 8 weeks from Anaxes Turbolift Company."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202603-0003",
+      "ts": "2026-03-04T15:30:00Z",
+      "user_id": "EMP-00883",
+      "user": "Jessa Holloway",
+      "text": "EI-PO-2026-00036 sent to Raxus Coolant Works.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0004",
+      "ts": "2026-03-07T14:19:08Z",
+      "user_id": "EMP-00855",
+      "user": "Theron Ashby",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0005",
+      "ts": "2026-03-09T09:54:21Z",
+      "user_id": "EMP-00866",
+      "user": "Vela Greaves",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for transit items.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0006",
+      "ts": "2026-03-09T10:05:54Z",
+      "user_id": "EMP-00875",
+      "user": "Odile Ashby",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0007",
+      "ts": "2026-03-09T19:37:12Z",
+      "user_id": "EMP-00864",
+      "user": "Rowan Ingram",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for reactor items.",
+      "replies": [
+        {
+          "id": "procurement-202603-0007-r1",
+          "ts": "2026-03-09T19:44:12Z",
+          "user_id": "EMP-00882",
+          "user": "Nils Sable",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202603-0008",
+      "ts": "2026-03-10T16:14:15Z",
+      "user_id": "EMP-00888",
+      "user": "Lannic Vexley",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0009",
+      "ts": "2026-03-13T12:51:57Z",
+      "user_id": "EMP-00860",
+      "user": "Pax Barrowe",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0010",
+      "ts": "2026-03-15T17:09:54Z",
+      "user_id": "EMP-00882",
+      "user": "Nils Sable",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0011",
+      "ts": "2026-03-16T08:16:23Z",
+      "user_id": "EMP-00898",
+      "user": "Yara Radlow",
+      "text": "Anyone know the current lead time for Traffic routing switch card, standard?",
+      "replies": [
+        {
+          "id": "procurement-202603-0011-r1",
+          "ts": "2026-03-16T08:21:23Z",
+          "user_id": "EMP-00880",
+          "user": "Quinn Corrin",
+          "text": "About 11 weeks from Bespin Gas Consortium."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202603-0012",
+      "ts": "2026-03-17T08:39:42Z",
+      "user_id": "EMP-00890",
+      "user": "Ferris Calloway",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0013",
+      "ts": "2026-03-17T10:24:39Z",
+      "user_id": "EMP-00881",
+      "user": "Arden Holloway",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0014",
+      "ts": "2026-03-21T06:40:20Z",
+      "user_id": "EMP-00864",
+      "user": "Rowan Ingram",
+      "text": "Anyone know the current lead time for Carbon-composite truss, light?",
+      "replies": [
+        {
+          "id": "procurement-202603-0014-r1",
+          "ts": "2026-03-21T06:45:20Z",
+          "user_id": "EMP-00878",
+          "user": "Lannic Salter",
+          "text": "About 6 weeks from Garel Composite Mills."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202603-0015",
+      "ts": "2026-03-22T14:22:01Z",
+      "user_id": "EMP-00864",
+      "user": "Rowan Ingram",
+      "text": "Anyone know the current lead time for Structural bolt set, class 12?",
+      "replies": [
+        {
+          "id": "procurement-202603-0015-r1",
+          "ts": "2026-03-22T14:29:01Z",
+          "user_id": "EMP-00875",
+          "user": "Odile Ashby",
+          "text": "About 7 weeks from Raxus Coolant Works."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202603-0016",
+      "ts": "2026-03-23T12:07:56Z",
+      "user_id": "EMP-00895",
+      "user": "Petra Voren",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0017",
+      "ts": "2026-03-23T15:31:00Z",
+      "user_id": "EMP-00885",
+      "user": "Zeva Graylin",
+      "text": "EI-PO-2026-00244 sent to Mustafar Refinery Cooperative.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0018",
+      "ts": "2026-03-23T17:36:05Z",
+      "user_id": "EMP-00886",
+      "user": "Rain Nevins",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for thermal items.",
+      "replies": [
+        {
+          "id": "procurement-202603-0018-r1",
+          "ts": "2026-03-23T17:42:05Z",
+          "user_id": "EMP-00888",
+          "user": "Lannic Vexley",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202603-0019",
+      "ts": "2026-03-24T08:14:53Z",
+      "user_id": "EMP-00860",
+      "user": "Pax Barrowe",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0020",
+      "ts": "2026-03-24T09:11:09Z",
+      "user_id": "EMP-00858",
+      "user": "Kirra Crane",
+      "text": "Anyone know the current lead time for Dry dock seal assembly, service hatch?",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0021",
+      "ts": "2026-03-24T11:23:24Z",
+      "user_id": "EMP-00855",
+      "user": "Theron Ashby",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0022",
+      "ts": "2026-03-25T15:58:32Z",
+      "user_id": "EMP-00888",
+      "user": "Lannic Vexley",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0023",
+      "ts": "2026-03-25T16:05:39Z",
+      "user_id": "EMP-00874",
+      "user": "Gavren Nevins",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0024",
+      "ts": "2026-03-25T19:52:33Z",
+      "user_id": "EMP-00868",
+      "user": "Marik Orlen",
+      "text": "Anyone know the current lead time for Coolant, cryogenic, type L?",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0025",
+      "ts": "2026-03-26T08:09:36Z",
+      "user_id": "EMP-00867",
+      "user": "Darek Dunleavy",
+      "text": "Anyone know the current lead time for Laboratory fume hood, walk-in?",
+      "replies": [
+        {
+          "id": "procurement-202603-0025-r1",
+          "ts": "2026-03-26T08:16:36Z",
+          "user_id": "EMP-00895",
+          "user": "Petra Voren",
+          "text": "About 10 weeks from Abregado Droid Works."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202603-0026",
+      "ts": "2026-03-26T11:07:23Z",
+      "user_id": "EMP-00883",
+      "user": "Jessa Holloway",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0027",
+      "ts": "2026-03-26T13:08:52Z",
+      "user_id": "EMP-00881",
+      "user": "Arden Holloway",
+      "text": "Anyone know the current lead time for Containment field emitter, mk III?",
+      "replies": [
+        {
+          "id": "procurement-202603-0027-r1",
+          "ts": "2026-03-26T13:12:52Z",
+          "user_id": "EMP-00882",
+          "user": "Nils Sable",
+          "text": "About 4 weeks from Raxus Coolant Works."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202603-0028",
+      "ts": "2026-03-26T14:39:39Z",
+      "user_id": "EMP-00890",
+      "user": "Ferris Calloway",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0029",
+      "ts": "2026-03-26T16:07:37Z",
+      "user_id": "EMP-00865",
+      "user": "Desik Ambrose",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0030",
+      "ts": "2026-03-27T08:19:09Z",
+      "user_id": "EMP-00883",
+      "user": "Jessa Holloway",
+      "text": "Anyone know the current lead time for Galley equipment set, standard?",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0031",
+      "ts": "2026-03-27T15:33:00Z",
+      "user_id": "EMP-00872",
+      "user": "Elian Wakefield",
+      "text": "EI-PO-2026-00327 sent to Carbanti United Electronics.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0032",
+      "ts": "2026-03-28T11:34:45Z",
+      "user_id": "EMP-00858",
+      "user": "Kirra Crane",
+      "text": "Anyone know the current lead time for Radiator fin panel, 9 m²?",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0033",
+      "ts": "2026-03-29T09:21:03Z",
+      "user_id": "EMP-00898",
+      "user": "Yara Radlow",
+      "text": "Anyone know the current lead time for Station-keeping thruster nozzle, 1200 kN?",
+      "replies": [
+        {
+          "id": "procurement-202603-0033-r1",
+          "ts": "2026-03-29T09:28:03Z",
+          "user_id": "EMP-00860",
+          "user": "Pax Barrowe",
+          "text": "About 12 weeks from Garel Composite Mills."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202603-0034",
+      "ts": "2026-03-29T15:32:00Z",
+      "user_id": "EMP-00882",
+      "user": "Nils Sable",
+      "text": "EI-PO-2026-00273 sent to Ord Mantell Salvage & Supply.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202603-0035",
+      "ts": "2026-03-30T10:52:46Z",
+      "user_id": "EMP-00870",
+      "user": "Corra Craddock",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    }
+  ]
+}

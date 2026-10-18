@@ -1,0 +1,10 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SY-029-02,"Slipway rail segment, curved",4,ea,17124.97,68499.88,Raxus Coolant Works,SHV-SY-DWG-0204
+2,EI-SY-031-02,"Hull coating, marine-grade, topcoat",1,l,69.09,69.09,Mekuun Fabrication,SHV-SY-DWG-0204
+3,EI-SY-030-01,"Dry dock seal assembly, main gate",1,ea,267163.20,267163.20,Corulag Precision Optics,SHV-SY-DWG-0204
+4,EI-SY-031-01,"Hull coating, marine-grade, primer",4,l,41.31,165.24,Fabritech,SHV-SY-DWG-0204
+5,EI-SY-028-03,"Gantry crane hoist, 4000 t",3,ea,631899.00,1895697.00,Telgorn Corporation,SHV-SY-DWG-0204
+6,EI-SY-031-01,"Hull coating, marine-grade, primer",2,l,41.31,82.62,Mekuun Fabrication,SHV-SY-DWG-0204
+7,EI-SY-029-02,"Slipway rail segment, curved",240,ea,17124.97,4109992.80,Kuat Precision Instruments,SHV-SY-DWG-0204
+8,EI-SY-028-02,"Gantry crane hoist, 2000 t",2,ea,535215.96,1070431.92,Bespin Gas Consortium,SHV-SY-DWG-0204
+9,EI-SY-028-01,"Gantry crane hoist, 800 t",3,ea,673108.92,2019326.76,Garel Composite Mills,SHV-SY-DWG-0204

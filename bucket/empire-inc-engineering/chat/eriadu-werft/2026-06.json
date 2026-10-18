@@ -1,0 +1,616 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#eriadu-werft",
+    "month": "2026-06",
+    "language": "de",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 62
+  },
+  "members": [
+    {
+      "user_id": "EMP-00021",
+      "name": "Ulrike Brandt",
+      "title": "Direktorin Bauausführung (Director, Construction Operations)"
+    },
+    {
+      "user_id": "EMP-00700",
+      "name": "Volker Zimmermann",
+      "title": "Qualitätsingenieur/in"
+    },
+    {
+      "user_id": "EMP-00703",
+      "name": "Jürgen Weber",
+      "title": "Prüfingenieur/in"
+    },
+    {
+      "user_id": "EMP-00741",
+      "name": "Margit Falkenberg",
+      "title": "Qualitätsprüfer/in"
+    },
+    {
+      "user_id": "EMP-00754",
+      "name": "Margit Huber",
+      "title": "Zonenleiter/in"
+    },
+    {
+      "user_id": "EMP-00761",
+      "name": "Dagmar Seidel",
+      "title": "Bauleiter/in"
+    },
+    {
+      "user_id": "EMP-00766",
+      "name": "Ingrid Huber",
+      "title": "Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00770",
+      "name": "Matthias Stein",
+      "title": "Oberbauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00776",
+      "name": "Elke Albrecht",
+      "title": "Bauaufsicht"
+    },
+    {
+      "user_id": "EMP-00787",
+      "name": "Heike Neumann",
+      "title": "Kolonnenführer/in"
+    },
+    {
+      "user_id": "EMP-00788",
+      "name": "Clemens Weiß",
+      "title": "Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00791",
+      "name": "Detlef Falkenberg",
+      "title": "Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00794",
+      "name": "Ortwin Kessler",
+      "title": "Leitende/r Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00797",
+      "name": "Bernd Zimmermann",
+      "title": "Kolonnenführer/in"
+    },
+    {
+      "user_id": "EMP-00799",
+      "name": "Henrik Weber",
+      "title": "Bauaufsicht"
+    },
+    {
+      "user_id": "EMP-00803",
+      "name": "Bastian Schäfer",
+      "title": "Bauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00805",
+      "name": "Heike Brückner",
+      "title": "Bauaufsicht"
+    },
+    {
+      "user_id": "EMP-00822",
+      "name": "Volker Reinhardt",
+      "title": "Kolonnenführer/in"
+    },
+    {
+      "user_id": "EMP-00829",
+      "name": "Dagmar Winkler",
+      "title": "Bauaufsicht"
+    },
+    {
+      "user_id": "EMP-00848",
+      "name": "Ingrid Schmitt",
+      "title": "Oberbauingenieur/in"
+    },
+    {
+      "user_id": "EMP-00851",
+      "name": "Henrik Hahn",
+      "title": "Bauaufsicht"
+    }
+  ],
+  "messages": [
+    {
+      "id": "eriadu-werft-202606-0001",
+      "ts": "2026-06-01T10:32:27Z",
+      "user_id": "EMP-00761",
+      "user": "Dagmar Seidel",
+      "text": "Portalkran 2 ist bis 12:00 Uhr außer Betrieb.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0001-r1",
+          "ts": "2026-06-01T10:38:27Z",
+          "user_id": "EMP-00794",
+          "user": "Ortwin Kessler",
+          "text": "Danke für die Info."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0002",
+      "ts": "2026-06-01T16:21:03Z",
+      "user_id": "EMP-00829",
+      "user": "Dagmar Winkler",
+      "text": "Lieferung ist angekommen, liegt in Halle 3.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0003",
+      "ts": "2026-06-02T06:24:25Z",
+      "user_id": "EMP-00787",
+      "user": "Heike Neumann",
+      "text": "Portalkran 3 ist bis 10:00 Uhr außer Betrieb.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0003-r1",
+          "ts": "2026-06-02T06:28:25Z",
+          "user_id": "EMP-00797",
+          "user": "Bernd Zimmermann",
+          "text": "Danke für die Info."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0004",
+      "ts": "2026-06-02T13:40:14Z",
+      "user_id": "EMP-00822",
+      "user": "Volker Reinhardt",
+      "text": "Portalkran 4 ist bis 10:00 Uhr außer Betrieb.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0004-r1",
+          "ts": "2026-06-02T13:44:14Z",
+          "user_id": "EMP-00799",
+          "user": "Henrik Weber",
+          "text": "Danke für die Info."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0005",
+      "ts": "2026-06-02T17:37:11Z",
+      "user_id": "EMP-00021",
+      "user": "Ulrike Brandt",
+      "text": "Portalkran 4 ist bis 11:00 Uhr außer Betrieb.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0006",
+      "ts": "2026-06-03T16:15:37Z",
+      "user_id": "EMP-00754",
+      "user": "Margit Huber",
+      "text": "Lieferung ist angekommen, liegt in Halle 2.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0006-r1",
+          "ts": "2026-06-03T16:21:37Z",
+          "user_id": "EMP-00829",
+          "user": "Dagmar Winkler",
+          "text": "Super, wir holen sie nach der Pause."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0007",
+      "ts": "2026-06-04T10:19:10Z",
+      "user_id": "EMP-00703",
+      "user": "Jürgen Weber",
+      "text": "Lieferung ist angekommen, liegt in Halle 2.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0007-r1",
+          "ts": "2026-06-04T10:26:10Z",
+          "user_id": "EMP-00851",
+          "user": "Henrik Hahn",
+          "text": "Super, wir holen sie nach der Pause."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0008",
+      "ts": "2026-06-04T16:20:37Z",
+      "user_id": "EMP-00703",
+      "user": "Jürgen Weber",
+      "text": "Schicht A beginnt heute um 06:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0009",
+      "ts": "2026-06-05T07:34:21Z",
+      "user_id": "EMP-00791",
+      "user": "Detlef Falkenberg",
+      "text": "Lieferung ist angekommen, liegt in Halle 1.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0009-r1",
+          "ts": "2026-06-05T07:38:21Z",
+          "user_id": "EMP-00797",
+          "user": "Bernd Zimmermann",
+          "text": "Super, wir holen sie nach der Pause."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0010",
+      "ts": "2026-06-09T07:17:54Z",
+      "user_id": "EMP-00703",
+      "user": "Jürgen Weber",
+      "text": "Die Quadanium-Stahlträger für Z17 sind immer noch nicht da.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0010-r1",
+          "ts": "2026-06-09T07:22:54Z",
+          "user_id": "EMP-00848",
+          "user": "Ingrid Schmitt",
+          "text": "Einkauf kümmert sich, die Bestellung ist eskaliert."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0011",
+      "ts": "2026-06-11T09:36:29Z",
+      "user_id": "EMP-00754",
+      "user": "Margit Huber",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0012",
+      "ts": "2026-06-12T07:52:43Z",
+      "user_id": "EMP-00766",
+      "user": "Ingrid Huber",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0012-r1",
+          "ts": "2026-06-12T07:59:43Z",
+          "user_id": "EMP-00700",
+          "user": "Volker Zimmermann",
+          "text": "Liegt bei der Qualitätssicherung."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0013",
+      "ts": "2026-06-12T08:50:44Z",
+      "user_id": "EMP-00761",
+      "user": "Dagmar Seidel",
+      "text": "Portalkran 1 ist bis 11:00 Uhr außer Betrieb.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0013-r1",
+          "ts": "2026-06-12T08:56:44Z",
+          "user_id": "EMP-00791",
+          "user": "Detlef Falkenberg",
+          "text": "Danke für die Info."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0014",
+      "ts": "2026-06-12T13:39:58Z",
+      "user_id": "EMP-00797",
+      "user": "Bernd Zimmermann",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0015",
+      "ts": "2026-06-12T18:46:25Z",
+      "user_id": "EMP-00851",
+      "user": "Henrik Hahn",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0016",
+      "ts": "2026-06-13T17:16:30Z",
+      "user_id": "EMP-00761",
+      "user": "Dagmar Seidel",
+      "text": "Die Quadanium-Stahlträger für Z17 sind immer noch nicht da.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0016-r1",
+          "ts": "2026-06-13T17:20:30Z",
+          "user_id": "EMP-00021",
+          "user": "Ulrike Brandt",
+          "text": "Einkauf kümmert sich, die Bestellung ist eskaliert."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0017",
+      "ts": "2026-06-13T19:42:57Z",
+      "user_id": "EMP-00799",
+      "user": "Henrik Weber",
+      "text": "Schicht C beginnt heute um 06:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0018",
+      "ts": "2026-06-13T19:43:28Z",
+      "user_id": "EMP-00848",
+      "user": "Ingrid Schmitt",
+      "text": "Portalkran 1 ist bis 13:00 Uhr außer Betrieb.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0019",
+      "ts": "2026-06-14T07:55:47Z",
+      "user_id": "EMP-00794",
+      "user": "Ortwin Kessler",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0019-r1",
+          "ts": "2026-06-14T07:59:47Z",
+          "user_id": "EMP-00741",
+          "user": "Margit Falkenberg",
+          "text": "Liegt bei der Qualitätssicherung."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0020",
+      "ts": "2026-06-14T12:03:11Z",
+      "user_id": "EMP-00700",
+      "user": "Volker Zimmermann",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0021",
+      "ts": "2026-06-15T17:41:20Z",
+      "user_id": "EMP-00794",
+      "user": "Ortwin Kessler",
+      "text": "Schicht A beginnt heute um 14:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0022",
+      "ts": "2026-06-15T19:40:18Z",
+      "user_id": "EMP-00851",
+      "user": "Henrik Hahn",
+      "text": "Portalkran 4 ist bis 12:00 Uhr außer Betrieb.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0023",
+      "ts": "2026-06-17T11:59:02Z",
+      "user_id": "EMP-00703",
+      "user": "Jürgen Weber",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0024",
+      "ts": "2026-06-17T17:11:39Z",
+      "user_id": "EMP-00803",
+      "user": "Bastian Schäfer",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0024-r1",
+          "ts": "2026-06-17T17:15:39Z",
+          "user_id": "EMP-00822",
+          "user": "Volker Reinhardt",
+          "text": "Liegt bei der Qualitätssicherung."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0025",
+      "ts": "2026-06-17T18:43:33Z",
+      "user_id": "EMP-00805",
+      "user": "Heike Brückner",
+      "text": "Lieferung ist angekommen, liegt in Halle 2.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0026",
+      "ts": "2026-06-18T07:31:21Z",
+      "user_id": "EMP-00021",
+      "user": "Ulrike Brandt",
+      "text": "Schicht B beginnt heute um 14:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0027",
+      "ts": "2026-06-18T11:18:19Z",
+      "user_id": "EMP-00799",
+      "user": "Henrik Weber",
+      "text": "Lieferung ist angekommen, liegt in Halle 5.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0028",
+      "ts": "2026-06-18T17:03:50Z",
+      "user_id": "EMP-00770",
+      "user": "Matthias Stein",
+      "text": "Lieferung ist angekommen, liegt in Halle 3.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0029",
+      "ts": "2026-06-18T17:47:31Z",
+      "user_id": "EMP-00776",
+      "user": "Elke Albrecht",
+      "text": "Die Quadanium-Stahlträger für Z17 sind immer noch nicht da.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0030",
+      "ts": "2026-06-19T09:23:22Z",
+      "user_id": "EMP-00776",
+      "user": "Elke Albrecht",
+      "text": "Wer hat den Messarm aus Halle 2?",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0031",
+      "ts": "2026-06-19T09:24:03Z",
+      "user_id": "EMP-00021",
+      "user": "Ulrike Brandt",
+      "text": "Lieferung ist angekommen, liegt in Halle 3.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0031-r1",
+          "ts": "2026-06-19T09:31:03Z",
+          "user_id": "EMP-00741",
+          "user": "Margit Falkenberg",
+          "text": "Super, wir holen sie nach der Pause."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0032",
+      "ts": "2026-06-19T11:36:13Z",
+      "user_id": "EMP-00700",
+      "user": "Volker Zimmermann",
+      "text": "Schicht A beginnt heute um 06:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0033",
+      "ts": "2026-06-19T16:29:51Z",
+      "user_id": "EMP-00788",
+      "user": "Clemens Weiß",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0034",
+      "ts": "2026-06-20T18:46:40Z",
+      "user_id": "EMP-00700",
+      "user": "Volker Zimmermann",
+      "text": "Lieferung ist angekommen, liegt in Halle 2.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0035",
+      "ts": "2026-06-21T11:33:11Z",
+      "user_id": "EMP-00761",
+      "user": "Dagmar Seidel",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0036",
+      "ts": "2026-06-22T09:26:48Z",
+      "user_id": "EMP-00851",
+      "user": "Henrik Hahn",
+      "text": "Portalkran 3 ist bis 13:00 Uhr außer Betrieb.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0036-r1",
+          "ts": "2026-06-22T09:32:48Z",
+          "user_id": "EMP-00794",
+          "user": "Ortwin Kessler",
+          "text": "Danke für die Info."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0037",
+      "ts": "2026-06-22T19:02:19Z",
+      "user_id": "EMP-00741",
+      "user": "Margit Falkenberg",
+      "text": "Lieferung ist angekommen, liegt in Halle 3.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0037-r1",
+          "ts": "2026-06-22T19:06:19Z",
+          "user_id": "EMP-00754",
+          "user": "Margit Huber",
+          "text": "Super, wir holen sie nach der Pause."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0038",
+      "ts": "2026-06-23T11:41:21Z",
+      "user_id": "EMP-00797",
+      "user": "Bernd Zimmermann",
+      "text": "Portalkran 2 ist bis 13:00 Uhr außer Betrieb.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0039",
+      "ts": "2026-06-26T09:55:15Z",
+      "user_id": "EMP-00848",
+      "user": "Ingrid Schmitt",
+      "text": "Portalkran 3 ist bis 12:00 Uhr außer Betrieb.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0039-r1",
+          "ts": "2026-06-26T10:01:15Z",
+          "user_id": "EMP-00794",
+          "user": "Ortwin Kessler",
+          "text": "Danke für die Info."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0040",
+      "ts": "2026-06-27T11:47:18Z",
+      "user_id": "EMP-00776",
+      "user": "Elke Albrecht",
+      "text": "Schicht A beginnt heute um 22:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0041",
+      "ts": "2026-06-27T16:37:26Z",
+      "user_id": "EMP-00787",
+      "user": "Heike Neumann",
+      "text": "Portalkran 3 ist bis 15:00 Uhr außer Betrieb.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0042",
+      "ts": "2026-06-28T07:26:36Z",
+      "user_id": "EMP-00851",
+      "user": "Henrik Hahn",
+      "text": "Lieferung ist angekommen, liegt in Halle 6.",
+      "replies": [
+        {
+          "id": "eriadu-werft-202606-0042-r1",
+          "ts": "2026-06-28T07:33:36Z",
+          "user_id": "EMP-00799",
+          "user": "Henrik Weber",
+          "text": "Super, wir holen sie nach der Pause."
+        }
+      ]
+    },
+    {
+      "id": "eriadu-werft-202606-0043",
+      "ts": "2026-06-29T06:04:37Z",
+      "user_id": "EMP-00794",
+      "user": "Ortwin Kessler",
+      "text": "Lieferung ist angekommen, liegt in Halle 5.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0044",
+      "ts": "2026-06-29T10:53:52Z",
+      "user_id": "EMP-00822",
+      "user": "Volker Reinhardt",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    },
+    {
+      "id": "eriadu-werft-202606-0045",
+      "ts": "2026-06-30T17:47:47Z",
+      "user_id": "EMP-00848",
+      "user": "Ingrid Schmitt",
+      "text": "Nicht vergessen: Baubesprechung am Dienstag um 07:00 Uhr.",
+      "replies": []
+    }
+  ]
+}

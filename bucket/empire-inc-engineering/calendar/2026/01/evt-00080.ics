@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00080@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260113T140000Z
+DTEND:20260113T150000Z
+SUMMARY:Agriculture & Food Systems monthly team meeting
+LOCATION:Coruscant Headquarters\, room H41-07
+DESCRIPTION:Monthly team meeting\, 2026-01-13. Agenda: priorities\,
+  staffing\, open issues.
+ORGANIZER;CN="Rosalind Ferrante":mailto
+ :rosalind.ferrante@empire-inc.example
+ATTENDEE;CN="Xan Bresk";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:xan.bresk@empire-inc.example
+ATTENDEE;CN="Tilda Pell";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:tilda.pell@empire-inc.example
+ATTENDEE;CN="Tamsin Ingram";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:tamsin.ingram@empire-inc.example
+ATTENDEE;CN="Maren Morrow";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:maren.morrow@empire-inc.example
+ATTENDEE;CN="Treva Zander";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:treva.zander@empire-inc.example
+ATTENDEE;CN="Sarik Illing";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:sarik.illing@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

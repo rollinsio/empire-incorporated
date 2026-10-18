@@ -1,0 +1,5 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2022-00501,2022-11-03,SUP-034,Alsakan Instruments,1,EI-TX-021-02,"Coolant pump, 80 m³/s",120,ea,37639.80,4516776.00,2023-02-02
+EI-PO-2022-00501,2022-11-03,SUP-034,Alsakan Instruments,2,EI-TX-021-01,"Coolant pump, 40 m³/s",1,ea,49750.65,49750.65,2023-01-15
+EI-PO-2022-00501,2022-11-03,SUP-034,Alsakan Instruments,3,EI-TX-021-02,"Coolant pump, 80 m³/s",6,ea,38094.57,228567.42,2022-12-15
+EI-PO-2022-00501,,,,,,ORDER TOTAL,,,,4795094.07,

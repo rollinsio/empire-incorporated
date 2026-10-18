@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",24,ea,40510.25,972246.00,Mustafar Refinery Cooperative,SHV-OC-DWG-0202
+2,EI-LS-039-02,"Water reclamation membrane, high-flux",240,ea,1777.16,426518.40,Mustafar Refinery Cooperative,SHV-OC-DWG-0202
+3,EI-TR-053-01,"Tram rail segment, 40 m",8,ea,4659.42,37275.36,Corulag Precision Optics,SHV-OC-DWG-0202
+4,EI-PD-008-01,"Power coupling, 10 MA",96,ea,36538.46,3507692.16,Kalist Mining Combine,SHV-OC-DWG-0202
+5,EI-PR-024-01,"Gyroscope rotor assembly, standard",4,ea,370099.59,1480398.36,Rothana Heavy Cranes,SHV-OC-DWG-0202
+6,EI-PD-011-01,"Backup generator module, 0.5 TW",2,ea,323028.35,646056.70,Fondor Shipyards,SHV-OC-DWG-0202
+7,EI-PR-024-01,"Gyroscope rotor assembly, standard",4,ea,370099.59,1480398.36,Fondor Foundry Collective,SHV-OC-DWG-0202
+8,EI-RL-056-01,"Telescope mirror segment, inner ring",3,ea,2134538.51,6403615.53,Carida Safety Supply,SHV-OC-DWG-0202
+9,EI-SF-002-02,"Quadanium steel beam, 90 m",24,t,4235.32,101647.68,Axxila Power Cells,SHV-OC-DWG-0202
+10,EI-HA-041-02,"Medical supply kit, surgical",240,kit,398.31,95594.40,Raxus Coolant Works,SHV-OC-DWG-0202

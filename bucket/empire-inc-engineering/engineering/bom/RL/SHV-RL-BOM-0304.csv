@@ -1,0 +1,16 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-RL-055-02,"Cleanroom filter unit, class 6",4,ea,2512.36,10049.44,Alsakan Instruments,SHV-RL-DWG-0204
+2,EI-RL-054-01,"Laboratory fume hood, standard",1,ea,11591.45,11591.45,Fondor Shipyards,SHV-RL-DWG-0204
+3,EI-RL-056-02,"Telescope mirror segment, outer ring",3,ea,2368185.51,7104556.53,Corulag Precision Optics,SHV-RL-DWG-0204
+4,EI-RL-055-01,"Cleanroom filter unit, class 5",12,ea,6695.92,80351.04,Rendili StarDrive,SHV-RL-DWG-0204
+5,EI-RL-054-01,"Laboratory fume hood, standard",12,ea,11591.45,139097.40,Cygnus Spaceworks,SHV-RL-DWG-0204
+6,EI-RL-055-02,"Cleanroom filter unit, class 6",96,ea,2512.36,241186.56,Carida Safety Supply,SHV-RL-DWG-0204
+7,EI-RL-056-01,"Telescope mirror segment, inner ring",1,ea,2134538.51,2134538.51,Raxus Coolant Works,SHV-RL-DWG-0204
+8,EI-RL-055-01,"Cleanroom filter unit, class 5",4,ea,6695.92,26783.68,Lianna Orbital Systems,SHV-RL-DWG-0204
+9,EI-RL-056-02,"Telescope mirror segment, outer ring",2,ea,2368185.51,4736371.02,Lianna Orbital Systems,SHV-RL-DWG-0204
+10,EI-RL-055-02,"Cleanroom filter unit, class 6",4,ea,2512.36,10049.44,Lothal Fleet Services,SHV-RL-DWG-0204
+11,EI-RL-055-01,"Cleanroom filter unit, class 5",96,ea,6695.92,642808.32,Abregado Droid Works,SHV-RL-DWG-0204
+12,EI-RL-055-02,"Cleanroom filter unit, class 6",4,ea,2512.36,10049.44,Chandrila Atmospherics,SHV-RL-DWG-0204
+13,EI-RL-056-01,"Telescope mirror segment, inner ring",8,ea,2134538.51,17076308.08,Bespin Gas Consortium,SHV-RL-DWG-0204
+14,EI-RL-054-02,"Laboratory fume hood, walk-in",24,ea,11615.37,278768.88,Telgorn Corporation,SHV-RL-DWG-0204
+15,EI-RL-055-01,"Cleanroom filter unit, class 5",96,ea,6695.92,642808.32,Carida Safety Supply,SHV-RL-DWG-0204

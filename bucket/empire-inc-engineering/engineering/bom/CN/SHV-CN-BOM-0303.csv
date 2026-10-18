@@ -1,0 +1,14 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-CN-032-01,"Computer core processing node, gen 7",240,ea,24260.78,5822587.20,Kuat Drive Yards,SHV-CN-DWG-0203
+2,EI-CN-033-01,"Data backbone switch, 48-port",240,ea,16643.89,3994533.60,Naboo Hydroponic Supply,SHV-CN-DWG-0203
+3,EI-CN-035-01,"Sensor array module, thermal",8,ea,5655.23,45241.84,Raxus Coolant Works,SHV-CN-DWG-0203
+4,EI-CN-035-03,"Sensor array module, pressure",48,ea,18814.77,903108.96,Rendili StarDrive,SHV-CN-DWG-0203
+5,EI-CN-035-01,"Sensor array module, thermal",1,ea,5655.23,5655.23,Kuat Drive Yards,SHV-CN-DWG-0203
+6,EI-CN-033-02,"Data backbone switch, 96-port",2,ea,27131.58,54263.16,Ord Mantell Salvage & Supply,SHV-CN-DWG-0203
+7,EI-CN-034-02,"Maintenance port module, ruggedized",2,ea,822.89,1645.78,Uulshos Manufacturing,SHV-CN-DWG-0203
+8,EI-CN-035-01,"Sensor array module, thermal",96,ea,5655.23,542902.08,Fondor Shipyards,SHV-CN-DWG-0203
+9,EI-CN-035-02,"Sensor array module, radiation",96,ea,11916.71,1144004.16,Eriadu Steelworks,SHV-CN-DWG-0203
+10,EI-CN-035-02,"Sensor array module, radiation",96,ea,11916.71,1144004.16,Corulag Precision Optics,SHV-CN-DWG-0203
+11,EI-CN-033-01,"Data backbone switch, 48-port",4,ea,16643.89,66575.56,SoroSuub Corporation,SHV-CN-DWG-0203
+12,EI-CN-032-02,"Computer core processing node, gen 8",3,ea,63006.20,189018.60,Corellian Bulk Fasteners,SHV-CN-DWG-0203
+13,EI-CN-033-02,"Data backbone switch, 96-port",12,ea,27131.58,325578.96,Ord Mantell Salvage & Supply,SHV-CN-DWG-0203

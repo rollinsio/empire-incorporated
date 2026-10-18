@@ -1,0 +1,16 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",2,ea,51851.82,103703.64,Scarif Data Systems,SHV-PR-DWG-0203
+2,EI-PR-024-01,"Gyroscope rotor assembly, standard",3,ea,370099.59,1110298.77,Fabritech,SHV-PR-DWG-0203
+3,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",8,ea,51851.82,414814.56,Mustafar Refinery Cooperative,SHV-PR-DWG-0203
+4,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",96,ea,40510.25,3888984.00,Fabritech,SHV-PR-DWG-0203
+5,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",4,ea,40510.25,162041.00,Abregado Droid Works,SHV-PR-DWG-0203
+6,EI-PR-022-01,"Sublight ion engine module, standard",8,ea,707958.13,5663665.04,Mon Gazza Transport,SHV-PR-DWG-0203
+7,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",4,ea,51851.82,207407.28,Scarif Data Systems,SHV-PR-DWG-0203
+8,EI-PR-024-01,"Gyroscope rotor assembly, standard",1,ea,370099.59,370099.59,Mekuun Fabrication,SHV-PR-DWG-0203
+9,EI-PR-024-01,"Gyroscope rotor assembly, standard",3,ea,370099.59,1110298.77,Kalist Mining Combine,SHV-PR-DWG-0203
+10,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",48,ea,40510.25,1944492.00,Garel Composite Mills,SHV-PR-DWG-0203
+11,EI-PR-024-01,"Gyroscope rotor assembly, standard",8,ea,370099.59,2960796.72,Carbanti United Electronics,SHV-PR-DWG-0203
+12,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",4,ea,51851.82,207407.28,Uulshos Manufacturing,SHV-PR-DWG-0203
+13,EI-PR-024-01,"Gyroscope rotor assembly, standard",4,ea,370099.59,1480398.36,Mon Gazza Transport,SHV-PR-DWG-0203
+14,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",24,ea,40510.25,972246.00,Chandrila Atmospherics,SHV-PR-DWG-0203
+15,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",8,ea,51851.82,414814.56,Axxila Power Cells,SHV-PR-DWG-0203

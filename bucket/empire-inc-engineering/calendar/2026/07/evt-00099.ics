@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00099@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260731T140000Z
+DTEND:20260731T150000Z
+SUMMARY:Procurement & Supply Chain team meeting
+LOCATION:Coruscant Headquarters\, room H41-09
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-07-31.
+ORGANIZER;CN="Rennick Solberg":mailto:rennick.solberg@empire-inc.example
+ATTENDEE;CN="Ferris Calloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:ferris.calloway@empire-inc.example
+ATTENDEE;CN="Rain Nevins";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rain.nevins@empire-inc.example
+ATTENDEE;CN="Jessa Holloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:jessa.holloway@empire-inc.example
+ATTENDEE;CN="Nils Thorne";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:nils.thorne@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

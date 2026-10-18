@@ -1,0 +1,46 @@
+employee_id,name,title,email,salary_credits,home_address,personal_comlink
+EMP-00003,Edmund Tarrow,"Program Executive, Starhaven",edmund.tarrow@empire-inc.example,461000,"200 Harbour Lane, Mid Level 212, Eriadu",PCL-4115-1752
+EMP-00006,Garrick Stroud,Head of Station Operations,garrick.stroud@empire-inc.example,246700,"295 Lantern Street, Upper Level 31, Brentaal",PCL-2014-6938
+EMP-00008,Imogen Sallow,Chief of Staff to the Program Executive,imogen.sallow@empire-inc.example,168000,"218 Foundry Road, Old Quarter, Corulag",PCL-5936-2349
+EMP-00010,Idris Kalvane,"Chief Engineer, Station Integration",idris.kalvane@empire-inc.example,204600,"263 Nebula Court, North Ring, Corulag",PCL-1792-1965
+EMP-00011,Aldric Voss,"Senior Advisor, Program Management Office",aldric.voss@empire-inc.example,200400,"225 Meridian Row, Mid Level 212, Carida",PCL-5927-1605
+EMP-00036,Maelis Nevins,"Deputy Director, Program Management Office",maelis.nevins@empire-inc.example,199900,"453 Foundry Road, North Ring, Brentaal",PCL-9773-1708
+EMP-00037,Tamsin Fiore,Integration Manager,tamsin.fiore@empire-inc.example,129300,"108 Gantry Street, Upper Level 31, Tepasi",PCL-7733-9729
+EMP-00038,Imra Vexley,Program Manager,imra.vexley@empire-inc.example,181100,"350 Senate Mile, South Ring, Sluis Van",PCL-7238-9012
+EMP-00039,Danna Maddox,Program Manager,danna.maddox@empire-inc.example,182500,"200 Meridian Row, Upper Level 31, Coruscant",PCL-8692-6341
+EMP-00040,Ilka Darrow,Program Manager,ilka.darrow@empire-inc.example,139400,"310 Skyline Terrace, Upper Level 12, Corellia",PCL-6353-2810
+EMP-00041,Isolde Sable,Integration Manager,isolde.sable@empire-inc.example,139000,"359 Foundry Road, Upper Level 12, Coruscant",PCL-1644-9055
+EMP-00042,Teague Osgood,Document Controller,teague.osgood@empire-inc.example,40600,"227 Skyline Terrace, Mid Level 212, Carida",PCL-9334-4700
+EMP-00043,Zeva Maddox,Senior Scheduler,zeva.maddox@empire-inc.example,83000,"390 Arcology Drive, North Ring, Sluis Van",PCL-6890-4180
+EMP-00044,Rell Mordant,Risk Manager,rell.mordant@empire-inc.example,72700,"401 Foundry Road, Mid Level 212, Kuat",PCL-4033-4322
+EMP-00045,Dorne Dravis,Project Coordinator,dorne.dravis@empire-inc.example,37200,"158 Beacon Walk, North Ring, Coruscant",PCL-8586-8445
+EMP-00046,Ivor Renner,Risk Manager,ivor.renner@empire-inc.example,76800,"102 Meridian Row, Harbour District, Chandrila",PCL-8815-4994
+EMP-00047,Jarek Ancel,Project Coordinator,jarek.ancel@empire-inc.example,44200,"321 Lantern Street, Upper Level 12, Fondor",PCL-4507-8300
+EMP-00048,Casimir Hartwell,Scheduler,casimir.hartwell@empire-inc.example,58200,"155 Tidewater Lane, Mid Level 140, Lothal",PCL-6830-2556
+EMP-00049,Ulric Arkwell,Project Manager,ulric.arkwell@empire-inc.example,106900,"370 Arcology Drive, Upper Level 12, Corulag",PCL-2656-3959
+EMP-00050,Wilde Ravell,Principal Program Manager,wilde.ravell@empire-inc.example,115300,"324 Arcology Drive, Upper Level 12, Raxus",PCL-5642-4813
+EMP-00051,Cato Calder,Project Coordinator,cato.calder@empire-inc.example,28700,"195 Tidewater Lane, South Ring, Eriadu",PCL-5064-4706
+EMP-00052,Tyce Tallis,Project Coordinator,tyce.tallis@empire-inc.example,31500,"90 Skyline Terrace, Harbour District, Eriadu",PCL-2817-2995
+EMP-00053,Darek Errant,Project Manager,darek.errant@empire-inc.example,67800,"375 Meridian Row, Mid Level 212, Coruscant",PCL-1525-2738
+EMP-00054,Imra Thorne,Document Controller,imra.thorne@empire-inc.example,37500,"96 Orbital Way, Upper Level 31, Ord Mantell",PCL-9610-6898
+EMP-00055,Joren Wren,Risk Manager,joren.wren@empire-inc.example,101800,"49 Foundry Road, Old Quarter, Anaxes",PCL-2164-4800
+EMP-00056,Hale Voren,Senior Scheduler,hale.voren@empire-inc.example,71400,"302 Lantern Street, North Ring, Coruscant",PCL-4595-1617
+EMP-00057,Perrin Marlow,Scheduler,perrin.marlow@empire-inc.example,58300,"270 Senate Mile, South Ring, Lothal",PCL-9759-6600
+EMP-00058,Halden Aster,Project Manager,halden.aster@empire-inc.example,79200,"72 Lantern Street, Upper Level 31, Anaxes",PCL-5862-1692
+EMP-00059,Theron Dravis,Senior Scheduler,theron.dravis@empire-inc.example,66100,"342 Arcology Drive, North Ring, Chandrila",PCL-7846-2627
+EMP-00060,Theron Desmont,Scheduler,theron.desmont@empire-inc.example,59800,"405 Foundry Road, Upper Level 31, Tepasi",PCL-1423-9453
+EMP-00061,Merrin Rorke,Risk Manager,merrin.rorke@empire-inc.example,78300,"244 Tidewater Lane, Upper Level 31, Coruscant",PCL-1686-9364
+EMP-00062,Mesa Fairholm,Project Analyst,mesa.fairholm@empire-inc.example,60900,"3 Gantry Street, Mid Level 212, Anaxes",PCL-8269-4995
+EMP-00063,Wren Halloran,Scheduler,wren.halloran@empire-inc.example,60000,"173 Orbital Way, South Ring, Brentaal",PCL-4472-6892
+EMP-00064,Alira Barrowe,Project Analyst,alira.barrowe@empire-inc.example,59200,"184 Comet Close, Mid Level 212, Corellia",PCL-5506-8983
+EMP-00065,Wren Winter,Project Analyst,wren.winter@empire-inc.example,56000,"226 Arcology Drive, Mid Level 212, Alderaan",PCL-9308-2722
+EMP-00066,Odile Aster,Document Controller,odile.aster@empire-inc.example,31400,"169 Nebula Court, Old Quarter, Anaxes",PCL-7300-8083
+EMP-00067,Wren Hartwell,Document Controller,wren.hartwell@empire-inc.example,30100,"70 Nebula Court, North Ring, Mon Gazza",PCL-7507-2624
+EMP-00068,Teague Chalke,Project Analyst,teague.chalke@empire-inc.example,54600,"128 Harbour Lane, North Ring, Alderaan",PCL-9089-8173
+EMP-00069,Talia Falkner,Scheduler,talia.falkner@empire-inc.example,61800,"79 Nebula Court, Upper Level 12, Lothal",PCL-1952-9813
+EMP-00070,Desik Daventry,Document Controller,desik.daventry@empire-inc.example,32000,"394 Comet Close, Upper Level 31, Corellia",PCL-5411-4319
+EMP-00071,Wren Aster,Document Controller,wren.aster@empire-inc.example,36000,"334 Lantern Street, Upper Level 12, Alsakan",PCL-3541-4296
+EMP-00072,Isolde Alcorne,Risk Manager,isolde.alcorne@empire-inc.example,80700,"83 Skyline Terrace, South Ring, Chandrila",PCL-2713-9417
+EMP-00073,Vesna Sable,Scheduler,vesna.sable@empire-inc.example,54200,"437 Foundry Road, Mid Level 212, Kuat",PCL-2057-7420
+EMP-00074,Noa Palin,Project Analyst,noa.palin@empire-inc.example,62800,"220 Orbital Way, Upper Level 12, Lothal",PCL-4491-4161
+EMP-00075,Esme Ancel,Document Controller,esme.ancel@empire-inc.example,35300,"77 Meridian Row, Harbour District, Naboo",PCL-6202-4359

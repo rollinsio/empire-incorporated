@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0041",
+  "queue": "IT_HELPDESK",
+  "subject": "Drucker in Halle 4 druckt nicht",
+  "description": "Der Drucker in Halle 4 meldet einen Papierstau.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "de",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00817",
+    "name": "Uwe Vogt",
+    "email": "uwe.vogt@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00674",
+    "name": "Kesia Voren",
+    "email": "kesia.voren@empire-inc.example"
+  },
+  "created_at": "2025-05-05T10:40:00Z",
+  "resolved_at": "2025-05-11T17:40:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-05-05T11:09:00Z",
+      "author": "Kesia Voren",
+      "text": "Wird bearbeitet."
+    },
+    {
+      "at": "2025-05-11T17:40:00Z",
+      "author": "Kesia Voren",
+      "text": "Papierstau behoben."
+    }
+  ]
+}

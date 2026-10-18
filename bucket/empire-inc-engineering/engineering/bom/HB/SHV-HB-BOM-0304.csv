@@ -1,0 +1,9 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",2,ea,97349.16,194698.32,Kuat Drive Yards,SHV-HB-DWG-0204
+2,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",8,ea,82457.85,659662.80,Fondor Foundry Collective,SHV-HB-DWG-0204
+3,EI-HB-027-01,"Deck plating, anti-slip, standard",48,m²,182.70,8769.60,Ord Mantell Salvage & Supply,SHV-HB-DWG-0204
+4,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",1,ea,82457.85,82457.85,Scarif Data Systems,SHV-HB-DWG-0204
+5,EI-HB-026-01,"Magnetic containment field generator, bay",1,ea,172229.69,172229.69,Chandrila Atmospherics,SHV-HB-DWG-0204
+6,EI-HB-026-01,"Magnetic containment field generator, bay",2,ea,172229.69,344459.38,Alsakan Instruments,SHV-HB-DWG-0204
+7,EI-HB-027-01,"Deck plating, anti-slip, standard",240,m²,182.70,43848.00,Abregado Droid Works,SHV-HB-DWG-0204
+8,EI-HB-026-01,"Magnetic containment field generator, bay",4,ea,172229.69,688918.76,Scarif Data Systems,SHV-HB-DWG-0204

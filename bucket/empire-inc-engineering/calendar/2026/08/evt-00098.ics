@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00098@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260820T110000Z
+DTEND:20260820T120000Z
+SUMMARY:Construction Operations team meeting
+LOCATION:Coruscant Headquarters\, room H41-13
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-08-20.
+ORGANIZER;CN="Ulrike Brandt":mailto:ulrike.brandt@empire-inc.example
+ATTENDEE;CN="Margit Huber";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:margit.huber@empire-inc.example
+ATTENDEE;CN="Detlef Neumann";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:detlef.neumann@empire-inc.example
+ATTENDEE;CN="Ingrid Huber";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:ingrid.huber@empire-inc.example
+ATTENDEE;CN="Annegret Falkenberg";ROLE=REQ-PARTICIPANT
+ ;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto
+ :annegret.falkenberg@empire-inc.example
+ATTENDEE;CN="Rafe Kade";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rafe.kade@empire-inc.example
+ATTENDEE;CN="Merrin Glenmore";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:merrin.glenmore@empire-inc.example
+ATTENDEE;CN="Annegret Krämer";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:annegret.kraemer@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

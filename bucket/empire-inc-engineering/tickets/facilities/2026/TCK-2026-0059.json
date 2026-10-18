@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0059",
+  "queue": "FACILITIES",
+  "subject": "Light fixture flickering at Operations centre anteroom",
+  "description": "A light fixture at Operations centre anteroom keeps flickering.",
+  "priority": "HIGH",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00342",
+    "name": "Zara Vance",
+    "email": "zara.vance@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00995",
+    "name": "Lysander Arkwell",
+    "email": "lysander.arkwell@empire-inc.example"
+  },
+  "created_at": "2026-05-21T07:09:00Z",
+  "resolved_at": "2026-05-22T16:09:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-05-21T10:17:00Z",
+      "author": "Lysander Arkwell",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-05-22T16:09:00Z",
+      "author": "Lysander Arkwell",
+      "text": "Fixture replaced."
+    }
+  ]
+}

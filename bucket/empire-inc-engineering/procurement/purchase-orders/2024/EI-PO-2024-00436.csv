@@ -1,0 +1,8 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2024-00436,2024-08-16,SUP-016,Corulag Precision Optics,1,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",2,ea,42926.20,85852.40,2025-01-10
+EI-PO-2024-00436,2024-08-16,SUP-016,Corulag Precision Optics,2,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",2,ea,55894.20,111788.40,2025-01-13
+EI-PO-2024-00436,2024-08-16,SUP-016,Corulag Precision Optics,3,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",40,ea,42425.21,1697008.40,2024-12-12
+EI-PO-2024-00436,2024-08-16,SUP-016,Corulag Precision Optics,4,EI-PR-022-01,"Sublight ion engine module, standard",1,ea,762840.07,762840.07,2024-12-12
+EI-PO-2024-00436,2024-08-16,SUP-016,Corulag Precision Optics,5,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",3,ea,54162.27,162486.81,2024-11-14
+EI-PO-2024-00436,2024-08-16,SUP-016,Corulag Precision Optics,6,EI-PR-022-01,"Sublight ion engine module, standard",4,ea,703644.57,2814578.28,2024-10-07
+EI-PO-2024-00436,,,,,,ORDER TOTAL,,,,5634554.36,

@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0050",
+  "queue": "FACILITIES",
+  "subject": "Werksausweis verloren",
+  "description": "Ich habe meinen Werksausweis in Halle 6 verloren.",
+  "priority": "HIGH",
+  "status": "RESOLVED",
+  "language": "de",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00766",
+    "name": "Ingrid Huber",
+    "email": "ingrid.huber@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00996",
+    "name": "Orrin Thorne",
+    "email": "orrin.thorne@empire-inc.example"
+  },
+  "created_at": "2025-05-29T07:20:00Z",
+  "resolved_at": "2025-05-30T22:20:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-05-29T10:37:00Z",
+      "author": "Orrin Thorne",
+      "text": "Wird bearbeitet."
+    },
+    {
+      "at": "2025-05-30T22:20:00Z",
+      "author": "Orrin Thorne",
+      "text": "Neuer Ausweis ausgestellt."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "identities": [
+    {
+      "name": "empire-local",
+      "credentials": [
+        {
+          "accessKey": "empire-local",
+          "secretKey": "empire-local-secret"
+        }
+      ],
+      "actions": ["Admin", "Read", "List", "Tagging", "Write"]
+    }
+  ]
+}

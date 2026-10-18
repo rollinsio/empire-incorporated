@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00092@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260505T140000Z
+DTEND:20260505T150000Z
+SUMMARY:Propulsion & Station-Keeping team meeting
+LOCATION:Coruscant Headquarters\, room H41-13
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-05-05.
+ORGANIZER;CN="Cael Merrow":mailto:cael.merrow@empire-inc.example
+ATTENDEE;CN="Tessa Venner";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:tessa.venner@empire-inc.example
+ATTENDEE;CN="Edda Ingram";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:edda.ingram@empire-inc.example
+ATTENDEE;CN="Desik Kessel";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:desik.kessel@empire-inc.example
+ATTENDEE;CN="Corra Crane";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:corra.crane@empire-inc.example
+ATTENDEE;CN="Amsel Holloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:amsel.holloway@empire-inc.example
+ATTENDEE;CN="Odile Sable";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:odile.sable@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,190 @@
+{
+  "simulation_id": "SHV-SA-SIM-0006",
+  "title": "Solar array output over one orbit (run 6)",
+  "system": "SA",
+  "classification": "INTERNAL",
+  "model_version": "3.6.11",
+  "run_date": "2025-11-15",
+  "engineer": "Vance Thorne",
+  "engineer_id": "EMP-00363",
+  "inputs": {
+    "scenario": "nominal",
+    "duration_steps": 28
+  },
+  "results": {
+    "summary": {
+      "peak_battery_charge_pct": 39.76,
+      "peak_step": 26
+    },
+    "series": [
+      {
+        "t": 0,
+        "sun_angle_deg": 73.001,
+        "array_output_gw": 19.523,
+        "battery_charge_pct": 33.518
+      },
+      {
+        "t": 1,
+        "sun_angle_deg": 69.836,
+        "array_output_gw": 20.044,
+        "battery_charge_pct": 32.931
+      },
+      {
+        "t": 2,
+        "sun_angle_deg": 71.812,
+        "array_output_gw": 20.844,
+        "battery_charge_pct": 33.351
+      },
+      {
+        "t": 3,
+        "sun_angle_deg": 72.094,
+        "array_output_gw": 19.918,
+        "battery_charge_pct": 34.433
+      },
+      {
+        "t": 4,
+        "sun_angle_deg": 73.226,
+        "array_output_gw": 20.05,
+        "battery_charge_pct": 32.92
+      },
+      {
+        "t": 5,
+        "sun_angle_deg": 71.651,
+        "array_output_gw": 20.115,
+        "battery_charge_pct": 34.949
+      },
+      {
+        "t": 6,
+        "sun_angle_deg": 75.694,
+        "array_output_gw": 20.438,
+        "battery_charge_pct": 34.932
+      },
+      {
+        "t": 7,
+        "sun_angle_deg": 75.445,
+        "array_output_gw": 20.275,
+        "battery_charge_pct": 36.585
+      },
+      {
+        "t": 8,
+        "sun_angle_deg": 75.167,
+        "array_output_gw": 20.973,
+        "battery_charge_pct": 35.283
+      },
+      {
+        "t": 9,
+        "sun_angle_deg": 73.949,
+        "array_output_gw": 21.232,
+        "battery_charge_pct": 34.626
+      },
+      {
+        "t": 10,
+        "sun_angle_deg": 76.072,
+        "array_output_gw": 20.246,
+        "battery_charge_pct": 34.734
+      },
+      {
+        "t": 11,
+        "sun_angle_deg": 78.565,
+        "array_output_gw": 21.034,
+        "battery_charge_pct": 35.619
+      },
+      {
+        "t": 12,
+        "sun_angle_deg": 77.192,
+        "array_output_gw": 21.252,
+        "battery_charge_pct": 36.844
+      },
+      {
+        "t": 13,
+        "sun_angle_deg": 76.035,
+        "array_output_gw": 21.249,
+        "battery_charge_pct": 35.243
+      },
+      {
+        "t": 14,
+        "sun_angle_deg": 77.481,
+        "array_output_gw": 20.475,
+        "battery_charge_pct": 36.249
+      },
+      {
+        "t": 15,
+        "sun_angle_deg": 76.014,
+        "array_output_gw": 21.241,
+        "battery_charge_pct": 36.87
+      },
+      {
+        "t": 16,
+        "sun_angle_deg": 79.03,
+        "array_output_gw": 20.982,
+        "battery_charge_pct": 36.69
+      },
+      {
+        "t": 17,
+        "sun_angle_deg": 80.089,
+        "array_output_gw": 21.341,
+        "battery_charge_pct": 37.624
+      },
+      {
+        "t": 18,
+        "sun_angle_deg": 77.495,
+        "array_output_gw": 22.187,
+        "battery_charge_pct": 38.218
+      },
+      {
+        "t": 19,
+        "sun_angle_deg": 75.957,
+        "array_output_gw": 21.98,
+        "battery_charge_pct": 37.077
+      },
+      {
+        "t": 20,
+        "sun_angle_deg": 80.78,
+        "array_output_gw": 21.64,
+        "battery_charge_pct": 38.258
+      },
+      {
+        "t": 21,
+        "sun_angle_deg": 81.013,
+        "array_output_gw": 21.968,
+        "battery_charge_pct": 38.18
+      },
+      {
+        "t": 22,
+        "sun_angle_deg": 79.314,
+        "array_output_gw": 22.262,
+        "battery_charge_pct": 37.285
+      },
+      {
+        "t": 23,
+        "sun_angle_deg": 81.42,
+        "array_output_gw": 22.634,
+        "battery_charge_pct": 38.643
+      },
+      {
+        "t": 24,
+        "sun_angle_deg": 80.551,
+        "array_output_gw": 22.254,
+        "battery_charge_pct": 37.569
+      },
+      {
+        "t": 25,
+        "sun_angle_deg": 81.798,
+        "array_output_gw": 22.949,
+        "battery_charge_pct": 39.098
+      },
+      {
+        "t": 26,
+        "sun_angle_deg": 82.895,
+        "array_output_gw": 22.367,
+        "battery_charge_pct": 39.76
+      },
+      {
+        "t": 27,
+        "sun_angle_deg": 85.011,
+        "array_output_gw": 23.173,
+        "battery_charge_pct": 39.27
+      }
+    ]
+  }
+}

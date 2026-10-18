@@ -1,0 +1,9 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SF-001-01,"Durasteel plate, grade A",48,t,3202.38,153714.24,Kuat Drive Yards,SHV-SF-DWG-0203
+2,EI-SF-006-04,"Hull fastener kit, M120",2,kit,195.17,390.34,Carida Safety Supply,SHV-SF-DWG-0203
+3,EI-SF-057-02,"Welding consumables pack, heavy",24,pack,88.54,2124.96,Lianna Orbital Systems,SHV-SF-DWG-0203
+4,EI-SF-001-02,"Durasteel plate, grade B",24,t,3024.46,72587.04,Mekuun Fabrication,SHV-SF-DWG-0203
+5,EI-SF-003-02,"Hull plating section, type 2",2,ea,78148.06,156296.12,Lothal Fleet Services,SHV-SF-DWG-0203
+6,EI-SF-005-02,"Carbon-composite truss, heavy",240,ea,1363.38,327211.20,Fondor Foundry Collective,SHV-SF-DWG-0203
+7,EI-SF-007-02,"Structural bolt set, class 10",240,set,232.29,55749.60,Chandrila Atmospherics,SHV-SF-DWG-0203
+8,EI-SF-007-03,"Structural bolt set, class 12",2,set,194.77,389.54,SoroSuub Corporation,SHV-SF-DWG-0203

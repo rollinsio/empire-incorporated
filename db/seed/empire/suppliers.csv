@@ -1,0 +1,37 @@
+supplier_id,name,homeworld,contact_name,contact_email,status,performance_rating,sensitivity
+SUP-001,Kuat Drive Yards,Kuat,Merel Danvik,merel.danvik@kuat-drive-yards.example,ACTIVE,2.9,INTERNAL
+SUP-002,Lianna Orbital Systems,Lianna,Theron Longmire,theron.longmire@lianna-orbital-systems.example,ACTIVE,3.0,INTERNAL
+SUP-003,Rendili StarDrive,Rendili,Bryn Tarrant,bryn.tarrant@rendili-stardrive.example,ACTIVE,3.1,INTERNAL
+SUP-004,Kuat Precision Instruments,Kuat,Osric Ramsey,osric.ramsey@kuat-precision-instruments.example,ACTIVE,4.7,INTERNAL
+SUP-005,Axxila Power Cells,Axxila,Seren Quarrel,seren.quarrel@axxila-power-cells.example,ACTIVE,4.6,INTERNAL
+SUP-006,Cygnus Spaceworks,Fondor,Tamsin Winter,tamsin.winter@cygnus-spaceworks.example,ACTIVE,3.0,INTERNAL
+SUP-007,Fabritech,Coruscant,Linnea Wakefield,linnea.wakefield@fabritech.example,ACTIVE,3.3,INTERNAL
+SUP-008,Abregado Droid Works,Abregado-rae,Cassia Ancel,cassia.ancel@abregado-droid-works.example,ACTIVE,3.1,INTERNAL
+SUP-009,Telgorn Corporation,Columex,Kesia Osgood,kesia.osgood@telgorn-corporation.example,ACTIVE,3.0,INTERNAL
+SUP-010,Carbanti United Electronics,Coruscant,Yorik Galloway,yorik.galloway@carbanti-united-electronics.example,ACTIVE,2.8,INTERNAL
+SUP-011,SoroSuub Corporation,Sullust,Edda Hesk,edda.hesk@sorosuub-corporation.example,PROBATION,4.5,INTERNAL
+SUP-012,Uulshos Manufacturing,Coruscant,Brisk Dunleavy,brisk.dunleavy@uulshos-manufacturing.example,ACTIVE,3.3,INTERNAL
+SUP-013,Fondor Foundry Collective,Fondor,Tarn Harrick,tarn.harrick@fondor-foundry-collective.example,ACTIVE,3.8,INTERNAL
+SUP-014,Fondor Shipyards,Fondor,Anneka Tarrant,anneka.tarrant@fondor-shipyards.example,ACTIVE,3.0,INTERNAL
+SUP-015,Sluis Van Orbital Works,Sluis Van,Talia Radlow,talia.radlow@sluis-van-orbital-works.example,ACTIVE,4.5,INTERNAL
+SUP-016,Corulag Precision Optics,Corulag,Danna Wren,danna.wren@corulag-precision-optics.example,ACTIVE,3.1,INTERNAL
+SUP-017,Eriadu Steelworks,Eriadu,Ines Jarrow,ines.jarrow@eriadu-steelworks.example,ACTIVE,4.4,INTERNAL
+SUP-018,Brentaal Logistics Guild,Brentaal,Soren Whitlock,soren.whitlock@brentaal-logistics-guild.example,ACTIVE,3.0,INTERNAL
+SUP-019,Mekuun Fabrication,Byss,Dorne Torvald,dorne.torvald@mekuun-fabrication.example,ACTIVE,4.3,INTERNAL
+SUP-020,Chiewab Medical,Coruscant,Merrin Kingsley,merrin.kingsley@chiewab-medical.example,ACTIVE,3.6,INTERNAL
+SUP-021,Rothana Heavy Cranes,Rothana,Seren Avrane,seren.avrane@rothana-heavy-cranes.example,ACTIVE,3.1,INTERNAL
+SUP-022,Kalist Mining Combine,Kalist,Maelis Alcorne,maelis.alcorne@kalist-mining-combine.example,ACTIVE,3.5,INTERNAL
+SUP-023,Bespin Gas Consortium,Bespin,Aven Rothe,aven.rothe@bespin-gas-consortium.example,PROBATION,3.8,INTERNAL
+SUP-024,Naboo Hydroponic Supply,Naboo,Caddoc Belcourt,caddoc.belcourt@naboo-hydroponic-supply.example,ACTIVE,2.9,INTERNAL
+SUP-025,Mustafar Refinery Cooperative,Mustafar,Fenna Warrick,fenna.warrick@mustafar-refinery-cooperative.example,PROBATION,3.4,INTERNAL
+SUP-026,Ord Mantell Salvage & Supply,Ord Mantell,Amsel Ardent,amsel.ardent@ord-mantell-salvage-and-supply.example,ACTIVE,3.8,INTERNAL
+SUP-027,Anaxes Turbolift Company,Anaxes,Remy Osgood,remy.osgood@anaxes-turbolift-company.example,ACTIVE,4.3,INTERNAL
+SUP-028,Carida Safety Supply,Carida,Halden Darrow,halden.darrow@carida-safety-supply.example,ACTIVE,3.8,INTERNAL
+SUP-029,Garel Composite Mills,Garel,Rowan Mordant,rowan.mordant@garel-composite-mills.example,ACTIVE,3.0,INTERNAL
+SUP-030,Lothal Fleet Services,Lothal,Aven Yarrow,aven.yarrow@lothal-fleet-services.example,ACTIVE,3.1,INTERNAL
+SUP-031,Scarif Data Systems,Scarif,Edda Easton,edda.easton@scarif-data-systems.example,ACTIVE,4.8,INTERNAL
+SUP-032,Chandrila Atmospherics,Chandrila,Calla Maddox,calla.maddox@chandrila-atmospherics.example,SUSPENDED,4.2,INTERNAL
+SUP-033,Mon Gazza Transport,Mon Gazza,Lysander Kade,lysander.kade@mon-gazza-transport.example,ACTIVE,4.7,INTERNAL
+SUP-034,Alsakan Instruments,Alsakan,Caddoc Castellan,caddoc.castellan@alsakan-instruments.example,ACTIVE,4.4,INTERNAL
+SUP-035,Raxus Coolant Works,Raxus,Lysander Lorne,lysander.lorne@raxus-coolant-works.example,SUSPENDED,3.6,INTERNAL
+SUP-036,Corellian Bulk Fasteners,Corellia,Tamsin Rhydon,tamsin.rhydon@corellian-bulk-fasteners.example,ACTIVE,4.2,INTERNAL

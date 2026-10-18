@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0065",
+  "queue": "FACILITIES",
+  "subject": "Lost badge replacement",
+  "description": "I lost my badge near Docking Bay 94 corridor.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00512",
+    "name": "Kestin Yarrow",
+    "email": "kestin.yarrow@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00994",
+    "name": "Rosk Calder",
+    "email": "rosk.calder@empire-inc.example"
+  },
+  "created_at": "2026-06-21T17:11:00Z",
+  "resolved_at": "2026-06-23T09:11:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-06-21T18:10:00Z",
+      "author": "Rosk Calder",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-06-23T09:11:00Z",
+      "author": "Rosk Calder",
+      "text": "Badge replaced at reception."
+    }
+  ]
+}

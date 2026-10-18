@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0015",
+  "queue": "IT_HELPDESK",
+  "subject": "Shared folder for Starhaven Orbital Habitat & Shipyard",
+  "description": "Please create a shared folder for the Starhaven Orbital Habitat & Shipyard team.",
+  "priority": "HIGH",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00503",
+    "name": "Jarek Ulmer",
+    "email": "jarek.ulmer@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00648",
+    "name": "Vance Garron",
+    "email": "vance.garron@empire-inc.example"
+  },
+  "created_at": "2026-02-08T07:48:00Z",
+  "resolved_at": "2026-02-12T14:48:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-02-08T10:58:00Z",
+      "author": "Vance Garron",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-02-12T14:48:00Z",
+      "author": "Vance Garron",
+      "text": "Folder created and team members added."
+    }
+  ]
+}

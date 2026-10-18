@@ -1,0 +1,49 @@
+From: Ursel Marrek <ursel.marrek@empire-inc.example>
+To: Service Desk Team <service-desk@empire-inc.example>
+Subject: Service desk backlog 2026-06
+Date: Mon, 01 Jun 2026 08:00:00 +0000
+Message-ID: <202606010800.00429@empire-inc.example>
+X-Classification: INTERNAL
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_empire_mail_00429"
+
+--=_empire_mail_00429
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INTERNAL
+
+Hello team,
+
+attached is the service desk backlog as of 2026-06-01: 5 open tickets.
+The oldest is TCK-2026-0045, opened on 2026-04-21.
+
+Regards,
+Ursel
+
+-- 
+Ursel Marrek
+Engineering Manager, Communications
+Computing & Communications
+Empire Incorporated
+Ext. x5052
+
+--=_empire_mail_00429
+Content-Type: text/csv; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename="service-desk-backlog-2026-06.csv"
+MIME-Version: 1.0
+
+ticket_id,queue,subject,requester,assignee,priority,created_at
+TCK-2026-0045,FACILITIES,Cleaning request: Reactor access walkway 7,Danna Mad=
+dox,Rain Coldbrook,HIGH,2026-04-21T07:13:00Z
+TCK-2026-0051,FACILITIES,Room too warm at Hangar 327 control room,Kestin Dall=
+an,Rosk Calder,LOW,2026-05-07T07:13:00Z
+TCK-2026-0052,FACILITIES,Facility incident FI-2026-043,Fenna Teague,Rosk Cald=
+er,HIGH,2026-05-09T15:52:00Z
+TCK-2026-0054,FACILITIES,Lost badge replacement,Jarek Pell,Rain Coldbrook,MED=
+IUM,2026-05-13T15:43:00Z
+TCK-2026-0056,FACILITIES,Facility incident FI-2026-057,Silas Ravell,Rosk Cald=
+er,MEDIUM,2026-05-17T08:31:00Z
+
+--=_empire_mail_00429--

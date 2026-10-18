@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00055@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260818T070000Z
+DTEND:20260818T080000Z
+SUMMARY:Baubesprechung Fertigungswerft Eriadu
+LOCATION:Fertigungswerft Eriadu\, Besprechungsraum Halle 1
+DESCRIPTION:Baubesprechung am 18.08.2026. Tagesordnung:
+  Arbeitssicherheit\, Stand der Fertigung\, Materiallage\, Maßnahmen.
+ORGANIZER;CN="Ulrike Brandt":mailto:ulrike.brandt@empire-inc.example
+ATTENDEE;CN="Team Fertigungswerft Eriadu";ROLE=REQ-PARTICIPANT
+ ;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto:eriadu-team@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

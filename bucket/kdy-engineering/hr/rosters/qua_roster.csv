@@ -1,0 +1,13 @@
+employee_id,name,title,email,manager
+KDY-E-0007,Ysolde Quint,Head of Quality,ysolde.quint@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0106,Perrin Vance,Team Lead,perrin.vance@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0107,Kirra Crestwell,Quality Engineer,kirra.crestwell@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0108,Osric Osgood,Quality Inspector,osric.osgood@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0109,Jaska Ramsey,Quality Engineer,jaska.ramsey@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0110,Osric Jarrow,Quality Inspector,osric.jarrow@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0111,Leda Greaves,Quality Engineer,leda.greaves@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0112,Hale Hune,Quality Inspector,hale.hune@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0113,Quinn Nevins,Quality Engineer,quinn.nevins@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0114,Edda Dallan,Quality Inspector,edda.dallan@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0115,Wren Keller,Quality Engineer,wren.keller@kuat-drive-yards.example,Ysolde Quint
+KDY-E-0116,Kirra Avrane,Quality Inspector,kirra.avrane@kuat-drive-yards.example,Ysolde Quint

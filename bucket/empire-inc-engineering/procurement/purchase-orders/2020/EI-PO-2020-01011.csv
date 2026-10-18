@@ -1,0 +1,5 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2020-01011,2020-08-19,SUP-027,Anaxes Turbolift Company,1,EI-CM-036-01,"HoloNet transceiver board, standard",4,ea,76818.90,307275.60,2020-11-22
+EI-PO-2020-01011,2020-08-19,SUP-027,Anaxes Turbolift Company,2,EI-CM-037-01,"Traffic routing switch card, standard",1,ea,38914.99,38914.99,2021-01-01
+EI-PO-2020-01011,2020-08-19,SUP-027,Anaxes Turbolift Company,3,EI-CM-036-01,"HoloNet transceiver board, standard",4,ea,78995.19,315980.76,2021-01-22
+EI-PO-2020-01011,,,,,,ORDER TOTAL,,,,662171.35,

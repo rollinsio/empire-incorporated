@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0001",
+  "queue": "FACILITIES",
+  "subject": "Facility incident FI-2026-056",
+  "description": "Logged from the facilities hotline. The details are recorded in facility incident FI-2026-056.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00982",
+    "name": "Lorne Dravis",
+    "email": "lorne.dravis@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00991",
+    "name": "Rain Coldbrook",
+    "email": "rain.coldbrook@empire-inc.example"
+  },
+  "created_at": "2026-01-04T14:08:00Z",
+  "resolved_at": "2026-01-13T17:00:00Z",
+  "related_incident": "FI-2026-056",
+  "comments": [
+    {
+      "at": "2026-01-04T17:48:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-01-13T17:00:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Incident closed by Facilities & Workplace Safety."
+    }
+  ]
+}

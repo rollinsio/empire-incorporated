@@ -1,0 +1,178 @@
+{
+  "simulation_id": "SHV-HR-SIM-0019",
+  "title": "Reactor load-follow (run 19)",
+  "system": "HR",
+  "classification": "CONFIDENTIAL",
+  "model_version": "4.2.20",
+  "run_date": "2026-04-14",
+  "engineer": "Hollis Fenwick",
+  "engineer_id": "EMP-00320",
+  "inputs": {
+    "scenario": "peak demand",
+    "duration_steps": 26
+  },
+  "results": {
+    "summary": {
+      "peak_containment_margin_pct": 52.462,
+      "peak_step": 22
+    },
+    "series": [
+      {
+        "t": 0,
+        "demand_pct": 49.264,
+        "output_pct": 61.117,
+        "containment_margin_pct": 46.114
+      },
+      {
+        "t": 1,
+        "demand_pct": 48.787,
+        "output_pct": 60.572,
+        "containment_margin_pct": 44.41
+      },
+      {
+        "t": 2,
+        "demand_pct": 52.708,
+        "output_pct": 62.448,
+        "containment_margin_pct": 45.053
+      },
+      {
+        "t": 3,
+        "demand_pct": 51.004,
+        "output_pct": 59.458,
+        "containment_margin_pct": 43.356
+      },
+      {
+        "t": 4,
+        "demand_pct": 50.077,
+        "output_pct": 61.413,
+        "containment_margin_pct": 44.737
+      },
+      {
+        "t": 5,
+        "demand_pct": 51.463,
+        "output_pct": 64.441,
+        "containment_margin_pct": 46.307
+      },
+      {
+        "t": 6,
+        "demand_pct": 51.802,
+        "output_pct": 64.186,
+        "containment_margin_pct": 46.898
+      },
+      {
+        "t": 7,
+        "demand_pct": 50.36,
+        "output_pct": 64.262,
+        "containment_margin_pct": 47.179
+      },
+      {
+        "t": 8,
+        "demand_pct": 51.646,
+        "output_pct": 66.217,
+        "containment_margin_pct": 48.195
+      },
+      {
+        "t": 9,
+        "demand_pct": 50.776,
+        "output_pct": 63.958,
+        "containment_margin_pct": 46.666
+      },
+      {
+        "t": 10,
+        "demand_pct": 50.457,
+        "output_pct": 66.255,
+        "containment_margin_pct": 46.146
+      },
+      {
+        "t": 11,
+        "demand_pct": 53.054,
+        "output_pct": 66.849,
+        "containment_margin_pct": 49.276
+      },
+      {
+        "t": 12,
+        "demand_pct": 51.616,
+        "output_pct": 64.012,
+        "containment_margin_pct": 47.89
+      },
+      {
+        "t": 13,
+        "demand_pct": 52.661,
+        "output_pct": 66.286,
+        "containment_margin_pct": 46.326
+      },
+      {
+        "t": 14,
+        "demand_pct": 54.579,
+        "output_pct": 64.676,
+        "containment_margin_pct": 48.817
+      },
+      {
+        "t": 15,
+        "demand_pct": 55.044,
+        "output_pct": 69.327,
+        "containment_margin_pct": 48.994
+      },
+      {
+        "t": 16,
+        "demand_pct": 55.629,
+        "output_pct": 68.574,
+        "containment_margin_pct": 48.841
+      },
+      {
+        "t": 17,
+        "demand_pct": 54.832,
+        "output_pct": 68.731,
+        "containment_margin_pct": 51.159
+      },
+      {
+        "t": 18,
+        "demand_pct": 55.16,
+        "output_pct": 68.286,
+        "containment_margin_pct": 48.935
+      },
+      {
+        "t": 19,
+        "demand_pct": 54.526,
+        "output_pct": 68.434,
+        "containment_margin_pct": 49.741
+      },
+      {
+        "t": 20,
+        "demand_pct": 55.719,
+        "output_pct": 69.636,
+        "containment_margin_pct": 49.723
+      },
+      {
+        "t": 21,
+        "demand_pct": 56.93,
+        "output_pct": 68.626,
+        "containment_margin_pct": 50.914
+      },
+      {
+        "t": 22,
+        "demand_pct": 56.321,
+        "output_pct": 68.349,
+        "containment_margin_pct": 52.462
+      },
+      {
+        "t": 23,
+        "demand_pct": 57.722,
+        "output_pct": 69.118,
+        "containment_margin_pct": 51.874
+      },
+      {
+        "t": 24,
+        "demand_pct": 57.308,
+        "output_pct": 68.355,
+        "containment_margin_pct": 51.367
+      },
+      {
+        "t": 25,
+        "demand_pct": 54.788,
+        "output_pct": 70.43,
+        "containment_margin_pct": 51.545
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HR-016-01,"Containment field emitter, mk II",2,ea,676347.78,1352695.56,Axxila Power Cells,SHV-HR-DWG-0204
+2,EI-HR-018-02,"Coolant, cryogenic, type L",24,m³,867.37,20816.88,Axxila Power Cells,SHV-HR-DWG-0204
+3,EI-HR-015-01,"Hypermatter fuel, stabilized, batch grade I",8,kg,134636.84,1077094.72,Bespin Gas Consortium,SHV-HR-DWG-0204
+4,EI-HR-017-02,"Fuel injector cartridge, high-flow",1,ea,60434.83,60434.83,SoroSuub Corporation,SHV-HR-DWG-0204
+5,EI-HR-015-02,"Hypermatter fuel, stabilized, batch grade II",8,kg,141677.01,1133416.08,Carbanti United Electronics,SHV-HR-DWG-0204
+6,EI-HR-016-02,"Containment field emitter, mk III",1,ea,750241.91,750241.91,Fondor Foundry Collective,SHV-HR-DWG-0204
+7,EI-HR-018-02,"Coolant, cryogenic, type L",4,m³,867.37,3469.48,Fondor Foundry Collective,SHV-HR-DWG-0204

@@ -1,0 +1,4 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-00596,2026-05-07,SUP-021,Rothana Heavy Cranes,1,EI-CM-037-01,"Traffic routing switch card, standard",10,ea,36465.68,364656.80,2026-09-10
+EI-PO-2026-00596,2026-05-07,SUP-021,Rothana Heavy Cranes,2,EI-CM-036-01,"HoloNet transceiver board, standard",3,ea,81332.71,243998.13,2026-10-13
+EI-PO-2026-00596,,,,,,ORDER TOTAL,,,,608654.93,

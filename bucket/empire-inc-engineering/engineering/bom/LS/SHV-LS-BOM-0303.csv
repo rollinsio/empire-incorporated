@@ -1,0 +1,9 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",4,ea,280.79,1123.16,Abregado Droid Works,SHV-LS-DWG-0203
+2,EI-LS-040-01,"Gravity plate, 1 m²",96,ea,11976.11,1149706.56,Kalist Mining Combine,SHV-LS-DWG-0203
+3,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",12,ea,280.79,3369.48,Abregado Droid Works,SHV-LS-DWG-0203
+4,EI-LS-039-01,"Water reclamation membrane, standard",48,ea,2183.44,104805.12,Ord Mantell Salvage & Supply,SHV-LS-DWG-0203
+5,EI-LS-040-01,"Gravity plate, 1 m²",8,ea,11976.11,95808.88,Uulshos Manufacturing,SHV-LS-DWG-0203
+6,EI-LS-038-01,"Atmosphere scrubber cartridge, CO2",2,ea,329.04,658.08,Bespin Gas Consortium,SHV-LS-DWG-0203
+7,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",96,ea,280.79,26955.84,Lothal Fleet Services,SHV-LS-DWG-0203
+8,EI-LS-040-02,"Gravity plate, 4 m²",4,ea,12069.62,48278.48,Raxus Coolant Works,SHV-LS-DWG-0203

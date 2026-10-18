@@ -1,0 +1,7 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2024-00593,2024-01-10,SUP-014,Fondor Shipyards,1,EI-SY-030-01,"Dry dock seal assembly, main gate",4,ea,286804.38,1147217.52,2024-02-04
+EI-PO-2024-00593,2024-01-10,SUP-014,Fondor Shipyards,2,EI-SY-030-01,"Dry dock seal assembly, main gate",1,ea,273582.43,273582.43,2024-07-04
+EI-PO-2024-00593,2024-01-10,SUP-014,Fondor Shipyards,3,EI-SY-029-01,"Slipway rail segment, straight",6,ea,18864.08,113184.48,2024-02-21
+EI-PO-2024-00593,2024-01-10,SUP-014,Fondor Shipyards,4,EI-SY-029-01,"Slipway rail segment, straight",4,ea,19565.93,78263.72,2024-04-23
+EI-PO-2024-00593,2024-01-10,SUP-014,Fondor Shipyards,5,EI-SY-030-01,"Dry dock seal assembly, main gate",2,ea,267303.58,534607.16,2024-04-30
+EI-PO-2024-00593,,,,,,ORDER TOTAL,,,,2146855.31,

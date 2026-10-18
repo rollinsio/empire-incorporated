@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0076",
+  "queue": "IT_HELPDESK",
+  "subject": "Shared folder for Cargo Shuttle Production Line Expansion",
+  "description": "Please create a shared folder for the Cargo Shuttle Production Line Expansion team.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00819",
+    "name": "Margit Heinrich",
+    "email": "margit.heinrich@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00675",
+    "name": "Kalla Errant",
+    "email": "kalla.errant@empire-inc.example"
+  },
+  "created_at": "2026-07-17T17:41:00Z",
+  "resolved_at": "2026-07-19T08:41:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-07-17T19:08:00Z",
+      "author": "Kalla Errant",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-07-19T08:41:00Z",
+      "author": "Kalla Errant",
+      "text": "Folder created and team members added."
+    }
+  ]
+}

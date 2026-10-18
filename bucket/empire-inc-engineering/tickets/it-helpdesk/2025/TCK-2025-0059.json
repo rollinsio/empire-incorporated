@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0059",
+  "queue": "IT_HELPDESK",
+  "subject": "Datapad startet nicht",
+  "description": "Mein Datapad startet seit heute Morgen nicht mehr.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "de",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00843",
+    "name": "Uwe Köhler",
+    "email": "uwe.koehler@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00675",
+    "name": "Kalla Errant",
+    "email": "kalla.errant@empire-inc.example"
+  },
+  "created_at": "2025-06-22T12:31:00Z",
+  "resolved_at": "2025-06-27T17:31:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-06-22T14:33:00Z",
+      "author": "Kalla Errant",
+      "text": "Wird bearbeitet."
+    },
+    {
+      "at": "2025-06-27T17:31:00Z",
+      "author": "Kalla Errant",
+      "text": "Akku getauscht."
+    }
+  ]
+}

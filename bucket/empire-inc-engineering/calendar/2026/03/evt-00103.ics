@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00103@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260323T140000Z
+DTEND:20260323T150000Z
+SUMMARY:Workplace safety refresher
+LOCATION:Coruscant Headquarters\, room H41-07
+DESCRIPTION:Annual refresher: evacuation routes\, first aid\, reporting
+  near misses. Date: 2026-03-23.
+ORGANIZER;CN="Ferris Quayle":mailto:ferris.quayle@empire-inc.example
+ATTENDEE;CN="Vela Wakefield";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:vela.wakefield@empire-inc.example
+ATTENDEE;CN="Lorne Dravis";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:lorne.dravis@empire-inc.example
+ATTENDEE;CN="Rosk Calder";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rosk.calder@empire-inc.example
+ATTENDEE;CN="Sarik Redgrave";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:sarik.redgrave@empire-inc.example
+ATTENDEE;CN="Jessa Kessel";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:jessa.kessel@empire-inc.example
+ATTENDEE;CN="Rain Coldbrook";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rain.coldbrook@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

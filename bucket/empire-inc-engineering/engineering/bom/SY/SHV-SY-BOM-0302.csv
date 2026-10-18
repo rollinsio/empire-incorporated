@@ -1,0 +1,15 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SY-029-01,"Slipway rail segment, straight",12,ea,18378.84,220546.08,Kuat Drive Yards,SHV-SY-DWG-0202
+2,EI-SY-028-01,"Gantry crane hoist, 800 t",2,ea,673108.92,1346217.84,Ord Mantell Salvage & Supply,SHV-SY-DWG-0202
+3,EI-SY-029-02,"Slipway rail segment, curved",96,ea,17124.97,1643997.12,Abregado Droid Works,SHV-SY-DWG-0202
+4,EI-SY-028-02,"Gantry crane hoist, 2000 t",1,ea,535215.96,535215.96,Garel Composite Mills,SHV-SY-DWG-0202
+5,EI-SY-028-02,"Gantry crane hoist, 2000 t",2,ea,535215.96,1070431.92,Sluis Van Orbital Works,SHV-SY-DWG-0202
+6,EI-SY-028-01,"Gantry crane hoist, 800 t",1,ea,673108.92,673108.92,Kalist Mining Combine,SHV-SY-DWG-0202
+7,EI-SY-029-02,"Slipway rail segment, curved",1,ea,17124.97,17124.97,Bespin Gas Consortium,SHV-SY-DWG-0202
+8,EI-SY-029-01,"Slipway rail segment, straight",2,ea,18378.84,36757.68,Raxus Coolant Works,SHV-SY-DWG-0202
+9,EI-SY-030-02,"Dry dock seal assembly, service hatch",4,ea,259604.69,1038418.76,Garel Composite Mills,SHV-SY-DWG-0202
+10,EI-SY-029-02,"Slipway rail segment, curved",2,ea,17124.97,34249.94,Bespin Gas Consortium,SHV-SY-DWG-0202
+11,EI-SY-031-02,"Hull coating, marine-grade, topcoat",12,l,69.09,829.08,Telgorn Corporation,SHV-SY-DWG-0202
+12,EI-SY-028-01,"Gantry crane hoist, 800 t",8,ea,673108.92,5384871.36,Sluis Van Orbital Works,SHV-SY-DWG-0202
+13,EI-SY-029-01,"Slipway rail segment, straight",8,ea,18378.84,147030.72,Raxus Coolant Works,SHV-SY-DWG-0202
+14,EI-SY-030-01,"Dry dock seal assembly, main gate",1,ea,267163.20,267163.20,Fondor Foundry Collective,SHV-SY-DWG-0202

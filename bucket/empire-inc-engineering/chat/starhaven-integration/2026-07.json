@@ -1,0 +1,556 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#starhaven-integration",
+    "month": "2026-07",
+    "language": "en",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 57
+  },
+  "members": [
+    {
+      "user_id": "EMP-00003",
+      "name": "Edmund Tarrow",
+      "title": "Program Executive, Starhaven"
+    },
+    {
+      "user_id": "EMP-00004",
+      "name": "Lucan Merriweather",
+      "title": "Director, Science & Research"
+    },
+    {
+      "user_id": "EMP-00006",
+      "name": "Garrick Stroud",
+      "title": "Head of Station Operations"
+    },
+    {
+      "user_id": "EMP-00008",
+      "name": "Imogen Sallow",
+      "title": "Chief of Staff to the Program Executive"
+    },
+    {
+      "user_id": "EMP-00010",
+      "name": "Idris Kalvane",
+      "title": "Chief Engineer, Station Integration"
+    },
+    {
+      "user_id": "EMP-00039",
+      "name": "Danna Maddox",
+      "title": "Program Manager"
+    },
+    {
+      "user_id": "EMP-00049",
+      "name": "Ulric Arkwell",
+      "title": "Project Manager"
+    },
+    {
+      "user_id": "EMP-00053",
+      "name": "Darek Errant",
+      "title": "Project Manager"
+    },
+    {
+      "user_id": "EMP-00055",
+      "name": "Joren Wren",
+      "title": "Risk Manager"
+    },
+    {
+      "user_id": "EMP-00057",
+      "name": "Perrin Marlow",
+      "title": "Scheduler"
+    },
+    {
+      "user_id": "EMP-00060",
+      "name": "Theron Desmont",
+      "title": "Scheduler"
+    },
+    {
+      "user_id": "EMP-00061",
+      "name": "Merrin Rorke",
+      "title": "Risk Manager"
+    },
+    {
+      "user_id": "EMP-00063",
+      "name": "Wren Halloran",
+      "title": "Scheduler"
+    },
+    {
+      "user_id": "EMP-00064",
+      "name": "Alira Barrowe",
+      "title": "Project Analyst"
+    },
+    {
+      "user_id": "EMP-00068",
+      "name": "Teague Chalke",
+      "title": "Project Analyst"
+    },
+    {
+      "user_id": "EMP-00073",
+      "name": "Vesna Sable",
+      "title": "Scheduler"
+    },
+    {
+      "user_id": "EMP-00074",
+      "name": "Noa Palin",
+      "title": "Project Analyst"
+    }
+  ],
+  "messages": [
+    {
+      "id": "starhaven-integration-202607-0001",
+      "ts": "2026-07-01T12:35:41Z",
+      "user_id": "EMP-00060",
+      "user": "Theron Desmont",
+      "text": "Who has the approved revision of SHV-AG-SPEC-0104?",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0001-r1",
+          "ts": "2026-07-01T12:39:41Z",
+          "user_id": "EMP-00055",
+          "user": "Joren Wren",
+          "text": "SHV-AG-SPEC-0104 Rev C is the approved one; it is in the document registry."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0002",
+      "ts": "2026-07-02T16:18:24Z",
+      "user_id": "EMP-00073",
+      "user": "Vesna Sable",
+      "text": "Reminder: the program review is on Thursday at 09:00 in the Operations Centre conference suite.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0003",
+      "ts": "2026-07-02T17:06:32Z",
+      "user_id": "EMP-00049",
+      "user": "Ulric Arkwell",
+      "text": "Crane time for Z17 is fully booked this week; please plan lifts with the yard first.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0004",
+      "ts": "2026-07-03T10:20:28Z",
+      "user_id": "EMP-00061",
+      "user": "Merrin Rorke",
+      "text": "Z23 is at 88.4% complete in today's progress report.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0004-r1",
+          "ts": "2026-07-03T10:24:28Z",
+          "user_id": "EMP-00010",
+          "user": "Idris Kalvane",
+          "text": "Thanks, noted for the weekly review."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0005",
+      "ts": "2026-07-03T13:43:57Z",
+      "user_id": "EMP-00063",
+      "user": "Wren Halloran",
+      "text": "Who has the approved revision of SHV-CM-SPEC-0102?",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0006",
+      "ts": "2026-07-03T19:57:05Z",
+      "user_id": "EMP-00010",
+      "user": "Idris Kalvane",
+      "text": "Who has the approved revision of SHV-HR-SPEC-0103?",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0007",
+      "ts": "2026-07-04T06:57:29Z",
+      "user_id": "EMP-00004",
+      "user": "Lucan Merriweather",
+      "text": "Crane time for Z17 is fully booked this week; please plan lifts with the yard first.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0008",
+      "ts": "2026-07-04T13:37:17Z",
+      "user_id": "EMP-00060",
+      "user": "Theron Desmont",
+      "text": "Z24 is at 89.8% complete in today's progress report.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0008-r1",
+          "ts": "2026-07-04T13:43:17Z",
+          "user_id": "EMP-00057",
+          "user": "Perrin Marlow",
+          "text": "Thanks, noted for the weekly review."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0009",
+      "ts": "2026-07-04T14:39:38Z",
+      "user_id": "EMP-00074",
+      "user": "Noa Palin",
+      "text": "Integration slot for the array tracking drive is confirmed for next week.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0009-r1",
+          "ts": "2026-07-04T14:46:38Z",
+          "user_id": "EMP-00057",
+          "user": "Perrin Marlow",
+          "text": "Great, I will let the test team know."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0010",
+      "ts": "2026-07-05T09:46:14Z",
+      "user_id": "EMP-00039",
+      "user": "Danna Maddox",
+      "text": "Who has the approved revision of SHV-HR-SPEC-0103?",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0011",
+      "ts": "2026-07-06T16:44:11Z",
+      "user_id": "EMP-00061",
+      "user": "Merrin Rorke",
+      "text": "Integration slot for the maintenance terminal is confirmed for next week.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0011-r1",
+          "ts": "2026-07-06T16:48:11Z",
+          "user_id": "EMP-00068",
+          "user": "Teague Chalke",
+          "text": "Great, I will let the test team know."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0012",
+      "ts": "2026-07-06T17:59:27Z",
+      "user_id": "EMP-00068",
+      "user": "Teague Chalke",
+      "text": "Who has the approved revision of SHV-TX-SPEC-0101?",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0013",
+      "ts": "2026-07-07T19:20:38Z",
+      "user_id": "EMP-00061",
+      "user": "Merrin Rorke",
+      "text": "Z14 is at 94.0% complete in today's progress report.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0014",
+      "ts": "2026-07-09T18:55:35Z",
+      "user_id": "EMP-00055",
+      "user": "Joren Wren",
+      "text": "Reminder: the program review is on Thursday at 09:00 in the Operations Centre conference suite.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0015",
+      "ts": "2026-07-10T19:09:47Z",
+      "user_id": "EMP-00004",
+      "user": "Lucan Merriweather",
+      "text": "Reminder: the program review is on Thursday at 09:00 in the Operations Centre conference suite.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0016",
+      "ts": "2026-07-11T11:43:17Z",
+      "user_id": "EMP-00053",
+      "user": "Darek Errant",
+      "text": "Z06 is at 90.4% complete in today's progress report.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0016-r1",
+          "ts": "2026-07-11T11:47:17Z",
+          "user_id": "EMP-00004",
+          "user": "Lucan Merriweather",
+          "text": "Thanks, noted for the weekly review."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0017",
+      "ts": "2026-07-12T07:16:53Z",
+      "user_id": "EMP-00073",
+      "user": "Vesna Sable",
+      "text": "Crane time for Z17 is fully booked this week; please plan lifts with the yard first.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0017-r1",
+          "ts": "2026-07-12T07:22:53Z",
+          "user_id": "EMP-00003",
+          "user": "Edmund Tarrow",
+          "text": "Understood."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0018",
+      "ts": "2026-07-14T09:03:03Z",
+      "user_id": "EMP-00049",
+      "user": "Ulric Arkwell",
+      "text": "Reminder: the program review is on Thursday at 09:00 in the Operations Centre conference suite.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0019",
+      "ts": "2026-07-14T09:06:04Z",
+      "user_id": "EMP-00010",
+      "user": "Idris Kalvane",
+      "text": "Integration slot for the observatory telescope is confirmed for next week.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0019-r1",
+          "ts": "2026-07-14T09:12:04Z",
+          "user_id": "EMP-00049",
+          "user": "Ulric Arkwell",
+          "text": "Great, I will let the test team know."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0020",
+      "ts": "2026-07-15T15:12:21Z",
+      "user_id": "EMP-00060",
+      "user": "Theron Desmont",
+      "text": "Who has the approved revision of SHV-RL-SPEC-0102?",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0020-r1",
+          "ts": "2026-07-15T15:17:21Z",
+          "user_id": "EMP-00055",
+          "user": "Joren Wren",
+          "text": "SHV-RL-SPEC-0102 Rev D is the approved one; it is in the document registry."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0021",
+      "ts": "2026-07-15T18:40:00Z",
+      "user_id": "EMP-00061",
+      "user": "Merrin Rorke",
+      "text": "Integration slot for the mess hall is confirmed for next week.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0021-r1",
+          "ts": "2026-07-15T18:45:00Z",
+          "user_id": "EMP-00064",
+          "user": "Alira Barrowe",
+          "text": "Great, I will let the test team know."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0022",
+      "ts": "2026-07-16T07:38:45Z",
+      "user_id": "EMP-00057",
+      "user": "Perrin Marlow",
+      "text": "Z15 is at 95.0% complete in today's progress report.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0022-r1",
+          "ts": "2026-07-16T07:44:45Z",
+          "user_id": "EMP-00008",
+          "user": "Imogen Sallow",
+          "text": "Thanks, noted for the weekly review."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0023",
+      "ts": "2026-07-17T13:10:40Z",
+      "user_id": "EMP-00057",
+      "user": "Perrin Marlow",
+      "text": "Who has the approved revision of SHV-SF-SPEC-0104?",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0023-r1",
+          "ts": "2026-07-17T13:17:40Z",
+          "user_id": "EMP-00004",
+          "user": "Lucan Merriweather",
+          "text": "SHV-SF-SPEC-0104 Rev B is the approved one; it is in the document registry."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0024",
+      "ts": "2026-07-18T12:52:11Z",
+      "user_id": "EMP-00063",
+      "user": "Wren Halloran",
+      "text": "Crane time for Z04 is fully booked this week; please plan lifts with the yard first.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0024-r1",
+          "ts": "2026-07-18T12:58:11Z",
+          "user_id": "EMP-00060",
+          "user": "Theron Desmont",
+          "text": "Understood."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0025",
+      "ts": "2026-07-19T07:16:59Z",
+      "user_id": "EMP-00010",
+      "user": "Idris Kalvane",
+      "text": "Integration slot for the equatorial service ring is confirmed for next week.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0025-r1",
+          "ts": "2026-07-19T07:22:59Z",
+          "user_id": "EMP-00003",
+          "user": "Edmund Tarrow",
+          "text": "Great, I will let the test team know."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0026",
+      "ts": "2026-07-19T13:57:01Z",
+      "user_id": "EMP-00068",
+      "user": "Teague Chalke",
+      "text": "Reminder: the program review is on Thursday at 09:00 in the Operations Centre conference suite.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0027",
+      "ts": "2026-07-20T09:29:36Z",
+      "user_id": "EMP-00006",
+      "user": "Garrick Stroud",
+      "text": "Integration slot for the station-keeping thruster is confirmed for next week.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0027-r1",
+          "ts": "2026-07-20T09:36:36Z",
+          "user_id": "EMP-00073",
+          "user": "Vesna Sable",
+          "text": "Great, I will let the test team know."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0028",
+      "ts": "2026-07-20T10:41:45Z",
+      "user_id": "EMP-00010",
+      "user": "Idris Kalvane",
+      "text": "Integration slot for the nutrient solution dosing unit is confirmed for next week.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0028-r1",
+          "ts": "2026-07-20T10:48:45Z",
+          "user_id": "EMP-00064",
+          "user": "Alira Barrowe",
+          "text": "Great, I will let the test team know."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0029",
+      "ts": "2026-07-20T17:06:30Z",
+      "user_id": "EMP-00074",
+      "user": "Noa Palin",
+      "text": "Z17 is at 89.9% complete in today's progress report.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0030",
+      "ts": "2026-07-20T19:35:56Z",
+      "user_id": "EMP-00060",
+      "user": "Theron Desmont",
+      "text": "Integration slot for the cargo shuttle cradle is confirmed for next week.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0031",
+      "ts": "2026-07-21T16:59:20Z",
+      "user_id": "EMP-00003",
+      "user": "Edmund Tarrow",
+      "text": "Reminder: the program review is on Thursday at 09:00 in the Operations Centre conference suite.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0032",
+      "ts": "2026-07-22T19:53:06Z",
+      "user_id": "EMP-00006",
+      "user": "Garrick Stroud",
+      "text": "Integration slot for the antenna mast is confirmed for next week.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0032-r1",
+          "ts": "2026-07-22T20:00:06Z",
+          "user_id": "EMP-00039",
+          "user": "Danna Maddox",
+          "text": "Great, I will let the test team know."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0033",
+      "ts": "2026-07-23T10:11:30Z",
+      "user_id": "EMP-00073",
+      "user": "Vesna Sable",
+      "text": "Who has the approved revision of SHV-PR-SPEC-0102?",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0033-r1",
+          "ts": "2026-07-23T10:16:30Z",
+          "user_id": "EMP-00049",
+          "user": "Ulric Arkwell",
+          "text": "SHV-PR-SPEC-0102 Rev B is the approved one; it is in the document registry."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0034",
+      "ts": "2026-07-23T10:35:28Z",
+      "user_id": "EMP-00073",
+      "user": "Vesna Sable",
+      "text": "Reminder: the program review is on Thursday at 09:00 in the Operations Centre conference suite.",
+      "replies": []
+    },
+    {
+      "id": "starhaven-integration-202607-0035",
+      "ts": "2026-07-26T06:00:48Z",
+      "user_id": "EMP-00039",
+      "user": "Danna Maddox",
+      "text": "Crane time for Z05 is fully booked this week; please plan lifts with the yard first.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0035-r1",
+          "ts": "2026-07-26T06:04:48Z",
+          "user_id": "EMP-00049",
+          "user": "Ulric Arkwell",
+          "text": "Understood."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0036",
+      "ts": "2026-07-29T18:10:35Z",
+      "user_id": "EMP-00057",
+      "user": "Perrin Marlow",
+      "text": "Z13 is at 87.9% complete in today's progress report.",
+      "replies": [
+        {
+          "id": "starhaven-integration-202607-0036-r1",
+          "ts": "2026-07-29T18:14:35Z",
+          "user_id": "EMP-00061",
+          "user": "Merrin Rorke",
+          "text": "Thanks, noted for the weekly review."
+        }
+      ]
+    },
+    {
+      "id": "starhaven-integration-202607-0037",
+      "ts": "2026-07-30T09:09:48Z",
+      "user_id": "EMP-00063",
+      "user": "Wren Halloran",
+      "text": "Reminder: the program review is on Thursday at 09:00 in the Operations Centre conference suite.",
+      "replies": []
+    }
+  ]
+}

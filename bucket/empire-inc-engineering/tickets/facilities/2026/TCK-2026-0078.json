@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0078",
+  "queue": "FACILITIES",
+  "subject": "Cleaning request: Docking Bay 94 corridor",
+  "description": "Please arrange an extra clean at Docking Bay 94 corridor after the move.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00341",
+    "name": "Tarn Delane",
+    "email": "tarn.delane@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00991",
+    "name": "Rain Coldbrook",
+    "email": "rain.coldbrook@empire-inc.example"
+  },
+  "created_at": "2026-07-19T12:02:00Z",
+  "resolved_at": "2026-07-27T14:02:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-07-19T15:08:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-07-27T14:02:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Cleaning completed."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-CN-035-02,"Sensor array module, radiation",2,ea,11916.71,23833.42,Eriadu Steelworks,SHV-CN-DWG-0201
+2,EI-CN-034-01,"Maintenance port module, standard",8,ea,798.96,6391.68,Carbanti United Electronics,SHV-CN-DWG-0201
+3,EI-CN-035-02,"Sensor array module, radiation",4,ea,11916.71,47666.84,Rendili StarDrive,SHV-CN-DWG-0201
+4,EI-CN-034-01,"Maintenance port module, standard",12,ea,798.96,9587.52,Brentaal Logistics Guild,SHV-CN-DWG-0201
+5,EI-CN-033-01,"Data backbone switch, 48-port",4,ea,16643.89,66575.56,Rendili StarDrive,SHV-CN-DWG-0201
+6,EI-CN-032-01,"Computer core processing node, gen 7",1,ea,24260.78,24260.78,Corellian Bulk Fasteners,SHV-CN-DWG-0201
+7,EI-CN-035-01,"Sensor array module, thermal",1,ea,5655.23,5655.23,Ord Mantell Salvage & Supply,SHV-CN-DWG-0201
+8,EI-CN-034-01,"Maintenance port module, standard",8,ea,798.96,6391.68,Brentaal Logistics Guild,SHV-CN-DWG-0201
+9,EI-CN-034-01,"Maintenance port module, standard",96,ea,798.96,76700.16,Chiewab Medical,SHV-CN-DWG-0201

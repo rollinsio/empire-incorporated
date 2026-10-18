@@ -1,0 +1,6 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2023-00841,2023-05-15,SUP-026,Ord Mantell Salvage & Supply,1,EI-AG-048-02,"Seed stock, grains",120,kg,623.65,74838.00,2023-10-13
+EI-PO-2023-00841,2023-05-15,SUP-026,Ord Mantell Salvage & Supply,2,EI-AG-048-02,"Seed stock, grains",1,kg,613.16,613.16,2023-08-19
+EI-PO-2023-00841,2023-05-15,SUP-026,Ord Mantell Salvage & Supply,3,EI-AG-046-01,"Nutrient concentrate, leafy greens",20,l,48.18,963.60,2023-07-07
+EI-PO-2023-00841,2023-05-15,SUP-026,Ord Mantell Salvage & Supply,4,EI-AG-046-01,"Nutrient concentrate, leafy greens",1,l,44.40,44.40,2023-08-27
+EI-PO-2023-00841,,,,,,ORDER TOTAL,,,,76459.16,

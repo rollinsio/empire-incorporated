@@ -1,0 +1,5 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-00494,2026-02-07,SUP-015,Sluis Van Orbital Works,1,EI-SF-001-05,"Durasteel plate, grade E heavy",120,t,2148.56,257827.20,2026-06-18
+EI-PO-2026-00494,2026-02-07,SUP-015,Sluis Van Orbital Works,2,EI-SF-001-02,"Durasteel plate, grade B",40,t,2951.48,118059.20,2026-07-15
+EI-PO-2026-00494,2026-02-07,SUP-015,Sluis Van Orbital Works,3,EI-SF-006-01,"Hull fastener kit, M40",120,kit,253.97,30476.40,2026-07-27
+EI-PO-2026-00494,,,,,,ORDER TOTAL,,,,406362.80,

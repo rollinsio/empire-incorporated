@@ -1,0 +1,56 @@
+Name,Title,Email,Extension,Work location,Manager
+Seren Abernathe,Shuttle Pilot,seren.abernathe@empire-inc.example,x6879,Coruscant Headquarters,Dalric Avrane
+Garrow Adrel,Senior Flight Controller,garrow.adrel@empire-inc.example,x6208,Starhaven (on site),Dalric Avrane
+Alira Alcorne,Flight Controller,alira.alcorne@empire-inc.example,x8653,Starhaven (on site),Vance Torvald
+Hale Alcorne,Deck Coordinator,hale.alcorne@empire-inc.example,x8190,Starhaven (on site),Vance Torvald
+Daro Ardent,Flight Control Manager,daro.ardent@empire-inc.example,x6859,Starhaven (on site),Elsk Hartwell
+Kier Ardent,Senior Flight Controller,kier.ardent@empire-inc.example,x8668,Starhaven (on site),Kestin Galloway
+Desik Arkwell,Shuttle Pilot,desik.arkwell@empire-inc.example,x2221,Coruscant Headquarters,Danna Wade
+Kalla Arkwell,Hangar Technician,kalla.arkwell@empire-inc.example,x3304,Starhaven (on site),Dalric Avrane
+Isolde Ashcombe,Deck Coordinator,isolde.ashcombe@empire-inc.example,x4007,Starhaven (on site),Dalric Avrane
+Dalric Avrane,Flight Control Manager,dalric.avrane@empire-inc.example,x3526,Starhaven (on site),Elsk Hartwell
+Quell Barrowe,Senior Shuttle Pilot,quell.barrowe@empire-inc.example,x7484,Coruscant Headquarters,Vance Torvald
+Seren Barrowe,Hangar Technician,seren.barrowe@empire-inc.example,x8249,Coruscant Headquarters,Larsa Salter
+Ferris Belcourt,Senior Flight Controller,ferris.belcourt@empire-inc.example,x7795,Coruscant Headquarters,Daro Ardent
+Isolde Brannic,Flight Controller,isolde.brannic@empire-inc.example,x6652,Starhaven (on site),Larsa Salter
+Jarek Calder,Shuttle Pilot,jarek.calder@empire-inc.example,x7806,Coruscant Headquarters,Larsa Salter
+Merrin Calder,Deck Coordinator,merrin.calder@empire-inc.example,x5330,Starhaven (on site),Danna Wade
+Nils Calder,Hangar Technician,nils.calder@empire-inc.example,x7419,Starhaven (on site),Kestin Galloway
+Daro Daventry,Deck Coordinator,daro.daventry@empire-inc.example,x4597,Starhaven (on site),Kestin Galloway
+Rell Daventry,Senior Flight Controller,rell.daventry@empire-inc.example,x5630,Coruscant Headquarters,Danna Wade
+Rhett Dravis,Hangar Technician,rhett.dravis@empire-inc.example,x5058,Starhaven (on site),Kestin Galloway
+Ilka Drummond,Senior Flight Controller,ilka.drummond@empire-inc.example,x7100,Starhaven (on site),Dalric Avrane
+Kestin Galloway,Flight Control Manager,kestin.galloway@empire-inc.example,x4790,Coruscant Headquarters,Elsk Hartwell
+Theron Garron,Senior Flight Controller,theron.garron@empire-inc.example,x4045,Starhaven (on site),Daro Ardent
+Noa Greaves,Principal Flight Operations Officer,noa.greaves@empire-inc.example,x7731,Starhaven (on site),Danna Wade
+Hollis Harrick,Shuttle Pilot,hollis.harrick@empire-inc.example,x6633,Starhaven (on site),Daro Ardent
+Elsk Hartwell,"Deputy Director, Docking & Flight Operations",elsk.hartwell@empire-inc.example,x4992,Starhaven (on site),Dorian Hask
+Dorian Hask,"Director, Docking & Flight Operations",dorian.hask@empire-inc.example,x8795,Starhaven (on site),Edmund Tarrow
+Nerys Hawthorne,Senior Flight Controller,nerys.hawthorne@empire-inc.example,x3121,Starhaven (on site),Dalric Avrane
+Ciran Ingram,Senior Flight Controller,ciran.ingram@empire-inc.example,x5550,Coruscant Headquarters,Danna Wade
+Fallon Keller,Flight Controller,fallon.keller@empire-inc.example,x6381,Coruscant Headquarters,Larsa Salter
+Isolde Kendrick,Deck Coordinator,isolde.kendrick@empire-inc.example,x6684,Starhaven (on site),Vance Torvald
+Sarik Kendrick,Senior Shuttle Pilot,sarik.kendrick@empire-inc.example,x4639,Starhaven (on site),Larsa Salter
+Seren Kessel,Deck Coordinator,seren.kessel@empire-inc.example,x5562,Coruscant Headquarters,Larsa Salter
+Cassia Kingsley,Hangar Technician,cassia.kingsley@empire-inc.example,x7138,Coruscant Headquarters,Dalric Avrane
+Cedric Lancer,Senior Flight Controller,cedric.lancer@empire-inc.example,x2237,Starhaven (on site),Larsa Salter
+Noa Lancer,Senior Flight Controller,noa.lancer@empire-inc.example,x5898,Starhaven (on site),Vance Torvald
+Pax Lancer,Senior Flight Controller,pax.lancer@empire-inc.example,x3100,Starhaven (on site),Kestin Galloway
+Imra Leith,Deck Coordinator,imra.leith@empire-inc.example,x7466,Starhaven (on site),Daro Ardent
+Perrin Marrek,Principal Flight Operations Officer,perrin.marrek@empire-inc.example,x8040,Starhaven (on site),Danna Wade
+Linnea Mathers,Deck Coordinator,linnea.mathers@empire-inc.example,x4585,Starhaven (on site),Danna Wade
+Saela Mathers,Senior Flight Controller,saela.mathers@empire-inc.example,x6331,Coruscant Headquarters,Daro Ardent
+Senna Norcott,Hangar Technician,senna.norcott@empire-inc.example,x4177,Starhaven (on site),Danna Wade
+Torin Osgood,Senior Shuttle Pilot,torin.osgood@empire-inc.example,x8675,Starhaven (on site),Kestin Galloway
+Rhosa Pike,Flight Controller,rhosa.pike@empire-inc.example,x3458,Coruscant Headquarters,Vance Torvald
+Alira Rothe,Shuttle Pilot,alira.rothe@empire-inc.example,x3272,Starhaven (on site),Larsa Salter
+Larsa Salter,Hangar Operations Manager,larsa.salter@empire-inc.example,x3139,Starhaven (on site),Elsk Hartwell
+Rhosa Teague,Flight Controller,rhosa.teague@empire-inc.example,x3233,Coruscant Headquarters,Vance Torvald
+Callum Tibbet,Senior Flight Controller,callum.tibbet@empire-inc.example,x2572,Coruscant Headquarters,Vance Torvald
+Vance Torvald,Hangar Operations Manager,vance.torvald@empire-inc.example,x4041,Starhaven (on site),Elsk Hartwell
+Faren Vance,Senior Shuttle Pilot,faren.vance@empire-inc.example,x8443,Coruscant Headquarters,Dalric Avrane
+Ines Venner,Flight Controller,ines.venner@empire-inc.example,x3099,Coruscant Headquarters,Kestin Galloway
+Danna Wade,Flight Control Manager,danna.wade@empire-inc.example,x2669,Coruscant Headquarters,Elsk Hartwell
+Odile Warrick,Hangar Technician,odile.warrick@empire-inc.example,x2658,Coruscant Headquarters,Daro Ardent
+Odile Wren,Deck Coordinator,odile.wren@empire-inc.example,x3604,Starhaven (on site),Daro Ardent
+Bryn Yarrow,Flight Controller,bryn.yarrow@empire-inc.example,x3789,Starhaven (on site),Kestin Galloway

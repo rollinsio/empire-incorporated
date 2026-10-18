@@ -1,0 +1,10 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-PR-022-01,"Sublight ion engine module, standard",2,ea,707958.13,1415916.26,Scarif Data Systems,SHV-PR-DWG-0202
+2,EI-PR-024-01,"Gyroscope rotor assembly, standard",8,ea,370099.59,2960796.72,Mekuun Fabrication,SHV-PR-DWG-0202
+3,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",2,ea,51851.82,103703.64,Mustafar Refinery Cooperative,SHV-PR-DWG-0202
+4,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",4,ea,40510.25,162041.00,Alsakan Instruments,SHV-PR-DWG-0202
+5,EI-PR-022-01,"Sublight ion engine module, standard",4,ea,707958.13,2831832.52,Garel Composite Mills,SHV-PR-DWG-0202
+6,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",3,ea,51851.82,155555.46,Lothal Fleet Services,SHV-PR-DWG-0202
+7,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",12,ea,40510.25,486123.00,Mon Gazza Transport,SHV-PR-DWG-0202
+8,EI-PR-024-01,"Gyroscope rotor assembly, standard",8,ea,370099.59,2960796.72,Fondor Foundry Collective,SHV-PR-DWG-0202
+9,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",12,ea,40510.25,486123.00,Sluis Van Orbital Works,SHV-PR-DWG-0202

@@ -1,0 +1,7 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2024-01234,2024-11-25,SUP-022,Kalist Mining Combine,1,EI-TX-020-03,"Radiator fin panel, 9 m²",1,ea,2646.69,2646.69,2025-05-11
+EI-PO-2024-01234,2024-11-25,SUP-022,Kalist Mining Combine,2,EI-TX-019-02,"Heat exchanger core, 32-stack",3,ea,74323.84,222971.52,2025-04-22
+EI-PO-2024-01234,2024-11-25,SUP-022,Kalist Mining Combine,3,EI-TX-021-01,"Coolant pump, 40 m³/s",4,ea,51344.98,205379.92,2025-05-05
+EI-PO-2024-01234,2024-11-25,SUP-022,Kalist Mining Combine,4,EI-TX-021-01,"Coolant pump, 40 m³/s",20,ea,51055.38,1021107.60,2025-02-28
+EI-PO-2024-01234,2024-11-25,SUP-022,Kalist Mining Combine,5,EI-TX-021-01,"Coolant pump, 40 m³/s",120,ea,48123.16,5774779.20,2025-01-04
+EI-PO-2024-01234,,,,,,ORDER TOTAL,,,,7226884.93,

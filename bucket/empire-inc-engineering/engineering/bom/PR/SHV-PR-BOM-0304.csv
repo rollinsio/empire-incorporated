@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-PR-024-01,"Gyroscope rotor assembly, standard",8,ea,370099.59,2960796.72,Chiewab Medical,SHV-PR-DWG-0204
+2,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",12,ea,40510.25,486123.00,Kalist Mining Combine,SHV-PR-DWG-0204
+3,EI-PR-022-01,"Sublight ion engine module, standard",4,ea,707958.13,2831832.52,Chiewab Medical,SHV-PR-DWG-0204
+4,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",1,ea,51851.82,51851.82,Brentaal Logistics Guild,SHV-PR-DWG-0204
+5,EI-PR-024-01,"Gyroscope rotor assembly, standard",4,ea,370099.59,1480398.36,Scarif Data Systems,SHV-PR-DWG-0204
+6,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",2,ea,51851.82,103703.64,Fondor Shipyards,SHV-PR-DWG-0204
+7,EI-PR-022-01,"Sublight ion engine module, standard",1,ea,707958.13,707958.13,Ord Mantell Salvage & Supply,SHV-PR-DWG-0204
+8,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",2,ea,51851.82,103703.64,Rothana Heavy Cranes,SHV-PR-DWG-0204
+9,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",8,ea,51851.82,414814.56,Cygnus Spaceworks,SHV-PR-DWG-0204
+10,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",96,ea,40510.25,3888984.00,Chiewab Medical,SHV-PR-DWG-0204

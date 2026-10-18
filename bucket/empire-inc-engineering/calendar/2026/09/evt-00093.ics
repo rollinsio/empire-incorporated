@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00093@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260915T140000Z
+DTEND:20260915T150000Z
+SUMMARY:Shipyard Operations team meeting
+LOCATION:Coruscant Headquarters\, room H41-02
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-09-15.
+ORGANIZER;CN="Petra Valcourt":mailto:petra.valcourt@empire-inc.example
+ATTENDEE;CN="Anneka Lorne";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:anneka.lorne@empire-inc.example
+ATTENDEE;CN="Maelis Wakefield";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:maelis.wakefield@empire-inc.example
+ATTENDEE;CN="Asha Larkin";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:asha.larkin@empire-inc.example
+ATTENDEE;CN="Pax Darrow";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:pax.darrow@empire-inc.example
+ATTENDEE;CN="Perrin Greaves";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:perrin.greaves@empire-inc.example
+ATTENDEE;CN="Vesna Stagg";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:vesna.stagg@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

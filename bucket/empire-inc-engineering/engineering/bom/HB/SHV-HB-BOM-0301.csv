@@ -1,0 +1,12 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HB-026-02,"Magnetic containment field generator, docking",4,ea,138260.35,553041.40,Raxus Coolant Works,SHV-HB-DWG-0201
+2,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",4,ea,97349.16,389396.64,Uulshos Manufacturing,SHV-HB-DWG-0201
+3,EI-HB-026-02,"Magnetic containment field generator, docking",8,ea,138260.35,1106082.80,Mekuun Fabrication,SHV-HB-DWG-0201
+4,EI-HB-026-01,"Magnetic containment field generator, bay",4,ea,172229.69,688918.76,Rothana Heavy Cranes,SHV-HB-DWG-0201
+5,EI-HB-026-01,"Magnetic containment field generator, bay",1,ea,172229.69,172229.69,Garel Composite Mills,SHV-HB-DWG-0201
+6,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",2,ea,97349.16,194698.32,Bespin Gas Consortium,SHV-HB-DWG-0201
+7,EI-HB-026-01,"Magnetic containment field generator, bay",2,ea,172229.69,344459.38,Telgorn Corporation,SHV-HB-DWG-0201
+8,EI-HB-027-01,"Deck plating, anti-slip, standard",48,m²,182.70,8769.60,Alsakan Instruments,SHV-HB-DWG-0201
+9,EI-HB-026-01,"Magnetic containment field generator, bay",3,ea,172229.69,516689.07,Kuat Drive Yards,SHV-HB-DWG-0201
+10,EI-HB-027-01,"Deck plating, anti-slip, standard",1,m²,182.70,182.70,Carbanti United Electronics,SHV-HB-DWG-0201
+11,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",4,ea,82457.85,329831.40,Chiewab Medical,SHV-HB-DWG-0201

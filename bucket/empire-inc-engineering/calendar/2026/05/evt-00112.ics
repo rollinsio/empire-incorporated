@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00112@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260518T150000Z
+DTEND:20260518T160000Z
+SUMMARY:Quality Assurance & Test team meeting
+LOCATION:Coruscant Headquarters\, room H41-01
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-05-18.
+ORGANIZER;CN="Wendell Harrowgate":mailto
+ :wendell.harrowgate@empire-inc.example
+ATTENDEE;CN="Karsten Eckhardt";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:karsten.eckhardt@empire-inc.example
+ATTENDEE;CN="Nele Sommer";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:nele.sommer@empire-inc.example
+ATTENDEE;CN="Vira Tull";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:vira.tull@empire-inc.example
+ATTENDEE;CN="Elian Tull";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:elian.tull@empire-inc.example
+ATTENDEE;CN="Margit Baumann";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:margit.baumann@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

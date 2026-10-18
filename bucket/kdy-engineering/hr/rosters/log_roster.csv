@@ -1,0 +1,5 @@
+employee_id,name,title,email,manager
+KDY-E-0010,Cass Albright,Logistics Lead,cass.albright@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0138,Sola Wolcott,Logistics Planner,sola.wolcott@kuat-drive-yards.example,Cass Albright
+KDY-E-0139,Wilde Osgood,Dispatch Coordinator,wilde.osgood@kuat-drive-yards.example,Cass Albright
+KDY-E-0140,Jory Iverson,Logistics Planner,jory.iverson@kuat-drive-yards.example,Cass Albright

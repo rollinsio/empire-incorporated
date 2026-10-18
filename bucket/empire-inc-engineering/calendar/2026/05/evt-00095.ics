@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00095@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260513T140000Z
+DTEND:20260513T150000Z
+SUMMARY:Life Support & Habitation team meeting
+LOCATION:Coruscant Headquarters\, room H41-16
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-05-13.
+ORGANIZER;CN="Selene Abaroth":mailto:selene.abaroth@empire-inc.example
+ATTENDEE;CN="Bryn Ellery";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:bryn.ellery@empire-inc.example
+ATTENDEE;CN="Quinn Calloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:quinn.calloway@empire-inc.example
+ATTENDEE;CN="Hale Rothe";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:hale.rothe@empire-inc.example
+ATTENDEE;CN="Osric Orlen";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:osric.orlen@empire-inc.example
+ATTENDEE;CN="Elsk Yorke";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:elsk.yorke@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

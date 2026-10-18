@@ -1,0 +1,13 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HA-044-02,"Classroom furniture set, secondary",12,set,3049.09,36589.08,Cygnus Spaceworks,SHV-OC-DWG-0201
+2,EI-RL-056-01,"Telescope mirror segment, inner ring",4,ea,2134538.51,8538154.04,Kuat Drive Yards,SHV-OC-DWG-0201
+3,EI-TR-053-02,"Tram rail segment, 120 m",8,ea,5609.18,44873.44,Mon Gazza Transport,SHV-OC-DWG-0201
+4,EI-SF-003-01,"Hull plating section, type 1",2,ea,85551.04,171102.08,Kuat Drive Yards,SHV-OC-DWG-0201
+5,EI-RL-056-02,"Telescope mirror segment, outer ring",8,ea,2368185.51,18945484.08,Lianna Orbital Systems,SHV-OC-DWG-0201
+6,EI-SF-057-02,"Welding consumables pack, heavy",8,pack,88.54,708.32,Garel Composite Mills,SHV-OC-DWG-0201
+7,EI-PD-009-01,"Superconducting bus conduit, class 4",8,m,1780.68,14245.44,Fabritech,SHV-OC-DWG-0201
+8,EI-SF-003-04,"Hull plating section, type 4 polar",2,ea,53449.50,106899.00,Corulag Precision Optics,SHV-OC-DWG-0201
+9,EI-RL-054-02,"Laboratory fume hood, walk-in",12,ea,11615.37,139384.44,Scarif Data Systems,SHV-OC-DWG-0201
+10,EI-CN-035-01,"Sensor array module, thermal",12,ea,5655.23,67862.76,Chiewab Medical,SHV-OC-DWG-0201
+11,EI-SF-001-02,"Durasteel plate, grade B",2,t,3024.46,6048.92,Axxila Power Cells,SHV-OC-DWG-0201
+12,EI-TX-019-02,"Heat exchanger core, 32-stack",8,ea,75721.23,605769.84,Anaxes Turbolift Company,SHV-OC-DWG-0201

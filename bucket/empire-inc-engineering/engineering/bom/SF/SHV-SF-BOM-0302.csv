@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SF-007-01,"Structural bolt set, class 8",2,set,106.70,213.40,Chandrila Atmospherics,SHV-SF-DWG-0202
+2,EI-SF-003-03,"Hull plating section, type 3 equatorial",8,ea,66783.66,534269.28,Corulag Precision Optics,SHV-SF-DWG-0202
+3,EI-SF-006-04,"Hull fastener kit, M120",24,kit,195.17,4684.08,Mon Gazza Transport,SHV-SF-DWG-0202
+4,EI-SF-001-05,"Durasteel plate, grade E heavy",24,t,2079.87,49916.88,Mustafar Refinery Cooperative,SHV-SF-DWG-0202
+5,EI-SF-057-01,"Welding consumables pack, standard",24,pack,159.40,3825.60,Chandrila Atmospherics,SHV-SF-DWG-0202
+6,EI-SF-058-01,"Protective suit, vacuum rated, standard",24,ea,2287.40,54897.60,Fabritech,SHV-SF-DWG-0202
+7,EI-SF-001-04,"Durasteel plate, grade D marine",24,t,3694.59,88670.16,Eriadu Steelworks,SHV-SF-DWG-0202
+8,EI-SF-003-02,"Hull plating section, type 2",1,ea,78148.06,78148.06,Corulag Precision Optics,SHV-SF-DWG-0202
+9,EI-SF-002-04,"Quadanium steel beam, 140 m",8,t,2758.99,22071.92,Abregado Droid Works,SHV-SF-DWG-0202
+10,EI-SF-002-03,"Quadanium steel beam, 120 m",240,t,5720.88,1373011.20,Kuat Precision Instruments,SHV-SF-DWG-0202

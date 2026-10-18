@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00118@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260501T150000Z
+DTEND:20260501T160000Z
+SUMMARY:Workplace safety refresher
+LOCATION:Coruscant Headquarters\, room H41-15
+DESCRIPTION:Annual refresher: evacuation routes\, first aid\, reporting
+  near misses. Date: 2026-05-01.
+ORGANIZER;CN="Ferris Quayle":mailto:ferris.quayle@empire-inc.example
+ATTENDEE;CN="Rosk Calder";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rosk.calder@empire-inc.example
+ATTENDEE;CN="Calla Calder";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:calla.calder@empire-inc.example
+ATTENDEE;CN="Orla Yarrow";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:orla.yarrow@empire-inc.example
+ATTENDEE;CN="Sarik Redgrave";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:sarik.redgrave@empire-inc.example
+ATTENDEE;CN="Wilde Lancer";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:wilde.lancer@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

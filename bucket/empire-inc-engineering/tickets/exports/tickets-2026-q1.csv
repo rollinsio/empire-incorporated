@@ -1,0 +1,36 @@
+ticket_id,queue,subject,requester,assignee,priority,status,created_at,resolved_at,related_incident
+TCK-2026-0001,FACILITIES,Facility incident FI-2026-056,Lorne Dravis,Rain Coldbrook,MEDIUM,RESOLVED,2026-01-04T14:08:00Z,2026-01-13T17:00:00Z,FI-2026-056
+TCK-2026-0002,FACILITIES,Room too warm at Habitation block H-3 laundry,Petra Harrick,Sarik Redgrave,LOW,RESOLVED,2026-01-06T14:13:00Z,2026-02-06T14:13:00Z,
+TCK-2026-0003,FACILITIES,Lost badge replacement,Delia Greaves,Rosk Calder,MEDIUM,RESOLVED,2026-01-08T14:43:00Z,2026-01-10T11:43:00Z,
+TCK-2026-0004,IT_HELPDESK,Datapad screen cracked,Ciran Easton,Vance Garron,LOW,RESOLVED,2026-01-08T17:44:00Z,2026-01-10T04:44:00Z,
+TCK-2026-0005,FACILITIES,Turbolift noise near Scarif Archive Depot lobby,Nils Calder,Rosk Calder,LOW,RESOLVED,2026-01-13T09:54:00Z,2026-01-15T02:54:00Z,
+TCK-2026-0006,IT_HELPDESK,Holo-projector not working in meeting room LAB-B3,Jürgen Weber,Gessa Glenmore,MEDIUM,RESOLVED,2026-01-15T10:28:00Z,2026-01-28T12:28:00Z,
+TCK-2026-0007,FACILITIES,Turbolift noise near Docking Bay 94 corridor,Calla Embry,Rosk Calder,MEDIUM,RESOLVED,2026-01-19T12:52:00Z,2026-01-25T14:52:00Z,
+TCK-2026-0008,IT_HELPDESK,Shared folder for Scarif Records Archive Modernization,Dace Ashcombe,Vance Garron,LOW,RESOLVED,2026-01-22T11:42:00Z,2026-01-23T21:42:00Z,
+TCK-2026-0009,IT_HELPDESK,Printer on floor 29 jams,Finnick Sable,Kalla Errant,MEDIUM,RESOLVED,2026-01-24T15:30:00Z,2026-01-28T17:30:00Z,
+TCK-2026-0010,FACILITIES,Office chair broken,Isolde Penrose,Rosk Calder,LOW,RESOLVED,2026-01-25T08:54:00Z,2026-01-26T21:54:00Z,
+TCK-2026-0011,IT_HELPDESK,Printer on floor 29 jams,Larsa Kingsley,Ulla Calloway,LOW,RESOLVED,2026-01-31T12:41:00Z,2026-02-03T20:41:00Z,
+TCK-2026-0012,FACILITIES,Facility incident FI-2026-010,Maelis Alcorne,Orrin Thorne,MEDIUM,RESOLVED,2026-02-03T08:57:00Z,2026-02-17T17:00:00Z,FI-2026-010
+TCK-2026-0013,IT_HELPDESK,Calendar not syncing on datapad,Rell Ardent,Gessa Glenmore,MEDIUM,RESOLVED,2026-02-06T17:07:00Z,2026-02-08T02:07:00Z,
+TCK-2026-0014,FACILITIES,Turbolift noise near Habitation block H-3 laundry,Dagmar Winkler,Orrin Thorne,LOW,RESOLVED,2026-02-07T11:57:00Z,2026-02-20T19:57:00Z,
+TCK-2026-0015,IT_HELPDESK,Shared folder for Starhaven Orbital Habitat & Shipyard,Jarek Ulmer,Vance Garron,HIGH,RESOLVED,2026-02-08T07:48:00Z,2026-02-12T14:48:00Z,
+TCK-2026-0016,FACILITIES,Facility incident FI-2026-050,Orrin Thorne,Rain Coldbrook,HIGH,RESOLVED,2026-02-10T12:55:00Z,2026-02-19T17:00:00Z,FI-2026-050
+TCK-2026-0017,FACILITIES,Facility incident FI-2026-002,Riven Varrick,Rain Coldbrook,HIGH,RESOLVED,2026-02-11T13:34:00Z,2026-02-15T17:00:00Z,FI-2026-002
+TCK-2026-0018,FACILITIES,Facility incident FI-2026-029,Hessa Lorne,Rain Coldbrook,MEDIUM,RESOLVED,2026-02-11T14:15:00Z,2026-02-15T17:00:00Z,FI-2026-029
+TCK-2026-0019,FACILITIES,Lost badge replacement,Xan Arkwell,Sarik Redgrave,MEDIUM,RESOLVED,2026-02-12T11:01:00Z,2026-02-14T00:01:00Z,
+TCK-2026-0020,FACILITIES,Facility incident FI-2026-006,Barrin Kirwan,Lysander Arkwell,MEDIUM,RESOLVED,2026-02-13T13:30:00Z,2026-03-08T17:00:00Z,FI-2026-006
+TCK-2026-0021,IT_HELPDESK,Holo-projector not working in meeting room LAB-B3,Kestin Yarrow,Kesia Voren,LOW,RESOLVED,2026-02-17T08:07:00Z,2026-02-18T19:07:00Z,
+TCK-2026-0022,IT_HELPDESK,Mailbox full,Henrik Weber,Gessa Glenmore,LOW,RESOLVED,2026-02-17T14:50:00Z,2026-02-24T19:50:00Z,
+TCK-2026-0023,IT_HELPDESK,Datapad screen cracked,Ulla Crestwell,Vance Garron,MEDIUM,RESOLVED,2026-02-19T15:18:00Z,2026-03-04T23:18:00Z,
+TCK-2026-0024,FACILITIES,Facility incident FI-2026-060,Wilde Lancer,Sarik Redgrave,MEDIUM,RESOLVED,2026-02-19T16:03:00Z,2026-02-24T17:00:00Z,FI-2026-060
+TCK-2026-0025,IT_HELPDESK,Network slow at Coruscant Headquarters floor 41,Vesna Stagg,Kalla Errant,LOW,RESOLVED,2026-02-19T16:16:00Z,2026-02-20T12:16:00Z,
+TCK-2026-0026,IT_HELPDESK,Datapad screen cracked,Bale Vexley,Kesia Voren,HIGH,IN_PROGRESS,2026-02-28T07:50:00Z,,
+TCK-2026-0027,IT_HELPDESK,Software für Messarm installieren,Gisela Neumann,Kesia Voren,LOW,RESOLVED,2026-03-01T11:57:00Z,2026-03-11T19:57:00Z,
+TCK-2026-0028,IT_HELPDESK,Software install request: structural analysis suite,Lannic Salter,Gessa Glenmore,HIGH,RESOLVED,2026-03-01T17:14:00Z,2026-03-02T04:14:00Z,
+TCK-2026-0029,IT_HELPDESK,Holo-projector not working in meeting room LAB-B3,Osric Dunleavy,Vance Garron,LOW,RESOLVED,2026-03-03T07:02:00Z,2026-03-03T15:02:00Z,
+TCK-2026-0030,IT_HELPDESK,Software install request: thermal model toolkit,Zane Elsmore,Gessa Glenmore,MEDIUM,RESOLVED,2026-03-08T10:31:00Z,2026-03-08T12:31:00Z,
+TCK-2026-0031,IT_HELPDESK,Shared folder for Starhaven Orbital Habitat & Shipyard,Dorne Avrane,Kesia Voren,MEDIUM,RESOLVED,2026-03-15T14:44:00Z,2026-03-16T02:44:00Z,
+TCK-2026-0032,FACILITIES,Office chair broken,Dalric Avrane,Lysander Arkwell,LOW,RESOLVED,2026-03-18T08:57:00Z,2026-03-19T08:57:00Z,
+TCK-2026-0033,IT_HELPDESK,Datapad screen cracked,Saela Carrow,Gessa Glenmore,LOW,RESOLVED,2026-03-18T12:09:00Z,2026-03-31T13:09:00Z,
+TCK-2026-0034,IT_HELPDESK,Printer on floor 33 jams,Danna Tregar,Gessa Glenmore,HIGH,RESOLVED,2026-03-23T17:06:00Z,2026-03-24T16:06:00Z,
+TCK-2026-0035,IT_HELPDESK,Printer on floor 59 jams,Jory Avrane,Kalla Errant,MEDIUM,RESOLVED,2026-03-24T10:27:00Z,2026-03-25T13:27:00Z,

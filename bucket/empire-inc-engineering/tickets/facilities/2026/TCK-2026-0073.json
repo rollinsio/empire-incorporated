@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0073",
+  "queue": "FACILITIES",
+  "subject": "Kaffeemaschine im Pausenraum außer Betrieb",
+  "description": "Die Kaffeemaschine im Pausenraum von Halle 5 funktioniert nicht.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "de",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00804",
+    "name": "Annegret Falkenberg",
+    "email": "annegret.falkenberg@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00994",
+    "name": "Rosk Calder",
+    "email": "rosk.calder@empire-inc.example"
+  },
+  "created_at": "2026-07-12T17:13:00Z",
+  "resolved_at": "2026-07-13T08:13:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-07-12T18:59:00Z",
+      "author": "Rosk Calder",
+      "text": "Wird bearbeitet."
+    },
+    {
+      "at": "2026-07-13T08:13:00Z",
+      "author": "Rosk Calder",
+      "text": "Maschine entkalkt und repariert."
+    }
+  ]
+}

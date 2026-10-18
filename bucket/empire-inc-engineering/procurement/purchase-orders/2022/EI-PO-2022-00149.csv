@@ -1,0 +1,7 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2022-00149,2022-11-25,SUP-007,Fabritech,1,EI-HR-015-01,"Hypermatter fuel, stabilized, batch grade I",4,kg,129505.80,518023.20,2023-02-16
+EI-PO-2022-00149,2022-11-25,SUP-007,Fabritech,2,EI-HR-015-02,"Hypermatter fuel, stabilized, batch grade II",4,kg,135017.53,540070.12,2023-04-19
+EI-PO-2022-00149,2022-11-25,SUP-007,Fabritech,3,EI-HR-017-02,"Fuel injector cartridge, high-flow",3,ea,62084.73,186254.19,2023-04-25
+EI-PO-2022-00149,2022-11-25,SUP-007,Fabritech,4,EI-HR-016-01,"Containment field emitter, mk II",3,ea,680101.17,2040303.51,2023-03-25
+EI-PO-2022-00149,2022-11-25,SUP-007,Fabritech,5,EI-HR-015-01,"Hypermatter fuel, stabilized, batch grade I",2,kg,130592.82,261185.64,2023-04-22
+EI-PO-2022-00149,,,,,,ORDER TOTAL,,,,3545836.66,

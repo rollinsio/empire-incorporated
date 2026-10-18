@@ -1,0 +1,15 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HA-044-02,"Classroom furniture set, secondary",4,set,3049.09,12196.36,Sluis Van Orbital Works,SHV-HA-DWG-0202
+2,EI-HA-042-01,"Crew berth module, single",1,ea,3278.03,3278.03,Eriadu Steelworks,SHV-HA-DWG-0202
+3,EI-HA-042-02,"Crew berth module, family",1,ea,6387.92,6387.92,Mekuun Fabrication,SHV-HA-DWG-0202
+4,EI-HA-004-02,"Transparisteel viewport panel, medium",12,ea,16245.18,194942.16,Corellian Bulk Fasteners,SHV-HA-DWG-0202
+5,EI-HA-004-01,"Transparisteel viewport panel, small",96,ea,21578.32,2071518.72,Mekuun Fabrication,SHV-HA-DWG-0202
+6,EI-HA-041-02,"Medical supply kit, surgical",12,kit,398.31,4779.72,Mustafar Refinery Cooperative,SHV-HA-DWG-0202
+7,EI-HA-044-01,"Classroom furniture set, primary",2,set,1998.86,3997.72,Lianna Orbital Systems,SHV-HA-DWG-0202
+8,EI-HA-043-01,"Galley equipment set, standard",8,set,23359.01,186872.08,Anaxes Turbolift Company,SHV-HA-DWG-0202
+9,EI-HA-043-01,"Galley equipment set, standard",1,set,23359.01,23359.01,Mon Gazza Transport,SHV-HA-DWG-0202
+10,EI-HA-044-02,"Classroom furniture set, secondary",2,set,3049.09,6098.18,Eriadu Steelworks,SHV-HA-DWG-0202
+11,EI-HA-041-01,"Medical supply kit, standard",48,kit,429.31,20606.88,Kuat Drive Yards,SHV-HA-DWG-0202
+12,EI-HA-004-02,"Transparisteel viewport panel, medium",96,ea,16245.18,1559537.28,Ord Mantell Salvage & Supply,SHV-HA-DWG-0202
+13,EI-HA-004-02,"Transparisteel viewport panel, medium",8,ea,16245.18,129961.44,Telgorn Corporation,SHV-HA-DWG-0202
+14,EI-HA-004-03,"Transparisteel viewport panel, observation deck",240,ea,30614.84,7347561.60,Garel Composite Mills,SHV-HA-DWG-0202

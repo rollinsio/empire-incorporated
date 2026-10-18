@@ -1,0 +1,10 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-CN-033-02,"Data backbone switch, 96-port",8,ea,27131.58,217052.64,Telgorn Corporation,SHV-CN-DWG-0204
+2,EI-CN-032-01,"Computer core processing node, gen 7",8,ea,24260.78,194086.24,Uulshos Manufacturing,SHV-CN-DWG-0204
+3,EI-CN-034-01,"Maintenance port module, standard",1,ea,798.96,798.96,Mon Gazza Transport,SHV-CN-DWG-0204
+4,EI-CN-034-02,"Maintenance port module, ruggedized",1,ea,822.89,822.89,Lothal Fleet Services,SHV-CN-DWG-0204
+5,EI-CN-034-01,"Maintenance port module, standard",96,ea,798.96,76700.16,Carida Safety Supply,SHV-CN-DWG-0204
+6,EI-CN-032-01,"Computer core processing node, gen 7",4,ea,24260.78,97043.12,Rothana Heavy Cranes,SHV-CN-DWG-0204
+7,EI-CN-034-01,"Maintenance port module, standard",48,ea,798.96,38350.08,Eriadu Steelworks,SHV-CN-DWG-0204
+8,EI-CN-034-01,"Maintenance port module, standard",240,ea,798.96,191750.40,Kuat Precision Instruments,SHV-CN-DWG-0204
+9,EI-CN-034-02,"Maintenance port module, ruggedized",12,ea,822.89,9874.68,SoroSuub Corporation,SHV-CN-DWG-0204

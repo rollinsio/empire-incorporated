@@ -1,0 +1,6 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2021-00126,2021-12-04,SUP-015,Sluis Van Orbital Works,1,EI-LS-039-01,"Water reclamation membrane, standard",20,ea,2311.83,46236.60,2022-01-16
+EI-PO-2021-00126,2021-12-04,SUP-015,Sluis Van Orbital Works,2,EI-LS-040-01,"Gravity plate, 1 m²",12,ea,11720.39,140644.68,2022-02-10
+EI-PO-2021-00126,2021-12-04,SUP-015,Sluis Van Orbital Works,3,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",80,ea,276.86,22148.80,2022-05-11
+EI-PO-2021-00126,2021-12-04,SUP-015,Sluis Van Orbital Works,4,EI-LS-040-02,"Gravity plate, 4 m²",20,ea,12608.35,252167.00,2022-03-14
+EI-PO-2021-00126,,,,,,ORDER TOTAL,,,,461197.08,

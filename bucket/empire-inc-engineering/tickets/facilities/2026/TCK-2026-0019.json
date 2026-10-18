@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0019",
+  "queue": "FACILITIES",
+  "subject": "Lost badge replacement",
+  "description": "I lost my badge near Reactor access walkway 7.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00606",
+    "name": "Xan Arkwell",
+    "email": "xan.arkwell@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00998",
+    "name": "Sarik Redgrave",
+    "email": "sarik.redgrave@empire-inc.example"
+  },
+  "created_at": "2026-02-12T11:01:00Z",
+  "resolved_at": "2026-02-14T00:01:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-02-12T14:16:00Z",
+      "author": "Sarik Redgrave",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-02-14T00:01:00Z",
+      "author": "Sarik Redgrave",
+      "text": "Badge replaced at reception."
+    }
+  ]
+}

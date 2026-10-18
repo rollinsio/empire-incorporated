@@ -1,0 +1,7 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-LS-039-01,"Water reclamation membrane, standard",1,ea,2183.44,2183.44,Chiewab Medical,SHV-LS-DWG-0202
+2,EI-LS-040-01,"Gravity plate, 1 m²",1,ea,11976.11,11976.11,Fondor Shipyards,SHV-LS-DWG-0202
+3,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",12,ea,280.79,3369.48,Kuat Precision Instruments,SHV-LS-DWG-0202
+4,EI-LS-040-01,"Gravity plate, 1 m²",2,ea,11976.11,23952.22,Mekuun Fabrication,SHV-LS-DWG-0202
+5,EI-LS-038-01,"Atmosphere scrubber cartridge, CO2",8,ea,329.04,2632.32,Carida Safety Supply,SHV-LS-DWG-0202
+6,EI-LS-039-01,"Water reclamation membrane, standard",48,ea,2183.44,104805.12,Sluis Van Orbital Works,SHV-LS-DWG-0202

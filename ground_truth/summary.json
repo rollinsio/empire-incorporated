@@ -1,0 +1,143 @@
+{
+  "as_of": "2026-09-30",
+  "tenants": {
+    "empire": {
+      "company": "Empire Incorporated",
+      "database": "empire_inc",
+      "schema": "empire",
+      "bucket": "empire-inc-engineering",
+      "documents": 2244,
+      "bytes": 14456608,
+      "german_documents": 305,
+      "by_label": {
+        "PUBLIC": 16,
+        "INTERNAL": 1444,
+        "CONFIDENTIAL": 702,
+        "RESTRICTED": 82
+      },
+      "by_format": {
+        "csv": 134,
+        "docx": 171,
+        "eml": 434,
+        "ics": 119,
+        "json": 347,
+        "md": 398,
+        "pdf": 474,
+        "png": 42,
+        "svg": 68,
+        "xlsx": 57
+      },
+      "by_type": {
+        "BILL_OF_MATERIALS": 84,
+        "BUDGET": 24,
+        "CALENDAR_INVITE": 119,
+        "CHAT_EXPORT": 60,
+        "CHECKLIST": 1,
+        "COMPENSATION": 4,
+        "CONTRACT": 47,
+        "DATA_EXPORT": 3,
+        "DELIVERY_NOTE": 2,
+        "DESIGN_DESCRIPTION": 17,
+        "DRAWING": 109,
+        "EMAIL": 434,
+        "FINANCIAL_MODEL": 1,
+        "HANDOVER": 1,
+        "INSPECTION_REPORT": 162,
+        "INTERFACE_CONTROL": 24,
+        "INVENTORY_COUNT": 1,
+        "INVOICE": 1,
+        "MEETING_MINUTES": 98,
+        "MEMO": 1,
+        "NONCONFORMANCE_REPORT": 58,
+        "NOTE": 2,
+        "PERFORMANCE_REVIEW": 81,
+        "PHOTO": 1,
+        "POLICY": 15,
+        "PRESS_RELEASE": 16,
+        "PURCHASE_ORDER": 150,
+        "REPORT": 1,
+        "ROSTER": 18,
+        "SCHEDULE": 4,
+        "SIMULATION": 52,
+        "SPECIFICATION": 79,
+        "STATUS_REPORT": 105,
+        "SUPPLIER_QUOTE": 1,
+        "SURVEY": 1,
+        "TEST_REPORT": 224,
+        "TICKET": 235,
+        "TICKET_EXPORT": 7,
+        "WORKBOOK": 1
+      }
+    },
+    "kdy": {
+      "company": "Kuat Drive Yards",
+      "database": "kdy",
+      "schema": "kdy",
+      "bucket": "kdy-engineering",
+      "documents": 105,
+      "bytes": 372807,
+      "german_documents": 0,
+      "by_label": {
+        "PUBLIC": 2,
+        "INTERNAL": 33,
+        "CONFIDENTIAL": 69,
+        "RESTRICTED": 1
+      },
+      "by_format": {
+        "csv": 9,
+        "eml": 12,
+        "md": 3,
+        "pdf": 54,
+        "xlsx": 27
+      },
+      "by_type": {
+        "BOARD_MINUTES": 11,
+        "CATALOGUE": 1,
+        "COMPENSATION": 1,
+        "COST_RATES": 3,
+        "EMAIL": 12,
+        "MARGIN_ANALYSIS": 11,
+        "POLICY": 2,
+        "PRESS_RELEASE": 1,
+        "PRODUCTION_SCHEDULE": 12,
+        "QUOTE": 42,
+        "ROSTER": 9
+      }
+    }
+  },
+  "questions": {
+    "total": 424,
+    "by_category": {
+      "lookup": 181,
+      "cross_source": 78,
+      "temporal": 52,
+      "approved_revision": 11,
+      "tenant_isolation": 11,
+      "no_answer": 16,
+      "access_control": 23,
+      "injection": 8,
+      "mislabeled": 12,
+      "analytics": 32
+    },
+    "by_expected_type": {
+      "answer": 364,
+      "decline_instruction": 8,
+      "not_found": 27,
+      "refuse": 25
+    },
+    "by_tenant": {
+      "empire": 388,
+      "kdy": 36
+    }
+  },
+  "manifest": {
+    "total": 41,
+    "by_category": {
+      "approved_revision": 6,
+      "injection": 8,
+      "messy": 19,
+      "mislabeled": 6,
+      "tenant_isolation": 2
+    }
+  }
+}

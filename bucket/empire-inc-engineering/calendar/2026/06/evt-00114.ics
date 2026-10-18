@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00114@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260608T100000Z
+DTEND:20260608T110000Z
+SUMMARY:Procurement & Supply Chain team meeting
+LOCATION:Coruscant Headquarters\, room H41-15
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-06-08.
+ORGANIZER;CN="Rennick Solberg":mailto:rennick.solberg@empire-inc.example
+ATTENDEE;CN="Jessa Holloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:jessa.holloway@empire-inc.example
+ATTENDEE;CN="Odile Ashby";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:odile.ashby@empire-inc.example
+ATTENDEE;CN="Arden Holloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:arden.holloway@empire-inc.example
+ATTENDEE;CN="Remy Dunmore";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:remy.dunmore@empire-inc.example
+ATTENDEE;CN="Arden Dallan";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:arden.dallan@empire-inc.example
+ATTENDEE;CN="Gavren Nevins";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:gavren.nevins@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

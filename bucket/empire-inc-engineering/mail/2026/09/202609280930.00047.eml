@@ -1,0 +1,49 @@
+From: Nils Sable <nils.sable@empire-inc.example>
+To: Merel Danvik <merel.danvik@kuat-drive-yards.example>
+Subject: Open Kuat Drive Yards orders
+Date: Mon, 28 Sep 2026 09:30:00 +0000
+Message-ID: <202609280930.00047@empire-inc.example>
+X-Classification: CONFIDENTIAL
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_empire_mail_00047"
+
+--=_empire_mail_00047
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+CONFIDENTIAL
+
+Hello Merel,
+
+ahead of next week's supplier review: 10 purchase orders are still open
+or partially delivered. The list is attached.
+
+Best regards,
+Nils
+
+-- 
+Nils Sable
+Category Manager
+Procurement & Supply Chain
+Empire Incorporated
+Ext. x3403
+
+--=_empire_mail_00047
+Content-Type: text/csv; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename="kdy-open-orders-2026-09-28.csv"
+MIME-Version: 1.0
+
+po_number,order_date,status,total_credits
+EI-PO-2026-00062,2026-05-04,PARTIAL,115303.00
+EI-PO-2026-00146,2026-04-24,OPEN,6072027.05
+EI-PO-2026-00531,2026-09-21,OPEN,31093.15
+EI-PO-2026-00611,2026-07-22,OPEN,3061949.91
+EI-PO-2026-00618,2026-06-13,PARTIAL,30688.08
+EI-PO-2026-00645,2026-07-05,OPEN,6504454.38
+EI-PO-2026-00768,2026-07-08,PARTIAL,4431283.76
+EI-PO-2026-00859,2026-08-26,OPEN,273327.73
+EI-PO-2026-00871,2026-06-25,PARTIAL,22826.36
+EI-PO-2026-00882,2026-06-28,OPEN,484265.68
+
+--=_empire_mail_00047--

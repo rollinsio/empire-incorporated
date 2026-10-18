@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0084",
+  "queue": "FACILITIES",
+  "subject": "Facility incident FI-2026-058",
+  "description": "Logged from the facilities hotline. The details are recorded in facility incident FI-2026-058.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00981",
+    "name": "Jaska Desmont",
+    "email": "jaska.desmont@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00998",
+    "name": "Sarik Redgrave",
+    "email": "sarik.redgrave@empire-inc.example"
+  },
+  "created_at": "2026-08-06T16:28:00Z",
+  "resolved_at": "2026-09-04T17:00:00Z",
+  "related_incident": "FI-2026-058",
+  "comments": [
+    {
+      "at": "2026-08-06T18:46:00Z",
+      "author": "Sarik Redgrave",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-09-04T17:00:00Z",
+      "author": "Sarik Redgrave",
+      "text": "Incident closed by Facilities & Workplace Safety."
+    }
+  ]
+}

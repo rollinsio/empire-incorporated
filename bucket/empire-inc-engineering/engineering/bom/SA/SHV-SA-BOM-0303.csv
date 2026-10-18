@@ -1,0 +1,7 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SA-013-01,"Solar collector panel, standard",24,ea,42611.21,1022669.04,SoroSuub Corporation,SHV-SA-DWG-0203
+2,EI-SA-013-02,"Solar collector panel, high-efficiency",2,ea,48084.64,96169.28,Telgorn Corporation,SHV-SA-DWG-0203
+3,EI-SA-013-01,"Solar collector panel, standard",240,ea,42611.21,10226690.40,Mustafar Refinery Cooperative,SHV-SA-DWG-0203
+4,EI-SA-014-01,"Tracking drive motor, standard",48,ea,22744.05,1091714.40,Sluis Van Orbital Works,SHV-SA-DWG-0203
+5,EI-SA-014-01,"Tracking drive motor, standard",1,ea,22744.05,22744.05,Lianna Orbital Systems,SHV-SA-DWG-0203
+6,EI-SA-013-01,"Solar collector panel, standard",2,ea,42611.21,85222.42,Carida Safety Supply,SHV-SA-DWG-0203

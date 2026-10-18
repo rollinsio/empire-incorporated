@@ -1,0 +1,274 @@
+{
+  "simulation_id": "SHV-AG-SIM-0017",
+  "title": "Hydroponic crop cycle (run 17)",
+  "system": "AG",
+  "classification": "INTERNAL",
+  "model_version": "6.9.5",
+  "run_date": "2024-06-14",
+  "engineer": "Joren Mathers",
+  "engineer_id": "EMP-00165",
+  "inputs": {
+    "scenario": "nominal",
+    "duration_steps": 42
+  },
+  "results": {
+    "summary": {
+      "peak_water_use_m3": 71.019,
+      "peak_step": 41
+    },
+    "series": [
+      {
+        "t": 0,
+        "day": 51.896,
+        "biomass_kg": 81.722,
+        "water_use_m3": 60.566
+      },
+      {
+        "t": 1,
+        "day": 53.59,
+        "biomass_kg": 82.837,
+        "water_use_m3": 60.848
+      },
+      {
+        "t": 2,
+        "day": 53.991,
+        "biomass_kg": 83.933,
+        "water_use_m3": 56.172
+      },
+      {
+        "t": 3,
+        "day": 51.951,
+        "biomass_kg": 83.774,
+        "water_use_m3": 59.816
+      },
+      {
+        "t": 4,
+        "day": 53.866,
+        "biomass_kg": 82.665,
+        "water_use_m3": 59.879
+      },
+      {
+        "t": 5,
+        "day": 54.336,
+        "biomass_kg": 85.146,
+        "water_use_m3": 61.291
+      },
+      {
+        "t": 6,
+        "day": 53.246,
+        "biomass_kg": 86.977,
+        "water_use_m3": 61.474
+      },
+      {
+        "t": 7,
+        "day": 53.035,
+        "biomass_kg": 83.996,
+        "water_use_m3": 61.018
+      },
+      {
+        "t": 8,
+        "day": 52.59,
+        "biomass_kg": 85.401,
+        "water_use_m3": 62.74
+      },
+      {
+        "t": 9,
+        "day": 54.243,
+        "biomass_kg": 85.666,
+        "water_use_m3": 59.65
+      },
+      {
+        "t": 10,
+        "day": 54.194,
+        "biomass_kg": 85.785,
+        "water_use_m3": 60.017
+      },
+      {
+        "t": 11,
+        "day": 53.535,
+        "biomass_kg": 87.171,
+        "water_use_m3": 58.118
+      },
+      {
+        "t": 12,
+        "day": 54.109,
+        "biomass_kg": 85.274,
+        "water_use_m3": 62.157
+      },
+      {
+        "t": 13,
+        "day": 53.608,
+        "biomass_kg": 86.757,
+        "water_use_m3": 62.802
+      },
+      {
+        "t": 14,
+        "day": 56.812,
+        "biomass_kg": 88.17,
+        "water_use_m3": 60.459
+      },
+      {
+        "t": 15,
+        "day": 56.796,
+        "biomass_kg": 87.083,
+        "water_use_m3": 64.094
+      },
+      {
+        "t": 16,
+        "day": 55.104,
+        "biomass_kg": 87.746,
+        "water_use_m3": 62.896
+      },
+      {
+        "t": 17,
+        "day": 56.929,
+        "biomass_kg": 86.46,
+        "water_use_m3": 63.356
+      },
+      {
+        "t": 18,
+        "day": 54.69,
+        "biomass_kg": 89.434,
+        "water_use_m3": 63.802
+      },
+      {
+        "t": 19,
+        "day": 55.134,
+        "biomass_kg": 86.703,
+        "water_use_m3": 64.336
+      },
+      {
+        "t": 20,
+        "day": 55.296,
+        "biomass_kg": 88.287,
+        "water_use_m3": 64.206
+      },
+      {
+        "t": 21,
+        "day": 55.173,
+        "biomass_kg": 88.732,
+        "water_use_m3": 63.953
+      },
+      {
+        "t": 22,
+        "day": 57.159,
+        "biomass_kg": 88.377,
+        "water_use_m3": 63.664
+      },
+      {
+        "t": 23,
+        "day": 56.939,
+        "biomass_kg": 91.673,
+        "water_use_m3": 64.721
+      },
+      {
+        "t": 24,
+        "day": 56.766,
+        "biomass_kg": 89.724,
+        "water_use_m3": 65.98
+      },
+      {
+        "t": 25,
+        "day": 56.971,
+        "biomass_kg": 88.882,
+        "water_use_m3": 67.194
+      },
+      {
+        "t": 26,
+        "day": 55.507,
+        "biomass_kg": 89.293,
+        "water_use_m3": 63.809
+      },
+      {
+        "t": 27,
+        "day": 57.921,
+        "biomass_kg": 91.166,
+        "water_use_m3": 66.296
+      },
+      {
+        "t": 28,
+        "day": 58.878,
+        "biomass_kg": 91.959,
+        "water_use_m3": 66.279
+      },
+      {
+        "t": 29,
+        "day": 56.972,
+        "biomass_kg": 93.714,
+        "water_use_m3": 65.031
+      },
+      {
+        "t": 30,
+        "day": 57.667,
+        "biomass_kg": 88.894,
+        "water_use_m3": 66.776
+      },
+      {
+        "t": 31,
+        "day": 58.938,
+        "biomass_kg": 89.853,
+        "water_use_m3": 66.301
+      },
+      {
+        "t": 32,
+        "day": 58.028,
+        "biomass_kg": 92.286,
+        "water_use_m3": 65.241
+      },
+      {
+        "t": 33,
+        "day": 57.48,
+        "biomass_kg": 95.862,
+        "water_use_m3": 67.793
+      },
+      {
+        "t": 34,
+        "day": 60.282,
+        "biomass_kg": 93.504,
+        "water_use_m3": 67.551
+      },
+      {
+        "t": 35,
+        "day": 57.103,
+        "biomass_kg": 95.112,
+        "water_use_m3": 66.564
+      },
+      {
+        "t": 36,
+        "day": 59.427,
+        "biomass_kg": 97.503,
+        "water_use_m3": 68.093
+      },
+      {
+        "t": 37,
+        "day": 57.547,
+        "biomass_kg": 95.719,
+        "water_use_m3": 67.831
+      },
+      {
+        "t": 38,
+        "day": 60.546,
+        "biomass_kg": 92.018,
+        "water_use_m3": 68.489
+      },
+      {
+        "t": 39,
+        "day": 60.114,
+        "biomass_kg": 93.149,
+        "water_use_m3": 65.707
+      },
+      {
+        "t": 40,
+        "day": 58.06,
+        "biomass_kg": 93.127,
+        "water_use_m3": 68.172
+      },
+      {
+        "t": 41,
+        "day": 61.007,
+        "biomass_kg": 94.748,
+        "water_use_m3": 71.019
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-TR-051-02,"Turbolift car assembly, 40-person",8,ea,387909.22,3103273.76,Corulag Precision Optics,SHV-TR-DWG-0203
+2,EI-TR-051-02,"Turbolift car assembly, 40-person",2,ea,387909.22,775818.44,Naboo Hydroponic Supply,SHV-TR-DWG-0203
+3,EI-TR-051-01,"Turbolift car assembly, 12-person",2,ea,362535.70,725071.40,Garel Composite Mills,SHV-TR-DWG-0203
+4,EI-TR-053-02,"Tram rail segment, 120 m",12,ea,5609.18,67310.16,Cygnus Spaceworks,SHV-TR-DWG-0203
+5,EI-TR-052-02,"Tram bogie, trailer",8,ea,47009.03,376072.24,Abregado Droid Works,SHV-TR-DWG-0203
+6,EI-TR-052-01,"Tram bogie, powered",240,ea,48500.96,11640230.40,Raxus Coolant Works,SHV-TR-DWG-0203
+7,EI-TR-052-02,"Tram bogie, trailer",240,ea,47009.03,11282167.20,Rothana Heavy Cranes,SHV-TR-DWG-0203
+8,EI-TR-052-01,"Tram bogie, powered",12,ea,48500.96,582011.52,Kuat Drive Yards,SHV-TR-DWG-0203
+9,EI-TR-052-02,"Tram bogie, trailer",12,ea,47009.03,564108.36,SoroSuub Corporation,SHV-TR-DWG-0203
+10,EI-TR-053-01,"Tram rail segment, 40 m",48,ea,4659.42,223652.16,Abregado Droid Works,SHV-TR-DWG-0203
+11,EI-TR-052-01,"Tram bogie, powered",4,ea,48500.96,194003.84,Naboo Hydroponic Supply,SHV-TR-DWG-0203

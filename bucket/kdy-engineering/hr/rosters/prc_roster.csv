@@ -1,0 +1,9 @@
+employee_id,name,title,email,manager
+KDY-E-0009,Jory Fenner,Head of Procurement,jory.fenner@kuat-drive-yards.example,Aurelia Vantress
+KDY-E-0131,Barrin Corrin,Buyer,barrin.corrin@kuat-drive-yards.example,Jory Fenner
+KDY-E-0132,Osric Lusk,Supplier Quality Engineer,osric.lusk@kuat-drive-yards.example,Jory Fenner
+KDY-E-0133,Faren Sable,Buyer,faren.sable@kuat-drive-yards.example,Jory Fenner
+KDY-E-0134,Cassia Ancel,Supplier Quality Engineer,cassia.ancel@kuat-drive-yards.example,Jory Fenner
+KDY-E-0135,Tilda Desmont,Buyer,tilda.desmont@kuat-drive-yards.example,Jory Fenner
+KDY-E-0136,Sabel Lusk,Supplier Quality Engineer,sabel.lusk@kuat-drive-yards.example,Jory Fenner
+KDY-E-0137,Cedric Fairholm,Buyer,cedric.fairholm@kuat-drive-yards.example,Jory Fenner

@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-TR-053-02,"Tram rail segment, 120 m",12,ea,5609.18,67310.16,Telgorn Corporation,SHV-TR-DWG-0202
+2,EI-TR-051-01,"Turbolift car assembly, 12-person",2,ea,362535.70,725071.40,Lothal Fleet Services,SHV-TR-DWG-0202
+3,EI-TR-052-01,"Tram bogie, powered",96,ea,48500.96,4656092.16,Fondor Shipyards,SHV-TR-DWG-0202
+4,EI-TR-052-02,"Tram bogie, trailer",48,ea,47009.03,2256433.44,Garel Composite Mills,SHV-TR-DWG-0202
+5,EI-TR-051-02,"Turbolift car assembly, 40-person",4,ea,387909.22,1551636.88,SoroSuub Corporation,SHV-TR-DWG-0202
+6,EI-TR-051-01,"Turbolift car assembly, 12-person",4,ea,362535.70,1450142.80,Fabritech,SHV-TR-DWG-0202
+7,EI-TR-053-01,"Tram rail segment, 40 m",4,ea,4659.42,18637.68,Raxus Coolant Works,SHV-TR-DWG-0202
+8,EI-TR-053-01,"Tram rail segment, 40 m",24,ea,4659.42,111826.08,Mustafar Refinery Cooperative,SHV-TR-DWG-0202
+9,EI-TR-052-01,"Tram bogie, powered",96,ea,48500.96,4656092.16,Rendili StarDrive,SHV-TR-DWG-0202
+10,EI-TR-052-01,"Tram bogie, powered",4,ea,48500.96,194003.84,Corulag Precision Optics,SHV-TR-DWG-0202

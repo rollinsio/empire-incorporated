@@ -1,0 +1,6 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-01114,2026-02-27,SUP-031,Scarif Data Systems,1,EI-PR-022-01,"Sublight ion engine module, standard",1,ea,764325.73,764325.73,2026-05-30
+EI-PO-2026-01114,2026-02-27,SUP-031,Scarif Data Systems,2,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",1,ea,40633.19,40633.19,2026-06-16
+EI-PO-2026-01114,2026-02-27,SUP-031,Scarif Data Systems,3,EI-PR-022-01,"Sublight ion engine module, standard",1,ea,761048.63,761048.63,2026-07-26
+EI-PO-2026-01114,2026-02-27,SUP-031,Scarif Data Systems,4,EI-PR-024-01,"Gyroscope rotor assembly, standard",1,ea,398525.80,398525.80,2026-05-20
+EI-PO-2026-01114,,,,,,ORDER TOTAL,,,,1964533.35,

@@ -1,0 +1,4 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2024-01407,2024-11-17,SUP-017,Eriadu Steelworks,1,EI-RL-055-02,"Cleanroom filter unit, class 6",6,ea,2399.55,14397.30,2025-02-02
+EI-PO-2024-01407,2024-11-17,SUP-017,Eriadu Steelworks,2,EI-RL-054-01,"Laboratory fume hood, standard",4,ea,12355.67,49422.68,2024-12-03
+EI-PO-2024-01407,,,,,,ORDER TOTAL,,,,63819.98,

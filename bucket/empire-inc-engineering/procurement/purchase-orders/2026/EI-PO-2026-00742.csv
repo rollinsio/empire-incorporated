@@ -1,0 +1,7 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2026-00742,2026-02-16,SUP-006,Cygnus Spaceworks,1,EI-CM-036-01,"HoloNet transceiver board, standard",1,ea,81908.23,81908.23,2026-07-18
+EI-PO-2026-00742,2026-02-16,SUP-006,Cygnus Spaceworks,2,EI-CM-036-01,"HoloNet transceiver board, standard",4,ea,79433.07,317732.28,2026-07-04
+EI-PO-2026-00742,2026-02-16,SUP-006,Cygnus Spaceworks,3,EI-CM-037-01,"Traffic routing switch card, standard",12,ea,37623.87,451486.44,2026-03-25
+EI-PO-2026-00742,2026-02-16,SUP-006,Cygnus Spaceworks,4,EI-CM-037-01,"Traffic routing switch card, standard",1,ea,39937.25,39937.25,2026-03-25
+EI-PO-2026-00742,2026-02-16,SUP-006,Cygnus Spaceworks,5,EI-CM-036-01,"HoloNet transceiver board, standard",2,ea,81361.14,162722.28,2026-07-22
+EI-PO-2026-00742,,,,,,ORDER TOTAL,,,,1053786.48,

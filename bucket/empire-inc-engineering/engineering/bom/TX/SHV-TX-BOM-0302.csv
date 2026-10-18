@@ -1,0 +1,13 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-TX-020-03,"Radiator fin panel, 9 m²",48,ea,2532.44,121557.12,Lianna Orbital Systems,SHV-TX-DWG-0202
+2,EI-TX-020-02,"Radiator fin panel, 4 m²",2,ea,3977.17,7954.34,Fondor Foundry Collective,SHV-TX-DWG-0202
+3,EI-TX-020-01,"Radiator fin panel, 1 m²",8,ea,4059.58,32476.64,Axxila Power Cells,SHV-TX-DWG-0202
+4,EI-TX-020-01,"Radiator fin panel, 1 m²",12,ea,4059.58,48714.96,Alsakan Instruments,SHV-TX-DWG-0202
+5,EI-TX-019-01,"Heat exchanger core, 16-stack",4,ea,72530.19,290120.76,Lothal Fleet Services,SHV-TX-DWG-0202
+6,EI-TX-020-01,"Radiator fin panel, 1 m²",2,ea,4059.58,8119.16,Fondor Foundry Collective,SHV-TX-DWG-0202
+7,EI-TX-020-02,"Radiator fin panel, 4 m²",8,ea,3977.17,31817.36,Kalist Mining Combine,SHV-TX-DWG-0202
+8,EI-TX-020-02,"Radiator fin panel, 4 m²",12,ea,3977.17,47726.04,Telgorn Corporation,SHV-TX-DWG-0202
+9,EI-TX-020-02,"Radiator fin panel, 4 m²",12,ea,3977.17,47726.04,Bespin Gas Consortium,SHV-TX-DWG-0202
+10,EI-TX-021-02,"Coolant pump, 80 m³/s",1,ea,35364.96,35364.96,Kalist Mining Combine,SHV-TX-DWG-0202
+11,EI-TX-021-02,"Coolant pump, 80 m³/s",1,ea,35364.96,35364.96,Telgorn Corporation,SHV-TX-DWG-0202
+12,EI-TX-020-01,"Radiator fin panel, 1 m²",12,ea,4059.58,48714.96,Mekuun Fabrication,SHV-TX-DWG-0202

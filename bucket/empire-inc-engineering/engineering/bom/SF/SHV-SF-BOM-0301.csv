@@ -1,0 +1,15 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SF-001-06,"Durasteel plate, grade F ultra",4,t,1887.17,7548.68,Kuat Drive Yards,SHV-SF-DWG-0201
+2,EI-SF-001-02,"Durasteel plate, grade B",12,t,3024.46,36293.52,Alsakan Instruments,SHV-SF-DWG-0201
+3,EI-SF-006-02,"Hull fastener kit, M60",8,kit,459.32,3674.56,Cygnus Spaceworks,SHV-SF-DWG-0201
+4,EI-SF-003-03,"Hull plating section, type 3 equatorial",4,ea,66783.66,267134.64,SoroSuub Corporation,SHV-SF-DWG-0201
+5,EI-SF-057-02,"Welding consumables pack, heavy",8,pack,88.54,708.32,Kuat Drive Yards,SHV-SF-DWG-0201
+6,EI-SF-001-04,"Durasteel plate, grade D marine",4,t,3694.59,14778.36,Corulag Precision Optics,SHV-SF-DWG-0201
+7,EI-SF-002-02,"Quadanium steel beam, 90 m",12,t,4235.32,50823.84,Kuat Drive Yards,SHV-SF-DWG-0201
+8,EI-SF-001-05,"Durasteel plate, grade E heavy",240,t,2079.87,499168.80,Anaxes Turbolift Company,SHV-SF-DWG-0201
+9,EI-SF-005-02,"Carbon-composite truss, heavy",2,ea,1363.38,2726.76,Fabritech,SHV-SF-DWG-0201
+10,EI-SF-002-02,"Quadanium steel beam, 90 m",1,t,4235.32,4235.32,Ord Mantell Salvage & Supply,SHV-SF-DWG-0201
+11,EI-SF-006-04,"Hull fastener kit, M120",4,kit,195.17,780.68,Rendili StarDrive,SHV-SF-DWG-0201
+12,EI-SF-002-04,"Quadanium steel beam, 140 m",1,t,2758.99,2758.99,Rothana Heavy Cranes,SHV-SF-DWG-0201
+13,EI-SF-007-03,"Structural bolt set, class 12",96,set,194.77,18697.92,Mekuun Fabrication,SHV-SF-DWG-0201
+14,EI-SF-001-01,"Durasteel plate, grade A",48,t,3202.38,153714.24,Alsakan Instruments,SHV-SF-DWG-0201

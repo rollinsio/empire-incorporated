@@ -1,0 +1,73 @@
+# Local copy of both tenants: Postgres with the two databases, and an S3-compatible
+# SeaweedFS server with the two buckets. Everything here is local test data.
+#
+#   docker compose up -d          start, load both databases and both buckets
+#   docker compose logs -f bucket-loader
+#   docker compose down -v        stop and delete the data (the next `up` reloads it)
+#
+# Postgres:  localhost:55432, user empire, password empire-local-only, databases empire_inc and kdy
+# S3:        http://localhost:58333, access key empire-local, secret key empire-local-secret
+
+name: empire-incorporated
+
+services:
+  postgres:
+    image: postgres:16.15
+    environment:
+      POSTGRES_USER: empire
+      POSTGRES_PASSWORD: empire-local-only
+      POSTGRES_DB: postgres
+    ports:
+      - "55432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./db/load.sh:/docker-entrypoint-initdb.d/10-load.sh:ro
+      - ./db/seed:/seed:ro
+    healthcheck:
+      # TCP only answers once the init scripts (and so the data load) have finished.
+      test: ["CMD-SHELL", "pg_isready -h 127.0.0.1 -U empire -d kdy"]
+      interval: 5s
+      timeout: 5s
+      retries: 60
+
+  seaweedfs:
+    image: chrislusf/seaweedfs:4.48
+    command: server -dir=/data -s3 -s3.port=8333 -s3.config=/etc/seaweedfs/s3.json -volume.max=0
+    ports:
+      - "58333:8333"
+    volumes:
+      - seaweedfs-data:/data
+      - ./db/seaweedfs-s3.json:/etc/seaweedfs/s3.json:ro
+
+  bucket-loader:
+    image: amazon/aws-cli:2.38.1
+    depends_on:
+      - seaweedfs
+    environment:
+      AWS_ACCESS_KEY_ID: empire-local
+      AWS_SECRET_ACCESS_KEY: empire-local-secret
+      AWS_DEFAULT_REGION: us-east-1
+      S3_ENDPOINT: http://seaweedfs:8333
+    volumes:
+      - ./bucket:/bucket:ro
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        set -eu
+        tries=0
+        until aws --endpoint-url "$$S3_ENDPOINT" s3 ls > /dev/null 2>&1; do
+          tries=$$((tries + 1))
+          if [ "$$tries" -ge 60 ]; then echo "SeaweedFS S3 did not come up" >&2; exit 1; fi
+          sleep 2
+        done
+        for bucket in empire-inc-engineering kdy-engineering; do
+          aws --endpoint-url "$$S3_ENDPOINT" s3api head-bucket --bucket "$$bucket" > /dev/null 2>&1 \
+            || aws --endpoint-url "$$S3_ENDPOINT" s3 mb "s3://$$bucket"
+          aws --endpoint-url "$$S3_ENDPOINT" s3 sync "/bucket/$$bucket" "s3://$$bucket" --delete --no-progress --only-show-errors
+          echo "$$bucket: $$(aws --endpoint-url "$$S3_ENDPOINT" s3 ls "s3://$$bucket" --recursive | wc -l) objects"
+        done
+    restart: "no"
+
+volumes:
+  postgres-data:
+  seaweedfs-data:

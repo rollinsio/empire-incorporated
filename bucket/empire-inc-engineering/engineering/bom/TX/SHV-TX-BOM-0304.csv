@@ -1,0 +1,14 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-TX-020-02,"Radiator fin panel, 4 m²",1,ea,3977.17,3977.17,Scarif Data Systems,SHV-TX-DWG-0204
+2,EI-TX-020-02,"Radiator fin panel, 4 m²",48,ea,3977.17,190904.16,Carbanti United Electronics,SHV-TX-DWG-0204
+3,EI-TX-019-02,"Heat exchanger core, 32-stack",1,ea,75721.23,75721.23,Carida Safety Supply,SHV-TX-DWG-0204
+4,EI-TX-020-02,"Radiator fin panel, 4 m²",1,ea,3977.17,3977.17,Cygnus Spaceworks,SHV-TX-DWG-0204
+5,EI-TX-019-02,"Heat exchanger core, 32-stack",3,ea,75721.23,227163.69,Naboo Hydroponic Supply,SHV-TX-DWG-0204
+6,EI-TX-021-01,"Coolant pump, 40 m³/s",240,ea,47628.99,11430957.60,Scarif Data Systems,SHV-TX-DWG-0204
+7,EI-TX-020-02,"Radiator fin panel, 4 m²",48,ea,3977.17,190904.16,Eriadu Steelworks,SHV-TX-DWG-0204
+8,EI-TX-020-02,"Radiator fin panel, 4 m²",48,ea,3977.17,190904.16,Fondor Foundry Collective,SHV-TX-DWG-0204
+9,EI-TX-020-01,"Radiator fin panel, 1 m²",8,ea,4059.58,32476.64,Axxila Power Cells,SHV-TX-DWG-0204
+10,EI-TX-019-02,"Heat exchanger core, 32-stack",3,ea,75721.23,227163.69,Fabritech,SHV-TX-DWG-0204
+11,EI-TX-021-01,"Coolant pump, 40 m³/s",4,ea,47628.99,190515.96,Bespin Gas Consortium,SHV-TX-DWG-0204
+12,EI-TX-019-02,"Heat exchanger core, 32-stack",4,ea,75721.23,302884.92,Carbanti United Electronics,SHV-TX-DWG-0204
+13,EI-TX-019-01,"Heat exchanger core, 16-stack",4,ea,72530.19,290120.76,Kuat Drive Yards,SHV-TX-DWG-0204

@@ -1,0 +1,40 @@
+ticket_id,queue,subject,requester,assignee,priority,status,created_at,resolved_at,related_incident
+TCK-2026-0069,FACILITIES,Büro neben Halle 4 zu warm,Bastian Schäfer,Orrin Thorne,MEDIUM,RESOLVED,2026-07-02T07:30:00Z,2026-07-02T22:30:00Z,
+TCK-2026-0070,IT_HELPDESK,Datapad screen cracked,Casimir Hartwell,Gessa Glenmore,LOW,RESOLVED,2026-07-07T12:15:00Z,2026-07-12T19:15:00Z,
+TCK-2026-0071,FACILITIES,Coolant drip at Coruscant Headquarters floor 41,Quinn Kade,Rosk Calder,LOW,RESOLVED,2026-07-07T12:22:00Z,2026-07-08T22:22:00Z,
+TCK-2026-0072,FACILITIES,Kaffeemaschine im Pausenraum außer Betrieb,Renate Köhler,Orrin Thorne,MEDIUM,RESOLVED,2026-07-10T16:48:00Z,2026-07-31T16:48:00Z,
+TCK-2026-0073,FACILITIES,Kaffeemaschine im Pausenraum außer Betrieb,Annegret Falkenberg,Rosk Calder,LOW,RESOLVED,2026-07-12T17:13:00Z,2026-07-13T08:13:00Z,
+TCK-2026-0074,IT_HELPDESK,Software install request: schedule planner,Tilda Delane,Gessa Glenmore,HIGH,RESOLVED,2026-07-13T13:42:00Z,2026-07-15T13:42:00Z,
+TCK-2026-0075,IT_HELPDESK,Calendar not syncing on datapad,Zeva Pell,Ulla Calloway,MEDIUM,RESOLVED,2026-07-14T09:06:00Z,2026-07-16T01:06:00Z,
+TCK-2026-0076,IT_HELPDESK,Shared folder for Cargo Shuttle Production Line Expansion,Margit Heinrich,Kalla Errant,LOW,RESOLVED,2026-07-17T17:41:00Z,2026-07-19T08:41:00Z,
+TCK-2026-0077,IT_HELPDESK,Shared folder for Eadu Agricultural Research Campus,Jessa Kessel,Gessa Glenmore,LOW,RESOLVED,2026-07-18T10:18:00Z,2026-09-25T10:18:00Z,
+TCK-2026-0078,FACILITIES,Cleaning request: Docking Bay 94 corridor,Tarn Delane,Rain Coldbrook,LOW,RESOLVED,2026-07-19T12:02:00Z,2026-07-27T14:02:00Z,
+TCK-2026-0079,IT_HELPDESK,Calendar not syncing on datapad,Henrik Weber,Vance Garron,LOW,RESOLVED,2026-07-22T16:43:00Z,2026-07-24T01:43:00Z,
+TCK-2026-0080,FACILITIES,Room too warm at Compactor 3263827 access hatch,Zara Whitlock,Rosk Calder,MEDIUM,RESOLVED,2026-07-23T11:50:00Z,2026-07-29T17:50:00Z,
+TCK-2026-0081,FACILITIES,Facility incident FI-2026-051,Jaska Desmont,Rain Coldbrook,MEDIUM,RESOLVED,2026-07-25T08:56:00Z,2026-08-24T17:00:00Z,FI-2026-051
+TCK-2026-0082,IT_HELPDESK,Postfach voll,Ortwin Kessler,Ulla Calloway,MEDIUM,RESOLVED,2026-07-27T15:02:00Z,2026-07-27T18:02:00Z,
+TCK-2026-0083,FACILITIES,Lost badge replacement,Kaspar Marlow,Rain Coldbrook,LOW,IN_PROGRESS,2026-08-02T07:00:00Z,,
+TCK-2026-0084,FACILITIES,Facility incident FI-2026-058,Jaska Desmont,Sarik Redgrave,MEDIUM,RESOLVED,2026-08-06T16:28:00Z,2026-09-04T17:00:00Z,FI-2026-058
+TCK-2026-0085,FACILITIES,Room too warm at Eriadu yard gate 3,Anneka Torvald,Rain Coldbrook,MEDIUM,RESOLVED,2026-08-07T10:08:00Z,2026-09-15T10:08:00Z,
+TCK-2026-0086,FACILITIES,Facility incident FI-2026-016,Lysander Arkwell,Rosk Calder,MEDIUM,RESOLVED,2026-08-07T16:14:00Z,2026-09-03T17:00:00Z,FI-2026-016
+TCK-2026-0087,IT_HELPDESK,Shared folder for Starhaven Orbital Habitat & Shipyard,Maddox Voren,Kalla Errant,LOW,RESOLVED,2026-08-11T11:30:00Z,2026-09-30T11:30:00Z,
+TCK-2026-0088,FACILITIES,Coolant drip at Research laboratory wing B,Henrik Weber,Rosk Calder,LOW,RESOLVED,2026-08-17T11:59:00Z,2026-08-19T00:59:00Z,
+TCK-2026-0089,IT_HELPDESK,Printer on floor 57 jams,Rosk Darrow,Bale Zell,MEDIUM,RESOLVED,2026-08-23T12:00:00Z,2026-09-06T17:00:00Z,
+TCK-2026-0090,FACILITIES,Facility incident FI-2026-020,Calla Calder,Orrin Thorne,MEDIUM,IN_PROGRESS,2026-09-01T10:02:00Z,,FI-2026-020
+TCK-2026-0091,FACILITIES,Office chair broken,Zeva Pell,Rosk Calder,HIGH,IN_PROGRESS,2026-09-02T07:17:00Z,,
+TCK-2026-0092,FACILITIES,Beleuchtung in Halle 4 flackert,Ulrike Brandt,Rosk Calder,MEDIUM,RESOLVED,2026-09-02T10:19:00Z,2026-09-11T17:19:00Z,
+TCK-2026-0093,FACILITIES,Facility incident FI-2026-005,Sarik Redgrave,Rain Coldbrook,MEDIUM,IN_PROGRESS,2026-09-02T11:39:00Z,,FI-2026-005
+TCK-2026-0094,IT_HELPDESK,Shared folder for Cargo Shuttle Production Line Expansion,Rhett Starke,Kesia Voren,LOW,IN_PROGRESS,2026-09-04T15:03:00Z,,
+TCK-2026-0095,IT_HELPDESK,Network slow at Research laboratory wing B,Jessa Kessel,Kalla Errant,MEDIUM,RESOLVED,2026-09-09T14:17:00Z,2026-09-21T19:17:00Z,
+TCK-2026-0096,IT_HELPDESK,Shared folder for Scarif Records Archive Modernization,Jory Coldbrook,Ulla Calloway,LOW,RESOLVED,2026-09-10T12:03:00Z,2026-09-27T12:03:00Z,
+TCK-2026-0097,FACILITIES,Cleaning request: Habitation block H-3 laundry,Pax Garron,Lysander Arkwell,LOW,RESOLVED,2026-09-10T13:06:00Z,2026-09-12T06:06:00Z,
+TCK-2026-0098,IT_HELPDESK,Datapad screen cracked,Kaspar Renner,Kesia Voren,LOW,RESOLVED,2026-09-12T09:34:00Z,2026-09-20T13:34:00Z,
+TCK-2026-0099,IT_HELPDESK,Printer on floor 59 jams,Jory Penrose,Kalla Errant,LOW,RESOLVED,2026-09-12T11:22:00Z,2026-09-12T21:22:00Z,
+TCK-2026-0100,FACILITIES,Facility incident FI-2026-031,Ferris Quayle,Lysander Arkwell,HIGH,RESOLVED,2026-09-12T15:38:00Z,2026-09-14T17:00:00Z,FI-2026-031
+TCK-2026-0101,FACILITIES,Facility incident FI-2026-003,Hessa Lorne,Orrin Thorne,MEDIUM,IN_PROGRESS,2026-09-13T16:33:00Z,,FI-2026-003
+TCK-2026-0102,IT_HELPDESK,Holo-projector not working in meeting room H41-07,Bryn Merrick,Bale Zell,LOW,RESOLVED,2026-09-17T07:01:00Z,2026-09-30T08:01:00Z,
+TCK-2026-0103,FACILITIES,Lost badge replacement,Leda Falkner,Rain Coldbrook,LOW,IN_PROGRESS,2026-09-18T09:37:00Z,,
+TCK-2026-0104,IT_HELPDESK,Calendar not syncing on datapad,Corra Crane,Bale Zell,LOW,RESOLVED,2026-09-19T13:21:00Z,2026-09-20T14:21:00Z,
+TCK-2026-0105,IT_HELPDESK,Mailbox full,Henrik Weber,Vance Garron,LOW,RESOLVED,2026-09-21T11:22:00Z,2026-09-22T19:22:00Z,
+TCK-2026-0106,IT_HELPDESK,Mailbox full,Rell Ardent,Kalla Errant,MEDIUM,RESOLVED,2026-09-23T07:48:00Z,2026-09-23T21:48:00Z,
+TCK-2026-0107,FACILITIES,Lost badge replacement,Kestin Yarrow,Orrin Thorne,LOW,IN_PROGRESS,2026-09-24T17:58:00Z,,

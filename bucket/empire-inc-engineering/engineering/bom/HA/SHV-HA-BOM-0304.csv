@@ -1,0 +1,15 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HA-043-01,"Galley equipment set, standard",4,set,23359.01,93436.04,Lothal Fleet Services,SHV-HA-DWG-0204
+2,EI-HA-043-01,"Galley equipment set, standard",1,set,23359.01,23359.01,Garel Composite Mills,SHV-HA-DWG-0204
+3,EI-HA-004-01,"Transparisteel viewport panel, small",8,ea,21578.32,172626.56,Brentaal Logistics Guild,SHV-HA-DWG-0204
+4,EI-HA-042-02,"Crew berth module, family",240,ea,6387.92,1533100.80,Telgorn Corporation,SHV-HA-DWG-0204
+5,EI-HA-044-02,"Classroom furniture set, secondary",240,set,3049.09,731781.60,Mon Gazza Transport,SHV-HA-DWG-0204
+6,EI-HA-042-01,"Crew berth module, single",1,ea,3278.03,3278.03,Corellian Bulk Fasteners,SHV-HA-DWG-0204
+7,EI-HA-042-01,"Crew berth module, single",2,ea,3278.03,6556.06,Uulshos Manufacturing,SHV-HA-DWG-0204
+8,EI-HA-042-02,"Crew berth module, family",8,ea,6387.92,51103.36,Carbanti United Electronics,SHV-HA-DWG-0204
+9,EI-HA-041-01,"Medical supply kit, standard",240,kit,429.31,103034.40,Abregado Droid Works,SHV-HA-DWG-0204
+10,EI-HA-044-01,"Classroom furniture set, primary",48,set,1998.86,95945.28,Naboo Hydroponic Supply,SHV-HA-DWG-0204
+11,EI-HA-043-01,"Galley equipment set, standard",24,set,23359.01,560616.24,SoroSuub Corporation,SHV-HA-DWG-0204
+12,EI-HA-041-01,"Medical supply kit, standard",12,kit,429.31,5151.72,Bespin Gas Consortium,SHV-HA-DWG-0204
+13,EI-HA-004-02,"Transparisteel viewport panel, medium",240,ea,16245.18,3898843.20,Chandrila Atmospherics,SHV-HA-DWG-0204
+14,EI-HA-004-01,"Transparisteel viewport panel, small",240,ea,21578.32,5178796.80,Chiewab Medical,SHV-HA-DWG-0204

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00090@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260522T140000Z
+DTEND:20260522T150000Z
+SUMMARY:Science & Research team meeting
+LOCATION:Coruscant Headquarters\, room H41-10
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-05-22.
+ORGANIZER;CN="Lucan Merriweather":mailto
+ :lucan.merriweather@empire-inc.example
+ATTENDEE;CN="Seren Tarrant";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:seren.tarrant@empire-inc.example
+ATTENDEE;CN="Kirra Kade";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:kirra.kade@empire-inc.example
+ATTENDEE;CN="Brisk Starke";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:brisk.starke@empire-inc.example
+ATTENDEE;CN="Casimir Blackwood";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:casimir.blackwood@empire-inc.example
+ATTENDEE;CN="Zane Winter";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:zane.winter@empire-inc.example
+ATTENDEE;CN="Caddoc Nevins";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:caddoc.nevins@empire-inc.example
+ATTENDEE;CN="Enna Hune";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:enna.hune@empire-inc.example
+ATTENDEE;CN="Soren Ancel";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:soren.ancel@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

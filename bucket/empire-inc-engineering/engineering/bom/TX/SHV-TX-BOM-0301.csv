@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-TX-019-02,"Heat exchanger core, 32-stack",2,ea,75721.23,151442.46,Carbanti United Electronics,SHV-TX-DWG-0201
+2,EI-TX-019-01,"Heat exchanger core, 16-stack",2,ea,72530.19,145060.38,Cygnus Spaceworks,SHV-TX-DWG-0201
+3,EI-TX-021-02,"Coolant pump, 80 m³/s",12,ea,35364.96,424379.52,Cygnus Spaceworks,SHV-TX-DWG-0201
+4,EI-TX-021-01,"Coolant pump, 40 m³/s",8,ea,47628.99,381031.92,Uulshos Manufacturing,SHV-TX-DWG-0201
+5,EI-TX-020-02,"Radiator fin panel, 4 m²",2,ea,3977.17,7954.34,Fabritech,SHV-TX-DWG-0201
+6,EI-TX-021-02,"Coolant pump, 80 m³/s",8,ea,35364.96,282919.68,Rothana Heavy Cranes,SHV-TX-DWG-0201
+7,EI-TX-020-03,"Radiator fin panel, 9 m²",4,ea,2532.44,10129.76,SoroSuub Corporation,SHV-TX-DWG-0201
+8,EI-TX-019-01,"Heat exchanger core, 16-stack",1,ea,72530.19,72530.19,Cygnus Spaceworks,SHV-TX-DWG-0201
+9,EI-TX-020-01,"Radiator fin panel, 1 m²",12,ea,4059.58,48714.96,Raxus Coolant Works,SHV-TX-DWG-0201
+10,EI-TX-021-02,"Coolant pump, 80 m³/s",240,ea,35364.96,8487590.40,Raxus Coolant Works,SHV-TX-DWG-0201

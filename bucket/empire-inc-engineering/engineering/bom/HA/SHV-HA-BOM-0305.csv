@@ -1,0 +1,11 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HA-004-03,"Transparisteel viewport panel, observation deck",2,ea,30614.84,61229.68,Abregado Droid Works,SHV-HA-DWG-0205
+2,EI-HA-041-01,"Medical supply kit, standard",8,kit,429.31,3434.48,Garel Composite Mills,SHV-HA-DWG-0205
+3,EI-HA-044-01,"Classroom furniture set, primary",8,set,1998.86,15990.88,Corellian Bulk Fasteners,SHV-HA-DWG-0205
+4,EI-HA-043-01,"Galley equipment set, standard",240,set,23359.01,5606162.40,Kuat Precision Instruments,SHV-HA-DWG-0205
+5,EI-HA-041-02,"Medical supply kit, surgical",48,kit,398.31,19118.88,Scarif Data Systems,SHV-HA-DWG-0205
+6,EI-HA-041-01,"Medical supply kit, standard",240,kit,429.31,103034.40,Raxus Coolant Works,SHV-HA-DWG-0205
+7,EI-HA-004-01,"Transparisteel viewport panel, small",96,ea,21578.32,2071518.72,Ord Mantell Salvage & Supply,SHV-HA-DWG-0205
+8,EI-HA-041-01,"Medical supply kit, standard",240,kit,429.31,103034.40,Axxila Power Cells,SHV-HA-DWG-0205
+9,EI-HA-044-02,"Classroom furniture set, secondary",240,set,3049.09,731781.60,Abregado Droid Works,SHV-HA-DWG-0205
+10,EI-HA-043-01,"Galley equipment set, standard",240,set,23359.01,5606162.40,Axxila Power Cells,SHV-HA-DWG-0205

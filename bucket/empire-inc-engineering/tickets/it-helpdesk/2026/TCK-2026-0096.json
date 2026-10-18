@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0096",
+  "queue": "IT_HELPDESK",
+  "subject": "Shared folder for Scarif Records Archive Modernization",
+  "description": "Please create a shared folder for the Scarif Records Archive Modernization team.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00263",
+    "name": "Jory Coldbrook",
+    "email": "jory.coldbrook@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00670",
+    "name": "Ulla Calloway",
+    "email": "ulla.calloway@empire-inc.example"
+  },
+  "created_at": "2026-09-10T12:03:00Z",
+  "resolved_at": "2026-09-27T12:03:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-09-10T12:37:00Z",
+      "author": "Ulla Calloway",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-09-27T12:03:00Z",
+      "author": "Ulla Calloway",
+      "text": "Folder created and team members added."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SA-013-01,"Solar collector panel, standard",48,ea,42611.21,2045338.08,Lothal Fleet Services,SHV-SA-DWG-0201
+2,EI-SA-013-01,"Solar collector panel, standard",48,ea,42611.21,2045338.08,Fabritech,SHV-SA-DWG-0201
+3,EI-SA-014-01,"Tracking drive motor, standard",8,ea,22744.05,181952.40,Mon Gazza Transport,SHV-SA-DWG-0201
+4,EI-SA-014-01,"Tracking drive motor, standard",1,ea,22744.05,22744.05,Kuat Precision Instruments,SHV-SA-DWG-0201
+5,EI-SA-014-01,"Tracking drive motor, standard",240,ea,22744.05,5458572.00,Alsakan Instruments,SHV-SA-DWG-0201
+6,EI-SA-013-01,"Solar collector panel, standard",24,ea,42611.21,1022669.04,Uulshos Manufacturing,SHV-SA-DWG-0201
+7,EI-SA-014-01,"Tracking drive motor, standard",1,ea,22744.05,22744.05,Kuat Precision Instruments,SHV-SA-DWG-0201

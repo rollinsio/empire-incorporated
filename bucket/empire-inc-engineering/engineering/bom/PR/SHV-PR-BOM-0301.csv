@@ -1,0 +1,8 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",1,ea,51851.82,51851.82,Scarif Data Systems,SHV-PR-DWG-0201
+2,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",1,ea,40510.25,40510.25,Sluis Van Orbital Works,SHV-PR-DWG-0201
+3,EI-PR-024-01,"Gyroscope rotor assembly, standard",2,ea,370099.59,740199.18,Abregado Droid Works,SHV-PR-DWG-0201
+4,EI-PR-023-01,"Station-keeping thruster nozzle, 400 kN",2,ea,40510.25,81020.50,Naboo Hydroponic Supply,SHV-PR-DWG-0201
+5,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",1,ea,51851.82,51851.82,Uulshos Manufacturing,SHV-PR-DWG-0201
+6,EI-PR-024-01,"Gyroscope rotor assembly, standard",8,ea,370099.59,2960796.72,Naboo Hydroponic Supply,SHV-PR-DWG-0201
+7,EI-PR-023-02,"Station-keeping thruster nozzle, 1200 kN",1,ea,51851.82,51851.82,Fabritech,SHV-PR-DWG-0201

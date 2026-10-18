@@ -1,0 +1,208 @@
+{
+  "simulation_id": "SHV-HB-SIM-0050",
+  "title": "Docking bay throughput (run 50)",
+  "system": "HB",
+  "classification": "INTERNAL",
+  "model_version": "6.8.5",
+  "run_date": "2026-04-30",
+  "engineer": "Saela Mathers",
+  "engineer_id": "EMP-00561",
+  "inputs": {
+    "scenario": "peak demand",
+    "duration_steps": 31
+  },
+  "results": {
+    "summary": {
+      "peak_deck_crew_utilization_pct": 84.273,
+      "peak_step": 24
+    },
+    "series": [
+      {
+        "t": 0,
+        "ships_docked": 79.04,
+        "queue_length": 27.037,
+        "deck_crew_utilization_pct": 69.285
+      },
+      {
+        "t": 1,
+        "ships_docked": 75.588,
+        "queue_length": 28.478,
+        "deck_crew_utilization_pct": 70.9
+      },
+      {
+        "t": 2,
+        "ships_docked": 75.195,
+        "queue_length": 28.369,
+        "deck_crew_utilization_pct": 70.453
+      },
+      {
+        "t": 3,
+        "ships_docked": 75.199,
+        "queue_length": 29.079,
+        "deck_crew_utilization_pct": 74.698
+      },
+      {
+        "t": 4,
+        "ships_docked": 77.787,
+        "queue_length": 27.309,
+        "deck_crew_utilization_pct": 71.598
+      },
+      {
+        "t": 5,
+        "ships_docked": 76.295,
+        "queue_length": 29.487,
+        "deck_crew_utilization_pct": 75.183
+      },
+      {
+        "t": 6,
+        "ships_docked": 78.265,
+        "queue_length": 28.704,
+        "deck_crew_utilization_pct": 74.361
+      },
+      {
+        "t": 7,
+        "ships_docked": 78.689,
+        "queue_length": 28.558,
+        "deck_crew_utilization_pct": 74.708
+      },
+      {
+        "t": 8,
+        "ships_docked": 79.557,
+        "queue_length": 28.298,
+        "deck_crew_utilization_pct": 74.18
+      },
+      {
+        "t": 9,
+        "ships_docked": 79.349,
+        "queue_length": 30.001,
+        "deck_crew_utilization_pct": 73.404
+      },
+      {
+        "t": 10,
+        "ships_docked": 78.643,
+        "queue_length": 30.649,
+        "deck_crew_utilization_pct": 73.24
+      },
+      {
+        "t": 11,
+        "ships_docked": 84.345,
+        "queue_length": 29.424,
+        "deck_crew_utilization_pct": 75.499
+      },
+      {
+        "t": 12,
+        "ships_docked": 82.736,
+        "queue_length": 29.178,
+        "deck_crew_utilization_pct": 74.604
+      },
+      {
+        "t": 13,
+        "ships_docked": 81.176,
+        "queue_length": 30.308,
+        "deck_crew_utilization_pct": 73.581
+      },
+      {
+        "t": 14,
+        "ships_docked": 78.327,
+        "queue_length": 30.888,
+        "deck_crew_utilization_pct": 75.929
+      },
+      {
+        "t": 15,
+        "ships_docked": 81.039,
+        "queue_length": 31.344,
+        "deck_crew_utilization_pct": 75.16
+      },
+      {
+        "t": 16,
+        "ships_docked": 80.687,
+        "queue_length": 30.521,
+        "deck_crew_utilization_pct": 74.987
+      },
+      {
+        "t": 17,
+        "ships_docked": 82.556,
+        "queue_length": 30.113,
+        "deck_crew_utilization_pct": 77.564
+      },
+      {
+        "t": 18,
+        "ships_docked": 83.515,
+        "queue_length": 31.314,
+        "deck_crew_utilization_pct": 77.408
+      },
+      {
+        "t": 19,
+        "ships_docked": 82.661,
+        "queue_length": 30.643,
+        "deck_crew_utilization_pct": 78.06
+      },
+      {
+        "t": 20,
+        "ships_docked": 86.514,
+        "queue_length": 30.651,
+        "deck_crew_utilization_pct": 76.569
+      },
+      {
+        "t": 21,
+        "ships_docked": 85.444,
+        "queue_length": 30.907,
+        "deck_crew_utilization_pct": 80.493
+      },
+      {
+        "t": 22,
+        "ships_docked": 84.405,
+        "queue_length": 31.298,
+        "deck_crew_utilization_pct": 78.962
+      },
+      {
+        "t": 23,
+        "ships_docked": 82.302,
+        "queue_length": 30.873,
+        "deck_crew_utilization_pct": 79.549
+      },
+      {
+        "t": 24,
+        "ships_docked": 84.433,
+        "queue_length": 31.577,
+        "deck_crew_utilization_pct": 84.273
+      },
+      {
+        "t": 25,
+        "ships_docked": 86.332,
+        "queue_length": 31.085,
+        "deck_crew_utilization_pct": 82.676
+      },
+      {
+        "t": 26,
+        "ships_docked": 82.929,
+        "queue_length": 32.243,
+        "deck_crew_utilization_pct": 80.243
+      },
+      {
+        "t": 27,
+        "ships_docked": 85.88,
+        "queue_length": 31.724,
+        "deck_crew_utilization_pct": 79.978
+      },
+      {
+        "t": 28,
+        "ships_docked": 86.581,
+        "queue_length": 31.989,
+        "deck_crew_utilization_pct": 80.329
+      },
+      {
+        "t": 29,
+        "ships_docked": 87.464,
+        "queue_length": 32.27,
+        "deck_crew_utilization_pct": 80.771
+      },
+      {
+        "t": 30,
+        "ships_docked": 86.283,
+        "queue_length": 32.659,
+        "deck_crew_utilization_pct": 81.287
+      }
+    ]
+  }
+}

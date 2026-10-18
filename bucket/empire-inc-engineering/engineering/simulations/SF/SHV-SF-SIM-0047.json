@@ -1,0 +1,238 @@
+{
+  "simulation_id": "SHV-SF-SIM-0047",
+  "title": "Structural load case (run 47)",
+  "system": "SF",
+  "classification": "INTERNAL",
+  "model_version": "2.9.3",
+  "run_date": "2026-03-05",
+  "engineer": "Rowan Vance",
+  "engineer_id": "EMP-00211",
+  "inputs": {
+    "scenario": "nominal",
+    "duration_steps": 36
+  },
+  "results": {
+    "summary": {
+      "peak_deflection_m": 65.087,
+      "peak_step": 33
+    },
+    "series": [
+      {
+        "t": 0,
+        "load_factor": 22.424,
+        "max_rib_strain": 57.225,
+        "deflection_m": 52.711
+      },
+      {
+        "t": 1,
+        "load_factor": 23.572,
+        "max_rib_strain": 60.17,
+        "deflection_m": 55.913
+      },
+      {
+        "t": 2,
+        "load_factor": 22.979,
+        "max_rib_strain": 57.979,
+        "deflection_m": 56.301
+      },
+      {
+        "t": 3,
+        "load_factor": 23.822,
+        "max_rib_strain": 62.716,
+        "deflection_m": 55.945
+      },
+      {
+        "t": 4,
+        "load_factor": 23.754,
+        "max_rib_strain": 62.191,
+        "deflection_m": 54.645
+      },
+      {
+        "t": 5,
+        "load_factor": 23.706,
+        "max_rib_strain": 60.976,
+        "deflection_m": 56.828
+      },
+      {
+        "t": 6,
+        "load_factor": 23.468,
+        "max_rib_strain": 61.029,
+        "deflection_m": 55.955
+      },
+      {
+        "t": 7,
+        "load_factor": 23.728,
+        "max_rib_strain": 61.847,
+        "deflection_m": 56.968
+      },
+      {
+        "t": 8,
+        "load_factor": 23.123,
+        "max_rib_strain": 64.072,
+        "deflection_m": 55.386
+      },
+      {
+        "t": 9,
+        "load_factor": 24.687,
+        "max_rib_strain": 62.452,
+        "deflection_m": 55.41
+      },
+      {
+        "t": 10,
+        "load_factor": 24.571,
+        "max_rib_strain": 62.893,
+        "deflection_m": 57.556
+      },
+      {
+        "t": 11,
+        "load_factor": 23.629,
+        "max_rib_strain": 60.566,
+        "deflection_m": 58.157
+      },
+      {
+        "t": 12,
+        "load_factor": 24.535,
+        "max_rib_strain": 61.399,
+        "deflection_m": 59.886
+      },
+      {
+        "t": 13,
+        "load_factor": 24.291,
+        "max_rib_strain": 62.507,
+        "deflection_m": 58.385
+      },
+      {
+        "t": 14,
+        "load_factor": 23.755,
+        "max_rib_strain": 62.129,
+        "deflection_m": 57.419
+      },
+      {
+        "t": 15,
+        "load_factor": 23.658,
+        "max_rib_strain": 64.532,
+        "deflection_m": 58.449
+      },
+      {
+        "t": 16,
+        "load_factor": 24.784,
+        "max_rib_strain": 63.768,
+        "deflection_m": 61.015
+      },
+      {
+        "t": 17,
+        "load_factor": 25.472,
+        "max_rib_strain": 63.505,
+        "deflection_m": 58.051
+      },
+      {
+        "t": 18,
+        "load_factor": 24.321,
+        "max_rib_strain": 63.967,
+        "deflection_m": 59.617
+      },
+      {
+        "t": 19,
+        "load_factor": 24.812,
+        "max_rib_strain": 64.549,
+        "deflection_m": 58.777
+      },
+      {
+        "t": 20,
+        "load_factor": 24.894,
+        "max_rib_strain": 63.347,
+        "deflection_m": 58.933
+      },
+      {
+        "t": 21,
+        "load_factor": 25.424,
+        "max_rib_strain": 67.466,
+        "deflection_m": 61.336
+      },
+      {
+        "t": 22,
+        "load_factor": 25.161,
+        "max_rib_strain": 66.121,
+        "deflection_m": 60.372
+      },
+      {
+        "t": 23,
+        "load_factor": 25.141,
+        "max_rib_strain": 63.795,
+        "deflection_m": 61.66
+      },
+      {
+        "t": 24,
+        "load_factor": 24.961,
+        "max_rib_strain": 66.442,
+        "deflection_m": 62.866
+      },
+      {
+        "t": 25,
+        "load_factor": 25.322,
+        "max_rib_strain": 66.487,
+        "deflection_m": 61.549
+      },
+      {
+        "t": 26,
+        "load_factor": 25.74,
+        "max_rib_strain": 64.554,
+        "deflection_m": 61.073
+      },
+      {
+        "t": 27,
+        "load_factor": 25.999,
+        "max_rib_strain": 64.364,
+        "deflection_m": 63.679
+      },
+      {
+        "t": 28,
+        "load_factor": 25.202,
+        "max_rib_strain": 66.502,
+        "deflection_m": 61.31
+      },
+      {
+        "t": 29,
+        "load_factor": 26.993,
+        "max_rib_strain": 65.775,
+        "deflection_m": 62.336
+      },
+      {
+        "t": 30,
+        "load_factor": 25.553,
+        "max_rib_strain": 66.796,
+        "deflection_m": 61.284
+      },
+      {
+        "t": 31,
+        "load_factor": 25.996,
+        "max_rib_strain": 67.226,
+        "deflection_m": 64.112
+      },
+      {
+        "t": 32,
+        "load_factor": 25.326,
+        "max_rib_strain": 67.49,
+        "deflection_m": 61.367
+      },
+      {
+        "t": 33,
+        "load_factor": 26.304,
+        "max_rib_strain": 68.358,
+        "deflection_m": 65.087
+      },
+      {
+        "t": 34,
+        "load_factor": 25.713,
+        "max_rib_strain": 68.369,
+        "deflection_m": 62.806
+      },
+      {
+        "t": 35,
+        "load_factor": 26.071,
+        "max_rib_strain": 67.78,
+        "deflection_m": 63.568
+      }
+    ]
+  }
+}

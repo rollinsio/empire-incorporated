@@ -1,0 +1,8 @@
+location_code,name,location_type,planet,sensitivity
+LOC-SCA,Scarif Archive Depot,DEPOT,Scarif,INTERNAL
+LOC-ERI,Eriadu Fabrication Yard,FACILITY,Eriadu,INTERNAL
+LOC-KUA,Kuat Orbital Depot,DEPOT,Kuat,INTERNAL
+LOC-FON,Fondor Staging Ring,DEPOT,Fondor,INTERNAL
+LOC-COR,Coruscant Headquarters Stores,DEPOT,Coruscant,INTERNAL
+LOC-EAD,Eadu Research Campus,FACILITY,Eadu,INTERNAL
+LOC-ST4,Starhaven Receiving Bay R-4,STATION,Starhaven,INTERNAL

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00111@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260427T110000Z
+DTEND:20260427T120000Z
+SUMMARY:Computing & Communications team meeting
+LOCATION:Coruscant Headquarters\, room H41-16
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-04-27.
+ORGANIZER;CN="Tavi Orrun":mailto:tavi.orrun@empire-inc.example
+ATTENDEE;CN="Kesia Voren";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:kesia.voren@empire-inc.example
+ATTENDEE;CN="Rafe Craddock";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rafe.craddock@empire-inc.example
+ATTENDEE;CN="Vala Arkwell";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:vala.arkwell@empire-inc.example
+ATTENDEE;CN="Osric Tallis";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:osric.tallis@empire-inc.example
+ATTENDEE;CN="Maren Everhart";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:maren.everhart@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+From: Ursel Marrek <ursel.marrek@empire-inc.example>
+To: Service Desk Team <service-desk@empire-inc.example>
+Subject: Service desk backlog 2026-03
+Date: Mon, 02 Mar 2026 08:00:00 +0000
+Message-ID: <202603020800.00426@empire-inc.example>
+X-Classification: INTERNAL
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_empire_mail_00426"
+
+--=_empire_mail_00426
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INTERNAL
+
+Hello team,
+
+attached is the service desk backlog as of 2026-03-02: 4 open tickets.
+The oldest is TCK-2026-0020, opened on 2026-02-13.
+
+Regards,
+Ursel
+
+-- 
+Ursel Marrek
+Engineering Manager, Communications
+Computing & Communications
+Empire Incorporated
+Ext. x5052
+
+--=_empire_mail_00426
+Content-Type: text/csv; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename="service-desk-backlog-2026-03.csv"
+MIME-Version: 1.0
+
+ticket_id,queue,subject,requester,assignee,priority,created_at
+TCK-2026-0020,FACILITIES,Facility incident FI-2026-006,Barrin Kirwan,Lysander=
+ Arkwell,MEDIUM,2026-02-13T13:30:00Z
+TCK-2026-0023,IT_HELPDESK,Datapad screen cracked,Ulla Crestwell,Vance Garron,=
+MEDIUM,2026-02-19T15:18:00Z
+TCK-2026-0026,IT_HELPDESK,Datapad screen cracked,Bale Vexley,Kesia Voren,HIGH=
+,2026-02-28T07:50:00Z
+TCK-2026-0027,IT_HELPDESK,Software f=C3=BCr Messarm installieren,Gisela Neuma=
+nn,Kesia Voren,LOW,2026-03-01T11:57:00Z
+
+--=_empire_mail_00426--

@@ -1,0 +1,48 @@
+incident_id,opened_date,closed_date,severity,category,summary,status,reported_by,sensitivity
+FI-2024-040,2024-02-25,2024-03-20,MEDIUM,SAFETY,Scaffold handrail found loose at Compactor 3263827 access hatch; scaffold tagged out until repaired.,CLOSED,EMP-00978,INTERNAL
+FI-2024-060,2024-04-12,2024-04-30,LOW,FACILITIES,Coolant leak reported during shift change at Compactor 3263827 access hatch; drip tray fitted and seal replaced.,CLOSED,EMP-00993,INTERNAL
+FI-2024-014,2024-04-15,2024-05-08,LOW,LOST_PROPERTY,Datapad left in a meeting room at Hangar 327 control room; returned to its owner by reception.,CLOSED,EMP-00989,INTERNAL
+FI-2024-032,2024-04-18,2024-04-24,LOW,SAFETY,"Gravity plate fault at Tram platform, band 6; an employee slipped and received first aid on site.",CLOSED,EMP-00974,INTERNAL
+FI-2024-016,2024-05-21,2024-05-27,MEDIUM,FACILITIES,"Power flicker in a zone substation feeding Tram platform, band 6; backup generators carried the load.",CLOSED,EMP-01001,INTERNAL
+FI-2024-037,2024-05-26,2024-06-10,LOW,SAFETY,Nutrient solution spilled at Eadu greenhouse hall 2; cleaned up following the spill procedure.,CLOSED,EMP-00995,INTERNAL
+FI-2024-057,2024-06-26,2024-07-17,LOW,SAFETY,"Gravity plate fault at Tram platform, band 6; an employee slipped and received first aid on site.",CLOSED,EMP-00981,INTERNAL
+FI-2024-028,2024-07-04,2024-07-25,LOW,LOST_PROPERTY,Datapad left in a meeting room at Research laboratory wing B; returned to its owner by reception.,CLOSED,EMP-01002,INTERNAL
+FI-2024-027,2024-10-03,2024-10-28,MEDIUM,FACILITIES,Power flicker in a zone substation feeding Eriadu yard gate 3; backup generators carried the load.,CLOSED,EMP-00990,INTERNAL
+FI-2024-011,2024-10-12,2024-10-29,LOW,LOST_PROPERTY,Employee badge reported lost near Habitation block H-3 laundry; badge deactivated and replaced.,CLOSED,EMP-00987,INTERNAL
+FI-2024-009,2024-11-26,2024-12-20,LOW,FACILITIES,Coolant leak reported during shift change at Eriadu yard gate 3; drip tray fitted and seal replaced.,CLOSED,EMP-00981,INTERNAL
+FI-2024-031,2024-12-22,2025-01-04,LOW,FACILITIES,Turbolift car stopped between levels near Operations centre anteroom; passengers released after twelve minutes.,CLOSED,EMP-01001,INTERNAL
+FI-2025-041,2025-02-22,2025-03-22,LOW,LOST_PROPERTY,Employee badge reported lost near Hangar 327 control room; badge deactivated and replaced.,CLOSED,EMP-00009,INTERNAL
+FI-2025-031,2025-04-28,2025-05-14,MEDIUM,FACILITIES,"Water leak from a ceiling duct at Tram platform, band 6; area closed for two hours while the joint was resealed.",CLOSED,EMP-00999,INTERNAL
+FI-2025-059,2025-06-06,2025-06-25,LOW,FACILITIES,"Fire alarm triggered by welding fumes at Hangar 327 control room; no fire, detector recalibrated.",CLOSED,EMP-01002,INTERNAL
+FI-2025-019,2025-06-09,2025-06-10,LOW,FACILITIES,Turbolift car stopped between levels near Scarif Archive Depot lobby; passengers released after twelve minutes.,CLOSED,EMP-00009,INTERNAL
+FI-2025-050,2025-06-15,2025-06-24,LOW,FACILITIES,"Fire alarm triggered by welding fumes at Habitation block H-3 laundry; no fire, detector recalibrated.",CLOSED,EMP-00009,INTERNAL
+FI-2025-039,2025-06-24,2025-07-09,LOW,FACILITIES,"Fire alarm triggered by welding fumes at Habitation block H-3 laundry; no fire, detector recalibrated.",CLOSED,EMP-00976,INTERNAL
+FI-2025-048,2025-07-12,2025-07-20,LOW,LOST_PROPERTY,Datapad left in a meeting room at Operations centre anteroom; returned to its owner by reception.,CLOSED,EMP-00993,INTERNAL
+FI-2025-047,2025-08-28,2025-09-20,MEDIUM,FACILITIES,Water leak from a ceiling duct at Compactor 3263827 access hatch; area closed for two hours while the joint was resealed.,CLOSED,EMP-00999,INTERNAL
+FI-2025-028,2025-09-02,2025-09-26,LOW,LOST_PROPERTY,Employee badge reported lost near Compactor 3263827 access hatch; badge deactivated and replaced.,CLOSED,EMP-00990,INTERNAL
+FI-2025-004,2025-09-04,2025-09-23,LOW,FACILITIES,Coolant leak reported during shift change at Scarif Archive Depot lobby; drip tray fitted and seal replaced.,CLOSED,EMP-00982,INTERNAL
+FI-2025-009,2025-09-04,2025-09-21,MEDIUM,SAFETY,Scaffold handrail found loose at Eriadu yard gate 3; scaffold tagged out until repaired.,CLOSED,EMP-00994,INTERNAL
+FI-2025-015,2025-09-25,2025-10-03,MEDIUM,FACILITIES,Power flicker in a zone substation feeding Compactor 3263827 access hatch; backup generators carried the load.,CLOSED,EMP-01001,INTERNAL
+FI-2025-011,2025-11-24,2025-12-20,LOW,LOST_PROPERTY,"Datapad left in a meeting room at Tram platform, band 6; returned to its owner by reception.",CLOSED,EMP-00998,INTERNAL
+FI-2025-056,2025-12-05,2025-12-07,MEDIUM,SAFETY,Scaffold handrail found loose at Compactor 3263827 access hatch; scaffold tagged out until repaired.,CLOSED,EMP-00978,INTERNAL
+FI-2025-003,2025-12-14,2026-01-07,LOW,FACILITIES,Coolant leak reported during shift change at Reactor access walkway 7; drip tray fitted and seal replaced.,CLOSED,EMP-00988,INTERNAL
+FI-2026-056,2026-01-04,2026-01-13,LOW,FACILITIES,"Fire alarm triggered by welding fumes at Eadu greenhouse hall 2; no fire, detector recalibrated.",CLOSED,EMP-00982,INTERNAL
+FI-2026-010,2026-02-03,2026-02-17,LOW,SAFETY,Gravity plate fault at Eriadu yard gate 3; an employee slipped and received first aid on site.,CLOSED,EMP-00987,INTERNAL
+FI-2026-050,2026-02-10,2026-02-19,MEDIUM,FACILITIES,Water leak from a ceiling duct at Eriadu yard gate 3; area closed for two hours while the joint was resealed.,CLOSED,EMP-00996,INTERNAL
+FI-2026-002,2026-02-11,2026-02-15,MEDIUM,FACILITIES,Water leak from a ceiling duct at Research laboratory wing B; area closed for two hours while the joint was resealed.,CLOSED,EMP-01001,INTERNAL
+FI-2026-029,2026-02-11,2026-02-15,LOW,LOST_PROPERTY,Employee badge reported lost near Eriadu yard gate 3; badge deactivated and replaced.,CLOSED,EMP-00976,INTERNAL
+FI-2026-006,2026-02-13,2026-03-08,LOW,FACILITIES,"Fire alarm triggered by welding fumes at Research laboratory wing B; no fire, detector recalibrated.",CLOSED,EMP-00985,INTERNAL
+FI-2026-060,2026-02-19,2026-02-24,LOW,FACILITIES,"Fire alarm triggered by welding fumes at Research laboratory wing B; no fire, detector recalibrated.",CLOSED,EMP-00979,INTERNAL
+FI-2026-007,2026-04-16,2026-04-27,LOW,LOST_PROPERTY,Employee badge reported lost near Research laboratory wing B; badge deactivated and replaced.,CLOSED,EMP-00996,INTERNAL
+FI-2026-025,2026-04-27,2026-05-12,LOW,LOST_PROPERTY,Employee badge reported lost near Scarif Archive Depot lobby; badge deactivated and replaced.,CLOSED,EMP-00994,INTERNAL
+FI-2026-043,2026-05-09,2026-06-03,MEDIUM,SAFETY,Scaffold handrail found loose at Eadu greenhouse hall 2; scaffold tagged out until repaired.,CLOSED,EMP-00974,INTERNAL
+FI-2026-057,2026-05-17,2026-06-10,LOW,FACILITIES,Coolant leak reported during shift change at Scarif Archive Depot lobby; drip tray fitted and seal replaced.,CLOSED,EMP-00990,INTERNAL
+FI-2026-022,2026-05-19,2026-05-25,LOW,LOST_PROPERTY,Datapad left in a meeting room at Hangar 327 control room; returned to its owner by reception.,CLOSED,EMP-00985,INTERNAL
+FI-2026-019,2026-06-23,2026-07-02,LOW,FACILITIES,Turbolift car stopped between levels near Operations centre anteroom; passengers released after twelve minutes.,CLOSED,EMP-00991,INTERNAL
+FI-2026-051,2026-07-25,2026-08-24,LOW,LOST_PROPERTY,"Datapad left in a meeting room at Tram platform, band 6; returned to its owner by reception.",CLOSED,EMP-00981,INTERNAL
+FI-2026-058,2026-08-06,2026-09-04,LOW,LOST_PROPERTY,Datapad left in a meeting room at Coruscant Headquarters floor 41; returned to its owner by reception.,CLOSED,EMP-00981,INTERNAL
+FI-2026-016,2026-08-07,2026-09-03,LOW,LOST_PROPERTY,Employee badge reported lost near Habitation block H-3 laundry; badge deactivated and replaced.,CLOSED,EMP-00995,INTERNAL
+FI-2026-020,2026-09-01,,LOW,FACILITIES,Turbolift car stopped between levels near Eadu greenhouse hall 2; passengers released after twelve minutes.,OPEN,EMP-00989,INTERNAL
+FI-2026-005,2026-09-02,,LOW,LOST_PROPERTY,Datapad left in a meeting room at Docking Bay 94 corridor; returned to its owner by reception.,OPEN,EMP-00998,INTERNAL
+FI-2026-031,2026-09-12,2026-09-14,MEDIUM,FACILITIES,"Coolant pump trip in Zone Z11 at 14:00 station time while the reactor core temperature was elevated; pump restarted after 40 minutes, no injuries.",CLOSED,EMP-00009,INTERNAL
+FI-2026-003,2026-09-13,,LOW,FACILITIES,Coolant leak reported during shift change at Docking Bay 94 corridor; drip tray fitted and seal replaced.,OPEN,EMP-00976,INTERNAL

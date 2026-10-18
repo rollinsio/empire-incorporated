@@ -1,0 +1,5 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2021-00361,2021-02-01,SUP-009,Telgorn Corporation,1,EI-HB-027-01,"Deck plating, anti-slip, standard",20,m²,193.38,3867.60,2021-05-11
+EI-PO-2021-00361,2021-02-01,SUP-009,Telgorn Corporation,2,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",1,ea,103307.67,103307.67,2021-05-19
+EI-PO-2021-00361,2021-02-01,SUP-009,Telgorn Corporation,3,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",2,ea,83145.10,166290.20,2021-02-15
+EI-PO-2021-00361,,,,,,ORDER TOTAL,,,,273465.47,

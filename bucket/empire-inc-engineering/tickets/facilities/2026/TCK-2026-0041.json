@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0041",
+  "queue": "FACILITIES",
+  "subject": "Light fixture flickering at Tram platform, band 6",
+  "description": "A light fixture at Tram platform, band 6 keeps flickering.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00603",
+    "name": "Zane Palin",
+    "email": "zane.palin@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00994",
+    "name": "Rosk Calder",
+    "email": "rosk.calder@empire-inc.example"
+  },
+  "created_at": "2026-04-12T13:52:00Z",
+  "resolved_at": "2026-04-12T14:52:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-04-12T14:22:00Z",
+      "author": "Rosk Calder",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-04-12T14:52:00Z",
+      "author": "Rosk Calder",
+      "text": "Fixture replaced."
+    }
+  ]
+}

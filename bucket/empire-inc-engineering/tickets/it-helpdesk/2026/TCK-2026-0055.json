@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0055",
+  "queue": "IT_HELPDESK",
+  "subject": "Printer on floor 34 jams",
+  "description": "The printer on floor 34 jams on every second page.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00673",
+    "name": "Elsk Thorne",
+    "email": "elsk.thorne@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00675",
+    "name": "Kalla Errant",
+    "email": "kalla.errant@empire-inc.example"
+  },
+  "created_at": "2026-05-16T07:54:00Z",
+  "resolved_at": "2026-05-17T08:54:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-05-16T08:08:00Z",
+      "author": "Kalla Errant",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-05-17T08:54:00Z",
+      "author": "Kalla Errant",
+      "text": "Feed rollers cleaned and replaced."
+    }
+  ]
+}

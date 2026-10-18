@@ -1,0 +1,21 @@
+[project]
+name = "empire-incorporated"
+version = "1.0.0"
+description = "Synthetic, fully fictional test dataset: Empire Incorporated and its supplier Kuat Drive Yards."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pillow>=11.3.0",
+    "python-docx>=1.2.0",
+    "reportlab>=4.4.0",
+]
+
+[dependency-groups]
+dev = [
+    "pypdf>=5.9.0",
+    "pytest>=8.4.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00100@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260107T110000Z
+DTEND:20260107T120000Z
+SUMMARY:Quarterly budget review Q1 2026
+LOCATION:Coruscant Headquarters\, room H41-17
+DESCRIPTION:Budget against actuals per program\; forecast changes. Date:
+  2026-01-07.
+ORGANIZER;CN="Odessa Varga":mailto:odessa.varga@empire-inc.example
+ATTENDEE;CN="Esme Vance";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:esme.vance@empire-inc.example
+ATTENDEE;CN="Garrow Farrow";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:garrow.farrow@empire-inc.example
+ATTENDEE;CN="Desik Aster";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:desik.aster@empire-inc.example
+ATTENDEE;CN="Faren Varrick";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:faren.varrick@empire-inc.example
+ATTENDEE;CN="Kirra Ellery";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:kirra.ellery@empire-inc.example
+X-EMPIRE-CLASSIFICATION:CONFIDENTIAL
+END:VEVENT
+END:VCALENDAR

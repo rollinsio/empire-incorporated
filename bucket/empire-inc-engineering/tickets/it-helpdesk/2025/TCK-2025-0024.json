@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0024",
+  "queue": "IT_HELPDESK",
+  "subject": "Network slow at Compactor 3263827 access hatch",
+  "description": "The network has been very slow at Compactor 3263827 access hatch since this morning.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00785",
+    "name": "Teague Bresk",
+    "email": "teague.bresk@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00648",
+    "name": "Vance Garron",
+    "email": "vance.garron@empire-inc.example"
+  },
+  "created_at": "2025-02-26T13:26:00Z",
+  "resolved_at": "2025-03-05T14:26:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-02-26T14:12:00Z",
+      "author": "Vance Garron",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-03-05T14:26:00Z",
+      "author": "Vance Garron",
+      "text": "Faulty switch port replaced."
+    }
+  ]
+}

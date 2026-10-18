@@ -1,0 +1,744 @@
+{
+  "export": {
+    "workspace": "Empire Incorporated",
+    "channel": "#procurement",
+    "month": "2026-07",
+    "language": "en",
+    "classification": "INTERNAL",
+    "exported_at": "2026-09-30T18:00:00Z",
+    "message_count": 63
+  },
+  "members": [
+    {
+      "user_id": "EMP-00022",
+      "name": "Rennick Solberg",
+      "title": "Director, Procurement & Supply Chain"
+    },
+    {
+      "user_id": "EMP-00855",
+      "name": "Theron Ashby",
+      "title": "Deputy Director, Procurement & Supply Chain"
+    },
+    {
+      "user_id": "EMP-00856",
+      "name": "Ulric Alcorne",
+      "title": "Procurement Manager"
+    },
+    {
+      "user_id": "EMP-00857",
+      "name": "Yorik Orlen",
+      "title": "Procurement Manager"
+    },
+    {
+      "user_id": "EMP-00858",
+      "name": "Kirra Crane",
+      "title": "Procurement Manager"
+    },
+    {
+      "user_id": "EMP-00859",
+      "name": "Torin Torvald",
+      "title": "Logistics Manager"
+    },
+    {
+      "user_id": "EMP-00860",
+      "name": "Pax Barrowe",
+      "title": "Procurement Manager"
+    },
+    {
+      "user_id": "EMP-00861",
+      "name": "Esme Maddox",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00862",
+      "name": "Vance Carrow",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00863",
+      "name": "Remy Dunmore",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00864",
+      "name": "Rowan Ingram",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00865",
+      "name": "Desik Ambrose",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00866",
+      "name": "Vela Greaves",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00867",
+      "name": "Darek Dunleavy",
+      "title": "Principal Category Manager"
+    },
+    {
+      "user_id": "EMP-00868",
+      "name": "Marik Orlen",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00869",
+      "name": "Orrin Kessel",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00870",
+      "name": "Corra Craddock",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00871",
+      "name": "Darek Vance",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00872",
+      "name": "Elian Wakefield",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00873",
+      "name": "Arden Dallan",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00874",
+      "name": "Gavren Nevins",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00875",
+      "name": "Odile Ashby",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00876",
+      "name": "Calla Longmire",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00877",
+      "name": "Nils Thorne",
+      "title": "Principal Category Manager"
+    },
+    {
+      "user_id": "EMP-00878",
+      "name": "Lannic Salter",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00879",
+      "name": "Maren Warrick",
+      "title": "Category Manager"
+    },
+    {
+      "user_id": "EMP-00880",
+      "name": "Quinn Corrin",
+      "title": "Principal Category Manager"
+    },
+    {
+      "user_id": "EMP-00881",
+      "name": "Arden Holloway",
+      "title": "Category Manager"
+    },
+    {
+      "user_id": "EMP-00882",
+      "name": "Nils Sable",
+      "title": "Category Manager"
+    },
+    {
+      "user_id": "EMP-00883",
+      "name": "Jessa Holloway",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00884",
+      "name": "Nils Longmire",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00885",
+      "name": "Zeva Graylin",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00886",
+      "name": "Rain Nevins",
+      "title": "Senior Buyer"
+    },
+    {
+      "user_id": "EMP-00887",
+      "name": "Cassia Errant",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00888",
+      "name": "Lannic Vexley",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00889",
+      "name": "Dorne Leith",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00890",
+      "name": "Ferris Calloway",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00891",
+      "name": "Ivor Tarrant",
+      "title": "Buyer"
+    },
+    {
+      "user_id": "EMP-00892",
+      "name": "Saela Penrose",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00893",
+      "name": "Rowan Ellery",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00894",
+      "name": "Imra Bracken",
+      "title": "Logistics Analyst"
+    },
+    {
+      "user_id": "EMP-00895",
+      "name": "Petra Voren",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00896",
+      "name": "Seren Corrin",
+      "title": "Logistics Clerk"
+    },
+    {
+      "user_id": "EMP-00897",
+      "name": "Ursel Radlow",
+      "title": "Procurement Clerk"
+    },
+    {
+      "user_id": "EMP-00898",
+      "name": "Yara Radlow",
+      "title": "Buyer"
+    }
+  ],
+  "messages": [
+    {
+      "id": "procurement-202607-0001",
+      "ts": "2026-07-01T07:06:25Z",
+      "user_id": "EMP-00857",
+      "user": "Yorik Orlen",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for structural items.",
+      "replies": [
+        {
+          "id": "procurement-202607-0001-r1",
+          "ts": "2026-07-01T07:12:25Z",
+          "user_id": "EMP-00860",
+          "user": "Pax Barrowe",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0002",
+      "ts": "2026-07-01T09:02:18Z",
+      "user_id": "EMP-00885",
+      "user": "Zeva Graylin",
+      "text": "Anyone know the current lead time for Hull fastener kit, M60?",
+      "replies": [
+        {
+          "id": "procurement-202607-0002-r1",
+          "ts": "2026-07-01T09:06:18Z",
+          "user_id": "EMP-00882",
+          "user": "Nils Sable",
+          "text": "About 3 weeks from Mustafar Refinery Cooperative."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0003",
+      "ts": "2026-07-02T11:18:14Z",
+      "user_id": "EMP-00873",
+      "user": "Arden Dallan",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0004",
+      "ts": "2026-07-02T12:57:51Z",
+      "user_id": "EMP-00861",
+      "user": "Esme Maddox",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for thermal items.",
+      "replies": [
+        {
+          "id": "procurement-202607-0004-r1",
+          "ts": "2026-07-02T13:03:51Z",
+          "user_id": "EMP-00865",
+          "user": "Desik Ambrose",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0005",
+      "ts": "2026-07-03T07:19:51Z",
+      "user_id": "EMP-00873",
+      "user": "Arden Dallan",
+      "text": "Anyone know the current lead time for Storage battery module, 20 GWh?",
+      "replies": [
+        {
+          "id": "procurement-202607-0005-r1",
+          "ts": "2026-07-03T07:23:51Z",
+          "user_id": "EMP-00898",
+          "user": "Yara Radlow",
+          "text": "About 11 weeks from Carbanti United Electronics."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0006",
+      "ts": "2026-07-04T08:44:28Z",
+      "user_id": "EMP-00871",
+      "user": "Darek Vance",
+      "text": "Anyone know the current lead time for Quadanium steel beam, 120 m?",
+      "replies": [
+        {
+          "id": "procurement-202607-0006-r1",
+          "ts": "2026-07-04T08:50:28Z",
+          "user_id": "EMP-00881",
+          "user": "Arden Holloway",
+          "text": "About 4 weeks from Raxus Coolant Works."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0007",
+      "ts": "2026-07-04T15:33:00Z",
+      "user_id": "EMP-00878",
+      "user": "Lannic Salter",
+      "text": "EI-PO-2026-00265 sent to Uulshos Manufacturing.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0008",
+      "ts": "2026-07-06T15:50:21Z",
+      "user_id": "EMP-00893",
+      "user": "Rowan Ellery",
+      "text": "Anyone know the current lead time for Superconducting bus conduit, class 6?",
+      "replies": [
+        {
+          "id": "procurement-202607-0008-r1",
+          "ts": "2026-07-06T15:55:21Z",
+          "user_id": "EMP-00891",
+          "user": "Ivor Tarrant",
+          "text": "About 5 weeks from Fondor Shipyards."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0009",
+      "ts": "2026-07-07T12:24:21Z",
+      "user_id": "EMP-00895",
+      "user": "Petra Voren",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for shipyard items.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0010",
+      "ts": "2026-07-08T07:42:36Z",
+      "user_id": "EMP-00871",
+      "user": "Darek Vance",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0011",
+      "ts": "2026-07-09T07:04:37Z",
+      "user_id": "EMP-00877",
+      "user": "Nils Thorne",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for agriculture items.",
+      "replies": [
+        {
+          "id": "procurement-202607-0011-r1",
+          "ts": "2026-07-09T07:09:37Z",
+          "user_id": "EMP-00856",
+          "user": "Ulric Alcorne",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0012",
+      "ts": "2026-07-10T19:32:11Z",
+      "user_id": "EMP-00883",
+      "user": "Jessa Holloway",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0013",
+      "ts": "2026-07-11T12:04:28Z",
+      "user_id": "EMP-00858",
+      "user": "Kirra Crane",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for agriculture items.",
+      "replies": [
+        {
+          "id": "procurement-202607-0013-r1",
+          "ts": "2026-07-11T12:11:28Z",
+          "user_id": "EMP-00873",
+          "user": "Arden Dallan",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0014",
+      "ts": "2026-07-11T15:38:03Z",
+      "user_id": "EMP-00859",
+      "user": "Torin Torvald",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for research items.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0015",
+      "ts": "2026-07-11T18:42:16Z",
+      "user_id": "EMP-00880",
+      "user": "Quinn Corrin",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0016",
+      "ts": "2026-07-12T06:00:41Z",
+      "user_id": "EMP-00883",
+      "user": "Jessa Holloway",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for shipyard items.",
+      "replies": [
+        {
+          "id": "procurement-202607-0016-r1",
+          "ts": "2026-07-12T06:04:41Z",
+          "user_id": "EMP-00856",
+          "user": "Ulric Alcorne",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0017",
+      "ts": "2026-07-12T18:42:39Z",
+      "user_id": "EMP-00867",
+      "user": "Darek Dunleavy",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0018",
+      "ts": "2026-07-12T18:47:49Z",
+      "user_id": "EMP-00877",
+      "user": "Nils Thorne",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0019",
+      "ts": "2026-07-13T08:12:15Z",
+      "user_id": "EMP-00866",
+      "user": "Vela Greaves",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for structural items.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0020",
+      "ts": "2026-07-14T16:36:05Z",
+      "user_id": "EMP-00879",
+      "user": "Maren Warrick",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0021",
+      "ts": "2026-07-15T07:02:34Z",
+      "user_id": "EMP-00861",
+      "user": "Esme Maddox",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0022",
+      "ts": "2026-07-16T11:41:56Z",
+      "user_id": "EMP-00882",
+      "user": "Nils Sable",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for consumables items.",
+      "replies": [
+        {
+          "id": "procurement-202607-0022-r1",
+          "ts": "2026-07-16T11:47:56Z",
+          "user_id": "EMP-00864",
+          "user": "Rowan Ingram",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0023",
+      "ts": "2026-07-16T17:40:07Z",
+      "user_id": "EMP-00856",
+      "user": "Ulric Alcorne",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for fasteners items.",
+      "replies": [
+        {
+          "id": "procurement-202607-0023-r1",
+          "ts": "2026-07-16T17:46:07Z",
+          "user_id": "EMP-00890",
+          "user": "Ferris Calloway",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0024",
+      "ts": "2026-07-17T06:55:35Z",
+      "user_id": "EMP-00859",
+      "user": "Torin Torvald",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0025",
+      "ts": "2026-07-18T08:48:22Z",
+      "user_id": "EMP-00882",
+      "user": "Nils Sable",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0026",
+      "ts": "2026-07-18T14:24:01Z",
+      "user_id": "EMP-00886",
+      "user": "Rain Nevins",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0027",
+      "ts": "2026-07-20T16:27:05Z",
+      "user_id": "EMP-00883",
+      "user": "Jessa Holloway",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0028",
+      "ts": "2026-07-21T13:14:11Z",
+      "user_id": "EMP-00874",
+      "user": "Gavren Nevins",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0029",
+      "ts": "2026-07-23T14:36:12Z",
+      "user_id": "EMP-00873",
+      "user": "Arden Dallan",
+      "text": "Anyone know the current lead time for Tracking drive motor, standard?",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0030",
+      "ts": "2026-07-23T19:27:51Z",
+      "user_id": "EMP-00893",
+      "user": "Rowan Ellery",
+      "text": "Anyone know the current lead time for Hull plating section, type 2?",
+      "replies": [
+        {
+          "id": "procurement-202607-0030-r1",
+          "ts": "2026-07-23T19:31:51Z",
+          "user_id": "EMP-00871",
+          "user": "Darek Vance",
+          "text": "About 14 weeks from Cygnus Spaceworks."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0031",
+      "ts": "2026-07-24T14:47:51Z",
+      "user_id": "EMP-00872",
+      "user": "Elian Wakefield",
+      "text": "Anyone know the current lead time for Seed stock, vegetables?",
+      "replies": [
+        {
+          "id": "procurement-202607-0031-r1",
+          "ts": "2026-07-24T14:54:51Z",
+          "user_id": "EMP-00878",
+          "user": "Lannic Salter",
+          "text": "About 16 weeks from Garel Composite Mills."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0032",
+      "ts": "2026-07-26T15:31:00Z",
+      "user_id": "EMP-00871",
+      "user": "Darek Vance",
+      "text": "EI-PO-2026-00137 sent to SoroSuub Corporation.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0033",
+      "ts": "2026-07-27T07:03:27Z",
+      "user_id": "EMP-00870",
+      "user": "Corra Craddock",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0034",
+      "ts": "2026-07-27T08:30:55Z",
+      "user_id": "EMP-00884",
+      "user": "Nils Longmire",
+      "text": "Anyone know the current lead time for Station-keeping thruster nozzle, 1200 kN?",
+      "replies": [
+        {
+          "id": "procurement-202607-0034-r1",
+          "ts": "2026-07-27T08:34:55Z",
+          "user_id": "EMP-00860",
+          "user": "Pax Barrowe",
+          "text": "About 14 weeks from Fondor Foundry Collective."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0035",
+      "ts": "2026-07-27T09:57:33Z",
+      "user_id": "EMP-00869",
+      "user": "Orrin Kessel",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0036",
+      "ts": "2026-07-27T15:32:00Z",
+      "user_id": "EMP-00870",
+      "user": "Corra Craddock",
+      "text": "EI-PO-2026-00252 sent to Eriadu Steelworks.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0037",
+      "ts": "2026-07-27T16:08:21Z",
+      "user_id": "EMP-00898",
+      "user": "Yara Radlow",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0038",
+      "ts": "2026-07-28T08:52:01Z",
+      "user_id": "EMP-00875",
+      "user": "Odile Ashby",
+      "text": "Anyone know the current lead time for Dry dock seal assembly, main gate?",
+      "replies": [
+        {
+          "id": "procurement-202607-0038-r1",
+          "ts": "2026-07-28T08:56:01Z",
+          "user_id": "EMP-00877",
+          "user": "Nils Thorne",
+          "text": "About 15 weeks from Rothana Heavy Cranes."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0039",
+      "ts": "2026-07-28T13:16:48Z",
+      "user_id": "EMP-00885",
+      "user": "Zeva Graylin",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0040",
+      "ts": "2026-07-29T13:51:59Z",
+      "user_id": "EMP-00885",
+      "user": "Zeva Graylin",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0041",
+      "ts": "2026-07-29T14:55:00Z",
+      "user_id": "EMP-00869",
+      "user": "Orrin Kessel",
+      "text": "Anyone know the current lead time for Durasteel plate, grade C?",
+      "replies": [
+        {
+          "id": "procurement-202607-0041-r1",
+          "ts": "2026-07-29T15:02:00Z",
+          "user_id": "EMP-00886",
+          "user": "Rain Nevins",
+          "text": "About 9 weeks from Lianna Orbital Systems."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0042",
+      "ts": "2026-07-29T15:30:00Z",
+      "user_id": "EMP-00891",
+      "user": "Ivor Tarrant",
+      "text": "EI-PO-2026-00078 sent to Carida Safety Supply.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0043",
+      "ts": "2026-07-30T06:36:01Z",
+      "user_id": "EMP-00865",
+      "user": "Desik Ambrose",
+      "text": "Month-end cut-off for purchase order releases is Friday at noon.",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0044",
+      "ts": "2026-07-30T14:24:11Z",
+      "user_id": "EMP-00857",
+      "user": "Yorik Orlen",
+      "text": "Reminder: certificates of conformity are needed before goods receipt for life support items.",
+      "replies": [
+        {
+          "id": "procurement-202607-0044-r1",
+          "ts": "2026-07-30T14:29:11Z",
+          "user_id": "EMP-00881",
+          "user": "Arden Holloway",
+          "text": "Noted."
+        }
+      ]
+    },
+    {
+      "id": "procurement-202607-0045",
+      "ts": "2026-07-31T12:54:32Z",
+      "user_id": "EMP-00880",
+      "user": "Quinn Corrin",
+      "text": "Anyone know the current lead time for Computer core processing node, gen 8?",
+      "replies": []
+    },
+    {
+      "id": "procurement-202607-0046",
+      "ts": "2026-07-31T18:42:36Z",
+      "user_id": "EMP-00884",
+      "user": "Nils Longmire",
+      "text": "Supplier portal maintenance tonight from 22:00, please submit releases before then.",
+      "replies": []
+    }
+  ]
+}

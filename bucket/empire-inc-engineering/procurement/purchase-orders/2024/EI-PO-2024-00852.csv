@@ -1,0 +1,4 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2024-00852,2024-03-16,SUP-002,Lianna Orbital Systems,1,EI-HR-018-02,"Coolant, cryogenic, type L",120,m³,870.86,104503.20,2024-07-30
+EI-PO-2024-00852,2024-03-16,SUP-002,Lianna Orbital Systems,2,EI-HR-015-02,"Hypermatter fuel, stabilized, batch grade II",1,kg,148864.09,148864.09,2024-09-11
+EI-PO-2024-00852,,,,,,ORDER TOTAL,,,,253367.29,

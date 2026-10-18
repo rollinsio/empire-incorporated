@@ -1,0 +1,7 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HA-044-02,"Classroom furniture set, secondary",4,set,3049.09,12196.36,Mekuun Fabrication,SHV-HA-DWG-0203
+2,EI-HA-044-02,"Classroom furniture set, secondary",12,set,3049.09,36589.08,Anaxes Turbolift Company,SHV-HA-DWG-0203
+3,EI-HA-043-01,"Galley equipment set, standard",2,set,23359.01,46718.02,Sluis Van Orbital Works,SHV-HA-DWG-0203
+4,EI-HA-004-03,"Transparisteel viewport panel, observation deck",24,ea,30614.84,734756.16,Chiewab Medical,SHV-HA-DWG-0203
+5,EI-HA-004-02,"Transparisteel viewport panel, medium",240,ea,16245.18,3898843.20,Fabritech,SHV-HA-DWG-0203
+6,EI-HA-044-02,"Classroom furniture set, secondary",12,set,3049.09,36589.08,Carida Safety Supply,SHV-HA-DWG-0203

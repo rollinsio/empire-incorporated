@@ -1,0 +1,45 @@
+From: Ursel Marrek <ursel.marrek@empire-inc.example>
+To: Service Desk Team <service-desk@empire-inc.example>
+Subject: Service desk backlog 2026-08
+Date: Mon, 03 Aug 2026 08:00:00 +0000
+Message-ID: <202608030800.00430@empire-inc.example>
+X-Classification: INTERNAL
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_empire_mail_00430"
+
+--=_empire_mail_00430
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INTERNAL
+
+Hello team,
+
+attached is the service desk backlog as of 2026-08-03: 3 open tickets.
+The oldest is TCK-2026-0077, opened on 2026-07-18.
+
+Regards,
+Ursel
+
+-- 
+Ursel Marrek
+Engineering Manager, Communications
+Computing & Communications
+Empire Incorporated
+Ext. x5052
+
+--=_empire_mail_00430
+Content-Type: text/csv; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename="service-desk-backlog-2026-08.csv"
+MIME-Version: 1.0
+
+ticket_id,queue,subject,requester,assignee,priority,created_at
+TCK-2026-0077,IT_HELPDESK,Shared folder for Eadu Agricultural Research Campus=
+,Jessa Kessel,Gessa Glenmore,LOW,2026-07-18T10:18:00Z
+TCK-2026-0081,FACILITIES,Facility incident FI-2026-051,Jaska Desmont,Rain Col=
+dbrook,MEDIUM,2026-07-25T08:56:00Z
+TCK-2026-0083,FACILITIES,Lost badge replacement,Kaspar Marlow,Rain Coldbrook,=
+LOW,2026-08-02T07:00:00Z
+
+--=_empire_mail_00430--

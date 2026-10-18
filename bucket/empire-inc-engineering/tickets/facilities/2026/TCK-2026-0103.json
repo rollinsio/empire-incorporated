@@ -1,0 +1,30 @@
+{
+  "ticket_id": "TCK-2026-0103",
+  "queue": "FACILITIES",
+  "subject": "Lost badge replacement",
+  "description": "I lost my badge near Reactor access walkway 7.",
+  "priority": "LOW",
+  "status": "IN_PROGRESS",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00945",
+    "name": "Leda Falkner",
+    "email": "leda.falkner@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00991",
+    "name": "Rain Coldbrook",
+    "email": "rain.coldbrook@empire-inc.example"
+  },
+  "created_at": "2026-09-18T09:37:00Z",
+  "resolved_at": null,
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-09-18T10:59:00Z",
+      "author": "Rain Coldbrook",
+      "text": "Looking into it."
+    }
+  ]
+}

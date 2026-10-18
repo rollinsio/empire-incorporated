@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0055",
+  "queue": "FACILITIES",
+  "subject": "Facility incident FI-2025-019",
+  "description": "Logged from the facilities hotline. The details are recorded in facility incident FI-2025-019.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00009",
+    "name": "Ferris Quayle",
+    "email": "ferris.quayle@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00996",
+    "name": "Orrin Thorne",
+    "email": "orrin.thorne@empire-inc.example"
+  },
+  "created_at": "2025-06-09T08:21:00Z",
+  "resolved_at": "2025-06-10T17:00:00Z",
+  "related_incident": "FI-2025-019",
+  "comments": [
+    {
+      "at": "2025-06-09T12:04:00Z",
+      "author": "Orrin Thorne",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-06-10T17:00:00Z",
+      "author": "Orrin Thorne",
+      "text": "Incident closed by Facilities & Workplace Safety."
+    }
+  ]
+}

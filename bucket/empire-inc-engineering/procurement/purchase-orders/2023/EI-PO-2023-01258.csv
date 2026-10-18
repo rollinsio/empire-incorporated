@@ -1,0 +1,7 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2023-01258,2023-04-16,SUP-021,Rothana Heavy Cranes,1,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",2,ea,95457.37,190914.74,2023-09-05
+EI-PO-2023-01258,2023-04-16,SUP-021,Rothana Heavy Cranes,2,EI-HB-026-01,"Magnetic containment field generator, bay",3,ea,181467.91,544403.73,2023-05-20
+EI-PO-2023-01258,2023-04-16,SUP-021,Rothana Heavy Cranes,3,EI-HB-025-02,"Cargo shuttle cradle segment, 8-craft",2,ea,104505.89,209011.78,2023-05-14
+EI-PO-2023-01258,2023-04-16,SUP-021,Rothana Heavy Cranes,4,EI-HB-026-01,"Magnetic containment field generator, bay",1,ea,168339.59,168339.59,2023-10-10
+EI-PO-2023-01258,2023-04-16,SUP-021,Rothana Heavy Cranes,5,EI-HB-025-01,"Cargo shuttle cradle segment, 4-craft",2,ea,81529.43,163058.86,2023-05-20
+EI-PO-2023-01258,,,,,,ORDER TOTAL,,,,1275728.70,

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00068@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260115T150000Z
+DTEND:20260115T160000Z
+SUMMARY:Empire Incorporated quarterly all-hands
+LOCATION:Coruscant Headquarters auditorium and HoloNet stream
+DESCRIPTION:Quarterly all-hands\, 2026-01-15\, hosted by Helena Ashworth.
+  Questions can be sent in advance to the Office of the Chairman.
+ORGANIZER;CN="Helena Ashworth":mailto:helena.ashworth@empire-inc.example
+ATTENDEE;CN="All Staff";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:all-staff@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

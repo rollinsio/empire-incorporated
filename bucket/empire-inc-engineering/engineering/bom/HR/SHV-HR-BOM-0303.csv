@@ -1,0 +1,7 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-HR-015-02,"Hypermatter fuel, stabilized, batch grade II",2,kg,141677.01,283354.02,Kuat Precision Instruments,SHV-HR-DWG-0203
+2,EI-HR-016-01,"Containment field emitter, mk II",2,ea,676347.78,1352695.56,SoroSuub Corporation,SHV-HR-DWG-0203
+3,EI-HR-016-02,"Containment field emitter, mk III",3,ea,750241.91,2250725.73,Kuat Drive Yards,SHV-HR-DWG-0203
+4,EI-HR-017-02,"Fuel injector cartridge, high-flow",4,ea,60434.83,241739.32,Raxus Coolant Works,SHV-HR-DWG-0203
+5,EI-HR-017-01,"Fuel injector cartridge, standard",2,ea,54059.89,108119.78,Carbanti United Electronics,SHV-HR-DWG-0203
+6,EI-HR-018-01,"Coolant, cryogenic, type K",12,m³,990.16,11881.92,Lianna Orbital Systems,SHV-HR-DWG-0203

@@ -1,0 +1,14 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-PD-012-01,"Storage battery module, 20 GWh",2,ea,108683.72,217367.44,Naboo Hydroponic Supply,SHV-PD-DWG-0204
+2,EI-PD-011-02,"Backup generator module, 1 TW",1,ea,376348.06,376348.06,Scarif Data Systems,SHV-PD-DWG-0204
+3,EI-PD-009-01,"Superconducting bus conduit, class 4",2,m,1780.68,3561.36,Axxila Power Cells,SHV-PD-DWG-0204
+4,EI-PD-010-01,"Zone substation breaker, standard",240,ea,8655.39,2077293.60,Rendili StarDrive,SHV-PD-DWG-0204
+5,EI-PD-009-02,"Superconducting bus conduit, class 5",48,m,647.67,31088.16,Anaxes Turbolift Company,SHV-PD-DWG-0204
+6,EI-PD-011-01,"Backup generator module, 0.5 TW",4,ea,323028.35,1292113.40,Lianna Orbital Systems,SHV-PD-DWG-0204
+7,EI-PD-008-04,"Power coupling, 90 MA",1,ea,72093.40,72093.40,Fondor Shipyards,SHV-PD-DWG-0204
+8,EI-PD-009-03,"Superconducting bus conduit, class 6",1,m,592.80,592.80,Rendili StarDrive,SHV-PD-DWG-0204
+9,EI-PD-010-02,"Zone substation breaker, fast-trip",1,ea,5467.18,5467.18,Naboo Hydroponic Supply,SHV-PD-DWG-0204
+10,EI-PD-009-01,"Superconducting bus conduit, class 4",48,m,1780.68,85472.64,Kuat Drive Yards,SHV-PD-DWG-0204
+11,EI-PD-008-04,"Power coupling, 90 MA",3,ea,72093.40,216280.20,Fondor Shipyards,SHV-PD-DWG-0204
+12,EI-PD-008-02,"Power coupling, 30 MA",3,ea,65846.27,197538.81,Carbanti United Electronics,SHV-PD-DWG-0204
+13,EI-PD-012-01,"Storage battery module, 20 GWh",2,ea,108683.72,217367.44,Alsakan Instruments,SHV-PD-DWG-0204

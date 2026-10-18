@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00116@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260810T150000Z
+DTEND:20260810T160000Z
+SUMMARY:Personnel Administration team meeting
+LOCATION:Coruscant Headquarters\, room H41-05
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-08-10.
+ORGANIZER;CN="Pell Amaranth":mailto:pell.amaranth@empire-inc.example
+ATTENDEE;CN="Leda Falkner";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:leda.falkner@empire-inc.example
+ATTENDEE;CN="Neve Holloway";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:neve.holloway@empire-inc.example
+ATTENDEE;CN="Casimir Quarrel";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:casimir.quarrel@empire-inc.example
+ATTENDEE;CN="Lysander Hune";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:lysander.hune@empire-inc.example
+ATTENDEE;CN="Wilde Stagg";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:wilde.stagg@empire-inc.example
+ATTENDEE;CN="Arden Lorne";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:arden.lorne@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

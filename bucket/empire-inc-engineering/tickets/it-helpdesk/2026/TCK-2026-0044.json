@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0044",
+  "queue": "IT_HELPDESK",
+  "subject": "Software install request: statistics package",
+  "description": "Please install the statistics package on my workstation.",
+  "priority": "HIGH",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00831",
+    "name": "Bale Vexley",
+    "email": "bale.vexley@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00675",
+    "name": "Kalla Errant",
+    "email": "kalla.errant@empire-inc.example"
+  },
+  "created_at": "2026-04-16T14:47:00Z",
+  "resolved_at": "2026-04-18T00:47:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-04-16T15:14:00Z",
+      "author": "Kalla Errant",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-04-18T00:47:00Z",
+      "author": "Kalla Errant",
+      "text": "Installed and licensed."
+    }
+  ]
+}

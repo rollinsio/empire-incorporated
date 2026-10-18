@@ -1,0 +1,25 @@
+zone_code,name,sensitivity
+Z01,"Zone 01 (Northern Hemisphere, band 1)",INTERNAL
+Z02,"Zone 02 (Northern Hemisphere, band 2)",INTERNAL
+Z03,"Zone 03 (Northern Hemisphere, band 3)",INTERNAL
+Z04,"Zone 04 (Northern Hemisphere, band 4)",INTERNAL
+Z05,"Zone 05 (Northern Hemisphere, band 5)",INTERNAL
+Z06,"Zone 06 (Northern Hemisphere, band 6)",INTERNAL
+Z07,"Zone 07 (Northern Hemisphere, band 7)",INTERNAL
+Z08,"Zone 08 (Northern Hemisphere, band 8)",INTERNAL
+Z09,"Zone 09 (Northern Hemisphere, band 9)",INTERNAL
+Z10,"Zone 10 (Northern Hemisphere, band 10)",INTERNAL
+Z11,"Zone 11 (Northern Hemisphere, band 11)",INTERNAL
+Z12,"Zone 12 (Northern Hemisphere, band 12)",INTERNAL
+Z13,"Zone 13 (Southern Hemisphere, band 1)",INTERNAL
+Z14,"Zone 14 (Southern Hemisphere, band 2)",INTERNAL
+Z15,"Zone 15 (Southern Hemisphere, band 3)",INTERNAL
+Z16,"Zone 16 (Southern Hemisphere, band 4)",INTERNAL
+Z17,"Zone 17 (Southern Hemisphere, band 5)",INTERNAL
+Z18,"Zone 18 (Southern Hemisphere, band 6)",INTERNAL
+Z19,"Zone 19 (Southern Hemisphere, band 7)",INTERNAL
+Z20,"Zone 20 (Southern Hemisphere, band 8)",INTERNAL
+Z21,"Zone 21 (Southern Hemisphere, band 9)",INTERNAL
+Z22,"Zone 22 (Southern Hemisphere, band 10)",INTERNAL
+Z23,"Zone 23 (Southern Hemisphere, band 11)",INTERNAL
+Z24,"Zone 24 (Southern Hemisphere, band 12)",INTERNAL

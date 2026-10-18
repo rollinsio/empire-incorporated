@@ -1,0 +1,47 @@
+From: Ursel Marrek <ursel.marrek@empire-inc.example>
+To: Service Desk Team <service-desk@empire-inc.example>
+Subject: Service desk backlog 2026-05
+Date: Mon, 04 May 2026 08:00:00 +0000
+Message-ID: <202605040800.00428@empire-inc.example>
+X-Classification: INTERNAL
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_empire_mail_00428"
+
+--=_empire_mail_00428
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INTERNAL
+
+Hello team,
+
+attached is the service desk backlog as of 2026-05-04: 4 open tickets.
+The oldest is TCK-2026-0045, opened on 2026-04-21.
+
+Regards,
+Ursel
+
+-- 
+Ursel Marrek
+Engineering Manager, Communications
+Computing & Communications
+Empire Incorporated
+Ext. x5052
+
+--=_empire_mail_00428
+Content-Type: text/csv; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename="service-desk-backlog-2026-05.csv"
+MIME-Version: 1.0
+
+ticket_id,queue,subject,requester,assignee,priority,created_at
+TCK-2026-0045,FACILITIES,Cleaning request: Reactor access walkway 7,Danna Mad=
+dox,Rain Coldbrook,HIGH,2026-04-21T07:13:00Z
+TCK-2026-0047,FACILITIES,Facility incident FI-2026-025,Rosk Calder,Lysander A=
+rkwell,MEDIUM,2026-04-27T16:10:00Z
+TCK-2026-0049,FACILITIES,Turbolift noise near Habitation block H-3 laundry,Ke=
+stin Yarrow,Rosk Calder,LOW,2026-05-02T12:14:00Z
+TCK-2026-0050,IT_HELPDESK,Postfach voll,Uwe Vogt,Bale Zell,LOW,2026-05-03T16:=
+27:00Z
+
+--=_empire_mail_00428--

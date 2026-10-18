@@ -1,0 +1,4 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2025-00548,2025-09-19,SUP-015,Sluis Van Orbital Works,1,EI-CM-037-01,"Traffic routing switch card, standard",1,ea,35408.97,35408.97,2026-01-25
+EI-PO-2025-00548,2025-09-19,SUP-015,Sluis Van Orbital Works,2,EI-CM-037-01,"Traffic routing switch card, standard",10,ea,39566.85,395668.50,2025-11-23
+EI-PO-2025-00548,,,,,,ORDER TOTAL,,,,431077.47,

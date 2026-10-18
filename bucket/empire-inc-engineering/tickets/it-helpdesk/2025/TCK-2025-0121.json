@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0121",
+  "queue": "IT_HELPDESK",
+  "subject": "Postfach voll",
+  "description": "Ich kann keine Mails mehr empfangen, das Postfach ist voll.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "de",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00761",
+    "name": "Dagmar Seidel",
+    "email": "dagmar.seidel@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00648",
+    "name": "Vance Garron",
+    "email": "vance.garron@empire-inc.example"
+  },
+  "created_at": "2025-12-03T12:07:00Z",
+  "resolved_at": "2026-01-01T12:07:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-12-03T15:20:00Z",
+      "author": "Vance Garron",
+      "text": "Wird bearbeitet."
+    },
+    {
+      "at": "2026-01-01T12:07:00Z",
+      "author": "Vance Garron",
+      "text": "Postfach erweitert und alte Mails archiviert."
+    }
+  ]
+}

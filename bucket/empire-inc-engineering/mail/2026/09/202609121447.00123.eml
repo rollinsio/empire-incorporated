@@ -1,0 +1,49 @@
+From: Ferris Quayle <ferris.quayle@empire-inc.example>
+To: Ines Greaves <ines.greaves@empire-inc.example>,
+ Mira Kestrel <mira.kestrel@empire-inc.example>,
+ Reactor Operations <reactor-ops@empire-inc.example>
+Subject: Re: HR-CORE-T01 temperature peak on 2026-09-12
+Date: Sat, 12 Sep 2026 14:47:00 +0000
+Message-ID: <202609121447.00123@empire-inc.example>
+X-Classification: CONFIDENTIAL
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+In-Reply-To: <202609121412.00122@empire-inc.example>
+References: <202609121412.00122@empire-inc.example>
+
+CONFIDENTIAL
+
+Hello both,
+
+Facilities logged incident FI-2026-031 at the same time: Coolant pump
+trip in Zone Z11 at 14:00 station time while the reactor core
+temperature was elevated; pump restarted after 40 minutes, no injuries.
+
+Regards,
+Ferris
+
+-- 
+Ferris Quayle
+Director, Facilities & Workplace Safety
+Facilities & Workplace Safety
+Empire Incorporated
+Ext. x2389
+
+On 2026-09-12 at 14:12 UTC, Ines Greaves wrote:
+> Hello Mira,
+>
+> HR-CORE-T01 peaked at 4812.6 K at 14:00 UTC today, above the approved
+> design core temperature of 4,400 K in SHV-HR-SPEC-0002 Rev D. TX-HXS-T01
+> at the heat exchanger outlet rose to 702.4 K at the same time. We are
+> checking the coolant loop.
+>
+> Regards,
+> Ines
+>
+> -- 
+> Ines Greaves
+> Senior Power Systems Engineer
+> Reactor & Power Systems
+> Empire Incorporated
+> Ext. x4675

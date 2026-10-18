@@ -1,0 +1,5 @@
+po_number,order_date,supplier_id,supplier,line_no,part_number,description,quantity,unit,unit_price_credits,line_total_credits,delivery_date
+EI-PO-2021-00678,2021-04-03,SUP-012,Uulshos Manufacturing,1,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",6,ea,301.78,1810.68,2021-06-12
+EI-PO-2021-00678,2021-04-03,SUP-012,Uulshos Manufacturing,2,EI-LS-038-02,"Atmosphere scrubber cartridge, trace",20,ea,289.55,5791.00,2021-08-30
+EI-PO-2021-00678,2021-04-03,SUP-012,Uulshos Manufacturing,3,EI-LS-038-01,"Atmosphere scrubber cartridge, CO2",80,ea,321.55,25724.00,2021-07-22
+EI-PO-2021-00678,,,,,,ORDER TOTAL,,,,33325.68,

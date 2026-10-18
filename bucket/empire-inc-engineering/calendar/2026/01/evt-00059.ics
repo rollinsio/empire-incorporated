@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00059@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260107T130000Z
+DTEND:20260107T140000Z
+SUMMARY:Kuat Drive Yards monthly supplier review
+LOCATION:Coruscant Headquarters\, room H41-12\, with HoloNet link
+DESCRIPTION:Monthly supplier review\, 2026-01-07: contract CTR-2024-0117
+  (Starhaven hull plating and gantry crane assemblies)\, open purchase
+  orders\, delivery schedule and quality notes.
+ORGANIZER;CN="Rennick Solberg":mailto:rennick.solberg@empire-inc.example
+ATTENDEE;CN="Merel Danvik";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:merel.danvik@kuat-drive-yards.example
+ATTENDEE;CN="Quinn Corrin";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:quinn.corrin@empire-inc.example
+ATTENDEE;CN="Rhosa Salter";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rhosa.salter@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0032",
+  "queue": "FACILITIES",
+  "subject": "Office chair broken",
+  "description": "The gas lift of my office chair is broken.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00530",
+    "name": "Dalric Avrane",
+    "email": "dalric.avrane@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00995",
+    "name": "Lysander Arkwell",
+    "email": "lysander.arkwell@empire-inc.example"
+  },
+  "created_at": "2026-03-18T08:57:00Z",
+  "resolved_at": "2026-03-19T08:57:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-03-18T10:29:00Z",
+      "author": "Lysander Arkwell",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-03-19T08:57:00Z",
+      "author": "Lysander Arkwell",
+      "text": "Chair replaced."
+    }
+  ]
+}

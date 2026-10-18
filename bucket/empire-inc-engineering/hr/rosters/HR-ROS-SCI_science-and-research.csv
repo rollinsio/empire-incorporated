@@ -1,0 +1,71 @@
+Name,Title,Email,Extension,Work location,Manager
+Ivor Adrel,Senior Research Scientist,ivor.adrel@empire-inc.example,x7985,Coruscant Headquarters,Esme Crestwell
+Soren Ancel,Research Scientist,soren.ancel@empire-inc.example,x8376,Coruscant Headquarters,Esme Crestwell
+Vira Ancel,Research Assistant,vira.ancel@empire-inc.example,x7582,Starhaven (on site),Esme Crestwell
+Merrin Ardent,Laboratory Technician,merrin.ardent@empire-inc.example,x8020,Starhaven (on site),Teague Belcourt
+Alira Ashby,Principal Research Scientist,alira.ashby@empire-inc.example,x8799,Starhaven (on site),Saela Wade
+Silas Ashby,Senior Data Analyst,silas.ashby@empire-inc.example,x6346,Coruscant Headquarters,Esme Crestwell
+Neve Aster,Senior Research Scientist,neve.aster@empire-inc.example,x4960,Starhaven (on site),Saela Wade
+Quinn Aster,Principal Research Scientist,quinn.aster@empire-inc.example,x8438,Coruscant Headquarters,Teague Belcourt
+Venn Barrowe,Research Assistant,venn.barrowe@empire-inc.example,x5299,Starhaven (on site),Anneka Holloway
+Zeva Bastide,Senior Data Analyst,zeva.bastide@empire-inc.example,x2383,Starhaven (on site),Anneka Holloway
+Teague Belcourt,"Research Manager, Materials Science",teague.belcourt@empire-inc.example,x7928,Coruscant Headquarters,Darek Zell
+Arden Blackwood,Senior Research Scientist,arden.blackwood@empire-inc.example,x3119,Coruscant Headquarters,Bryn Merrick
+Casimir Blackwood,Data Analyst,casimir.blackwood@empire-inc.example,x6786,Coruscant Headquarters,Saela Wade
+Rhosa Bracken,Senior Research Scientist,rhosa.bracken@empire-inc.example,x4693,Coruscant Headquarters,Vela Merrick
+Kestin Castellan,Data Analyst,kestin.castellan@empire-inc.example,x5080,Starhaven (on site),Anneka Holloway
+Callum Chalke,Principal Research Scientist,callum.chalke@empire-inc.example,x2465,Starhaven (on site),Odile Fiore
+Brisk Corrin,Laboratory Technician,brisk.corrin@empire-inc.example,x4644,Coruscant Headquarters,Esme Crestwell
+Esme Crestwell,"Research Manager, Materials Science",esme.crestwell@empire-inc.example,x2113,Starhaven (on site),Darek Zell
+Merrin Delane,Laboratory Technician,merrin.delane@empire-inc.example,x8868,Coruscant Headquarters,Anneka Holloway
+Ulla Delane,Data Analyst,ulla.delane@empire-inc.example,x5737,Starhaven (on site),Odile Fiore
+Gavren Dravis,Senior Data Analyst,gavren.dravis@empire-inc.example,x4357,Starhaven (on site),Odile Fiore
+Ulric Dunleavy,Laboratory Technician,ulric.dunleavy@empire-inc.example,x4015,Starhaven (on site),Esme Crestwell
+Rain Ellery,Senior Data Analyst,rain.ellery@empire-inc.example,x3518,Coruscant Headquarters,Anneka Holloway
+Wyatt Elsmore,Senior Data Analyst,wyatt.elsmore@empire-inc.example,x2661,Starhaven (on site),Odile Fiore
+Petra Everhart,Laboratory Technician,petra.everhart@empire-inc.example,x6813,Starhaven (on site),Teague Belcourt
+Darek Fairholm,Senior Data Analyst,darek.fairholm@empire-inc.example,x3659,Starhaven (on site),Teague Belcourt
+Ines Fairholm,Laboratory Technician,ines.fairholm@empire-inc.example,x6326,Coruscant Headquarters,Odile Fiore
+Odile Fiore,"Research Manager, Astronomy",odile.fiore@empire-inc.example,x4463,Coruscant Headquarters,Darek Zell
+Rain Hartwell,Research Assistant,rain.hartwell@empire-inc.example,x7468,Coruscant Headquarters,Vela Merrick
+Anneka Holloway,"Research Manager, Materials Science",anneka.holloway@empire-inc.example,x3360,Starhaven (on site),Darek Zell
+Ivor Holloway,Data Analyst,ivor.holloway@empire-inc.example,x3575,Starhaven (on site),Bryn Merrick
+Enna Hune,Senior Data Analyst,enna.hune@empire-inc.example,x4611,Starhaven (on site),Odile Fiore
+Tarn Illing,Data Analyst,tarn.illing@empire-inc.example,x8141,Starhaven (on site),Odile Fiore
+Sabel Ingram,Senior Data Analyst,sabel.ingram@empire-inc.example,x2990,Starhaven (on site),Saela Wade
+Anneka Jarrow,Senior Data Analyst,anneka.jarrow@empire-inc.example,x7056,Coruscant Headquarters,Teague Belcourt
+Kirra Kade,Data Analyst,kirra.kade@empire-inc.example,x4482,Starhaven (on site),Teague Belcourt
+Kier Kendrick,Laboratory Technician,kier.kendrick@empire-inc.example,x6817,Starhaven (on site),Bryn Merrick
+Orla Kendrick,Senior Research Scientist,orla.kendrick@empire-inc.example,x2228,Starhaven (on site),Vela Merrick
+Tova Kendrick,Research Scientist,tova.kendrick@empire-inc.example,x4698,Starhaven (on site),Bryn Merrick
+Treva Kessel,Laboratory Technician,treva.kessel@empire-inc.example,x3049,Coruscant Headquarters,Anneka Holloway
+Xan Lorne,Senior Data Analyst,xan.lorne@empire-inc.example,x5409,Coruscant Headquarters,Bryn Merrick
+Neve Lowell,Data Analyst,neve.lowell@empire-inc.example,x8236,Coruscant Headquarters,Anneka Holloway
+Xan Lusk,Data Analyst,xan.lusk@empire-inc.example,x2108,Starhaven (on site),Vela Merrick
+Nadia Maddox,Data Analyst,nadia.maddox@empire-inc.example,x7971,Starhaven (on site),Saela Wade
+Seren Marlow,Research Assistant,seren.marlow@empire-inc.example,x6594,Starhaven (on site),Anneka Holloway
+Bryn Merrick,"Research Manager, Astronomy",bryn.merrick@empire-inc.example,x7956,Starhaven (on site),Darek Zell
+Vela Merrick,"Research Manager, Materials Science",vela.merrick@empire-inc.example,x6900,Starhaven (on site),Darek Zell
+Lucan Merriweather,"Director, Science & Research",lucan.merriweather@empire-inc.example,x2023,Coruscant Headquarters,Edmund Tarrow
+Caddoc Nevins,Data Analyst,caddoc.nevins@empire-inc.example,x3562,Coruscant Headquarters,Odile Fiore
+Ivor Orlen,Research Scientist,ivor.orlen@empire-inc.example,x5594,Starhaven (on site),Saela Wade
+Talia Orlen,Senior Data Analyst,talia.orlen@empire-inc.example,x4853,Coruscant Headquarters,Anneka Holloway
+Delia Palin,Research Scientist,delia.palin@empire-inc.example,x2796,Starhaven (on site),Bryn Merrick
+Fallon Palin,Laboratory Technician,fallon.palin@empire-inc.example,x7399,Coruscant Headquarters,Saela Wade
+Daro Parrish,Data Analyst,daro.parrish@empire-inc.example,x6341,Starhaven (on site),Bryn Merrick
+Callum Radlow,Senior Research Scientist,callum.radlow@empire-inc.example,x3189,Coruscant Headquarters,Vela Merrick
+Remy Ravell,Research Assistant,remy.ravell@empire-inc.example,x5377,Starhaven (on site),Vela Merrick
+Kirra Salter,Senior Data Analyst,kirra.salter@empire-inc.example,x8411,Coruscant Headquarters,Bryn Merrick
+Brisk Starke,Data Analyst,brisk.starke@empire-inc.example,x8360,Starhaven (on site),Esme Crestwell
+Kael Tallis,Principal Research Scientist,kael.tallis@empire-inc.example,x8557,Coruscant Headquarters,Vela Merrick
+Seren Tarrant,Senior Research Scientist,seren.tarrant@empire-inc.example,x5312,Starhaven (on site),Odile Fiore
+Vesna Vexley,Laboratory Technician,vesna.vexley@empire-inc.example,x6216,Starhaven (on site),Saela Wade
+Zane Vexley,Laboratory Technician,zane.vexley@empire-inc.example,x4958,Coruscant Headquarters,Saela Wade
+Maddox Voren,Laboratory Technician,maddox.voren@empire-inc.example,x4032,Starhaven (on site),Vela Merrick
+Saela Wade,"Research Manager, Astronomy",saela.wade@empire-inc.example,x5242,Starhaven (on site),Darek Zell
+Mesa Welles,Principal Research Scientist,mesa.welles@empire-inc.example,x6954,Coruscant Headquarters,Esme Crestwell
+Zane Winter,Research Assistant,zane.winter@empire-inc.example,x2369,Starhaven (on site),Bryn Merrick
+Ferris Yarrow,Data Analyst,ferris.yarrow@empire-inc.example,x4132,Starhaven (on site),Vela Merrick
+Remy Yarrow,Laboratory Technician,remy.yarrow@empire-inc.example,x2946,Coruscant Headquarters,Teague Belcourt
+Esme Yorke,Laboratory Technician,esme.yorke@empire-inc.example,x8528,Coruscant Headquarters,Teague Belcourt
+Darek Zell,"Deputy Director, Science & Research",darek.zell@empire-inc.example,x5628,Starhaven (on site),Lucan Merriweather

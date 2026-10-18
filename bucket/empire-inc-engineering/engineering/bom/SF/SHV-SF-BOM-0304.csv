@@ -1,0 +1,7 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-SF-005-02,"Carbon-composite truss, heavy",8,ea,1363.38,10907.04,Kuat Drive Yards,SHV-SF-DWG-0204
+2,EI-SF-058-01,"Protective suit, vacuum rated, standard",240,ea,2287.40,548976.00,Abregado Droid Works,SHV-SF-DWG-0204
+3,EI-SF-006-03,"Hull fastener kit, M90",96,kit,479.00,45984.00,Raxus Coolant Works,SHV-SF-DWG-0204
+4,EI-SF-003-03,"Hull plating section, type 3 equatorial",2,ea,66783.66,133567.32,Axxila Power Cells,SHV-SF-DWG-0204
+5,EI-SF-003-04,"Hull plating section, type 4 polar",8,ea,53449.50,427596.00,Anaxes Turbolift Company,SHV-SF-DWG-0204
+6,EI-SF-003-01,"Hull plating section, type 1",4,ea,85551.04,342204.16,Mekuun Fabrication,SHV-SF-DWG-0204

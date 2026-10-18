@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0053",
+  "queue": "IT_HELPDESK",
+  "subject": "Holo-projector not working in meeting room H41-07",
+  "description": "The holo-projector in meeting room H41-07 shows no image.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00594",
+    "name": "Tamsin Mordant",
+    "email": "tamsin.mordant@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00670",
+    "name": "Ulla Calloway",
+    "email": "ulla.calloway@empire-inc.example"
+  },
+  "created_at": "2026-05-13T13:13:00Z",
+  "resolved_at": "2026-05-13T15:13:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-05-13T13:45:00Z",
+      "author": "Ulla Calloway",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-05-13T15:13:00Z",
+      "author": "Ulla Calloway",
+      "text": "Projector emitter replaced."
+    }
+  ]
+}

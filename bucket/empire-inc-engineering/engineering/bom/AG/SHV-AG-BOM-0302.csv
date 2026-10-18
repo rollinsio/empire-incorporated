@@ -1,0 +1,12 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-AG-048-02,"Seed stock, grains",2,kg,584.31,1168.62,Chiewab Medical,SHV-AG-DWG-0202
+2,EI-AG-048-01,"Seed stock, vegetables",1,kg,1822.04,1822.04,Lothal Fleet Services,SHV-AG-DWG-0202
+3,EI-AG-047-02,"LED grow light fixture, 1000 W",96,ea,768.89,73813.44,Rendili StarDrive,SHV-AG-DWG-0202
+4,EI-AG-046-01,"Nutrient concentrate, leafy greens",96,l,44.87,4307.52,Lianna Orbital Systems,SHV-AG-DWG-0202
+5,EI-AG-047-01,"LED grow light fixture, 600 W",8,ea,1191.12,9528.96,Kuat Drive Yards,SHV-AG-DWG-0202
+6,EI-AG-048-02,"Seed stock, grains",24,kg,584.31,14023.44,Carbanti United Electronics,SHV-AG-DWG-0202
+7,EI-AG-048-03,"Seed stock, herbs",240,kg,460.84,110601.60,Mon Gazza Transport,SHV-AG-DWG-0202
+8,EI-AG-045-02,"Hydroponic grow tray, deep",48,ea,326.83,15687.84,Chandrila Atmospherics,SHV-AG-DWG-0202
+9,EI-AG-045-02,"Hydroponic grow tray, deep",48,ea,326.83,15687.84,Rendili StarDrive,SHV-AG-DWG-0202
+10,EI-AG-048-03,"Seed stock, herbs",4,kg,460.84,1843.36,Mon Gazza Transport,SHV-AG-DWG-0202
+11,EI-AG-048-01,"Seed stock, vegetables",2,kg,1822.04,3644.08,Brentaal Logistics Guild,SHV-AG-DWG-0202

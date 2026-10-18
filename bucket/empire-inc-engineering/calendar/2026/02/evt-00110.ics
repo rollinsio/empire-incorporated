@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00110@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260204T110000Z
+DTEND:20260204T120000Z
+SUMMARY:Life Support & Habitation team meeting
+LOCATION:Coruscant Headquarters\, room H41-01
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-02-04.
+ORGANIZER;CN="Selene Abaroth":mailto:selene.abaroth@empire-inc.example
+ATTENDEE;CN="Wilde Tregar";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:wilde.tregar@empire-inc.example
+ATTENDEE;CN="Quinn Dallan";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:quinn.dallan@empire-inc.example
+ATTENDEE;CN="Brisk Castellan";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:brisk.castellan@empire-inc.example
+ATTENDEE;CN="Ilka Lowell";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:ilka.lowell@empire-inc.example
+ATTENDEE;CN="Seren Fairholm";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:seren.fairholm@empire-inc.example
+ATTENDEE;CN="Davin Aster";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:davin.aster@empire-inc.example
+ATTENDEE;CN="Ursel Vance";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:ursel.vance@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

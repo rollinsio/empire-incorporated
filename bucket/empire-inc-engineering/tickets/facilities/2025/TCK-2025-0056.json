@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2025-0056",
+  "queue": "FACILITIES",
+  "subject": "Coolant drip at Reactor access walkway 7",
+  "description": "There is a slow coolant drip from a pipe joint at Reactor access walkway 7.",
+  "priority": "MEDIUM",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00361",
+    "name": "Zeva Merrick",
+    "email": "zeva.merrick@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00996",
+    "name": "Orrin Thorne",
+    "email": "orrin.thorne@empire-inc.example"
+  },
+  "created_at": "2025-06-10T08:21:00Z",
+  "resolved_at": "2025-06-11T01:21:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2025-06-10T09:17:00Z",
+      "author": "Orrin Thorne",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2025-06-11T01:21:00Z",
+      "author": "Orrin Thorne",
+      "text": "Joint resealed."
+    }
+  ]
+}

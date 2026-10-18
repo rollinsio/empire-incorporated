@@ -1,0 +1,25 @@
+ticket_id,queue,subject,requester,assignee,priority,status,created_at,resolved_at,related_incident
+TCK-2025-0105,FACILITIES,Cleaning request: Research laboratory wing B,Teague Elsmore,Lysander Arkwell,MEDIUM,RESOLVED,2025-10-03T07:10:00Z,2025-10-04T14:10:00Z,
+TCK-2025-0106,IT_HELPDESK,Printer on floor 46 jams,Ines Sorrel,Gessa Glenmore,MEDIUM,RESOLVED,2025-10-03T13:19:00Z,2025-11-22T13:19:00Z,
+TCK-2025-0107,IT_HELPDESK,New starter equipment,Ilka Lowell,Ulla Calloway,MEDIUM,RESOLVED,2025-10-07T09:28:00Z,2025-10-09T02:28:00Z,
+TCK-2025-0108,IT_HELPDESK,Mailbox full,Vela Radlow,Gessa Glenmore,MEDIUM,RESOLVED,2025-10-17T11:58:00Z,2025-10-18T21:58:00Z,
+TCK-2025-0109,IT_HELPDESK,Software install request: structural analysis suite,Oren Coldbrook,Bale Zell,LOW,RESOLVED,2025-10-18T16:06:00Z,2025-10-20T01:06:00Z,
+TCK-2025-0110,IT_HELPDESK,Software install request: thermal model toolkit,Sola Glenmore,Kalla Errant,MEDIUM,RESOLVED,2025-10-20T08:29:00Z,2025-10-29T10:29:00Z,
+TCK-2025-0111,IT_HELPDESK,Shared folder for Eadu Agricultural Research Campus,Ciran Ingram,Kesia Voren,LOW,RESOLVED,2025-10-20T13:29:00Z,2025-11-01T17:29:00Z,
+TCK-2025-0112,FACILITIES,Light fixture flickering at Reactor access walkway 7,Dace Ashcombe,Lysander Arkwell,LOW,RESOLVED,2025-10-25T15:12:00Z,2025-10-31T22:12:00Z,
+TCK-2025-0113,FACILITIES,Cleaning request: Habitation block H-3 laundry,Quinn Calloway,Orrin Thorne,LOW,RESOLVED,2025-11-02T16:17:00Z,2025-11-03T01:17:00Z,
+TCK-2025-0114,FACILITIES,Light fixture flickering at Eadu greenhouse hall 2,Riven Holloway,Sarik Redgrave,MEDIUM,RESOLVED,2025-11-03T14:20:00Z,2025-11-04T15:20:00Z,
+TCK-2025-0115,IT_HELPDESK,Drucker in Halle 6 druckt nicht,Wiebke Brenner,Gessa Glenmore,HIGH,RESOLVED,2025-11-05T08:56:00Z,2025-11-06T02:56:00Z,
+TCK-2025-0116,IT_HELPDESK,Printer on floor 16 jams,Zeva Pell,Gessa Glenmore,HIGH,RESOLVED,2025-11-10T12:10:00Z,2025-11-10T13:10:00Z,
+TCK-2025-0117,IT_HELPDESK,Mailbox full,Dalric Rusk,Ulla Calloway,MEDIUM,RESOLVED,2025-11-14T12:32:00Z,2025-11-16T12:32:00Z,
+TCK-2025-0118,FACILITIES,Turbolift noise near Eadu greenhouse hall 2,Casimir Hartwell,Lysander Arkwell,LOW,RESOLVED,2025-11-15T10:37:00Z,2025-11-26T18:37:00Z,
+TCK-2025-0119,FACILITIES,Facility incident FI-2025-011,Sarik Redgrave,Rain Coldbrook,MEDIUM,RESOLVED,2025-11-24T13:00:00Z,2025-12-20T17:00:00Z,FI-2025-011
+TCK-2025-0120,IT_HELPDESK,Calendar not syncing on datapad,Desik Warrick,Bale Zell,LOW,RESOLVED,2025-11-24T17:01:00Z,2025-12-07T01:01:00Z,
+TCK-2025-0121,IT_HELPDESK,Postfach voll,Dagmar Seidel,Vance Garron,LOW,IN_PROGRESS,2025-12-03T12:07:00Z,,
+TCK-2025-0122,IT_HELPDESK,Mailbox full,Nadia Maddox,Gessa Glenmore,LOW,RESOLVED,2025-12-03T13:07:00Z,2025-12-04T03:07:00Z,
+TCK-2025-0123,FACILITIES,Facility incident FI-2025-056,Tova Chalke,Sarik Redgrave,HIGH,RESOLVED,2025-12-05T14:25:00Z,2025-12-07T17:00:00Z,FI-2025-056
+TCK-2025-0124,IT_HELPDESK,Software install request: structural analysis suite,Delia Greaves,Vance Garron,MEDIUM,RESOLVED,2025-12-11T16:57:00Z,2025-12-13T20:57:00Z,
+TCK-2025-0125,FACILITIES,Facility incident FI-2025-003,Marik Illing,Rain Coldbrook,MEDIUM,IN_PROGRESS,2025-12-14T09:58:00Z,,FI-2025-003
+TCK-2025-0126,IT_HELPDESK,Network slow at Scarif Archive Depot lobby,Asha Larkin,Ulla Calloway,MEDIUM,RESOLVED,2025-12-19T10:00:00Z,2025-12-20T21:00:00Z,
+TCK-2025-0127,FACILITIES,Office chair broken,Rafe Bresk,Orrin Thorne,MEDIUM,RESOLVED,2025-12-25T14:00:00Z,2025-12-29T16:00:00Z,
+TCK-2025-0128,IT_HELPDESK,New starter equipment,Bale Vexley,Bale Zell,HIGH,IN_PROGRESS,2025-12-28T14:32:00Z,,

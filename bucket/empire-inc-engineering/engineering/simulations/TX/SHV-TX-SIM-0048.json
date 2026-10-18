@@ -1,0 +1,310 @@
+{
+  "simulation_id": "SHV-TX-SIM-0048",
+  "title": "Heat rejection transient (run 48)",
+  "system": "TX",
+  "classification": "INTERNAL",
+  "model_version": "3.1.11",
+  "run_date": "2024-05-27",
+  "engineer": "Fallon Darrow",
+  "engineer_id": "EMP-00309",
+  "inputs": {
+    "scenario": "contingency",
+    "duration_steps": 48
+  },
+  "results": {
+    "summary": {
+      "peak_radiator_temperature_k": 60.795,
+      "peak_step": 45
+    },
+    "series": [
+      {
+        "t": 0,
+        "reactor_output_pct": 54.65,
+        "heat_exchanger_outlet_k": 29.689,
+        "radiator_temperature_k": 50.883
+      },
+      {
+        "t": 1,
+        "reactor_output_pct": 57.09,
+        "heat_exchanger_outlet_k": 30.059,
+        "radiator_temperature_k": 53.231
+      },
+      {
+        "t": 2,
+        "reactor_output_pct": 56.414,
+        "heat_exchanger_outlet_k": 29.318,
+        "radiator_temperature_k": 54.329
+      },
+      {
+        "t": 3,
+        "reactor_output_pct": 56.166,
+        "heat_exchanger_outlet_k": 30.101,
+        "radiator_temperature_k": 51.907
+      },
+      {
+        "t": 4,
+        "reactor_output_pct": 57.806,
+        "heat_exchanger_outlet_k": 29.878,
+        "radiator_temperature_k": 53.458
+      },
+      {
+        "t": 5,
+        "reactor_output_pct": 56.532,
+        "heat_exchanger_outlet_k": 30.186,
+        "radiator_temperature_k": 52.762
+      },
+      {
+        "t": 6,
+        "reactor_output_pct": 57.358,
+        "heat_exchanger_outlet_k": 29.305,
+        "radiator_temperature_k": 52.67
+      },
+      {
+        "t": 7,
+        "reactor_output_pct": 58.844,
+        "heat_exchanger_outlet_k": 31.104,
+        "radiator_temperature_k": 53.211
+      },
+      {
+        "t": 8,
+        "reactor_output_pct": 58.774,
+        "heat_exchanger_outlet_k": 29.706,
+        "radiator_temperature_k": 53.817
+      },
+      {
+        "t": 9,
+        "reactor_output_pct": 57.33,
+        "heat_exchanger_outlet_k": 31.266,
+        "radiator_temperature_k": 55.342
+      },
+      {
+        "t": 10,
+        "reactor_output_pct": 57.833,
+        "heat_exchanger_outlet_k": 31.281,
+        "radiator_temperature_k": 54.836
+      },
+      {
+        "t": 11,
+        "reactor_output_pct": 57.952,
+        "heat_exchanger_outlet_k": 30.391,
+        "radiator_temperature_k": 54.686
+      },
+      {
+        "t": 12,
+        "reactor_output_pct": 60.207,
+        "heat_exchanger_outlet_k": 31.564,
+        "radiator_temperature_k": 54.242
+      },
+      {
+        "t": 13,
+        "reactor_output_pct": 60.365,
+        "heat_exchanger_outlet_k": 31.649,
+        "radiator_temperature_k": 53.511
+      },
+      {
+        "t": 14,
+        "reactor_output_pct": 59.46,
+        "heat_exchanger_outlet_k": 31.273,
+        "radiator_temperature_k": 54.588
+      },
+      {
+        "t": 15,
+        "reactor_output_pct": 59.803,
+        "heat_exchanger_outlet_k": 30.786,
+        "radiator_temperature_k": 55.412
+      },
+      {
+        "t": 16,
+        "reactor_output_pct": 61.528,
+        "heat_exchanger_outlet_k": 32.226,
+        "radiator_temperature_k": 55.016
+      },
+      {
+        "t": 17,
+        "reactor_output_pct": 59.775,
+        "heat_exchanger_outlet_k": 31.879,
+        "radiator_temperature_k": 55.334
+      },
+      {
+        "t": 18,
+        "reactor_output_pct": 59.27,
+        "heat_exchanger_outlet_k": 31.411,
+        "radiator_temperature_k": 55.201
+      },
+      {
+        "t": 19,
+        "reactor_output_pct": 60.208,
+        "heat_exchanger_outlet_k": 31.051,
+        "radiator_temperature_k": 55.318
+      },
+      {
+        "t": 20,
+        "reactor_output_pct": 60.613,
+        "heat_exchanger_outlet_k": 32.379,
+        "radiator_temperature_k": 57.162
+      },
+      {
+        "t": 21,
+        "reactor_output_pct": 59.586,
+        "heat_exchanger_outlet_k": 32.307,
+        "radiator_temperature_k": 54.862
+      },
+      {
+        "t": 22,
+        "reactor_output_pct": 58.93,
+        "heat_exchanger_outlet_k": 32.7,
+        "radiator_temperature_k": 55.029
+      },
+      {
+        "t": 23,
+        "reactor_output_pct": 62.609,
+        "heat_exchanger_outlet_k": 30.548,
+        "radiator_temperature_k": 57.842
+      },
+      {
+        "t": 24,
+        "reactor_output_pct": 60.728,
+        "heat_exchanger_outlet_k": 31.42,
+        "radiator_temperature_k": 57.338
+      },
+      {
+        "t": 25,
+        "reactor_output_pct": 62.405,
+        "heat_exchanger_outlet_k": 31.904,
+        "radiator_temperature_k": 56.808
+      },
+      {
+        "t": 26,
+        "reactor_output_pct": 61.426,
+        "heat_exchanger_outlet_k": 31.612,
+        "radiator_temperature_k": 57.759
+      },
+      {
+        "t": 27,
+        "reactor_output_pct": 61.091,
+        "heat_exchanger_outlet_k": 31.277,
+        "radiator_temperature_k": 57.371
+      },
+      {
+        "t": 28,
+        "reactor_output_pct": 63.02,
+        "heat_exchanger_outlet_k": 32.281,
+        "radiator_temperature_k": 55.541
+      },
+      {
+        "t": 29,
+        "reactor_output_pct": 62.361,
+        "heat_exchanger_outlet_k": 33.304,
+        "radiator_temperature_k": 57.747
+      },
+      {
+        "t": 30,
+        "reactor_output_pct": 62.149,
+        "heat_exchanger_outlet_k": 31.998,
+        "radiator_temperature_k": 57.63
+      },
+      {
+        "t": 31,
+        "reactor_output_pct": 61.657,
+        "heat_exchanger_outlet_k": 31.903,
+        "radiator_temperature_k": 57.358
+      },
+      {
+        "t": 32,
+        "reactor_output_pct": 62.79,
+        "heat_exchanger_outlet_k": 32.862,
+        "radiator_temperature_k": 58.551
+      },
+      {
+        "t": 33,
+        "reactor_output_pct": 64.5,
+        "heat_exchanger_outlet_k": 32.133,
+        "radiator_temperature_k": 59.273
+      },
+      {
+        "t": 34,
+        "reactor_output_pct": 63.186,
+        "heat_exchanger_outlet_k": 33.033,
+        "radiator_temperature_k": 58.25
+      },
+      {
+        "t": 35,
+        "reactor_output_pct": 64.602,
+        "heat_exchanger_outlet_k": 34.515,
+        "radiator_temperature_k": 58.092
+      },
+      {
+        "t": 36,
+        "reactor_output_pct": 61.471,
+        "heat_exchanger_outlet_k": 32.919,
+        "radiator_temperature_k": 58.187
+      },
+      {
+        "t": 37,
+        "reactor_output_pct": 61.529,
+        "heat_exchanger_outlet_k": 32.427,
+        "radiator_temperature_k": 58.352
+      },
+      {
+        "t": 38,
+        "reactor_output_pct": 63.336,
+        "heat_exchanger_outlet_k": 33.681,
+        "radiator_temperature_k": 58.133
+      },
+      {
+        "t": 39,
+        "reactor_output_pct": 62.186,
+        "heat_exchanger_outlet_k": 33.303,
+        "radiator_temperature_k": 59.494
+      },
+      {
+        "t": 40,
+        "reactor_output_pct": 63.98,
+        "heat_exchanger_outlet_k": 33.818,
+        "radiator_temperature_k": 57.803
+      },
+      {
+        "t": 41,
+        "reactor_output_pct": 65.476,
+        "heat_exchanger_outlet_k": 34.225,
+        "radiator_temperature_k": 60.432
+      },
+      {
+        "t": 42,
+        "reactor_output_pct": 64.26,
+        "heat_exchanger_outlet_k": 33.88,
+        "radiator_temperature_k": 58.676
+      },
+      {
+        "t": 43,
+        "reactor_output_pct": 65.142,
+        "heat_exchanger_outlet_k": 33.889,
+        "radiator_temperature_k": 57.581
+      },
+      {
+        "t": 44,
+        "reactor_output_pct": 64.616,
+        "heat_exchanger_outlet_k": 34.863,
+        "radiator_temperature_k": 59.209
+      },
+      {
+        "t": 45,
+        "reactor_output_pct": 65.064,
+        "heat_exchanger_outlet_k": 34.381,
+        "radiator_temperature_k": 60.795
+      },
+      {
+        "t": 46,
+        "reactor_output_pct": 64.024,
+        "heat_exchanger_outlet_k": 33.721,
+        "radiator_temperature_k": 59.631
+      },
+      {
+        "t": 47,
+        "reactor_output_pct": 68.553,
+        "heat_exchanger_outlet_k": 33.478,
+        "radiator_temperature_k": 60.333
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00071@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260113T140000Z
+DTEND:20260113T150000Z
+SUMMARY:Reactor & Power Systems monthly team meeting
+LOCATION:Coruscant Headquarters\, room H41-07
+DESCRIPTION:Monthly team meeting\, 2026-01-13. Agenda: priorities\,
+  staffing\, open issues.
+ORGANIZER;CN="Aldric Voss":mailto:aldric.voss@empire-inc.example
+ATTENDEE;CN="Rhosa Barrowe";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rhosa.barrowe@empire-inc.example
+ATTENDEE;CN="Vela Longmire";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:vela.longmire@empire-inc.example
+ATTENDEE;CN="Orrin Elsmore";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:orrin.elsmore@empire-inc.example
+ATTENDEE;CN="Emrys Hune";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:emrys.hune@empire-inc.example
+ATTENDEE;CN="Garrow Osgood";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:garrow.osgood@empire-inc.example
+ATTENDEE;CN="Mira Kestrel";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:mira.kestrel@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

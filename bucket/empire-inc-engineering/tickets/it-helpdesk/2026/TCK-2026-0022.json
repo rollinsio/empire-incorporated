@@ -1,0 +1,35 @@
+{
+  "ticket_id": "TCK-2026-0022",
+  "queue": "IT_HELPDESK",
+  "subject": "Mailbox full",
+  "description": "I cannot receive mail because my mailbox is full.",
+  "priority": "LOW",
+  "status": "RESOLVED",
+  "language": "en",
+  "classification": "INTERNAL",
+  "requester": {
+    "employee_id": "EMP-00799",
+    "name": "Henrik Weber",
+    "email": "henrik.weber@empire-inc.example"
+  },
+  "assignee": {
+    "employee_id": "EMP-00680",
+    "name": "Gessa Glenmore",
+    "email": "gessa.glenmore@empire-inc.example"
+  },
+  "created_at": "2026-02-17T14:50:00Z",
+  "resolved_at": "2026-02-24T19:50:00Z",
+  "related_incident": null,
+  "comments": [
+    {
+      "at": "2026-02-17T15:51:00Z",
+      "author": "Gessa Glenmore",
+      "text": "Looking into it."
+    },
+    {
+      "at": "2026-02-24T19:50:00Z",
+      "author": "Gessa Glenmore",
+      "text": "Mailbox quota raised and old items archived."
+    }
+  ]
+}

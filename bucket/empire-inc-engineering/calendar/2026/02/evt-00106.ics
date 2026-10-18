@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Empire Incorporated//Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:evt-00106@empire-inc.example
+DTSTAMP:20260930T180000Z
+DTSTART:20260204T150000Z
+DTEND:20260204T160000Z
+SUMMARY:Structural Engineering team meeting
+LOCATION:Coruscant Headquarters\, room H41-12
+DESCRIPTION:Agenda: priorities\, staffing\, open issues. Date: 2026-02-04.
+ORGANIZER;CN="Brenna Tolle":mailto:brenna.tolle@empire-inc.example
+ATTENDEE;CN="Garrow Marlow";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:garrow.marlow@empire-inc.example
+ATTENDEE;CN="Rafe Yarrow";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rafe.yarrow@empire-inc.example
+ATTENDEE;CN="Rhosa Aster";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:rhosa.aster@empire-inc.example
+ATTENDEE;CN="Isolde Belcourt";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:isolde.belcourt@empire-inc.example
+ATTENDEE;CN="Carys Dravis";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:carys.dravis@empire-inc.example
+ATTENDEE;CN="Dace Corrin";ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;RSVP=TRUE:mailto:dace.corrin@empire-inc.example
+X-EMPIRE-CLASSIFICATION:INTERNAL
+END:VEVENT
+END:VCALENDAR

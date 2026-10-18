@@ -1,0 +1,8 @@
+line,part_number,description,quantity,unit,unit_cost_credits,extended_cost_credits,supplier,drawing
+1,EI-AG-046-02,"Nutrient concentrate, fruiting crops",240,l,36.06,8654.40,Eriadu Steelworks,SHV-AG-DWG-0203
+2,EI-AG-048-03,"Seed stock, herbs",24,kg,460.84,11060.16,Fondor Foundry Collective,SHV-AG-DWG-0203
+3,EI-AG-048-01,"Seed stock, vegetables",24,kg,1822.04,43728.96,Fabritech,SHV-AG-DWG-0203
+4,EI-AG-045-01,"Hydroponic grow tray, shallow",2,ea,297.76,595.52,Eriadu Steelworks,SHV-AG-DWG-0203
+5,EI-AG-047-01,"LED grow light fixture, 600 W",8,ea,1191.12,9528.96,Raxus Coolant Works,SHV-AG-DWG-0203
+6,EI-AG-047-01,"LED grow light fixture, 600 W",1,ea,1191.12,1191.12,Naboo Hydroponic Supply,SHV-AG-DWG-0203
+7,EI-AG-045-01,"Hydroponic grow tray, shallow",48,ea,297.76,14292.48,Chiewab Medical,SHV-AG-DWG-0203
