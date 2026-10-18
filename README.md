@@ -270,6 +270,8 @@ A test checks that every `must_include` string appears in at least one cited sou
 | `german` | the source is a German document |
 | `boundary` | a refusal, "not found", or not following a planted instruction |
 
+**Text corpus.** `uv run python -m generator.corpus --out DIR` writes every document of both buckets as plain text, with an `index.json` giving each document's label, true sensitivity and language. A loop comparison gives every arm the same text to start from, so the file format is never what differs between them.
+
 Each prompt is a full question record: who asks it, the expected outcome and its sources. Its `pii` field says whether personal data is in the prompt and in the expected answer (`name`, `personal_value`), so leakage can be measured per prompt. Prompts are drawn deterministically from questions already checked against their sources.
 
 ## Determinism
@@ -298,6 +300,7 @@ generator/
   questions.py, truth.py            data questions; hooks for planting test cases and offering questions
   ground_truth.py, build.py         question sampling and the ground-truth files; the build entry point
   scenarios.py                      the experiment's six scenarios × eight slots
+  textract.py, corpus.py            readable text of any document; the plain-text corpus for experiments
 bucket/                             generated: one folder per S3 bucket
 db/seed/                            generated: schema.sql, load.sql, agent_access.sql and CSVs per tenant
 db/load.sh                          creates and loads both databases, with the agent's views and roles

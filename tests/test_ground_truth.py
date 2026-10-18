@@ -6,7 +6,7 @@ from collections import Counter
 import pytest
 
 from generator.labels import LABELS, RANK, may_see
-from tests.textract import normalize
+from generator.textract import normalize
 
 REQUIRED_CATEGORIES = {
     "lookup": 40, "cross_source": 20, "temporal": 20, "approved_revision": 6, "tenant_isolation": 8,

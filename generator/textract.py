@@ -5,6 +5,7 @@ a text layer, corrupt files), so callers can tell "empty" from "unreadable".
 """
 
 import io
+import logging
 import re
 import zipfile
 from email import policy
@@ -16,6 +17,8 @@ from pypdf import PdfReader
 from pypdf.errors import PdfReadError
 
 WHITESPACE = re.compile(r"\s+")
+# A corrupt PDF is reported as unreadable (None); pypdf's own warnings about it add nothing.
+logging.getLogger("pypdf").setLevel(logging.ERROR)
 
 
 def normalize(text: str) -> str:

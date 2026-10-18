@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "openpyxl>=3.1.5",
     "pillow>=11.3.0",
+    "pypdf>=5.9.0",
     "python-docx>=1.2.0",
     "reportlab>=4.4.0",
 ]
@@ -14,7 +15,6 @@ dependencies = [
 [dependency-groups]
 dev = [
     "psycopg[binary]>=3.2.0",
-    "pypdf>=5.9.0",
     "pytest>=8.4.0",
 ]
 

@@ -14,7 +14,7 @@ import pytest
 from generator.agent_access import SUMMARIES
 from generator.config import ROOT
 from generator.ground_truth import TENANTS
-from tests.textract import extract, normalize
+from generator.textract import extract, normalize
 
 DATASET = Path(os.environ.get("EMPIRE_DATASET_ROOT", ROOT)).resolve()
 

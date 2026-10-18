@@ -7,7 +7,7 @@ import pytest
 
 from generator.config import ROOT
 from generator.kdy.world import ISOLATION_FACTS
-from tests.textract import normalize
+from generator.textract import normalize
 
 BANNED = re.compile("|".join([
     r"\bweapons?\b", r"superlaser", r"turbolaser", r"laser cannon", r"ion cannon", r"\bblasters?\b", r"\bkyber\b", r"tractor beam",
