@@ -11,6 +11,7 @@ from pathlib import Path
 
 import pytest
 
+from generator.agent_access import SUMMARIES
 from generator.config import ROOT
 from generator.ground_truth import TENANTS
 from tests.textract import extract, normalize
@@ -57,6 +58,12 @@ class Dataset:
     def rows(self, tenant: str, table: str, key: dict) -> list[dict]:
         name = table.split(".", 1)[1]
         return [row for row in self.table(tenant, name) if all(row[column] == str(value) for column, value in key.items())]
+
+    def view_rows(self, tenant: str, view: str, key: dict) -> list[dict]:
+        """Rows of a summary view, worked out from the seed data by the rule the view follows."""
+        rule, table = SUMMARIES[view]
+        rows = rule(self.table(tenant, "employees"), self.table(tenant, table), self.table(tenant, "departments"))
+        return [{k: str(v) for k, v in row.items()} for row in rows if all(str(row[c]) == str(v) for c, v in key.items())]
 
 
 @pytest.fixture(scope="session")

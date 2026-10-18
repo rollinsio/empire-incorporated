@@ -43,13 +43,19 @@ class Recorder:
 
     def doc_source(self, doc: Doc, **where) -> dict:
         source = {"kind": "document", "tenant": self.tenant, "document_id": doc.document_id, "uri": self.store.uri(doc),
-                  "label": doc.label, "true_sensitivity": doc.true_sensitivity}
+                  "label": doc.label, "true_sensitivity": doc.true_sensitivity, "language": doc.language}
         return {**source, **where}
 
     def row_source(self, table: str, sensitivity: str, **key) -> dict:
         assert sensitivity in LABELS, sensitivity
         return {"kind": "table", "tenant": self.tenant, "database": self.database, "table": f"{self.tenant}.{table}",
                 "key": key, "sensitivity": sensitivity}
+
+    def view_source(self, view: str, sensitivity: str, **key) -> dict:
+        """A row of one of the agent's summary views (`agent_access`), which both of its schemas offer."""
+        assert sensitivity in LABELS, sensitivity
+        return {"kind": "view", "tenant": self.tenant, "database": self.database, "view": view, "key": key,
+                "sensitivity": sensitivity}
 
     def plant(self, item_id: str, category: str, title: str, description: str, sensitivity: str,
               locations: list[dict], expected_behavior: str, value: str | None = None, **extra) -> None:
