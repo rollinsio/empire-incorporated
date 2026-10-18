@@ -17,6 +17,8 @@ services:
       POSTGRES_USER: empire
       POSTGRES_PASSWORD: empire-local-only
       POSTGRES_DB: postgres
+      # The key the `agent` views make pseudonyms with; a scrubber must use the same one.
+      PSEUDONYM_KEY: ${PSEUDONYM_KEY:-empire-local-pseudonym-key}
     ports:
       - "55432:5432"
     volumes:

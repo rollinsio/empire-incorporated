@@ -13,6 +13,7 @@ from collections import Counter
 from datetime import date, datetime
 from pathlib import Path
 
+from generator import agent_access, scenarios
 from generator.config import AS_OF, EMPIRE_BUCKET, EMPIRE_DATABASE, KDY_BUCKET, KDY_DATABASE
 from generator.docs.model import DocumentStore
 from generator.labels import DESCRIPTIONS, INTERNAL, LABELS, RANK, may_see
@@ -54,7 +55,7 @@ def _required_level(sources: list[dict]) -> str:
     return max(levels, key=RANK.get)
 
 
-class _Logins:
+class Logins:
     def __init__(self, logins: dict[str, list[dict]]):
         self.by_name = {login["username"]: login for tenant_logins in logins.values() for login in tenant_logins}
         self.by_level = {(tenant, login["access_level"]): login["username"] for tenant, tenant_logins in logins.items() for login in tenant_logins}
@@ -66,7 +67,7 @@ class _Logins:
         return self.by_level[(tenant, level)]
 
 
-def _resolve(question: dict, logins: _Logins) -> dict:
+def resolve(question: dict, logins: Logins) -> dict:
     """Fill in who asks, and check that the expected outcome matches what that login may see."""
     expected = question["expected"]["type"]
     sources = question["sources"]
@@ -81,7 +82,7 @@ def _resolve(question: dict, logins: _Logins) -> dict:
     return {**question, "tenant": tenant, "asked_as": asked_as}
 
 
-def select_questions(collector: Collector, logins: _Logins) -> list[dict]:
+def select_questions(collector: Collector, logins: Logins) -> list[dict]:
     rng = stream("ground-truth")
     pools: dict[str, list[dict]] = {}
     for question in collector.offered_questions:
@@ -90,7 +91,7 @@ def select_questions(collector: Collector, logins: _Logins) -> list[dict]:
     for pool in sorted(pools):
         offered = pools[pool]
         keep = offered if offered[0]["category"] in KEEP_ALL or len(offered) <= POOL_LIMIT else rng.sample(offered, POOL_LIMIT)
-        chosen += [_resolve(q, logins) for q in keep]
+        chosen += [resolve(q, logins) for q in keep]
     chosen.sort(key=lambda q: (QUESTION_CATEGORIES.index(q["category"]), q["pool"]))
     return [{"id": f"Q-{n:04d}", **{k: v for k, v in q.items() if k != "pool"}, "pool": q["pool"]} for n, q in enumerate(chosen, start=1)]
 
@@ -137,14 +138,31 @@ def _summary(stores: dict[str, DocumentStore], questions: list[dict], manifest: 
     return summary
 
 
-def write(out_dir: Path, collector: Collector, stores: dict[str, DocumentStore], logins: dict[str, list[dict]]) -> dict:
+def _login(tenant: str, login: dict) -> dict:
+    """A test login, the labels it may see, and the database role each variant of the agent's
+    views connects as for it (`agent_access`: `raw` for the control loop, `scrubbed` for pseudonyms)."""
+    roles = agent_access.login_roles(tenant)[login["access_level"]]
+    return {
+        **login,
+        "may_see": [label for label in LABELS if may_see(login["access_level"], label)],
+        "label_descriptions": {label: DESCRIPTIONS[label] for label in LABELS},
+        "database_roles": {variant: {"role": name, "password": agent_access.password(name)} for variant, name in roles.items()},
+    }
+
+
+def write(out_dir: Path, collector: Collector, stores: dict[str, DocumentStore], logins: dict[str, list[dict]],
+          personal: tuple[frozenset[str], frozenset[str]]) -> dict:
+    """`personal`: every person's name, and every other personal value (emails, addresses,
+    comlinks, badges), of both tenants: what the scenarios' prompts and answers are checked for."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    questions = select_questions(collector, _Logins(logins))
+    asked = Logins(logins)
+    questions = select_questions(collector, asked)
+    names, values = personal
+    _write_json(out_dir / "scenarios.json", scenarios.select(collector.offered_questions, lambda q: resolve(q, asked), names, values))
     _write_json(out_dir / "questions.json", questions)
     _write_json(out_dir / "manifest.json", collector.manifest)
     _write_json(out_dir / "logins.json", {
-        tenant: {**TENANTS[tenant], "logins": [{**login, "may_see": [label for label in LABELS if may_see(login["access_level"], label)],
-                                                "label_descriptions": {label: DESCRIPTIONS[label] for label in LABELS}} for login in tenant_logins]}
+        tenant: {**TENANTS[tenant], "logins": [_login(tenant, login) for login in tenant_logins]}
         for tenant, tenant_logins in logins.items()
     })
     (out_dir / "access_matrix.csv").write_bytes(_access_matrix(stores, logins))

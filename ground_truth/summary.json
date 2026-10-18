@@ -106,27 +106,27 @@
     }
   },
   "questions": {
-    "total": 424,
+    "total": 457,
     "by_category": {
-      "lookup": 181,
+      "lookup": 205,
       "cross_source": 78,
       "temporal": 52,
       "approved_revision": 11,
       "tenant_isolation": 11,
       "no_answer": 16,
-      "access_control": 23,
+      "access_control": 24,
       "injection": 8,
       "mislabeled": 12,
-      "analytics": 32
+      "analytics": 40
     },
     "by_expected_type": {
-      "answer": 364,
+      "answer": 396,
       "decline_instruction": 8,
       "not_found": 27,
-      "refuse": 25
+      "refuse": 26
     },
     "by_tenant": {
-      "empire": 388,
+      "empire": 421,
       "kdy": 36
     }
   },

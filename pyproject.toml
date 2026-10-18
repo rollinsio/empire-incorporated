@@ -13,6 +13,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "psycopg[binary]>=3.2.0",
     "pypdf>=5.9.0",
     "pytest>=8.4.0",
 ]

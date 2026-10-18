@@ -20,6 +20,16 @@
           "INTERNAL": "Any employee may see it; not for release outside the company.",
           "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
           "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        },
+        "database_roles": {
+          "raw": {
+            "role": "empire_raw_public",
+            "password": "empire_raw_public-local-only"
+          },
+          "scrubbed": {
+            "role": "empire_scrubbed_public",
+            "password": "empire_scrubbed_public-local-only"
+          }
         }
       },
       {
@@ -38,6 +48,16 @@
           "INTERNAL": "Any employee may see it; not for release outside the company.",
           "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
           "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        },
+        "database_roles": {
+          "raw": {
+            "role": "empire_raw_internal",
+            "password": "empire_raw_internal-local-only"
+          },
+          "scrubbed": {
+            "role": "empire_scrubbed_internal",
+            "password": "empire_scrubbed_internal-local-only"
+          }
         }
       },
       {
@@ -57,6 +77,16 @@
           "INTERNAL": "Any employee may see it; not for release outside the company.",
           "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
           "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        },
+        "database_roles": {
+          "raw": {
+            "role": "empire_raw_confidential",
+            "password": "empire_raw_confidential-local-only"
+          },
+          "scrubbed": {
+            "role": "empire_scrubbed_confidential",
+            "password": "empire_scrubbed_confidential-local-only"
+          }
         }
       },
       {
@@ -77,6 +107,16 @@
           "INTERNAL": "Any employee may see it; not for release outside the company.",
           "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
           "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        },
+        "database_roles": {
+          "raw": {
+            "role": "empire_raw_restricted",
+            "password": "empire_raw_restricted-local-only"
+          },
+          "scrubbed": {
+            "role": "empire_scrubbed_restricted",
+            "password": "empire_scrubbed_restricted-local-only"
+          }
         }
       }
     ]
@@ -102,6 +142,16 @@
           "INTERNAL": "Any employee may see it; not for release outside the company.",
           "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
           "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        },
+        "database_roles": {
+          "raw": {
+            "role": "kdy_raw_public",
+            "password": "kdy_raw_public-local-only"
+          },
+          "scrubbed": {
+            "role": "kdy_scrubbed_public",
+            "password": "kdy_scrubbed_public-local-only"
+          }
         }
       },
       {
@@ -120,6 +170,16 @@
           "INTERNAL": "Any employee may see it; not for release outside the company.",
           "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
           "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        },
+        "database_roles": {
+          "raw": {
+            "role": "kdy_raw_internal",
+            "password": "kdy_raw_internal-local-only"
+          },
+          "scrubbed": {
+            "role": "kdy_scrubbed_internal",
+            "password": "kdy_scrubbed_internal-local-only"
+          }
         }
       },
       {
@@ -139,6 +199,16 @@
           "INTERNAL": "Any employee may see it; not for release outside the company.",
           "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
           "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        },
+        "database_roles": {
+          "raw": {
+            "role": "kdy_raw_confidential",
+            "password": "kdy_raw_confidential-local-only"
+          },
+          "scrubbed": {
+            "role": "kdy_scrubbed_confidential",
+            "password": "kdy_scrubbed_confidential-local-only"
+          }
         }
       },
       {
@@ -159,6 +229,16 @@
           "INTERNAL": "Any employee may see it; not for release outside the company.",
           "CONFIDENTIAL": "Business-sensitive: budgets, contract prices, supplier terms and cost data. Employees with a business need.",
           "RESTRICTED": "Personal data: salaries, performance reviews and home contact details. Personnel staff and line management only."
+        },
+        "database_roles": {
+          "raw": {
+            "role": "kdy_raw_restricted",
+            "password": "kdy_raw_restricted-local-only"
+          },
+          "scrubbed": {
+            "role": "kdy_scrubbed_restricted",
+            "password": "kdy_scrubbed_restricted-local-only"
+          }
         }
       }
     ]

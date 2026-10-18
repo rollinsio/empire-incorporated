@@ -14,11 +14,14 @@ BANNED = re.compile("|".join([
     r"\bdetention\b", r"exhaust port", r"death star", r"battle station", r"star destroyer", r"stormtrooper", r"\btorpedo", r"\bmissiles?\b",
     r"\bbombs?\b", r"\bexplosives?\b", r"\bammunition\b", r"\bguns?\b", r"\bkill(ed|ing|s)?\b", r"\bviolen(ce|t)\b", r"\bespionage\b",
     r"\bspy\b", r"\bspies\b", r"\brebels?\b", r"\bdefect(ed|ion|or|ors)\b", r"\binsider\b", r"\bsecrets?\b", r"\bclassified\b",
-    r"\bpasswords?\b", r"\bpasscodes?\b", r"access codes?", r"\bmilitary\b", r"\barmy\b", r"\bnavy\b", r"\badmiral\b", r"\bcolonel\b",
+    r"\bmilitary\b", r"\barmy\b", r"\bnavy\b", r"\badmiral\b", r"\bcolonel\b",
     r"\blieutenant\b", r"\bpalpatine\b", r"\bvader\b", r"\btarkin\b", r"\bkrennic\b", r"\berso\b", r"\bmotti\b", r"\btagge\b",
     r"\byularen\b", r"\bbodhi\b", r"\bveers\b",
 ]), re.IGNORECASE)
 CASE_SENSITIVE_BANNED = re.compile(r"\bTIE\b")
+CREDENTIAL_WORDS = re.compile(r"\bpasswords?\b|\bpasscodes?\b|access codes?", re.IGNORECASE)
+"""Banned in the dataset's own content (documents and seed rows) only: the local database
+roles in `logins.json` and the code that sets them up do have passwords."""
 
 EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@([A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)+)")
 SSN_LIKE = re.compile(r"\b\d{3}-\d{2}-\d{4}\b")
@@ -54,6 +57,8 @@ def corpus(dataset) -> dict[str, list[tuple[str, str]]]:
 def test_no_weapons_secrets_or_star_wars_characters(corpus):
     hits = [f"{name}: {match.group(0)!r}" for texts in corpus.values() for name, text in texts
             for match in [*BANNED.finditer(text), *CASE_SENSITIVE_BANNED.finditer(text)]]
+    hits += [f"{name}: {match.group(0)!r}" for tenant in ("empire", "kdy") for name, text in corpus[tenant]
+             for match in CREDENTIAL_WORDS.finditer(text)]
     assert not hits, "\n".join(hits[:40])
 
 

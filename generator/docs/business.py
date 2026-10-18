@@ -410,12 +410,14 @@ def _contracts(ctx: Context) -> None:
             question=f"What is the total value of contract {contract['contract_id']} with {supplier['name']}?",
             answer=value, must_include=[f"{contract['value_mcr']:,.2f}"], sources=[source, contract_row],
         )
-        ctx.truth.offer_question(
-            pool="business:contract-term", category="lookup",
-            question=f"When does contract {contract['contract_id']} with {supplier['name']} start and end?",
-            answer=f"{contract['start_date'].isoformat()} to {contract['end_date'].isoformat()}",
-            must_include=[contract["start_date"].isoformat(), contract["end_date"].isoformat()], sources=[source, contract_row],
-        )
+        # A signed amendment moves the KDY contract's end date (`messy._scans`), so its term is asked there.
+        if contract["contract_id"] != KDY["contract_id"]:
+            ctx.truth.offer_question(
+                pool="business:contract-term", category="lookup",
+                question=f"When does contract {contract['contract_id']} with {supplier['name']} start and end?",
+                answer=f"{contract['start_date'].isoformat()} to {contract['end_date'].isoformat()}",
+                must_include=[contract["start_date"].isoformat(), contract["end_date"].isoformat()], sources=[source, contract_row],
+            )
         rating = supplier["performance_rating"]
         ctx.truth.offer_question(
             pool="business:contract-supplier-rating", category="cross_source",

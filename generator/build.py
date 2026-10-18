@@ -13,11 +13,13 @@ import hashlib
 import shutil
 from pathlib import Path
 
-from generator import database, empire_db, facilities, ground_truth, questions
+from generator import agent_access, database, empire_db, facilities, ground_truth, questions
+from generator.context import Context
 from generator.docs import business, comms, messy, technical, testcases
 from generator.kdy import context as kdy_context
 from generator.kdy import db as kdy_db
 from generator.kdy import docs as kdy_docs
+from generator.kdy.context import KdyContext
 from generator.pipeline import make_context
 from generator.truth import Collector
 
@@ -39,6 +41,15 @@ def _checksums(out: Path) -> str:
     return "\n".join(lines) + "\n"
 
 
+def _personal(ctx: Context, kctx: KdyContext) -> tuple[frozenset[str], frozenset[str]]:
+    """Every person's name, and every other personal value, of both tenants."""
+    people = [*ctx.personnel.employees, *kctx.data.employees]
+    names = {e.name for e in people} | {s["contact_name"] for s in ctx.supply.suppliers}
+    values = {value for e in people for value in (e.email, e.home_address, e.personal_comlink)}
+    values |= {e.badge_number for e in ctx.personnel.employees} | {s["contact_email"] for s in ctx.supply.suppliers}
+    return frozenset(names), frozenset(values)
+
+
 def build(out: Path) -> dict:
     _clean(out)
     collector = Collector()
@@ -55,10 +66,16 @@ def build(out: Path) -> dict:
     kctx = kdy_context.make_context(bucket_root, collector, ctx.supply, {(e.first_name, e.last_name) for e in ctx.personnel.employees})
     kdy_docs.build(kctx, questions.reverse_isolation_facts(ctx))
 
-    database.write(out / "db" / "seed" / "empire", empire_db.SCHEMA, empire_db.tables(ctx, facilities.build_access_logs(ctx.personnel, ctx.store)))
-    database.write(out / "db" / "seed" / "kdy", kdy_db.SCHEMA, kdy_db.tables(kctx))
+    seeds = (
+        (agent_access.EMPIRE, empire_db.SCHEMA, empire_db.tables(ctx, facilities.build_access_logs(ctx.personnel, ctx.store))),
+        (agent_access.KDY, kdy_db.SCHEMA, kdy_db.tables(kctx)),
+    )
+    for access, schema, tables in seeds:
+        folder = out / "db" / "seed" / access.tenant
+        database.write(folder, schema, tables)
+        agent_access.write(folder, access, [table for table, _ in tables])
 
     summary = ground_truth.write(out / "ground_truth", collector, {"empire": ctx.store, "kdy": kctx.store},
-                                 {"empire": ctx.personnel.logins, "kdy": kctx.data.logins})
+                                 {"empire": ctx.personnel.logins, "kdy": kctx.data.logins}, _personal(ctx, kctx))
     (out / "checksums.sha256").write_text(_checksums(out), encoding="utf-8")
     return summary

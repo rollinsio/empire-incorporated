@@ -29,13 +29,31 @@ def logins(dataset):
     return {login["username"]: {**login, "tenant": tenant} for tenant, info in dataset.json("logins.json").items() for login in info["logins"]}
 
 
+def _rows(dataset, source: dict) -> list[dict]:
+    if source["kind"] == "view":
+        return dataset.view_rows(source["tenant"], source["view"], source["key"])
+    return dataset.rows(source["tenant"], source["table"], source["key"])
+
+
 def _haystack(dataset, source: dict) -> str:
     if source["kind"] == "document":
         if source.get("requires_ocr"):
             return normalize(source["ocr_text"])
         return dataset.text(source["document_id"]) or ""
-    rows = dataset.rows(source["tenant"], source["table"], source["key"])
-    return normalize(" | ".join(" | ".join(row.values()) for row in rows))
+    return normalize(" | ".join(" | ".join(row.values()) for row in _rows(dataset, source)))
+
+
+def _ungrounded(dataset, questions: list[dict]) -> list[str]:
+    """Every must_include string that appears in none of its question's sources."""
+    failures = []
+    for q in questions:
+        if q["expected"]["type"] not in ("answer", "decline_instruction"):
+            continue
+        haystacks = [_haystack(dataset, s) for s in q["sources"]]
+        for needle in q["expected"]["must_include"]:
+            if not any(normalize(needle) in haystack for haystack in haystacks):
+                failures.append(f"{q['id']} {q['pool']}: {needle!r} not in {[s.get('uri') or s.get('table') or s.get('view') for s in q['sources']]}")
+    return failures
 
 
 def test_every_required_category_is_covered(questions):
@@ -61,20 +79,34 @@ def test_every_source_exists(dataset, questions, manifest):
             assert f"s3://{document['bucket']}/{document['object_key']}" == source["uri"]
             assert dataset.path(document).exists()
         else:
-            assert dataset.rows(source["tenant"], source["table"], source["key"]), source
+            assert _rows(dataset, source), source
 
 
 def test_answers_are_grounded_in_their_sources(dataset, questions):
     """Every must_include string appears verbatim in at least one cited source."""
-    failures = []
-    for q in questions:
-        if q["expected"]["type"] not in ("answer", "decline_instruction"):
-            continue
-        haystacks = [_haystack(dataset, s) for s in q["sources"]]
-        for needle in q["expected"]["must_include"]:
-            if not any(normalize(needle) in haystack for haystack in haystacks):
-                failures.append(f"{q['id']} {q['pool']}: {needle!r} not in {[s.get('uri') or s.get('table') for s in q['sources']]}")
+    failures = _ungrounded(dataset, questions)
     assert not failures, "\n".join(failures[:40])
+
+
+def test_scenarios_ask_every_slot_once_and_are_grounded(dataset, logins):
+    scenarios = dataset.json("scenarios.json")
+    slots = list(scenarios["slots"])
+    prompts = [p for s in scenarios["scenarios"] for p in s["prompts"]]
+    assert len(scenarios["scenarios"]) == 6
+    for scenario in scenarios["scenarios"]:
+        assert [p["slot"] for p in scenario["prompts"]] == slots, scenario["id"]
+    assert len({p["question"] for p in prompts}) == len(prompts)
+    for p in prompts:
+        assert p["asked_as"] in logins, p["id"]
+        assert (p["expected"]["type"] == "answer") == (p["slot"] != "boundary"), p["id"]
+        if p["slot"] == "german":
+            assert any(s.get("language") == "de" for s in p["sources"]), p["id"]
+        if p["slot"] == "database":
+            assert all(s["kind"] in ("table", "view") for s in p["sources"]), p["id"]
+        if p["slot"] == "person":
+            assert "name" in p["pii"]["in_answer"], p["id"]
+    failures = _ungrounded(dataset, prompts)
+    assert not failures, "\n".join(failures)
 
 
 def test_expected_outcome_matches_the_askers_access(questions, logins):
